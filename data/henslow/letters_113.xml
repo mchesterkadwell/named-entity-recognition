@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_113.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-113">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From C. Wallich   16 February 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 136</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_69.xml">Wallich, C.</persName>
+                <date when="1830-02-16">16 February 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>49 Great Coram Str.</placeName>
+                    <date>16 February 1830</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Delayed by accident</p>
+                  <p>Your kind letter just received and the highly gratifying intelligence which it contains oblige me to inflict on your patience the penalty of perusing another dolorous danish letter from me. But you will understand my feelings and you will pardon the intrusion. My sole object is to thank you cordially for all your polite attention, and to assure you, that I will do my best to supply you, in future, with far more acceptable selections of specimens, than that was, which you have so generously and in so gratifying a manner accepted of.</p>
+                  <p>A laudato lacedari is a subject of honest pride; and I will endeavour to deserve a portion of the good you are pleased to say of my feeble efforts in the cause of Botany. I have not the slightest doubt but the highly respectable missive from your University and the Vice Chancellors letter will be received with the <del>ill.</del> greatest satisfaction by the authorities at the India House.</p>
+                  <p>The idea of printing labels for the Company’s contributions appears to me extremely suitable, and the specimen you have favoured me with in your letter is entirely what I think it ought to be. The Nepenthes’s have not yet been printed, that is to say the sheet (67- <hi rend="superscript">th</hi>) on which the species will appear. I will however [illeg] a mem <hi rend="superscript">d</hi> of the precise manner in which they will be recorded on that sheet.</p>
+                  <p>Once more accept of my very best thanks for your polite attention &amp; believe me with the greatest regard</p>
+                  <p>Dear Sir | Yours very truly | C Wallich</p>
+                  <p>[P.S.] Most happy should I have been to supply you with a double set of the lithographized list, as I have done in three other instances. But unfortunately my copy is so reduced in number [torn ill.] not do it.</p>
+
+                  <p>No 2246 Nepenthes Rafflesiana.  Jack. Herb 1823</p>
+    
+                  <p> Singapore 1822</p>
+    
+                  <p>2247 Nepenthes ampullacea, Jack. Herb 1823</p>
+                    
+                  <p>Singapore 1822</p>
+    
+                  <p>2248 Nepenthes dushellaloma (?) suna (?)  - Herb 1823</p>
+                    
+                  <p>1 Singapore 1822</p>
+
+                  <p>2 Sillet</p>
+
+                  <p>3 HBI</p>
+                  <p/> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

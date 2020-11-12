@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_458.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-458">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Spence   25 September 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 306(i) &amp;(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_165.xml">Spence, William</persName>
+                <date when="1856-09-25">25 September 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>London</placeName>
+                    <date>25 September 1856</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>The bustle last week of setting off for Florence my daughter &amp; her son &amp; Maid who have been staying three months with me, left an accumulation of matters to attend to, which have prevented me from sooner thanking you for the Reports you have kindly sent me. I have read them with great interest &amp; pleasure, &amp; warmly congratulate you on the success of your labours not only in the striking improvement in the cultivation of the allotments but in the moral feeling of your parishioners by the removal of the load of “hesitation, doubt, prejudice &amp; ill will” which beset your first attempts, &amp; which would have discouraged any man of less energy than yourself.</p>
+                  <p>The only drawback is your inability to continue the railway excursions which were so charming a feature of your plans for giving enjoyment to your young flock. If £5 from me next year will assist your “Recreation Fund” to carry out one of these excursions, you shall be very welcome to this slight aid, &amp; I will thank you to inform me when the time comes how your fund stands.</p>
+                  <p>What a contrast the awakened intellect, excited interest &amp; gratified success of your flock, old &amp; young, with the mere animal existence &amp; sheer stupidity of the great bulk of our peasantry! My son who has been staying a week with Sir Edward Bulwer Lytton at his seat Knebworth Herts, &amp; two other visitors having one day taken a long walk &amp; missed their way, enquired of a plough lad the nearest cut to Knebworth of which he knew nothing &amp; showed such utter doltishness that they could not help laughing outright, on which he burst into a violent fit of crying &amp; roaring. Poor fellow! This feeling showed he had in him a sparkle of the gem of [illeg] sense. But alas he had no kind friend like you to clear away the rubbish &amp; bring it into daylight.</p>
+                  <p>I am | my dear Sir | yours very truly | W. Spence</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_641.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-641">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Scott Bowerbank   14 October 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 14</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_242.xml">Bowerbank, James Scott</persName>
+                <date when="1856-10-14">14 October 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Describes microscopic images of bat hair for JSH in a plate illustrating a paper by J. Zuetell.</p>
+        </abstract>      
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>3 Highbury Grove</placeName>
+                    <date>14 October 1856</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have had a good hunt over my old stores to find you the plate sent which will I think illustrate your subject. The Plate illustrates a paper by J Zuetell Vol 1. Trans. Microscopical Soc <hi rend="superscript">y</hi>. of London p.55 &amp; for your edification I send you a description of the Plate.</p>
+                  <p>7. A bats hair shewing the absence of scales at the root</p>
+                  <p>8. A portion of another hair on which the scales are placed at nearly right angles to the shaft</p>
+                  <p>9. Another specimen in which the scales are placed obliquely.</p>
+                  <p>10. A specimen in which the scales are smaller and only extend round a portion of the circumference</p>
+                  <p>11. Scales removed from a Bats hair, of a light colour</p>
+                  <p>12. Scales from a dark hair exhibiting the pigment</p>
+                  <p>13. Scales removed from the hair of the Indian Bat which are beautifully serrated at their upper margins a.outside view b.inside view </p>
+                  <p>14. A number of scales closely connected together.</p>
+                  <p>15. Hair of a species of Vampire in which the scales are very evident at the upper part; at the lower they have been scratched off and the cellular interior of the hair is exhibited. [JSH writes in margin: ‘examine the Indonesian and Java bats’].</p>
+                  <p>16. A small hair of the Indian Bat showing the pointed extremity, and the close manner in which the scales are arranged.</p>
+                  <p>17 A hair of the same Bat exhibiting the whorls of scales more distant from each other and the smallness of the shaft between them.</p>
+                  <p>18. A similar specimen from which the scales have been removed in certain parts. A scale lying detached from the hair.</p>
+                  <p>I hope this may be of use to you &amp; remain</p>
+                  <p>My Dear Sir | yours most truly | J. S. Bowerbank</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

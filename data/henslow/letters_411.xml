@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_411.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-411">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Wiliam Wilson   17 September 1855</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 358</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_22.xml">Wilson, William</persName>
+                <date when="1855-09-17">17 September 1855</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>17 September 1855</date>
+                    <salute>Rev <hi rend="superscript">d</hi> &amp; dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have only returned this day from Scotland, which will explain my seeming negligence—</p>
+                  <p>The parcel of Mosses shall be forwarded to M. <hi rend="superscript">r </hi>Webb Esq <hi rend="superscript">re</hi> this evening, or tomorrow, at the latest—</p>
+                  <p>A cheque on a County Bank, if not payable in London may possibly not be convenient to be cashed through my Banker, but hitherto I have never experience any difficulty—</p>
+                  <p>A strong desire to render my sets of Mosses more nearly complete, has impelled me to revisit Ben Lawers, and at great sacrifice of bodily exertion, not to mention pecuniary outlay, I have succeeded in getting nearly all that I expected to find, but they are few in number— Hypnum reflexum, however is one, and though not in perfect capsule, is better than I expected, being furnished with young setae— For want of strength my movements were too slow to allow me to spend more than two hours about the summit on each of the three days that I spent there, &amp; the weather was very unfavourable— one precious hour at least was devoted to the Cistopteris montana which I again saw in the same spot where it was found 19 years ago, and only there, for I had not time to go to the place where D <hi rend="superscript">r</hi> Balfour &amp; his party have recently gathered it in plenty &amp; in fruit; besides, I was more anxious to verify my former report in every particular, than to obtain specimens, though I should have been very glad to secure those also, and should have done so, if the weather on Saturday had been at all fit for the Mountain.</p>
+                  <p>I shall be glad to send you the supplementary specimens of Mosses, when I have verified and dried them—</p>
+                  <p>I had hoped to improve my health by the excursion, but I fear I have rather injured it by over-exertion— the ascent of such a mountain as Ben Lawers three times, in one week, &amp; in such unsuitable weather, is too much for me, even if the accommodation at the Inn were better than it is – a Scone and piece of cheese given me (out of pure charity I am sure) on the Mountain by two Gentlemen anglers who saw me emerge from the Mist long after Sunset was almost the only food that I could eat with appetite &amp; enjoyment while there – Tea, Coffee, Bread &amp;c all of inferior quality, and a Bed nearly as hard as a board—I was much more comfortable in the old homely thatched Inn kept formerly by the good old M. <hi rend="superscript">rs</hi> McNaughton, &amp; the charges were considerably less—They are now fully equal to those of Commercial Inns in general, <del>&amp; therefore</del> yet moderate, as compared with some with no better pretensions—</p>
+                  <p>Believe me | Ever most truly &amp; respectfully yours | W.Wilson</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

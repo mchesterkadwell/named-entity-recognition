@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_309.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-309">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. E. Bowman   9 December 1839</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 119</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_145.xml">Bowman, J. E.</persName>
+                <date when="1839-12-09">9 December 1839</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Discusses a unique plant fossil, possibly a <hi rend="italic">Calamites</hi> in fruit and the logistics of JSH viewing it. States that rather than the fossil being sent to JSH, in its fragile condition it would be better for a drawing to be made under the supervision of his son, William Bowman. Offers to send JSH a description of the fossil via his son, along with analysis by Robert Brown. Recommends Brown’s analysis of the fossil for inclusion in <hi rend="italic">Fossil Flora</hi> and states that it would make a good opening plate.</p>
+            <p>Also states that he has recently seen several specimens of an unusual <hi rend="italic">Stigmaria</hi>  in Leeds and has arranged for drawings and description to be sent to JSH for <hi rend="italic">Fossil Flora</hi>. Gives his own description of the specimens as well. Offers to find coal fossils for JSH.</p>
+        </abstract>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Elm Place| Hulme |Manchester</placeName>
+                    <date>9 December 1839</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>As I had not heard from my son for several weeks, I was not aware till I rec. <hi rend="superscript">d</hi> your favour of the 26 <hi rend="superscript">th</hi> Ult <hi rend="superscript">o</hi> that you had not been in town &amp; called at Kings Coll. to see the Fossil. It proves to be even more interesting &amp; peculiar than I was aware; for Will. <hi rend="superscript">m</hi> tells me that after showing it to Mr. Lonsdale of the Geol. Soc. <hi rend="superscript">y</hi> (who knows nothing of it) he wished him to show it to Mr. Rob. <hi rend="superscript">t</hi> Brown &amp; gave him an introductory note. I was delighted to learn that it was equally unknown to him, &amp; that he was much puzzled how to decide on its affinities, &amp; wished W. <hi rend="superscript">m</hi> to leave it with him, which he did. We may therefore be quite sure it will prove <del>qu</del> new to science, &amp; I am in hope it may help to throw light on the verticillated fossil plants called Asterophyllites, which, from another fossil spike of somewhat similar form, though much smaller, which I have found within the last month, I strongly suspect will be found to be identical with the Calamites. Has a fossil Calamite been ever found in fruit?</p>
+                  <p>With regard to your request <del>for</del> that the Fossil now at K. Coll. may be sent you, via Cambridge, most certainly if you figure it yourself, or <del>if</del> wish it to be fig. <hi rend="superscript">d</hi> under your own inspection, it shall be sent you; but if it will have to be sent back to Town to be drawn, I would beg to submit whether it w. <hi rend="superscript">d</hi> not be better as well and safer (for portions of it are in a tender decomposing state) to put it at once into the Draughtsman’s hands, and for these reasons, there can be no doubt of its proving quite new (W. Hutton &amp; Profr Phillips have also seen it) and time &amp; risk w. <hi rend="superscript">d</hi> be saved; &amp; my son (himself a good draughtsman) would be able to point out its structure &amp; peculiarities <del>to</del> &amp; also to revise the outlines &amp; suggest any alterations that might be necessary after the drawing is made as I made him fully understand its structure when he was here &amp; requested him to attend to it. He will be found quite competent. I left with him another letter for you which he was to deliver when you called; he might send you this, &amp; also the description I drew up for the Fossil Flora, &amp; these would enable you to form a tolerable idea of it; &amp; if you will write to him to this effect, he will send them either direct or via Cambridge. He may also be able to give you Brown’s ideas of it, as he was to see him again. By the way, as Brown’s views of vegetable structure are so profound &amp; extensive, &amp; moreover as I suppose he has studied fossil Botany more than most, it w. <hi rend="superscript">d</hi> be desirable to ask if he would allow his observations on this fruit to be inserted in the Foss. Flo. This I leave to you. If you have not made definitive arrangements for the 1. <hi rend="superscript">st</hi> N. <hi rend="superscript">o</hi> may I suggest that this fossil from its beauty, novelty &amp; interest, w. <hi rend="superscript">d</hi> form a very appropriate subject for the opening plate. It ought to be put upon a double plate, or 2 single ones – The little I can do to assist you, I shall do with great pleasure; I shall send you a drawing of the spec. alluded to of the spikes of a Calamite or the spec. itself found in the red marl in this neighb. <hi rend="superscript">d</hi> which forms the very top of the Coal Measure formation; and this reminds me that I saw at Leeds last week (where I went as one of a Deputation from our Geol. Soc. <hi rend="superscript">y</hi> to that of Yorkshire) to make arrangements for the construction of <del>the</del> a section across the island from the Irish sea to the German ocean through Lancashire &amp; Yorkshire) several spec. <hi rend="superscript">ns</hi> of a new and very peculiar Stigmaria? which interested me so much that I requested permission to make a sketch, but afterwards learned that a M.r Teale of that place had read a Paper on them &amp; made drawings. I therefore named to him that it was very desirable he sh. <hi rend="superscript">d</hi> forward to you the drawings &amp; description for the Foss. Flor. which he promised to do. I therefore need only say that each spec. consisted of 4 long &amp; thick horizontal arms, stretching out precisely at right angles <del>from</del> in the form of a cross, &amp; one of the arms showed a divarication equally exact &amp; uniform. [drawing] What struck me most was that the union of the other 4 arms was effected by means of a very perfect &amp; rather elevated cross intersecting the centre underneath exactly as I have represented. To this cross line the arms seem as it were to have been fitted, as a carpenter w. <hi rend="superscript">d</hi> join a framework of wood of the same shape. All the figures on the surface though rather irregular like the bark of the oak, ranged diagonally to the longitudinal axis at the sides, but parallel to it when they approached the central ridge underneath. They also divaricated from the ends of the Cross. I know of no vegetable structure like this, either fossil or recent. One or two of the specimens seemed to me to have borne an upright trunk on the upper surface, &amp; there was a detached portion of trunk with four abutments which looked as if connected; but Mr. Teale thought they had a domelike character like Stigmaria. Here &amp; there were a few obscure circular scars of leaves.+</p>
+                  <p>It is very likely that I could procure you a few Coal fossils, which are plentiful enough in the neighb. <hi rend="superscript">d</hi> and I suppose are rare in your present neighb. <hi rend="superscript">d</hi>. They are heavy, but if you think them worth carriage, pray let me know. Postage is comparatively cheap now, thanks to our liberal Ministers, the tories w. <hi rend="superscript">d</hi> never have given it us–</p>
+                  <p>Believe me ever my dear Sir | Yours very faithf. <hi rend="superscript">y</hi> | J.E.Bowman</p>
+                  <p>+ The vertical section of 2 of the arms of the Leeds fossil as it lies, bottom upwards in the sketch on the other side, w. <hi rend="superscript">d</hi> have this appearance [drawing: needs photo] Supposing therefore that a. is the top of the dome in its natural position, it so far agrees with the common Stigmaria.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

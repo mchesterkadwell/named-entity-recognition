@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-998">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Joseph Hooker 8 December 1852</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>Add 9537.2.13</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1852-12-08">8 December 1852</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_122.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham</placeName>
+                    <date>8 Decr 1852</date>
+                    <salute>My dear Joseph</salute>
+                </opener>
+                <div type="transcription">
+                    <p>On reaching home I find a letter from Sedgwick on a subject which appears to have been grossly misrepresented to you, &amp; I think the enclosed letter will set in its proper light. Not long since Sedgwick wrote to me forwarding a letter which had a bearing on the subject of Owen &amp; the Telerpeton, &amp; which gave a very different version of the adventure as you had heard it. I asked him to make some enquiries of Hopkins &amp; other members of the Council without naming me as his informant &amp; ascertain from them the sinews of the case. Hopkins furnished him with these letters, &amp; he allows me to copy them &amp; Ann has just done so &amp; I send them. They clearly exonerate Owen of every such imputation as some person, in ignorance or malice, has cast upon him - &amp; I think it will be no more than common justice to show any person inclined to believe the slander this positive evidence in disproof of it. I was rather suprised after what you told me that Owen should have returned to show himself at Belfast - &amp; certainly he would be unfit for society if the facts had been as asserted to you. Who was your informant I do not know, but he ought to be undeceived, if deceived he is. The charge that he acted surreptitiously in obtaining his descriptions, &amp; that he asserted he took them from another specimen than Mantells, are clearly disproved or explained away by these letters to Hopkins. I am afraid there must be some pique or rancour against Owen in certain quarters which has induced I know not whom to misrepresent facts this grossly &amp; the least we can do is strenuously to rebut such charges seeing how completely they are disproved. Show the letter at once to Thomson who, for one, has received the same impression, &amp; who is no more likely than yourself to wish to be prejudiced against anyone unjustly. We got back apparently <hi rend="underline">untired</hi>
+                  </p>
+                  <p>Ever affecty yrs</p>
+                  <p>J .S. Henslow</p> 
+
+                   
+                        
+                        
+                        
+                            
+                        
+                        
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

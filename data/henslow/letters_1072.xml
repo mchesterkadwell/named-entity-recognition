@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1072">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Edward Lumb to J. S. Henslow  2 May 1834</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Royal Botanic Gardens, Kew</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_363.xml">Lumb, Edward</persName>
+                    <date when="1834-05-02">2 May 1834</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Bs. Ayres</placeName>
+                        <date>May 2d 18/34</date>
+                        <salute>Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I beg to enclose you bill of lading for a Case of Specimens of Natural History which by direction of Mr Charles Darwin I forward to you pr. Brig “Basenthwaite” Mitchinson Martin for Liverpool— This Case contains part of the Head of the “Megatherium”— I regret that on the passage down the River it should have been broken; previous to this accident the Snout or nose extended 1 1/2 to two feet more than at present— These are not the bones referred to in the accompanying Letter— I expect them down shortly when I shall feel proud in forwarding them to you— Permit me this opportunity of offering my Services to you &amp; to assure you that I shall feel highly gratified if by any Information, or Specimens I can obtain in this Country I can contribute to the advancement of Science in my native land—</p>
+                  <p>My last letter from Mr. Darwin was from the Falkland Islands 30 March; at which time all was well—</p>
+                  <p>I have the honour to be Sir</p>
+                  <p>Your most obt Sert</p>
+                  <p>Edward Lumb</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_573.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-573">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Evans   31 October 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 155</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_210.xml">Evans, John</persName>
+                <date when="1860-10-31">31 October 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Nash Mills</placeName>
+                    <date>31 October 1860</date>
+                    <salute>Dear Prof <hi rend="superscript">r</hi> Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I was in London all yesterday so that I did not receive your letter till the evening. I wish there were any chance of my being able to meet you at Hoxne tomorrow but the distance is too great and I am over head &amp; ears in accounts— Prestwich has only just returned from a visit to M. <hi rend="superscript">r</hi> Gunn in Norfolk so that there is no chance of him either— I don’t know whether he has paid Hoxne a visit this time but think he meant to take Mundersley &amp; Hasboro’— I was obliged to decline going with him— I hope it will not be very long before we come to a hand to hand encounter with the haches— Boucher de Perthes Homme Antedil <hi rend="superscript">n</hi> is certainly a most amusing work of fiction His vivid imagination has certainly done his discovery no good and he ought to be thankful that it is so well received as it is— I had a long letter from him last night but have not yet had time to do more than glance at it— His hieroglyphics require a good deal of pains to decipher them entirely— He seems much disturbed in mind at having missed seeing you at Abbeville and at your letter in the Athen <hi rend="superscript">m</hi> When I have made out the contents I must send the letter on for you to practice upon— unless you will fetch it. In great haste believe me</p>
+                  <p>ever yours sincerely | John Evans.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

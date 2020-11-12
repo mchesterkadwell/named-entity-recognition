@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1002">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Joseph Hooker 5th May 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>Add 9537.2.17</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1860-05-05">25th May 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_122.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>7 D.T.</placeName>
+                    <date>5 May 1860</date>
+                    <salute>My dear Joseph</salute>
+                </opener>
+                <div type="transcription">
+                    <p>It seems to be settled that I lecture at B. Palace on June <hi rend="underline">13.15.</hi> &amp;<hi rend="underline">20.22.</hi> My class here has expanded &amp; about 60 men are leaving cards for Pass &amp; the room is full. I began a week too soon. Sedgwick did not say much when I saw him. He said he knew O. was ill tempered - but did not seem to be fully satisfied that he cd be the author of the review in the Edinburgh. When I explained what was thought of his reasons for attacking D as he has, he said he was sorry for it. He seemed staggered &amp; not willing to say much. On Monday he is to give an anti-Darwinian Exposé at the Phil. Soc. I think he will perhaps be moderated in regard to expressions of a personal nature. I have been sticking up for Darwin (not his theory) in all directions - people get such absurd opinions of him into their heads. I fancy Sedgwick will pound Powell more than Darwin. He has just been reading his Essay (which I have not yet seen) &amp; tells me P. quotes Darwin to the extent of having demonstrated the self existent or self creative origin of Man. Perhaps I don't quite quote what he said rightly - but I suppose I shall hear it all on Monday. I shall say something about D's &amp; O's respective hypothesis before I get thro' my lectures - &amp; endeavour to satisfy my Class that C.D. is not a man to be slighted or snubbed - but to be calmly answered by those who differ from him. The Bury Post acknowledged its error, in having mistaken Lady C.K. for her Mother-in-Law. I am rejoiced it was a blunder. I have sent the order for the blocks to Baker. I suppose a great chest arrived is from you - but I have not yet opened it. Is the Bamboo likely to come whilst I am here. I sd like to show in my Grass lecture. Love to F &amp;</p> 
+                  <p> believe me affecly</p> 
+                  <p>J. S. Henslow</p>
+
+                   
+                        
+                        
+                        
+                            
+          
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_642.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-642">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Thomas Bell   4 May 1855</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 15</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_243.xml">Bell, Thomas</persName>
+                <date when="1855-05-04">4 May 1855</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Discusses publication and distribution of the <hi rend="italic">Journal of the Proceedings of the Linnaean Society</hi>. Also discusses the influence of the Society and the status of natural sciences at Cambridge.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>New Broad Street</placeName>
+                    <date>4 May 1855</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Many thanks for your kind attention to my request — and your invitation to Cambridge — I fear this is wholly out of my power as I have not an hour to spare &amp; have not been even to Selborne since November — I should have very much enjoyed a visit there under your auspices — I fear from your letter that the Authorities are not going much for Natural Science at your University — Can you give me any hints as to desiderata there—or any indication of future improvement? Or any details of increased interest on the part of the students &amp;c?— I am anxious that as far as a voice from the Linnaean Society can avail, it should be heard in the influential quarters— You have probably heard that the Council decided last Tuesday on the publication of enlarged proceedings, to be called (probably) The Journal of the Proceedings of the Linnaean Society— &amp; to be sent gratis &amp; post-free to every fellow, and to be charged to others— The latter impressions to be refined in separate portions of Zoology &amp; Botany if desired— This middle course will I hope nearly satisfy the wishes of all— I could not think it consistent with an honest regard to an implied contract that Fellows should have to pay for any of the Society’s publications. They have paid a large entrance fee, &amp; [m?]any contributing a large annual subs. <hi rend="superscript">n</hi> — and in the County they have no other recompense for this than the publications of the Soc. <hi rend="superscript">y</hi>. Were any of them to be additionally paid for, I believe we should soon lose half our County members— Whereas by constantly keeping up a communication with them by means of a two-monthly journal brought to their very tables without cost or trouble, I hope we shall keep up their interest and retain the number of our fellows—</p>
+                  <p>Believe me always | sincerely yours | Thomas Bell</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

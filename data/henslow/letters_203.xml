@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_203.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-203">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Whewell   15 May 1836</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell Add.Ms.a.206: 64</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1836-05-15">15 May 1836</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>15 May 1836</date>
+                    <salute>My dear Whewell,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have been thinking very much of the charge you brought against me last night, &amp; I must confess that I cannot satisfactorily against myself of being wholly undeserving of your censure– I am afraid that I did not consider Crick's character in so true a light as I ought to have done when I voted for him– I felt perhaps too strongly that I had held out to him something like an inducement for believing that I intended to vote with my college–before I had heard of his remarks about the Library or was unaware that he had removed his name from the Phil. Soc.– two facts so strongly against his Univ <hi rend="superscript">y.</hi> character that I ought certainly to have felt myself justified in not voting–since I had not given him any promise– His conduct towards the Tradesmen I was well aware of–but I did violence to my own feelings in not allowing it to influence me, as I really believed that he considers it quite right &amp; even a matter of conscience to act so–</p>
+                  <p>I really feel obliged to you for the rebuke you give me now that I can see mine clearly than I did before that I have not acted in strict conformity with those principles which ought alone to guide a thorough well-wisher to the University– I also see plainly that I allowed my College feelings to prevail with me more than they ought to have done – in strengthening the other opinion which I also entertained of the propriety of not departing from what Crick might consider as an implied intention of voting for him– With respect to your charge of general inconsistency I feel regret that you entertain such an opinion of me as I value your regard as much as that of any man in Cambridge– As I did not feel conscious of having been wrong in the present instance, I may probably be ignorant of other cases where I have been equally deserving of censure–</p>
+                  <p>Believe me | Very sincerely y <hi rend="superscript">rs</hi> | J. S. Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

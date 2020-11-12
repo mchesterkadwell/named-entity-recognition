@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-962">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Whewell July 30 1832 </title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Science Museum</repository>
+                    <idno>MS 1100</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+                <date when="1832-07-30">30 July 1832</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Univ Club London</placeName>
+                    <date>July 30 1832</date>
+                    <salute>My Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                    <p>When I left Cambridge I fancied that I was on my road to join you at Weymouth, and anticipated great pleasure from the expedition, but as matters now stand it must be put off for the present. I proposed to Rickman that we should make an architectural tour in Normandy together; and I find it will probably suit him to start in a few days, so I shall stay here til this is settled and perhaps executed. I had so fully reckoned on being at Weymouth shortly that I had directed letters to be sent there. I have written to the Post Office to say they maybe sent here; perhaps it may increase the certainly of this being done if you will speak a word about it. I hear from Leonard and Charles Jenyns that you are going on prosperously and that Mrs Henslow is very well and very happy which I am especially pleased to learn. Pray among all your examination of things by land and water have you made one for me anything about the tides? I will tell you one or two points that I want more particularly to have attended to. How are the tides on the two sides of the Bill of Portland? Are they later in the bay of Weymouth or on the side of the Chesil Bank? Are the tides at the same time in shore and out at a distance in the open sea? Is the high water at the point of time when the current in the Channel changes its direction from East to West? If you can get me tolerably precise information on these particular points in addition to any more general observations as I have suggested in the printed paper I shall be very glad. Perhaps with regard to the relative time of the two tides on the two sides of Portland Bill you can note me something down, and if so I should be glad to know it.</p>
+                  <p>I was told that you are going to Guernsey. When is this likely to be? If I thought I could fall in with you there I should be much tempted to join you from the side of France. If you go in three weeks or so I dare say it will fall in neatly with my time, but I do not yet know how Rickman's motions will be regulated.</p>
+                  <p>I went to St. Albans the other day and saw your family who all appeared to me to be well. I had never seen the Abbey before and a proper lumping piece of old buiding it is.</p> 
+                  <p>William and Marianne Humfrey are married at last. I saw them start from Cambridge after the ceremony on Thursday last: they cross from Brighton to Dieppe and then travel through France into Italy.</p> 
+                  <p>When you write let me know what communication there is between Guernsey and Weymouth; for it may be perhaps be possible to come that way from Normandy if one can reckon upon a quick and well timed passage. If I come that way I shall probably bring Rickman with me for I do not think he knows the French lingo and ways well enough to go alone among the monsieurs; so if I take him into the strange land I shall hold myself bound to bring him out. I expect great satisfaction from seeing the impression made upon him by foreign architecture.</p> 
+                  <p>Give my love to Fanny and Louisa - I hear that Louisa makes an excellent mermaid but that Fanny prefers the character of a land animal. My kindest regards to Mrs Henslow.</p> 
+                  <p>Dear Henslow</p>
+                  <p>yours affectionately</p> 
+                  <p>W. Whewell</p>
+                   
+
+                   
+                        
+                        
+                        
+                            
+                        
+                        
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

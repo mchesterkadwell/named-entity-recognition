@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_764.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-764">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   December 9</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:4</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1825-12-09">9 December 1825</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Temple</placeName>
+                    <date>Friday - Dec<hi rend="superscript">r</hi>- 9<hi rend="superscript">th</hi>
+                  </date>
+                    <salute>Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Though on principle I do not much approve of giving unqualified promises, where it is so uncertain who may come forward; yet, as I have quite made up my mind about voting for Lord  P. even, if it might be necessary, in preference to any of the other now existing candidates, and as there is so very slight a chance of any two persons stepping forward, whose claims can in my opinion outweigh those of a present member, who now represents us, &amp; that too in a manner generally satisfactory; I will certainly accede to your request and allow myself to be considered as an humble supporter of his lordship. I have had a note from Copley, but did not send him an answer as I had not made up my mind either way.</p>
+                  <p>Parvis componere magna, I found out the advantage of getting decisive answers in these matters, when I canvassed the Fens or rather I should say disavantage of not getting distinct promises - who are the two favourites at Cambridge? I want you to answer me a question as a chemist - Do you recollect my sending a recipe to Worsley to make a particular sort of ink - I find it fails woefully &amp; that tho' the iron rust (2oz) has been immersed in vinegar (1/2 pint) three weeks that it does not tincture the vinegar at all - Mr Hunt who gave me some, made his by exposing vinegar in a rusty pan - Query - whether mine failed for want of being exposed to the air or can you devise any way of dissolving the rust, so as to get a tincture of that colour to use as ink? I tried boiling it, and as it is hot it succeeds a <hi rend="underline">illeg</hi>, but the rust all separates at the bottom when cool. I am glad to hear Fanny thrives give her my love likewise to Harriet May and all the Goths.</p>
+                  <p>yours truly</p>
+                  <p>L. Jenyns</p>
+                  <p>If I can secure Lord P. any votes I will let you know -</p>
+                  <p>The Rev_d Professor Henslow</p>
+                  <p>Gothic Cottage</p>
+                  <p>Cambridge</p>
+                  <p>Pencil drawing</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

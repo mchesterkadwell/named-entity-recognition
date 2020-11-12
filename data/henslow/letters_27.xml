@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_27.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-27">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To N. J. Winch   9 December 1825</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Linnean Society Library</repository>
+                    <collection>Winch Letters</collection>
+                    <idno>W5: 220</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1825-12-09">9 December 1825</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_11.xml">Winch, N. J.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        <change when="2020-08-10" type="footnotes" status="released">Footnotes cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>9 December 1825</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>As M<hi rend="superscript">r </hi>Lork of Trinity is so kind as to offer to convey for me the accompanying packet of plants I shall not let the opportunity pass of thanking you for two packets which I have received since I last wrote to you &amp; which I have not had any opportunity of acknowledging since. I always keep a packet with your name on it, &amp; whenever any duplicates happen to <del>occur</del> turn up which I think you w<hi rend="superscript">d.</hi> like to possess I put them in it, &amp; there they remain till an opportunity occurs of sending them— I should like however for you to specify those which you may be anxious for &amp; which grow about here, as my guide at present is to consult your Flora, &amp; I may perhaps be able to get some which you w<hi rend="superscript">d. </hi>like even though <del>found</del> mentioned there is Eriophorum pubescens has long been extinct in the habitat mentioned in Relhan, the fen having been drained – I can not satisfy myself that the Galium you were so good as to send me as G. Witheringii it is any thing but a variety of G. palustre – If you have a duplicate I should like a specimen for further comparison – Can you furnish me with good specimens of Melica nutans &amp; Juncus acutus? I intend to follow your example &amp; print a list of my desiderata next year which I will send you, but Any of y<hi rend="superscript">e.</hi> local species will be acceptable. I subjoin a list of the specimens sent &amp; have placed a (D) against those in your printed list of desiderata –</p>
+                  <p>Y <hi rend="superscript">rs.</hi> very truly | J. S. Henslow</p>
+                  <list rend="ordered">
+                     <item>Primula vulgaris &amp; <hi rend="underline">var</hi> 
+                        <del>α</del> (elatior) on the same plant</item>
+                     <item>Lysimachia nummul. <hi rend="superscript">a.</hi>
+                     </item>
+                     <item>Cuscuta Epith<hi rend="superscript">m. </hi>
+                     </item>
+                     <item>Dianthus Caryoph</item>
+                     <item>Arabis turrita</item>
+                     <item>Althæ officinalis––– D</item>
+                     <item>Verbascum Lychnitis</item>
+                     <item>Ajuga Chamæpitys</item>
+                     <item>Conyza squarrosa</item>
+                     <item>Scirpus acicularis</item>
+                     <item>Asperula cynanch.</item>
+                     <item>Thesium linoph.</item>
+                     <item>Scutellaria minor</item>
+                     <item>Lonicera caprifol.</item>
+                     <item>Sison segetum</item>
+                     <item>Verbascum pulverul.</item>
+                     <item>Melampyrum cristat.</item>
+                     <item>Hydrotictyon reticulatum (conferva retic.)</item>
+                     <item>Neottia spiralis</item>
+                     <item>Sonchus palustris</item>
+                     <item>Rubia perigrina––– D</item>
+                     <item>Iris fœtidissima––– D</item>
+                     <item>Scilla autumnalis</item>                    
+                     <item>Valeriana rubra––– D</item>
+                     <item>Cistus guttatus––– D</item>
+                     <item>Alisma natans––– D</item>
+                     <item>Verbascum Blatt. ––– D</item>
+                     <item>Bromus erectus –––</item>
+                  </list>
+                  <p>N.B. You do not mention Bupleurum Arenaria integrifol. Rotundif. in y<hi rend="superscript">r.</hi> Flora, tho' I have a Spartina stricta specimen from Norton D. given me by Bupleurum rotundifol. M<hi rend="superscript">r</hi> J. Hogg</p>                   
+                </div>
+            </div>
+
+        </div>
+       
+      </body>
+    </text>
+</TEI>

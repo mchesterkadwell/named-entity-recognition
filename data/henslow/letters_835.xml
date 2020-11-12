@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_835.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-835">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Palmerston 29 January 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:75</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_265.xml">Palmerston, Lord</persName>
+                <date when="1826-01-29">29 january 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Broadlands</placeName>
+                    <date>29 Jany 1826</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am playing truant here for a few days in order to take into my system a sufficent quantity of oxygen to prepare me for the impure atmosphere of the Hs of Cms on Thursday. I worked up my time however by anticipation as I sat up writing letters the whole of the night before I left London not having quitted my chair from eight o'clock in the evening till ten the next morning. I send you a batch of votes most of which I believe are new to you. These make my number amount to 458; including Sir H. D. Hamilton. He is a Whig &amp; being in the country answers my letter probably without knowing how his party mean to go, but I have no doubt we shall have him; perhaps he may wish to consult the D of Gloucester &amp; if so that will do us no harm.</p>
+                  <p>I send you a list which I have made out of persons who are probable or possible votes pray look it over &amp; correct it by adding or striking out. The best thing I can do is I think to write myself to all such persons in preference to anything else. I send you some more returned letters. I shall be in Town again in a couple of days &amp; hope before that to have to report further progress. I suppose it is quite certain that Sir Charles Coote of Triny has lost his vote; if he still has one it is mine.</p>
+                  <p>My dear Sir</p>
+                  <p>Yrs sincerely</p>
+                  <p>Palmerston</p>
+                  <p>I have written to Pack of the Temple and Brett of Corpus</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_314.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-314">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From S. P. Woodward   5 November 1841</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 359</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_147.xml">Woodward, S. P.</persName>
+                <date when="1841-11-05">5 November 1841</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Somerset House</placeName>
+                    <date>5 November 1841</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>As you have turned your attention lately to the Coal Plants I enclose a sketch made about a year ago which gives an idea of the venation of two species – one figured very badly by Mr Lindley, the other not yet published as English but figured in Brogniart’s admirable work– I cannot however see the correctness of his definition of the genus Odontopteris which induced me to scratch these out. It is no doubt a good genus enough but if my two specimens belong to the same species or even genus its definition will need alteration–</p>
+                  <p>Of the specimens in the Society’s cabinet named by Mr Lonsdale. N. <hi rend="superscript">o</hi>–</p>
+                  <p>C.</p>
+                  <p>1. Odontopteris Schlotheimii – is the one in my sketch</p>
+                  <p>2. ------------------------------------ query genus &amp; species.</p>
+                  <p>A.</p>
+                  <p>1. –– –– obtusa.</p>
+                  <p>2. –– –– –– –– (both my “A”)</p>
+                  <p>3. –– –– –– –– a Pecopteris?!</p>
+                  <p>4. –– –– –– –– a Neuropteris?!</p>
+                  <p>5. –– –– –––– ? Not a Fern at all? but agrees best with Mr Lindley’s figure!</p>
+                  <p>B.</p>
+                  <p>1. Otopteris? dubia. The spec. <hi rend="superscript">n</hi> figured by Mr Lindley I will not vouch for the accuracy of the last but have looked at it very carefully in the “sun-light”. If you have better spec <hi rend="superscript">ms</hi> or know the species I would feel obliged by a line some day, setting me right–</p>
+                  <p>This was my first attempt at etching &amp; uninstructed wh will I hope be a sufficient apology for its execution–</p>
+                  <p>I rem, Dear Sir, | Yours very truly | S. P. Woodward</p>
+                  <p>Lindley’s ‘Otopteris? dubia’ has I imagine nothing to do with the other species of Otopteris from the Volites – which form a pretty genus widely separated (?) from these coal measure Odontopterides – with wh Göppert has united them– Surely Lindley’s Odontopteris obtusa is not a Fern?</p>
+                  <p>[card with sketches A B C attached - needs phot]</p>
+                  <p>C Odontopteris Schlotheimii Ad. Bron.</p>
+                  <p>A. Odontopteris obtusa (Lonsdale not Lindley)</p>
+                  <p>B. Otopteris? dubia Lindley Knowlbury</p>
+                  <p>Coal measures. Silverdale. Stafford</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

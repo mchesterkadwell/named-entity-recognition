@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_437.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-437">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Richardson   6 April 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 275(i) and (ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_201.xml">Richardson, John</persName>
+                <date when="1856-04-06">6 April 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Lancrigg |Grasmere Windermere</placeName>
+                    <date>6 April 1856</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Though I have seen one of your circulars before I received the one you sent to me the other day, I have not replied to it, not from any unwillingness to assist you but because a few words from a systematic zoologist like Owen render any suggestions from such as me superfluous—</p>
+                  <p>With regard to types of Mammals, our native species are so few, that a local museum might well have them all, as the group where there are two or three examples of a genus or order would give the student information as to the principles of arrangement not only into orders but into smaller divisions—</p>
+                  <p>Mammals are divided by Agassiz into</p>
+                  <p>1. Carnivorous</p>
+                  <p>2. Herbivorous</p>
+                  <p>3. Cetaceans—</p>
+                  <p>These groups are too large for the purposes of instruction &amp; each can be subdivided by their modes of progression, &amp; it will be found that the limbs &amp; teeth have a certain agreement in their variation—</p>
+                  <p>The mere exhibition of stuffed specimens conveys little information and I should in a popular museum, substitute for them in the class of mammals skulls and skeletons of the limbs, preserving to the latter the claws or hoofs but separated a little from the bones as being parts of the dermic skeleton. The maxillary &amp; mandibular bones of the skulls should be particularly opened to show the roots of the teeth—A series of such preparations of our native mammals would convey much instruction. The tarsal or pastern bones of the ruminants with their two complete toes and two rudimentary ones would contrast well with the toes of a wild cat, formed for prehension – and with the fin-like fore limbs of a dolphin &amp; rudimentary pelvis without appendages. All that would be gained by adhering to prominent examples of our divisions (all more or less artificial) can be obtained by conspicuous labels, over a group of specimens illustrating that division—This seems to be the best way with respect to mammals—</p>
+                  <p>While I agree with Owen in that the Creator formed all living things in past ages, as well as in the existing order of things, according to a plan and that an endeavour to discover parts of that place is a legitimate exercise of the intellect I think that what in common language is called a “type” must vary according as the group artificially gathered together by the naturalist is more or less extensive— Every species is exactly fitted for the part it is to play in the existing fauna of the word and when we attempt to class the species that we know, by marked differences of the teeth for instance or the limbs or by combinations of these we obtain groups differing very greatly in the number of their species.</p>
+                  <p>Owens idea of a type of the vertebrates is a very different thing, being ideal and intended to show how the limbs or appendages belonging to the several sections of the vertebral column may be increased or diminished, or changed in position without associated change of character—</p>
+                  <p>The skeleton of a Congereel of a snake of a frog, of a raven, and of a dog would show the bony framework of the five divisions of vertebrats well enough—To illustrate the mammals you might have</p>
+                  <p>The great eared bat— Insect.</p>
+                  <p>The cat— Carniv.</p>
+                  <p>The hare— Rodent.</p>
+                  <p>The cow— Rum.</p>
+                  <p>The dolphin— Cetac.</p>
+                  <p>But as I said in the beginning of my note, the specimens of mammals would not be too numerous were you to include all the native species you can easily procure.</p>
+                  <p>For instruction to a rural population I should consider the skulls &amp; limbs of the different breeds of cattle &amp; horses very useful—and if fossil skulls or tarsal bones of the species to be found in the tertiary deposits can be added so much the better—two of the finest fossil skulls of the Bos primigenius that I have seen are preserved in a Museum at Keswick, dug up in the Neighbourhood. The wild oxen &amp; bisons are larger than the domesticated ones, but there is no such difference of size between fossil &amp; existing horses, the modern breeds as far as I have seen being if anything bigger</p>
+                  <p>Yours faithfully | John Richardson</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

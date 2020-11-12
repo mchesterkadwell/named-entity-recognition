@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_516.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-516">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Adam Sedgwick   31 December 1858</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 288</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_160.xml">Sedgwick, Adam</persName>
+                <date when="1858-12-31">31 December 1858</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>31 December 1858</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Pray source a good set of the seedvessels &amp;c — mentioned in your letter— &amp; add the names, so far as made out, for I know no more of botany than a pig —perhaps not so much; for he knows how to grub his own roots: and Barrett has done little on the way of culling simples yet— I am glad that the Ale came safe at last: &amp; I wanted no such thanks— I only wanted to be sure that it was safe: for more than once my hampers of ale have stuck somewhere on the way. More vexatiously still, a bottle I had directed to my Sister in Yorkshire had been opened, the corkes had been all drawn, &amp; equally replaced after water had been substituted for the Audit. The rogues who drew the corks no doubt got drunk with the ale &amp; had a good laugh at the time they forwarded the water bottles to my Sister— I trust dear Annie is now nearly well— My illness sticks to me as if it never meant to leave me. I have never left my rooms since the examination for Certificates— a task of no small trouble. A diet of arrant slops &amp; a long continued use of sudorifics have certainly mitigated my horrible cough &amp; driven away my headache: but a lingering fever remains &amp; my chest is not all right I am low in spirits as well as in condition My mind will endure no continued thought, &amp; even such a letter as this fatigues me in the writing. So 1858 is very nearly done: &amp; I sometimes feel that I am nearly done; &amp; I am certain that I am old withered &amp; thin to the last degree.  Were my God daughter here I should not think of kissing her lest I should give her my cold, &amp; a cold kiss is but a sorry comfort. But I may send my love to her, &amp; to her Sister, &amp; to you all— with a happy new year. So know thy are in a love bundle! May God bless you all! I often hear from Dent— My poor Brother is dying by inches, &amp; one cause of my low spirits is that I can not perform a promise of going down to Dent to spend a week or two in helping to comfort him</p>
+                  <p>Your affectionate friend |A Sedgwick | (turn over)</p>
+                  <p>P.S. Of course I mean t[o] pay for the seeds like a fair man[.] I wish for a good set &amp; t[o] pay well for them.— Who is the hardy lady who does the work?—</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

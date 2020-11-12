@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_213.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-213">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Joseph Henry   5 July 1842</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository/>
+                    <idno>Smithsonian Archives, Henry Papers Draft <hi rend="italic">The Papers of Joseph Henry</hi> 5 (1985): 242-45</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_119.xml">Henry, Joseph</persName>
+                <date when="1842-07-05">5 July 1842</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Princeton College of New Jersey</placeName>
+                    <date>5 July 1842</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>My young friend and late Pupil Mr Cuyler sails for Liverpool in the Packet of the 7th and I embrace the opportunity of sending you a package which he will deliver after a short excursion into Scotland. I beg leave to request that if it be perfectly convenient you will show him some litle attention in the way of his becoming acquainted with the objects of interest connected with your venerable Institution. You will find him an amiable and intelligent youth and in reference to moral character I can assure he is worthy of your full confidence.</p>
+                  <p>I am much obliged to you for the copies of the papers on the diseases of wheat. I have sent them to the editor of one of our agricultural journals for republication. I owe you an apology for my long silence. The truth is that with tolerably good intentions I am often guilty of the sin of procrastination and in addition to this in the present case I have been induced to defer Writing from time to time with the hope of being able to send you the promised specimens of natural history. I have made a number of unsuccessful attemps to procure specimens of Rattle snakes and alligators. The first are very scarce in the more thickly [inhabited] parts of our country or at least in the State of New Jersey and the second are only found in the southern states. Three of the young men who have graduated at our college have promised that they would forward an alligator for you but as yet they have failed to keep their promis. I am informed by one that it is a difficult matter to send one alive to England although they are frequently sent apparently in good health to New York.</p>
+                  <p>One of my young friends has sent me instead of the alligator itself a few of its eggs and also a specimen of the Horned Frog of Texas. These you will find in the package, the latter in the tin box. I also send you all the remaining nos. of the Flora of North America which have yet been published. These will complete your set up to this time.</p>
+                  <p>Dr Torrey has taken up his residence permanently in Princeton and has moved his great herbarium to this place; he forms quite an addition to our little scientific circle. Professor Jaeger has resigned his Professorship in this Institution and gone to reside in the city of Washington.</p>
+                  <p>You are not much interested I suppose in the subject of electricity but I send you a copy of the 4th n° of my contributions to that branch of science and hope to be able soon to forward you the 5 <hi rend="superscript">th</hi> n° of the same. We find great difficulty in this country in getting our labours properly noticed in Europe but in reference to my last papers I have had little to complain of on this account. They have met with a very favourable reception in France and Germany and have been immediately republished in England.</p>
+                  <p>We are very disagreeably situated in this country in reference to the prosecution of science. The unrighteous custom of reprinting English books without paying the authors has a most pernicious and paralizing influence on the effor[t]s of native literary talent. The American author can get no remuneration for his labours for why should the book seller pay for the copy right of an American work when he can get one on the same subject which will sell better, from England for nothing. Besides this the man of science can scarcely hope to get proper credit for his labours since all his reputation must come from Abroad through the medium of the English republications and it is not in the nature of things that the compiler of a scientific work should be as much inclined to give as full credit to a stranger in a distant count[r]y as to a neabour at his elbow.</p>
+                  <p>It is surprising how much noterity such <del> 
+                        <hi rend="underline">men as Dr La</hi> 
+                     </del> the compiler of pop English popular works get in this country. Dr. Lardener was before he came to <del> 
+                        <hi rend="underline">this country</hi> 
+                     </del> here was a much greater man than Herschell.</p>
+                  <p>Speaking of Lardner reminds me that I have to thank you for the alteration that was made in <hi rend="underline"> 
+                        <del>the report</del> 
+                     </hi> his account of my communication to the mechanical section of the British association in 1837. You may reccollect that he gave me the Lie in reference to the speed of American boats before the whole section and afterward made <del> 
+                        <hi rend="underline">some</hi> 
+                     </del> rather a disparaging <del> 
+                        <hi rend="underline">remark</hi> 
+                     </del> insinuation in reference to the nature of my communication.</p>
+                  <p>I do not [?exult] in <del> 
+                        <hi rend="underline">his</hi> 
+                     </del> the misfortune he has brought on himself but regard him rather <del> 
+                        <hi rend="underline">as an</hi> 
+                     </del> as <del> 
+                        <hi rend="underline">the</hi> 
+                     </del> an ob[j]ect of pit[y] than of <del> 
+                        <hi rend="underline">anger</hi> 
+                     </del> resenmt. <del> 
+                        <hi rend="underline">He has met no</hi> 
+                     </del> He has met with no encouragement from scientific men of any standing in our country. He has adopted the [?<hi rend="underline">position</hi>] of an itineran[t] lecturer and during the past winter has managed to <del> 
+                        <hi rend="underline">get</hi> 
+                     </del> draw tollerably large audiences in the theaters of New York by <del> 
+                        <hi rend="underline">alternating</hi> 
+                     </del> occuping the stage on <del> 
+                        <hi rend="underline">different</hi> 
+                     </del> alternate nights with jugles and public dancers at from 6 <hi rend="superscript">d</hi> to a shilling sterling per head, and with this as an indication of the state of morals among us I am pleased. He is certainly a very interesting writer and a man of considerable talent but he has <del> 
+                        <hi rend="underline">always</hi> 
+                     </del> sadly been wanting in <del> 
+                        <hi rend="underline">one</hi> 
+                     </del> an essential element of <del> 
+                        <hi rend="underline">the</hi> 
+                     </del> a <del> 
+                        <hi rend="underline">Philosoph</hi> 
+                     </del> scientific character <del> 
+                        <hi rend="underline">the</hi> 
+                     </del> a sacred regard to truth. I hold that no person can be trusted as the historian of sci[ence] who could be guilty of the crime of which he is charged.</p>
+                  <p>Perhaps I have now said to much in reference to this paramour yet I do assure you that although I dislike his character I regard him as an object of pity.</p>
+                  <p>He gave an account in one of his Lectures in Phil <hi rend="superscript">d.</hi> of his treatment of me at the British association and attributed the whole to a mistake. Although his lecture was published in the papers I took no notice of it. If I were so disposed I could easily [have] caused him to be [?passed] even from the stage since there is in this country with very little claims to science.</p>
+                  <p>Since writing this letter I have received a communication from Dr Beck. He informs that he.....</p> 
+                  <p>incomplete</p>
+                </div>
+            </div>
+
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

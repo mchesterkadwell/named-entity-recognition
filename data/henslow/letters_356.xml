@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_356.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-356">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Horner   20 November 1850</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 170</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_131.xml">Horner, Leonard</persName>
+                <date when="1850-11-20">20 November 1850</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Rivermede | Hampton Wick</placeName>
+                    <date>20 November 1850</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have two letters to thank you for, the last received yesterday– I am obliged by your not forgetting to let me have a copy of all your printed communications to your parishioners, for I may learn something applicable elsewhere– It is very annoying to be disturbed by such miserable jealousies, to which I fancy Schoolmistresses are more exposed than would be. I wish you had funds at your disposal to establish a thoroughly good school under a Master who would command respect, such as should be as much a necessary part of every system of parochial training as the Church, &amp; as securely maintained.</p>
+                  <p>I have now had the pleasure of becoming personally acquainted with M <hi rend="superscript">r</hi> Zinoke, who passed a day here yesterday. I like him much; all his views on the subject of education appear to me to be liberal, enlightened, sound &amp; practical, &amp; his frank &amp; cheerful manner &amp; general intelligence are very attractive. I have just read his second pamphlet &amp; like it much. I hope it will get into extensive circulation, &amp; that he himself will attract the notice of those in power, that he may be brought into a wider sphere of usefulness. I had Tufnell &amp; the Lyells to meet him.</p>
+                  <p>Pray thank Mr G. Ransome for his kind invitation to me. I should enjoy exceedingly to be able to accept it, &amp; if it had been for a somewhat later day should have been able to look forward with some certainty to the pleasure. But I am under an engagement to pay a visit about that issue to an old friend in Surrey &amp; hardly expect to be free. I regret the more that the anniversary of your Ipswich Museum is not some days later, for we have a project of a family invasion en masse of Mildenhall at Christmas, from the old Padre down to the post pliocene formation that has just been discovered by the appearance of my first Grandchild a Month ago. But if I can possibly contrive to go I will do so, &amp; should be most glad to witness your inauguration.</p>
+                  <p>I rejoice to hear of your success at Sudbury– such an event as you describe should be noticed in the London Newspapers, as a sign of the times, and as an example of what clergymen may effect, if they were educated as M <hi rend="superscript">r</hi> Zinoke would have them– If I go to Ipswich, M <hi rend="superscript">r</hi> Z. has asked me to take a bed at his house. I should be glad to renew my acquaintanceship with these kind hearted Quakers: I shall not soon forget the scene in M <hi rend="superscript">r</hi> Ransome’s Garden – nor indeed any part of that great day.</p>
+                  <p>Give my kind regards to Mrs Henslow &amp; all around your table &amp; believe me to be</p>
+                  <p>faithfully yours | Leonard Horner</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_669.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-669">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Braybrooke   25 September 1843</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 42 &amp; 42(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_135.xml">Braybrooke, Lord</persName>
+                <date when="1843-09-25">25 September 1843</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Compliments JSH on his account of the excavation of tumulus at Ringham. Says he has not seen <hi rend="italic">Cuscuta</hi> in local region but may have seen evidence of it in scorched appearance of Berkshire clover fields.</p>
+            <p>States that his wheat harvest is not as good as previous year, but less mildewed. Describes experiment of growing different varieties of wheat in his garden, undermined by rats gaining access to them. Has observed a field of mustard on one of his farms, farmer states that it is good food for sheep and partridges.</p>
+                <p>Comments on the importance of John Warne’s flax growing scheme and growth of a large quantity of flax on a single acre at Thaxted. Also comments favourably on Warne’s theory of feeding oxen in boxes.</p>
+                <p>Fears he will have few guests for the Saffron Walden Agricultural Society annual meeting but pleased that JSH will be in attendance along with Edward Everett, the American Ambassador. JSH to advocate cooperative agricultural experiments at the meeting.</p>
+        </abstract>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>AE</placeName>
+                    <date>25 September 1843</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I was very much interested by the accounts which you were so good as to send me of the opening of the Ringham tumulus &amp; I should like to see the articles brought to light in the event of their being sent to London. I have thought how truly poor Ripewode would have enjoyed the Crosse in his native county, had his valuable life been longer spared.</p>
+                  <p>You have however done ample justice to the subject, &amp; described every thing so minutely that the most cogent antiquary ought to feel satisfied</p>
+                  <p>The exact position of all these remains being now fully ascertained, I hope in future no explorers will think it necessary to disturb the cone of a barrow which spoils the appearance &amp; reduces it to the form of an extinct Crater, without any advantage being gained</p>
+                  <p>I have not met with the Cuscuta here, but I recollect many years ago observing patches that had the appearance of having been scorched in some Berkshire Clover fields &amp; I think it might be caused by that plant. Now however it is the fashion to attribute its introduction to the new Tariffe</p>
+                  <p>The Wheat is less good than last year but was not mildewed— in 1842 my crop on 75 acres averaged 5 quarters 1 bushel which would not have been credited some time ago— I sowed last Autumn a good many sorts of Wheats in my garden, the most promising of which was raised from one ear produced from seed found in a Mummy Case. This corn ripened one week sooner than all the others, &amp; seems to be a variety of Wheat we call Talavera but with longer ears. The comparative produce was not ascertained, because the net which kept out the birds formed a ladder for rats &amp; they revelled on the tops &amp; ate the ears downwards— pushing the net one foot from the bottom, defeated the Enemy, but sufficient snicking was done to defeat the experiment also— I shall go to work next year in the field, which is after all the best criterion.</p>
+                  <p>M <hi rend="superscript">r</hi> Warne’s flax growing scheme is of great importance &amp; worthy of consideration, but I know nothing of it practically, nor could I find any one here who could direct me how to trial it when grown. I hear a Man of Thaxted has succeeded in raising a large quantity on a single acre, &amp; I fancy I have land more suitable to the purpose than the Clays south of Walden. M <hi rend="superscript">r</hi> Warne has also a theory of feeding oxen in boxes, which I am disposed to listen to, having been concerned that Cattle when turned out trample down &amp; contaminate much more grass than they consume; besides the torment which they endure from flies like Io in Prometheus vinctus, which must be tantamount to a Jockey’s working off his superfluous weight when preparing for a great race.</p>
+                  <p>I fear I shall have but few guests because every body has now a Let agree: Meeting of his own, &amp; those who have seen these festivities once plead the course of having served, like Members of an Election Committee. M <hi rend="superscript">r</hi> Everett is however coming &amp; I am delighted to hear that we are to benefit by your presence &amp; that you will advocate the plan of cooperative Experiments.</p>
+                  <p>I observed on Saturday a field of Mustard on one of my farms which I mistook for Charlock, but the Keeper said it is counted excellent food for <del>Cattle</del> Sheep, &amp; that partridges always are found in it, &amp; certainly we saw 3 Cases of those (this season comparatively rarae aves) near the spot.</p>
+                  <p>Believe me | My dear Sir | Yrs sincerely| Braybrooke</p> 
+                </div>
+            </div>
+        </div>
+        
+      </body>
+    </text>
+</TEI>

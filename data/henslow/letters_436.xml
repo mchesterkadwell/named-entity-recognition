@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_436.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-436">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William B. Carpenter   6 April 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 67</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_146.xml">Carpenter, William B.</persName>
+                <date when="1856-04-06">6 April 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>6 April 1856</date>
+                    <salute>Dear Prof <hi rend="superscript">r</hi> Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have just decided upon coming forwards as a Candidate for the Registrarship of the Univ. <hi rend="superscript">y</hi> of London; and I venture to think that I shall be able to bring forwards ample evidence of my fitness for the post, in regard to my acquaintance with Educational matters -— general, as well as special, — and my business habits. But as there are several other highly qualified Candidates, with some of whom (as Cambridge men) your sympathies are likely to be strong, and as I know that they are already taking steps to obtain support from Members of the Senate, I am anxious not only to inform you thus early of my intention to become a Candidate, but also to state some of the special claims which I conceive myself to have for the appointment.</p>
+                  <p>As a Nonconfrmist, I am one of the Class for which the University of London was specially created. Had it been in existence twenty years ago, I should have taken my degree (I venture to think with Honours) in it. My two brothers are both graduates in it (in Arts). Excluded from the honours &amp; rewards of Oxford and Cambridge, I feel the strongest desire that the Univ. <hi rend="superscript">y</hi> of London should be brought into honourable rivalry with them, by the fullest development of its resources; and all my sympathies would induce me to do my utmost to promote its interests.</p>
+                  <p>Would it not, then, be a little hard, if, after twenty years of ill-renumerated labour in the promotion of Public Education, I should not be considered as having some preferential claim—other qualifications being supposed equal, — to the only office in the University of London to which any tolerable emolument is attached?</p>
+                  <p>I do not ask for your support, however, either on this ground, or on that of our long personal acquaintance, unless you should honestly regard me as at least equally qualified for this Office with other Candidates whose eminence I am as ready as any one to admit.</p>
+                  <p>Believe me to be, Dear Prof. <hi rend="superscript">r</hi> Henslow</p>
+                  <p>Yours faithfully | William B. Carpenter</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1052">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Lord Braybrooke 10 February 1832</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>New York Public Library</repository>
+                        <idno>Pforz MS(MISC0381</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_135.xml">Braybrooke, Lord</persName>
+                    <date when="1832-02-10">10 February 1832</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Writes concerning the excavation of mammoth remains and plans JSH visit to see them, potentially with Adam Sedgwick but probably not William Whewell. Gives a description of a tusk and other remains in their present state of excavation. States that similar remains in the same stratum of gravel nearby have been destroyed by labourers. Encloses a sketch of the tusk.</p>
+            </abstract>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>AE [Audley End]</placeName>
+                        <date>Friday afternoon Feb 10 1832</date>
+                        <salute>My dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I am just come from pit &amp; there seems very good reason to hope that the Bones if kept properly covered up, will not crumble to pieces if allowed to remain under turves another week. I mention this time, because I am engaged to Lord Maynard on Monday next, &amp; I shall not return from his house till Thursday. If you think it would be worth Mr Sedgwick's while coming over I shall feel delighted at having found a motive to tempt him to pay me a visit, Mr Whewell is I fear tied by the leg to his lecture room. At all events I shall be ready to receive <hi rend="underline">you all or any of you</hi> by 2 o'clock on Thursday. We can then adjourn to the scene of action, &amp; should it be found necessary to proceed with extreme caution our operations may be resumed the next morning. The tusk which is nearly laid bare and very much more curved than in common elephants is from 6 to 8 feet long and 21 inches in circumference in the thickest part - the shape is at present perfectly distinguishable but the surface very tender &amp; in places scaling off so that I almost despair of raising it up without its crumbling to pieces. Under the Tusk is another, probably its fellow, which seems less brittle. The teeth &amp; other fossil remains have all been carefully preserved. I could see no vestige of any skull whatsoever. The proprietor of the adjoining cottage garden found some near similar tusks in the same stratum of gravel, but his labourers not being cautious broke them with the utmost composure. I fear however by the description they were in a most advanced state of decay.</p>
+                  <p>Enclosed is a sketch made by my Under Gardener of the Tusk as it lies in its resting place he has to my mind not taken the curve correctly but enough perhaps to give you some idea of the appearance of the fossil.</p>
+                  <p>Believe me</p>
+                  <p>Dr Sir</p>
+                  <p>Yrs faithfully</p>
+                  <p>Braybrooke</p>
+                  <p>May I request one line by tomorrow for Sunday's post directed here</p>
+                  <p>[Sketch of tusk included with letter]</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_302.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-302">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Clift   24 August 1833</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 89</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_139.xml">Clift, William</persName>
+                <date when="1833-08-24">24 August 1833</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Royal College of Surgeons – Lincoln’s Inn Fields</placeName>
+                    <date>24 August 1833</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>When I was in Cambridge I expressed a great desire to be permitted carefully to examine and make drawings of those fragments of the Bones of the Megatherium which you had in your Custody, as they seemed likely to improve our knowledge of this extraordinary Creature: but in order to render them fit for drawing it would be necessary to bestow several days labour on them to remove the gravel and other extraneous matter which is so firmly cemented to them, which unless it were done with great care and some tact, they might be irreparably injured, or their characteristic surfaces be destroyed.</p>
+                  <p>Now, as a week’s absence from London would be a serious inconvenience to me, do you think it possible that permission could be obtained to allow them to be packed in cotton wadding and the box sent by the coach to me here, as I could in that case more carefully and slowly work them out at every leisure hour, than I could possibly do at Cambridge, and at the same time be on the spot to attend <del>to attend</del> to my duties here? They would lose nothing of their interest or value by being submitted to my care, as I should feel it incumbent on me to repair and unite all such parts as can possibly be repaired; having had a good deal of experience and practice that way, as you will confess when you see what has been achieved on your own Specimens: and when they have been thus repaired and identified, they shall be as carefully returned, with the necessary descriptions to render them interesting &amp; valuable to such as may wish to consult them hereafter; and without which kind of information such specimens, you must be aware, are comparatively without value. It would be desirable that every portion of the bones of this animal in your possession should be sent, as even a very small fragment materially assists in restoring the true character of the part to which it belongs; and a moderately small box will contain the whole. If this very desirable object can be attained, I am sure I may reckon on your kindness in superintending the careful packing of the very fragile specimens that they may not suffer further injury than they have already sustained: or I would, if you think it absolutely necessary, come down to Cambridge and superintend the packing. It is a very singular circumstance that among the bones at the College we have almost all the parts that are defective in the Madrid Skeleton; and at Cambridge it is possible that you may possess parts that neither the one or the other can boast of. If you will favour me with a line to acquaint me with what is necessary to do, you will much oblige</p>
+                  <p>Dear Sir |yours very respectfully | W <hi rend="superscript">m</hi> Clift</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

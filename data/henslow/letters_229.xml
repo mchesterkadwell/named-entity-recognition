@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_229.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-229">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Benjamin Maund   19 January 1845</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 29</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_124.xml">Maund, Benjamin</persName>
+                <date when="1845-01-19">19 January 1845</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Bromsgrove</placeName>
+                    <date>19 January 1845</date>
+                    <salute>My dear Professor</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have to thank you for copy of Dict.– I have not proceeded with it – still whenever you feel that you have a certain claim on me be pleased to say so &amp; it shall be met duly.</p>
+                  <p>I have always believed that the Primula vulgaris, elatior, &amp; veris, were but varieties of one species, &amp; I think you had the same opinion. If it be not inconvenient will you oblige me with a note by return, stating any evidence that has fallen under y. <hi rend="superscript">r</hi> notice. I shall in next No. of Botanic Garden &amp; Scientist publish two varieties raised by Mr. Williams of Pitmaston from seed of the Cowslip – the one a pretty Polyanthus. Mr W. has many varieties, intermediate between the wild cowslip &amp; garden Polyanthus – perhaps I can find you one – all are from cowslip seed.</p>
+                  <p>I am anxious to compare different varieties of Wheat with each other, but do not find it easy to obtain them. If you can oblige me with an Ear of a sort of any Suffolk varieties I shall have pleasure in “Paying in Kind”. Can you direct me to a detail of the proximate principles of many varieties? (besides Mackenzie’s) I find here &amp; there an analysis, but nothing worth notice. It appears to me that if we deal with the Gluten &amp; Starch it is sufficient for ordinary purposes. Does this coincide with your observations? Have you any nice method of mounting your specimens of Wheat?</p>
+                  <p>That a happy year be allotted your self &amp; family circle, is the wish of, my dear Prof. <hi rend="superscript">r</hi>
+                  </p>
+                  <p>Yours faithfully | Benjamin Maund</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

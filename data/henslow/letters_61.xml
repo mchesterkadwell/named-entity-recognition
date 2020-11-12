@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_61.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-61">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Peete   31 December 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 75</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_39.xml">Peete, William</persName>
+                <date when="1827-12-31">31 December 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Dartford</placeName>
+                    <date>31 December 1827</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have waited the opportunity of forwarding this to you in a parcel containing a few dried plants I have selected from my Herbarium for M <hi rend="superscript">r.</hi> Jenyns— I beg you to accept my best thanks for the rare plants you were so very kind to send me in the Autumn they are a valuable acquisition to my Hortus Siccus—</p>
+                  <p>I was only able to obtain 3 or 4 of the Berries of the Pyrus pinnatifida which I requested the favor of your Sister when I was at Windsor to forward to you, I hope you received them, and they may vegetate in the Cambridge Garden, next year I may be able to procure more—</p>
+                  <p>M <hi rend="superscript">r</hi>. D. Don has made some new discoveries of undescribed Junci, which he sent to M <hi rend="superscript">r</hi> Anderson at Chelsea Garden to cultivate— S <hi rend="superscript">r.</hi> Ja <hi rend="superscript">s.</hi> E. Smith received the Ophrys arachnitis from Plants last year, of which there will be an account in the Engl. Flora. The Orchis figured in Vol 27. of Engl. Bot. Tab: 1873. is now determined not to be the militaris, and it is proposed to call it Orchis Smithii, as a compliment to S <hi rend="superscript">r.</hi> J. E. Smith—</p>
+                  <p>I hope we shall see you at Dartford this Summer, to make some new Botanical discoveries— The Farmer on whose Land the Centaurea solstitialis grew, was so very civil as to leave it uncut, and I have endeavored to save the Seed. and I send you some of the Capsules, and hope you will be able to make some vegetate in the Cambridge Garden—</p>
+                  <p>I remain My dear Sir | Yours very truly</p>
+                  <p>W <hi rend="superscript"> m.</hi> Peete</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

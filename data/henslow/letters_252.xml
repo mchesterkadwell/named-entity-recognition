@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_252.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-252">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Whewell   8 November 1850</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell Add.Ms.a.68: 39</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1850-11-08">8 November 1850</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh Suffolk</placeName>
+                    <date>8 November 1850</date>
+                    <salute>My dear Whewell,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have had to correspond with <hi rend="underline">2</hi> medical students about the time that would suit them for an examination – &amp; I only received an answer from one of them yesterday. I have settled to examine them on Friday 29 <hi rend="superscript">th</hi> at 10. A. M. If therefore it would suit you to have the meeting the same day about 2. P. M. [I] could Kill 3 Birds with one stone– (this examination – your meeting &amp; the Ray dinner–) but I propose be in Cambridge the day before &amp; <hi rend="underline">could</hi> (if very inconvenient to you to suit me) come on the Wednesday; but I don't like being so long from home at this season of the year, if I can help it– I s <hi rend="superscript">d</hi> get in by the train at 1:35 on Thursday &amp; could, (If that s <hi rend="superscript">d</hi> suit) come to you by 2. [or] nearly</p>
+                  <p>so –</p>
+                  <p>Our kind regards to Mrs W &amp; | believe me | very truly y <hi rend="superscript">rs</hi> | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_489.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-489">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William B. Carpenter   13 November 1857</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 83</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_146.xml">Carpenter, William B.</persName>
+                <date when="1857-11-13">13 November 1857</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>University of London | Burlington House W.</placeName>
+                    <date>13 November 1857</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am grieved indeed to hear of your serious anxiety, and beg that you will not think of coming up next week unless you feel that you can do so with prefect comfort. It will not be the least inconvenience to me to take your place; and I am sure that the Senate would fully approve of my doing so. I trust however, that your apprehensions <del>may</del> will have been fully relieved by that time; and as Thursday will be the day of the Philosophical Club Dinner, I hope that you may be able to get up to Town in time to join us there, as I am certain that we shall all be delighted to see you. Hooker will of course be there, <del>unless</del> if all be well. We had a very pleasant visit from him and M. <hi rend="superscript">rs</hi> H. last week, amusingly varied by the circumstance that they came at half past six, instead of half past eight, in consequence of a mistake in M. <hi rend="superscript">rs</hi> C’s note, and naturally expected dinner; whereas my family had dined at one o’clock, and our Hall dinner also was over. They had fortunately had a substantial lunch, and M. <hi rend="superscript">rs</hi> C. <del>ho</del> extemporized as “severe” a tea for them as she could; so I hope they did not go away hungry, whilst we had the pleasure of so much more of their society. We are all quite charmed with your daughter’s good looks—she has never seemed so thriving.</p>
+                  <p>Believe me to be, Dear Henslow, | yours most faithf’y | W B Carpenter</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

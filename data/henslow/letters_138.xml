@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_138.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-138">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. H. Vachell   26 December 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 188</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_27.xml">Vachell, G. H.</persName>
+                <date when="1830-12-26">26 December 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Canton</placeName>
+                    <date>26 December 1830</date>
+                    <salute>Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Originals from H.C.S. “Reliance”. 18 <hi rend="superscript">th</hi> Dec. <hi rend="superscript">r </hi>1830</p>
+                  <p>“Duplicate” Per H.C.S “Canning”.</p>
+                  <p>I just write you a few lines to say that I have shipped on board the “Canning” Two Cases, addressed to you, consigned to my Agent in London M <hi rend="superscript">r</hi> Hebbert 187 Strand, to whom I have enclosed The Receipts for their having been received on board at Whamfua, and duly entered upon the Ship’s “Manifest”: As the Searchers at the Comp <hi rend="superscript">y</hi> Baggage Warehouse, where they will be conveyed, are by no means particular in handling whatever comes under their cognizance, it would be advisable to secure the Attendance of some person who will see that no unnecessary violence is used, when they are opened; I have carefully pasted an Inventory upon the inside of the Lid of each, stating with minuteness the contents. The “Herbarium” which consists of 18 or 19 Packages of Dried Flowers &amp; Plants, cultivated and wild, and some seeds is soldered down in a Leaden Case to preserve them from Damp. In the other package which is covered with Mat, are several Bottles of Specimens of Reptiles, Insects, Fish and Fruit in Spirits, model of a Chinese Lady: Foot – 2 Boxes (of “Crustacea) Shark’s Fin – &amp;c &amp;c – also 80 Small Jars of different Flower Seeds, the latter for the Cambridge Botanical Garden, the former for the Museum of your Philosophical Society – Many particulars repeating the above I entered into, when writing to Leonard Jenyns a short time since. M <hi rend="superscript">r</hi> Reeves who has long filled the Responsible Situation of Head Tea Inspector in China is going home in the “Canning”, and has kindly taken charge of two tail Feathers (each 5 ft.4in. long) of the Splendid Pheasant from the West of China, named after him “Phasianus Reevesii”, under which Appellation it is figured in Gen. <hi rend="superscript">l</hi> Hardwicke’s “Indian Zoology”. M. <hi rend="superscript">r</hi> R. will hand it over to Hebbert – The Hollow Bamboo Cane there is addressed to you for the “C.P.S. Mus:” –</p>
+                  <p>I have now before me an unpublished sheet of a work likely to appear soon, entitled – “an History of the Tribes of Aboriginese living in the Malayan Peninsula”. It was brought me from Malacca; it is written by D. <hi rend="superscript">o</hi> G. M. Ward Assistant Surgeon in the 35 <hi rend="superscript">th</hi> Foot and promises I think to prove a very interesting Production, the 4 Tribes of the Aboriginese live in the dead of the Forest, living entirely on the Fruits found therein, and upon what they take in hunting, – “they neither sow nor plant any thing”. – These wild people have no Religion, nor the slightest idea of a Supreme Being, Creation of the World &amp;c– Affixed to the work will be an Appendix (a sheet of which I have also got.) containing a “Table of Fruits found in the Bazaar at Malucca” it describes no less than 100 different kinds, with the Malayan &amp; Linnaean Names attached. Amongst them is the far famed “Mangusteem”, in speaking of which Dr Ward, observes “it is rather curious that the “Habitat” of it, is so extremely limited, we do not believe “that it extends further Northward than the Old Fort of “Tenasserim, in Lat.11°., 40 <hi rend="superscript">s</hi> and all attempts to cultivate “it on the Continent of India have failed”. I quite forget whether in my Letter I noticed the account given me by the the E.I. Company’s Tea Inspector, of the Tea Plant, He tells me the Black &amp; Green Teas are Two distinct Varieties of the same plant, cultivated in a different way, and grown in different provinces, Those yielding the Green Leaves are so far to the Northward, as to be occasionally covered with Snow. The finest Tea grown in China is reserved exclusively for the Use of the Imperial Family, it is grown in “Yo-Sh^an-Lyes” – and the quantity annually sent to the Emporer at Peking, is 700 Catties (1 lb /3 each) – It is the Pokae Tea of the Hyson Plant. “Lapsing” the famous Grower of Souchong Tea gathers the Leaves (5) Days from the period of their first expansion.</p>
+                  <p>It will always afford me much pleasure to hear from you, and a Letter addressed to me here (with “To the care of M. <hi rend="superscript">r</hi> Hardy, Jerusalem Coffee House Cornhill London) added to the Direction, and put in your Cambridge G P. Office, will be certain of leaving England in the first Ship bound to this part of the world; Hoping that Harriet and her young Family are in the enjoyment of good health, and that this Letter will find you well as it leaves me; I shall only Subscribe myself –</p>
+                  <p>Very Sincerely Yours | Geo. Harvey Vachell</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

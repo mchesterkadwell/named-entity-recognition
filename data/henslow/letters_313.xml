@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_313.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-313">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. E. Bowman   1 March 1841</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 119</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_145.xml">Bowman, J. E.</persName>
+                <date when="1841-03-01">1 March 1841</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Apologises that JSH has not been able to see fossil spike in London, potentially a large <hi rend="italic">Lycopodium</hi>, because it cannot be transported due to fragility. Provides a description and drawing of it.</p>
+                <p>Discusses fossil trees found in his local area and specimens sent to the Geological Society and Robert Brown, together with a paper Bowman has written on them. States that he has found proof of the solid and subsequently hollowed state of the trees from corresponding bands of soft shale. Provides JSH with a brief description and says full details will be given when whole paper is published. States that they give decisive proof of growth where they were found, that they have overturned the scepticism of geologists including John Phillips and Louis Agassiz, and that a miniature model is being made of them.</p>
+            <p>Discusses illustrations of the internal structure of <hi rend="italic">Sigillaria</hi> by Alexandre Brongniart and his wish to see them when published. Also discusses previous drawings of <hi rend="italic">Sigillaria</hi> with leaves by Brongniart and W. Conway. Passes on message from Conway for <hi rend="italic">Fossil Flora</hi> to send someone to do drawings of Bristol fossil collection.</p>
+        </abstract>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Elm Place | Hulme |Manchester</placeName>
+                    <date>1 March 1841</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am sorry you have not been able to see the fossil spike which is still in London, because considering its state, &amp; size (not larger than the clenched hand of a man) I hardly feel that it would be safe to subject it to the risk &amp; contingence of a stage waggon. If injured or lost, I am not aware that there is another to replace it. I want it back much; but my Son is going to Paris shortly, &amp; I have told him to take it with him to shew to Brongniart. If my eyes were as they used to be, I would long ago have made drawings which. w. <hi rend="superscript">d</hi> have rendered it intelligible; but I dare not. It might be a gigantic Lycopodium, or something analogous, were there only one seed or capsule in depth between the axis &amp; the surface, but there are 3, often 4 &amp; they <del>seed? is</del> are globular, &amp; situated on a general receptacle which is apparently a whorled expansion of the central axis. I think the whole spike consists of upwards of 40 tiers or whorls of the seeds (the above scratch is from memory &amp; magnified about twice).</p>
+                  <p>[Drawing captioned ‘longitud <hi rend="superscript">l</hi>. section’]</p>
+                  <p>With respect to the Fossil Trees found in this neighb. <hi rend="superscript">d</hi> it would be quite impracticable to send you any portion that would give you any idea either of their shape or size, and as their interior is only inorganic Sandstone, no structure is visible in them. There is however a good section of one of the smallest at the Geol. Soc. <hi rend="superscript">y</hi> Somerset House, which I sent up when I read my Paper; &amp; I gave Mr. Rob. <hi rend="superscript">t</hi> Brown the portion I took from the interior of a similar tree from the same bed, which when cut &amp; polished, shewed structure. You will see an abstract of my paper in N <hi rend="superscript">o</hi> 69 of the Geol. <hi rend="superscript">l</hi> Proceedings &amp; I see it today also in the new No. of Taylor’s Phil. Mag. which will give you some particulars. Since then, I have obtained another independent proof of the original <del>hol</del> solid &amp; subsequent hollowed state of these trees, from a singular band of soft shale (a, in sketch) [Watercolour sketch] which occurs in one of them &amp; corresponds with a similar band to about 9 feet higher in the section. It would take some time to describe all particulars, &amp; as the whole Paper will be pub. <hi rend="superscript">d</hi> in our Manchester Transact. &amp; probably also in Jameson’s Edinb. Phil. Journal, it will not be necessary; but I give you a reduced sketch. The blue is shale, the brown, sandstone, &amp; black coal, the lowest thin band being that on which all the trees stand <hi rend="superscript">+</hi>– It was W. Hutton who requested drawings of the trees; but I shall give two figures of the most striking with their enormous roots to accompany <del>with</del> my Paper. [+ The roots of this tree are gone] They w. <hi rend="superscript">d</hi> amaze you &amp; are decisive as to the growth upon the spot. They entirely removed Prof. Phillips scepticism, &amp; since his return to York, he has read his recantation of his former opinions respecting them. I took Agassiz to see them &amp; he was delighted, &amp; had no doubt they had grown where they still stand. He assisted me to measure the thickness of the shales &amp; sandstones in the section I have given you, &amp; required no explanation to identify the shale bands a &amp; b– An ingenious modeller here is making a miniature model of all these fossil trees, with the section of the measures in the deep cutting for the Railway, shewing them in situ; and also <del>of</del>enlarged facsimiles of each of the trees, which he will shortly have for sale– Probably when finished, I shall send you an advert of it.</p>
+                  <p>I am delighted to hear that Brongniart has just published illustrations of the internal structure of Sigillaria, &amp; shall be impatient till I see them, which I soon shall, as I have the whole of his published Hist. des Veget. Foss. (15 Nos.) in which they probably appear. But if not, may I beg the favour of your informing me the title of the work, by Post, that I may procure it. I wish his splendid work went on a little quicker, –too sure an omen I fear, of want of support–</p>
+                  <p>In his 13 <hi rend="superscript">th</hi> No. he gives a Sigillaria with leaves, which agree with those of W. Conway, though I think <del>not</del> they (Brongn. <hi rend="superscript">ts</hi>) are not so good– This reminds me that I preferred your request to him and he intends making another drawing of his magnificent Sigillaria, as soon as his other avocations will permit. He says– “Would it not answer the Proprietors of the F. Flo. to send some one to Bristol to make Drawings; they have a magnificent collection of fossils, some most splendid ones, and perfectly new. Mr Stutchbury the Curator suggested this to me last summer, &amp; it struck me at the time of as being a very good suggestion; &amp; I think if Prof. <hi rend="superscript">r</hi> Henslow visited the Institution he w. <hi rend="superscript">d</hi> be of the same opinion”</p>
+                  <p>Believe me my dear Sir |Very sincerely yours | J. E. Bowman</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

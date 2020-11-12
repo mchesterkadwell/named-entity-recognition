@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_56.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-56">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. T. Lowe   30 October 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 68</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_31.xml">Lowe, R. T.</persName>
+                <date when="1827-10-30">30 October 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Madeira</placeName>
+                    <date>30 October 1827</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have deferred acknowledging yr last kind letter till I had a good opportunity of sending another packet of Plants. Thank you most heartily for the parcel of paper &amp;c– It is the best I ever saw for the purpose. It arrived too just when my original stock, wretched stuff as it was, had come to a conclusion. I shall now succeed in the drying part of the business as well to my own satisfaction (as I hope to y. <hi rend="superscript">rs</hi>– &amp; shall not forget how much I am obliged to you for the means.–</p>
+                  <p>I have directed the Box w.ch contains y. <hi rend="superscript">r</hi> packet of plants to the Sec. of the Phil. Soc (meaning y.rself) thinking by that means to save you expences; of carriage &amp;c– Besides the more bulky part of its contents, the 2 Corals are intended for the Soc.; if you will will [sic] have the kindness to present them in my name. The Caryophyllia ramasae is a very fine spec. <hi rend="superscript">n</hi>. &amp; was brought to me with the Animals still alive. The other is rather more frequently brought up here by the Fishermen. It is the Gorgonia verrucosa. I believe Childrien seems inclined to adhere to my original suggestion to him that it is usually allied to G. pustubora of Lu <hi rend="superscript">x </hi> The fact I believe will turn out that the 3 are var <hi rend="superscript">s </hi>of each other.– I have not heard a word from any one about the Trans Bach <hi rend="superscript">lr</hi>  &amp; am therefore at a loss what to do. Have the goodness to tell me when I ought to send my Latin letter; – how it is to be addressed; – in short all matters of form &amp;c– When shall I be entitled to receive the salary, &amp; where am I to apply? Is there no possibility of my being allowed to retain it, beyond next July? It certainly seems hard that I sh. <hi rend="superscript">d</hi> have been kept idle at Cam. a whole year &amp; half waiting expressly for it &amp; making such repeated applications that I was almost ashamed each time to mention the business– &amp; then to be told I might have had it sooner by applying, &amp; to be cut off with one year’s salary. Pray what becomes of the salary for the time it stood vacant? Such an addition to my slender means w. <hi rend="superscript">d</hi> have been most serviceable, both by enabling me to prolong my stay here &amp; to undertake <del>many</del> expeditions w. <hi rend="superscript">ch</hi> I have been obliged to abandon. Another year’s residence w. <hi rend="superscript">d</hi> enable me most satisfactorily to complete my contemplated Fauna &amp; Flora of these Islands for w. <hi rend="superscript">ch</hi> even as it is I have already ample materials; but if I obtain no more than one year’s salary from this appointment, my scheme, w. <hi rend="superscript">ch</hi> I have the vanity the hope might prove useful to the scientific world, will be necessarily rendered incomplete if not altogether abortive.–</p>
+                  <p>[vertical text] Please let me hear from you with all speed &amp; give me a full accounting of y <hi rend="superscript">r</hi>. Bot. acquisitions in France or any other Botanical novelties)</p>
+                  <p>I sent a Box to Sedgwick about 2 months since with a letter but have not yet rec. <hi rend="superscript">d</hi> his answer.– Hooker is going to send me the whole of the Plates of his Folio work on Ferns (now in the course of publication.) They will be of immense service to me here.–</p>
+                  <p>On second thoughts I shall direct the Box to the care of y. <hi rend="superscript">r</hi> Brother. I have put into it a parcel of seeds for y. <hi rend="superscript">r</hi> Bot. Garden &amp; another w. <hi rend="superscript">ch</hi> you w. <hi rend="superscript">d</hi> oblige me by forwarding to Berkeley. I have also put in some Batatas (Convolv. Batatas) w. <hi rend="superscript">ch</hi> are much cultiv.d here &amp; w. <hi rend="superscript">d</hi> be a great acquisition to our stock of Vegetables. I fear however they will not succeed from the length of time they require to remain in the ground;– being planted in March &amp; the roots taken up in Oct – Jan.y. Besides all the Convolv. you know are very susceptible of injury from frost. Perhaps it w.d be worth while to try them. The first year under a frame. Here they do not usually plant the roots; but when these are taken up, cuttings of the long trailing stems are planted in trenches about 2 f.t apart for the next years crop. This I fear will be an insuperable objection to their ever becoming general in England, as they will probably not be found to increase sufficiently fast by the roots to supply the demand at once for the table &amp; for seed. They like a light rich soil.– The Box I shall put on board the Beaufoy expected to sail on the 10 <hi rend="superscript">th</hi> Nov. <hi rend="superscript">r</hi>.– bound for London.</p>
+                  <p>If you are disposed to try one of the Batatas, they require a great deal of boiling, an hour’s at least. Sweet Potatoe is a complete misnomer;– they more resemble Parsnips. They sh. <hi rend="superscript">d</hi> be pared before boiling to make them mealy, boiled quick like Potatoes:– [end of vertical text]</p>
+                  <p>I had a long letter last week from Hooker who seems much pleased with one packet of plants I sent having—several of w <hi rend="superscript">ch. </hi>I am gratified to find he agrees with me in considering as new. I send you spec <hi rend="superscript">ns</hi>. of one of these, Grammitis, N <hi rend="superscript">o. </hi>21. Take notice of the beautiful &amp; rare Lamarckia (Chrysurus, Spr.) aurea , &amp; of Campanula aurea, Habenaria cordata, Carthamus salicifolius, &amp; in the 2 former being rariss.— I shall have some beautiful &amp; rare Lichens Mosses &amp;c. for you in the next package. I have been very successful on the whole, particularly in Zoophytes, Mollusca, Fishes &amp;c— In short I have neglected nothing &amp; have described everything &amp; figured many of my acquisitions. I have nearly completed the Catalogue of Madeira Birds &amp;c with the assistance… [page stuck over one line]… of the Insects. This for L. Jenyns; for whom many duplicates are destined. My kind regards to him &amp; all friends at Cam.</p>
+                  <p>Believe me | y <hi rend="superscript">rs</hi> very sincerely | R. T. Lowe</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

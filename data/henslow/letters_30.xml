@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_30.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-30">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Wilson   20 May 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Warrington Library Archive</repository>
+                    <collection>Wilson Letters H-O</collection>
+                    <idno>Ms 53</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1826-05-20">20 May 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_22.xml">Wilson, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        <change when="2020-08-10" type="footnotes" status="released">Footnotes cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>20 May 1826</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I return you many thanks for your kindness in furnishing me with fresh specimens of the Mespilus Cotoneaster from the Orme's head – which is a very valuable addition to our British flora– I have the greatest pleasure in accepting your offer of becoming my correspondent &amp; shall feel very grateful for any specimens of local plants that you may find sufficient leisure to dry for me– I will in return do my best to diminish your own list of desiderata– I intend in the course of the present year to print a list of my desiderata, &amp; will send you a copy with the addition of a few Welsh plants of which I wish for duplicates– In the mean time however I may say that <hi rend="underline">any</hi>, peculiar to Wales, will be acceptable, duplicates or not– It is preferable (if possible) to make your specimens rather larger– I always carry a tin box with me of the following dimensions, 15 Inches long, 8 broad, 4 deep. This I sling over my shoulder with a leather strap– I find the chalk-paper, used by grocers, to be the very best for drying plants– I will take an opportunity of returning your tin box, when M <hi rend="superscript">r</hi> Warren of Bangor returns, which however I fear may not be for some time– Could you conveniently dry me a few <add>more</add> specimens of the Mespilus, as I shall have numerous friends applying for it, so soon as its discovery becomes known– I sent a specimen to M <hi rend="superscript">r </hi>Curtis who is publishing "British entomology", each plate accompanied by a British plant, so that if it reaches him sufficiently fresh you will soon see it figured– I mentioned the name of the discoverer to him, &amp; gave him an extract from your letter relating to its habitat.– The following plants (mentioned in your list) from Ormes head are found in this neighbourhood viz. Spiræa filipend <hi rend="superscript">ula</hi>. Hippocrepis comosa, Hypocharis maculata, Viola hirta, Orchis pyramidalis, Avena pratensis &amp; flavescens, Scabiosa columbaria, Euonymus europœus &amp; I have found in Kent the Pyrus aria &amp; Epipactis latifolia in abundance, but the rest I do not meet with in this part of the country viz. Potentilla verna, Brassica oleracea, Crambe maritima, Hypericum montanum, Cistus marifolius, Silene nutans, Rubia peregrina, Borago officinalis (query if truly wild?), Arenaria verna, Scrophularia verna, Orobanche minor,– Any of which would be acceptable particularly those underlined– I should like also some Hypocharis maculata, for the purpose of comparison with our specimens – it being so very variable a plant– When you favour me with your desiderata, pray make the the list as copious as possible that I may have the better chance of assisting you either by myself or thro' some friend– I sent some plants to M <hi rend="superscript">r</hi> Robarts which I hope he has received, &amp; I will do my best to collect some grasses &amp; Carices for him this summer as he seemed to wish for some assistance in that department–</p>
+                  <p>Believe me | Dear Sir | Y <hi rend="superscript">rs</hi> very truly | J S Henslow</p>
+                  <p>
+                     <hi rend="underline">Endorsement by Wilson:</hi>[ …] hyperborea is the only British species Known– [ … ] have neither in my collection–</p> 
+                </div>
+            </div>
+
+        </div>
+       
+      </body>
+    </text>
+</TEI>

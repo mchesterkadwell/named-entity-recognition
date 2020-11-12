@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_854.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-854">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From A. Carrighan   Febr. 12. 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:94</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_271.xml">Carrighan, A.</persName>
+                <date when="1826-02-12">12 February 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Brighton</placeName>
+                    <date>Febr. 12. 1826</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>A thousand thanks for your two letters and the lists that accompanied them. Although I had some of the names mentioned in them already in my own catalogue and on good grounds too, of course I am glad to receive the confirmation afforded by their being now found in yours. We seem to going on pretty well - Here, however, I have been able to do nothing - I did hope to get to windward of Cripps for his 2d. vote but in vain. He seems determined to give it to Bankes. The vicar does the same with his, and says that we owe to the Duke of W. <hi rend="underline">entirely</hi> his promising the first to Ld. P. The other clergymen of the place are vote-less, if I except Siverwright of Trinity who may be by this time an elector, although not now a star in the Inclose. I know nothing about him, but that I constantly see him in Anticatholick company.</p>
+                  <p>I leave this place tomorrow, and shall be in Cambridge about the 20th. or 21st. If you can afford me another bulletin this week, merely put Revd. A. Carrighan Committee room, and I shall be sure to get it. Hole is still alive, &amp; at the present moment a very little easier; but I imagine his case is a desperate one - kind rememberances to all friends,</p>
+                  <p>ever yrs</p>
+                  <p>Carrighan, A.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

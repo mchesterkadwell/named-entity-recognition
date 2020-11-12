@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_44.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-44">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Robert Graham   6 March 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 51</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_30.xml">Graham, Robert</persName>
+                <date when="1827-03-06">6 March 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Edinbr</placeName>
+                    <date>6 March 1827</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am really ashamed when I look at your unanswered letter &amp; see it dated the 11 <hi rend="superscript">th</hi> January.– As I doubt whether I should be able to offer an apology at all satisfying to you, tho’ it may be somewhat soothing to my own conscience, I shall keep it entire for application in that quarter where its virtues are most likely to be medicinal, (for to say truth they are not strong enough to bear division) &amp; shall proceed directly to answer, as this I can, your queries– We have in the Botanic Garden here about 11½ Scotch acres. The Scotch acre is one fifth, or one 6 <hi rend="superscript">th</hi>–, I forgot which, longer than the English. We have one range of nursing pits, I believe about 70 feet long; one range 15 feet high in the back wall, <del>&amp;</del> 15 wide, &amp; 100 long, divided equally with three houses, viz a stove &amp; two green houses; &amp; lastly we have a range of 4 detached houses, the two nearest the centre are I think 50 feet long each, 18 feet in the back wall, 7 feet in the front &amp; 18 feet wide, &amp; the two at the ends are <add>each</add> ab. <hi rend="superscript">t </hi> 40 feet long</p>
+                  <p>I think 15 feet in the back wall, &amp; <del>the two first of these 4 Stoves</del> 5 feet long in the front, the width 18 feet– The two first of these 4 stoves, the others greenhouses. This, excepting some hot beds, is all the glass we have:– a great deficit is the want of two loftyhouses, the one for green house, the other for stoveplants. The fixed salary of the Curator is £100; he has besides some fees from the students attending my lectures, which vary with the number of these, but may be taken at £50– The number of under Gardeners varies with the season. We cannot afford a sufficient number, but ought not to have less than 12.– The Botanic Garden is Royal Property, partly supported by the Crown, partly by the Incorporation of the City, &amp; in great part I am sorry to say out of my own pocket. The whole allowances made to me are £444 per annum &amp; we are starving, tho’ I subscribe, to prevent our going to ruin, ab <hi rend="superscript">t </hi> £200 per annum– I hope these answers to your queries will be thought by you sufficiently explicit. I shall have singular satisfaction in explaining to you every thing in detail when we visit the Garden itself, after our first trip together to the highlands–</p>
+                  <p>Believe me yours most truly | Rob. <hi rend="superscript">t </hi>Graham</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

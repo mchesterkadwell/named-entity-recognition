@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_494.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-494">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Henry Philpott   15 February 1858</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 258</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_213.xml">Philpott, Henry</persName>
+                <date when="1858-02-15">15 February 1858</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>15 February 1858</date>
+                    <salute>My dear Professor</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>You are, not doubt, aware that the Cambridge University Act 1856 provided (sut 47) that the Stamp Duties on Matriculations &amp; Degrees should be abolished as soon as provision should be made by the University to the satisfaction of the Lords of the Treasury, for the monies heretofore voted by Parliament for the Salaries of certain Professors, of whom you are one.</p>
+                  <p>In order to take advantage of this provision the University passed a Grace (Dec 10 1857) to pay the salaries in future from the Common chest; &amp; the Lords of the Treasury have given directions accordingly that the Stamp Duties should be abolished from &amp; after April 1 1858. They say that this date as determined because the Salaries are already paid, by the last vote of Parliament on the Subject, up to March 31, 1858.</p>
+                  <p>As it will probably be convenient that the Salaries should be paid halfyearly, I purpose to pay the first halfyear’s Salary from the chest to you on Sept 30 1858. This payment will be for the half year then expired; &amp; succeeding Vice Chancellors will probably continue the payments regularly on March 31 &amp; Sept 30 in every year. I hope this arrangement will be satisfactory to you.</p>
+                  <p>I am | my dear Professor |yours very faithfully |H Philpott V.C</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

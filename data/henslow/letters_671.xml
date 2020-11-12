@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_671.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-671">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From W. Brougham   1840</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 44</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_250.xml">Brougham, W.</persName>
+                <date notBefore="1840-01-01" notAfter="1840-12-31">1840</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Unable to visit JSH as has been ordered to Hastings for health reasons related to ‘nerves’, brought on by stresses including his mother’s death and poor physical health.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>South.n R.w</placeName>
+                    <date>Monday 30.th</date>
+                    <salute>My dear Slow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                    <p>Few things w. <hi rend="superscript">d</hi> give me more delight than to pay you a visit—lectures included— &amp; I know &amp; feel, that if I had not been <hi rend="underline">ordered </hi>to Hastings, it w.d have done me more good than any thing else, to have been home idle with you &amp; Calvert for a few weeks— The truth is that I have had a good deal to wrong me of late— &amp; what with my mothers death &amp; various other anxieties, I have had rather a climax of troubles within the last few months— I presume the partial paralysis of some of the nerves brought on <del>last</del> Jan. <hi rend="superscript">y</hi> 1839 either by a severe chill or by sleeping for some weeks in a house full of fresh paint &amp; painters, has by degrees extended itself to other parts of the system, &amp; that the increasing ill health I have felt lately, has been in <del>great</del> great measure sympathetic with the decayed nerves— All this has been made worse by worry— &amp; therefore I anticipate considerable advantage from shaking the dust off my shoes against the door of this place &amp; picking up shells at S. <hi rend="superscript">t</hi> Leonards.</p>
+                  <p>I hope to get away on Thursday next or at all events on Friday-- &amp; to be absent about 3 weeks—</p>
+                  <p>All this will prevent me going as I ought to do to Westmorland— &amp; therefore I shall be obliged to take the 5 days holiday at Whitsuntide for that purpose— so that I see no prospect whatever of getting any further absence from my work during the remainder of the Summer— [rest of letter missing]</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

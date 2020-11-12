@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_649.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-649">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Belper   29 August 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 22 &amp; 22(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_244.xml">Belper, Lord</persName>
+                <date when="1856-08-29">29 August 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Invites JSH to visit him in Derby area to investigate two sites of possible archaeological interest: potential Roman remains on the banks of the River Derwent opposite Little Chester; a barrow in Tugford that looks to be unopened.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Kingston | Kegworth | Derby</placeName>
+                    <date>29 August 1856</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>When I had last the pleasure of seeing you in this part of the country, I did not expect that so long a time would elapse before we had the pleasure of seeing you again. I have been often intending to write to you to inquire whether there was any chance of you visiting this neighbourhood, &amp; I am now disposed no longer to defer doing so, as I believe that I have two inducements to offer you.</p>
+                  <p>1. Soon after you were last with us, I had some large trees removed to this place from a grove, at a short distance from Derby, belonging to my house at St Helens, where we were then living.  On the arrival of one of these trees at this place, there tumbled out of the ball of earth surrounding the roots the fragments of a Roman vase of red glazed pottery; I believe of the kind which is called Samian ware. The grove in question is near to the banks of the Derwent &amp; opposite to the village of Little Chester, which was a Roman station, &amp; where there was a bridge over the river; &amp; a Roman paved road was found many years ago near the grove <del>in question</del>. I have kept the fragments, &amp; I have not allowed the ground to be disturbed near the place from which the tree was taken, being in hopes that I should have an opportunity of making a further search with your assistance</p>
+                  <p>2. I can also offer you another opportunity of some antiquarian examination in the neighbourhood. A friend of mine, a M <hi rend="superscript">r</hi> Bristow, a young Barrister in the Midland Circuit, has some property at Tugford, a village on the Trent, about 7 or 8 miles from Derby, He tells me that on this property there is a Barrow which he believes has never been opened; at least there is no record or appearance of its once having been meddled with. He is now intending to part with the property, &amp; he is anxious that the Barrow should be previously examined. I believe that some time in the course of the next month would suit him best for the examination, at which of course he would like to be present.</p>
+                  <p>I think it best to tell you exactly what I know of these two cases, as you will be best able to form an opinion as to the probable results of an examination. But if it should happen to suit you to be in this part of the country at any time in the course of the next four or five weeks, my wife &amp; I would be delighted if you could pay us a visit here for as long a time as you can. Indeed almost any time for some months to come will suit us, but M <hi rend="superscript">r</hi> Bristow’s time is more limited.</p>
+                  <p>Hoping that we may have the pleasure of seeing you</p>
+                  <p>I am, my dear Sir | yours very faithfully | Belper [late E. Strutt]</p>
+                  <p>I think it is safest to add my old name, lest you should not know me by my new one</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_20.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-20">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   26 July 1824</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 23</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1824-07-26">26 July 1824</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Sussex Hotel | Tunbridge Wells</placeName>
+                    <date>26 July 1824</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I should think by this time you are perhaps expecting to hear something of what I have done, and as I have just been driven in by the rain (of which however I must not complain—till now not a drop has fallen since I left London) I cannot find a better opportunity for giving you some detail of my proceedings. If I were asked in a general way whether I gotten many new plants I should say I had, &amp; that I should be able to add a great many things to my own collection, perhaps quite as many as I ever expected to do this time when I cannot be said to have hardly begun botanizing yet here which is the chief place I ever had in view:— But whether I shall add anything to your collection already so extensive compared with mine is a very doubtful point. I trust however that I shall do even this in one or two instances.— The following are a few things which I remember amongst others:— the word <hi rend="underline">new</hi> means that I never had or found before.— ….</p>
+                  <list rend="ordered">
+                     <item>A new Scirpus or Schoenus.—</item>
+                     <item>Veronica montana — very scantily at Hastings</item>
+                     <item>Beta maritima — I believe but am not certain</item>
+                     <item>A new Umbellif. — most probably Oenanthe croc</item>
+                     <item>A new Linum.—</item>
+                     <item>Two or three new Arenarias</item>
+                     <item>A new Thlaspi— a nice thing.—</item>
+                     <item>Genista tinctoria— I rather think</item>
+                     <item>A new Cardamine — most prob <hi rend="superscript">ly </hi> hirsuta</item>
+                     <item>A new Hieracium - seems to answer to sylvaticum</item>
+                     <item>Carduus tenuiflorus — I am almost certain — rare</item>
+                     <item>Prenanthes muralis - several very nice specimens</item>
+                     <item>Ornithopus perpusillus - I had none before...." </item> 
+                  </list>                    
+                  <p>Besides these I have no doubt there are a few which I have forgotten.– also a lot of grasses, all new to me, some of them probably maritime.– 3 or 4 new ferns.– a tolerably sized packet. of nice conferva, ulva from Hastings, amongst which are some nice ones: – I did them all up separately as carefully as I could &amp; the time would allow, but they were all very wet &amp; it is very doubtful what state they will be in when I open them again.– Considering however the short stay I made at Hastings it was impossible to procure them on any other terms so that if they all spoil before I get home to open them, – we must suppose I never got them at all. – also a small packet of lichens from the rocks by the sea coast – also 3 or 4 new Diadelphia plants which I cannot name , one of which puzzles me exceedingly. – I trust however that my best Botanizing is yet to come – I arrived here on Saturday evening– yesterday (Sunday) did nothing. – This morning I went out at 10 intending to go to Frant across Waterdown forest, but had not got a mile before the rain turned me back, so that this will be a blank day, with the exception of what I got in this mile, which I don’t dispise – viz: Galium saxatile, -Senecio sylvaticus, a nice moss decidedly new to me, &amp; a beautiful little waterplant growing in boggy places by the side of the road, which I don’t know at all unless it is Peplis portula.--- On the whole my tour has turned out ten times better than my best expectations, &amp; I have been very much pleased with all I have seen: To say the truth, before I started I was rather uncertain about the result as I have never tried anything of the sort before, &amp; was going all alone;- but everything has turned out so well – the weather has been so fine - &amp; my health &amp; spirits so good that I never enjoyed myself more in my life.– If I have been <del>diss </del>disappointed in anything I think it is in my not having found more maritime plants at Hastings: tho spent one of the most laborious days in clambering over the cliffs &amp; rocks for some distance both above &amp; below the town, I could find no traces of the Eryngium, or anything else of consequence except this thing which I suppose to be Beta marit. &amp; also a plant (which by the by I forgot to mention before) that I cannot help fancying to be Crithmum marit.– None of it however was in flower though in pale bud.– It grew on the steepest declivities hanging over the sea, &amp; very little of it was accessible; I bought away a couple of specimens.–</p>
+                  <p>The last letter I wrote to Ely was from Hastings, &amp; I shall not write again there perhaps for some days; so that by next communication send them word that you have heard of me at Tunbridge Wells.– Oh what [a] nice place this is, – so beautiful at this time of year, that I forget that I [page torn] &amp; cannot hold my tongue – I certainly am rather in want of somebody [page torn] out to every minute.– I came by your orders to the Sussex Hotel, where [every] thing is very nice certainly, but things are so magnificent, that I shall be [page torn} [frighten]ened out of my wits when I ask for my bill.– the coffee room is quite [page torn] – I am not however much in it. – The place seems full, &amp; the people [page torn] very gay.– a band of music plays 4 times a day just opposite [page torn] for an hour at a time which is delightful.– The theatre is open and I have some thoughts of going to it tonight, as I shall have no plants today, &amp; not much else to do.– But the roads are so abominably sandy &amp; dusty that they are scarcely walkable: they beat everything I ever saw in my life, really every step one takes raises such a cloud, that it is like walking in a box of pounce.–I shall stay here till Friday, on which day I intend to be off for Rochester, &amp; have written them word to say so, under the idea that you have already said something about it before, as you promised.– whilst there I should be glad to hear from one of you as I have not had a line from a soul since I left home.–When my departure for Cambridge is finally fixed, you will hear from me again as I shall dine with you on that day, &amp; sleep in your spare bed if empty, if not at the Sun: on which occasion all further particulars relating to my extensive travels shall be full revealed to you both.–</p>
+                  <p>Believe me, your’s very affection<hi rend="superscript">ly</hi>
+                  </p>
+                  <p>L. Jenyns</p>
+                  <p>P.S. All the plants which I had gotten up to Saturday last, together with the marine algae, I sent off from Tunbridge town to London at which place I spent one night.– I hope they will arrive safe.– Love to Harriet; &amp; tell her my hands are quite nutty brown.–</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

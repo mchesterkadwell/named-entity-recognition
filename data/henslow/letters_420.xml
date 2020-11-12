@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_420.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-420">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Horner   18 November 1855</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 180</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_131.xml">Horner, Leonard</persName>
+                <date when="1855-11-18">18 November 1855</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>17 Queen’s Road West | Regent’s Park | London</placeName>
+                    <date>18 November 1855</date>
+                    <salute>My Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have two Letters to thank you for. I am sorry that we did not see you while you were in this region, but I hope that the next time you come to town you will reserve a day for us, and if our spare-room is then unoccupied, which it is not at present, that you will give us the additional pleasure the longer stay &amp; especially the talk at breakfast affords.</p>
+                  <p>I shall hope to hear from you when you have got an answer to your inquiry about the human jaw in the Chemists possession at Ipswich. I would give very large odds against its having any geological value. I should like much to hear your account of your visit to Paris.</p>
+                  <p>I am always glad to hear of your giving lectures to the rural population, for you can never fail to do good &amp; make a lasting impression. I rejoice at the many instances we now have of persons of accomplishment &amp; of influence in society coming forward in this way, and one of the good effects may be to create such a demand for instruction among the middle classes, as may lead to the permanent establishment of schools of a higher order open at such times as will suit the necessary engagements of that class of the people in their ordinary occupations.—Your diagrams for the Marlborough House establishment will be very valuable.</p>
+                  <p>I hope you have seen Lord John Russell’s lecture in Exeter Hall last week. It is in The Times copy of the 14 <hi rend="superscript">th</hi>—</p>
+                  <p>Have you ever thought of giving a lecture on Ventilation and fireplaces? You might do much good—See Dr Arnott’s recent Book on this subject. I have just put up one of his grates in which the fuel is supplied from below, &amp; so far as we have yet had experience of it, it answers well: more heat with less fuel than a common grate &amp; no smoke.</p>
+                  <p>Our kind regards to M <hi rend="superscript">rs</hi> Henslow and all your circle</p>
+                  <p>faithfully your’s |Leonard Horner</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_546.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-546">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Richard Owen   4 February 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 240</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_151.xml">Owen, Richard</persName>
+                <date when="1860-02-04">4 February 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Sheen Lodge | Mortlake |Richmond Park [letterhead]</placeName>
+                    <date>4 February 1860</date>
+                    <salute>Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>A careful Assistant in the Geol. Department will proceed, one day next week, to Stanway &amp; superintend the packing of the Museum, Books &amp; Philos. <hi rend="superscript">l</hi> Instruments. He will require the assistance of a Carpenter, for which he will pay, to inclose the cabinets in a defensive kind of ‘crate’, suitable for protection by luggage train.</p>
+                  <p>Perhaps M. <hi rend="superscript">r</hi> Laing could recommend a suitable handicraftsman to proceed, with his tools, from Colchester, in company with our M. <hi rend="superscript">r</hi> Davis to Stanway. I will direct Davis to call on M. <hi rend="superscript">r</hi> Laing in Colchester, for this purpose, on his way to Stanway: and I will give Davis a note to M. <hi rend="superscript">r</hi> Wagstaff. This, I presume, will meet all the exigencies of the case.</p>
+                  <p>The estimate &amp; catalogue can only be made here, as we unpack and examine the specimens. As soon as completed it shall be forwarded to M. <hi rend="superscript">r</hi> Laing.</p>
+                  <p>I assure you I read with interest M. <hi rend="superscript">r</hi> Gwatkins’s Essay: it was impossible not to see in it the thoughts of a very superior mind. It seems to me, indeed, to be lost time to attempt to reconcile what at present is irreconcilable; and the very brief period allotted to our finite operations is better applied to the establishment or advancement of either religious or natural truths. But to assail the foundations of the former, by speculations however ingenious, &amp; by hypothetical conditions and collocations, seems to be a worse waste of time than attempted reconciliations.</p>
+                  <p>Believe me, | Ever truly your’s, | Richard Owen.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_354.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-354">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Joseph George Cumming   2 October 1850</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 104</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_158.xml">Cumming, Joseph George</persName>
+                <date when="1850-10-02">2 October 1850</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>King William College | Castletown |Isle of Man</placeName>
+                    <date>2 October 1850</date>
+                    <salute>Rev <hi rend="superscript">d</hi> &amp; Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>By an advertisement in the Times I learn that the Council of the Royal Agricultural Society Cirencester intend after Xmas to establish a School for Boys under 17 as in-students of the College. A Clergyman is wanted as Principal. I am very anxious to be in a drier climate than this, a more scientific neighbourhood, &amp; within reasonable distance of London &amp; the Universities &amp; this appointment would suit me in every way. At the same time an Experience of upwards of 15 years in Tuition &amp; the management of Boys assures me that I could undertake it in the confident anticipation of success &amp; the approval of the Council.</p>
+                  <p>I do not yet know who forms the Council, but I take the liberty of writing this early to yourself to solicit your kind interference in my behalf should you know who the members of it are &amp; if you are personally acquainted with any of them.</p>
+                  <p>I received last week a letter from my uncle Professor Cumming &amp; was very glad to learn that at his age he is so strong &amp; well &amp; able for his duties. I had a good report also of M. <hi rend="superscript">rs</hi> Cumming &amp; the young ladies.</p>
+                  <p>Believe me, Dear Sir | Very faithfully yrs | J G Cumming</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

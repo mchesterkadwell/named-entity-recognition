@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_179.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-179">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From E. B. Ramsay   3 August 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 219</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_102.xml">Ramsay, E. B.</persName>
+                <date when="1831-08-03">3 August 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Duneaves | Aberfeldy</placeName>
+                    <date>3 August 1831</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>You have learnt from my sister the afflictive dispensation with w. <hi rend="superscript">h</hi> it has please God to visit us – I can say with an assurance of being fully understood when I say to you – that such a friend &amp; such a brother is not often the object of human grief – I feel most deeply – but on looking back on the past much appears of a pleasing character &amp; many things call for my gratitude &amp; praise to almighty God. Of these the chief is the lately increasing seriousness of my brother. He came into it gradually &amp; happily – much of his conversation took a serious turn &amp; his Bible was a constant companion – Now allow me to say that I have frequently remarked how much your influence under God contributed to this – yes! I say it without hesitation that I perceived the influence of your pious &amp; judicious Christian sentiments on all occasions Oh Henslow he was much attached to you he loved you he admired you &amp; he learned from you. I have been much pleased in hearing from my sister of the serious turn his conversations took here &amp; that not at all in the anticipation of his end, for he never thought himself in danger &amp; indeed the medical man never thought of danger till within 24 hours of his death – He was certainly ill when I was at Cambridge – &amp; the organic disease had commenced its effect – but who could have anticipated so rapid a progress of that fateful work – I am desirous of availing myself of your kind advice – &amp; perhaps you can direct me how to proceed. I would willingly spare myself the pain of a visit to Camb: but if necessary of course I must not hesitate. I will not find any unnecessary tax upon your time &amp; your friendship &amp; look rather for your advice &amp; direction – He made a mem: of his disposition of effects &amp; I believe I am left his executor. I know he left me his books – I have been talking with my mother &amp; sister about what little remembrance of him you would like to possess. We all agree that you shall be requested to take his chimney piece clock for that purpose – Let me request of you to remove it at once &amp; when you look at it you will think of a friend – a more sincere &amp; a more attached one no man ever possessed–</p>
+                  <p>Dear Henslow believe me | yours sincere. &amp; affect. <hi rend="superscript">l</hi> | E.B.R–</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

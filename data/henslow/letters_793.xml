@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_793.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-793">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Palmerston   16 Jany 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:33</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_265.xml">Palmerston, Lord</persName>
+                <date when="1826-01-16">16 Jany 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+    
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Stanhope St.</placeName>
+                    <date>16 Jany 1826</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Pray never make any ceremonies as to telling me exactly what you or my other friends at Cambridge think, &amp; be assured that I shall always consider those as my best friends who speak to me most plainly &amp; openly upon matters which concern me. There is no greater mistake than concealing from a person to whom one wishes well any sentiment or opinion out of delicacy, when its expression might be of use to them, &amp; therefore I really &amp; truly feel very much obliged to you for the hints you have given me. The fact is that I have had some difficulty in organising a committee almost all my own personal friends whose attendance I could naturally have relied upon are at this time out of town &amp; I did not like to begin with a committee entirely strangers &amp; chiefly opposition men; we have however commenced today &amp; I have got both the Grants to attend &amp; I trust we shall make more rapid progress. I have been incessantly occupied in writing to everybody to whom I could advantageously apply &amp; hope that I have been doing good.</p>
+                  <p>I send you a list of additions to be made to our List of Promises. This brings us to 364, and whatever our adversaries may boast of I don't think this at all a number to dispair upon with our prospects of progressive increase; there are a great many persons whose names are not in the list whose votes we may almost rely upon and I trust we shall not be very long in working our way up to 500.</p>
+                  <p>The name of Egremont was sent me by Sir Gregory Lewin but it is probably some mistake.</p>
+                  <p>My dear sir</p>
+                  <p>Yrs very sincerely</p>
+                  <p>Palmerston</p>
+                  <p>I have put into my list Antrobus &amp; Abdy whom I conclude Carrighan has sent you.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

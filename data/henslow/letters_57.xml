@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_57.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-57">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. K. Greville   4 November 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 69</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_50.xml">Greville, R. K.</persName>
+                <date when="1827-11-04">4 November 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>4 November 1827</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Sidmouth</p>
+                  <p>We have now been settled in our new quarters for a week and have every reason to be satisfied with the place and the neighbourhood which is saying a great deal for a sea-side residence. What is particularly pleasing to one is, that there is wood down to the coast, for one commonly sees a few half starved trees with their branches all directed landwise as if imploring to be removed. We have taken a very comfortable house for 5 months at least, at a rent of 2 guineas for each. It is curious that the great storm which occurred about 3 years ago has had a permanent effect in reducing the prices of houses. In the town itself this is not to be wondered at for most of it stands below the level of the sea – &amp; at the period I allude to, stood for some time 5 feet in the water.</p>
+                  <p>I find I am quite too late for all phanerogamous plants. Vegetation being more advanced than within the country. I have got a specimen or two of Phascum muticum &amp; mean to find more. A good stock of Aspidium aculeatum is under pressure. In marine plants I expect a good harvest. I have already seen Sphaerococcus Griffithsiae and palmetta growing which I never did before. I have also the fruit of Griffithsia equisetifolia not yet described in any british work and a new Conferva &amp; a new <hi rend="underline">? </hi>Sphacellaria both growing upon <del>up</del> Fucus loreus<hi rend="underline"> (</hi>which is cast ashore here <hi rend="underline">copia incredibile.</hi> M <hi rend="superscript">rs</hi> Griffiths has brought the whole of her collection with her – It is singularly rich in the many states and appearances assumed by our rarest Algæ<hi rend="underline">.</hi> All this has determined me to purchase materials for a work on british Algae, in the manner of Muscologia Britannica – only of giving plates of all of the species , it will be sufficient to illustrate the genera<hi rend="underline">.</hi> I may never have such an opportunity again - &amp; I can do so much this winter towards it that no very little labour will subsequently be necessary to throw the whole into form. I do not like to call it <hi rend="underline">Apologia </hi>from the evil combination of Greek &amp; Latin as in Muscologia. <hi rend="underline">Hydrophytologia </hi>seems rather too long &amp; pompous for british ears – does it not? <hi rend="underline">Algae britannicae</hi> does not quite please me. If any other titles occur to you pray mention them.</p>
+                  <p>A few days ago, I got a letter from Hooker who is in London. He has not yet made up his mind about removing. He says that Franklin’s party has done great things in the way of botany, &amp; also Douglas. He is to have the describing of the collections.</p>
+                  <p>A small parcel of ferns is just come to me from St Helena – and Hooker says he has received another, addressed to me from the Andes.</p>
+                  <p>I am sorry to say I left your hospitable roof without paying for a letter– I will do my best to recollect it when I have the pleasure of seeing you in Spring. Be so good as to present our united very kind regards to Mrs Henslow and remember me <del>other</del>to the gentleman you introduced me to – indeed to Prof. Sedgwick you must give many kind messages from the whole of our party–</p>
+                  <p>I am My dear Sir | very faithfully yours | R K Greville</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

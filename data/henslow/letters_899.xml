@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_899.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-899">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Palmerston 22 April 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:139</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_265.xml">Palmerston, Lord</persName>
+                <date when="1826-04-22">22 April 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Stanhope St</placeName>
+                    <date>22 Ap 1826</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have very many apologies to make to you for having been so long silent &amp; for not having replied to several letters which I have received from you, but the real fact is that I have been so much occupied by an accumulation of official business which had been growing up while I had been engaged with my canvass &amp; afterwards with my Estimates in Parliament, &amp; I have also had so much to do in attending the House of Commons not only in the evening, but in the morning at several Committees of which I have been a member that I really have put off from day to day various matters to which I ought to have attended, &amp; among others thanking you for your communications.</p>
+                  <p>I wrote a few days ago to the Vice Chancellor upon the subject to which your publication relates &amp; I trust that my letter has been thought satisfactory; I think that under all circumstances it would be better that I should not frank copies of the Pamphlet as it might perhaps be construed by Bankes &amp; his friends as too active an interference on my part in a matter in which as a candidate I ought only to be acquiescent &amp; passive and as we receive support from some who make Bankes also their object I had better perhaps avoid giving any of his friends a pretence for withdrawing.</p>
+                  <p>I am going to get to work again at Cambridge affairs next week. It is quite clear that the election will be before the Commencement &amp; that we must not count upon inceptors; ommitting them, I have on my list 609 votes, of these at least 90 will probably not be present but against them maybe set an equal number who will vote for us but whose names we have not yet got and I think we may fairly reckon upon polling from 600 to 620 votes as our canvass at present stands.</p>
+                  <p>I should say that in all probability 650 votes polled would do, but much less than that number would I think be doubtful.The lawyers are returned &amp; some friends of mine are in Town &amp; we shall turn to it next week &amp; see what can be made out of the undeclared voters.</p>
+                  <p>My dear Sir</p>
+                  <p>Yrs sincerely</p>
+                  <p>Palmerston</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

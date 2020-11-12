@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_108.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-108">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. T. Lowe   12 January 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 133a</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_31.xml">Lowe, R. T.</persName>
+                <date when="1830-01-12">12 January 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Madeira</placeName>
+                    <date>12 January 1830</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have been very busy all morn. <hi rend="superscript">g </hi>packing up another large box besides the one of birds mentioned in a former letter. Most unfortunately for the birds (w. <hi rend="superscript">ch</hi> have been ready packed more than a month, the vessel that takes them has been delayed all that time in port by the bad weather. I cannot help being afraid they may have taken injury, yet every precaution has been taken to preserve them all this time from damp, insects &amp;c so that I trust they will reach you in good condition. The piece of Coral <del>Goryonia verrucosa</del> in this box is for yrself. The other box contains, Branch of Dragon tree (fresh &amp; green) with ripe fruit – Jar of fish No. I. – D <hi rend="superscript">o</hi>. N <hi rend="superscript">o</hi>. II. – Jar A. 2 ripe Mangoes (Mangifera indica) Bottle B. Flowers of Teucrium abutiloides. – [Torn and ill.] Fruit of Ardisia excelsa D <hi rend="superscript">o</hi>. D. Oil extracted from the berries [of] Laurus (Persea) canariensis. – E. Fruit of Ficus stipulata &amp; Dracaena Draco. -- F. Fruit of Vaccinium padifolium Sm. (V. maderense Spr.). – Spec <hi rend="superscript">m </hi> of Antipathes, scapania Lam. <hi rend="superscript">x</hi>? attached to a rock. – Spec <hi rend="superscript">m</hi> of the Canical concretions; see Bowd. Suppl.</p>
+                  <p>The Birds, Fish N <hi rend="superscript">os</hi>. I &amp; II., Bottles N. <hi rend="superscript">os</hi> B, C, D, E, F, Antipathes &amp; Canical concretions are for the <del>[ill.del.]</del> Philos. Soc. (you of course making first what use you please of them). -- The Fish sh <hi rend="superscript">d</hi> be dispersed each in separate Glass jars as soon as poss: my tickets must be left on them that I may hereafter be able properly to arrange them. Several of them are new. I shall now keep sending more to make a complete Collection. I sh. <hi rend="superscript">d</hi> wish all my things both now &amp; hereafter to be left as much as possible together till I can come when the whole is completed to arrange them myself.– I am wishing much to hear from you. Kind regards to all friends, particularly L. Jenyns &amp; tell him it annoys me that I cannot reply to his last letter this time. Both boxes are dedicated to y. <hi rend="superscript">r</hi> brother’s care. Freight paid for both. viz 1£ 10s.</p>
+                  <p>Y. <hi rend="superscript">rs</hi> ever sincerely | R. T. Lowe</p>
+                  <p>[reverse] C. Inn Tuesday</p>
+                  <p>dear John</p>
+                  <p>As directed I have stripped this half sheet of its outer clothing which I have sent to the Custom House Gent.- with instructions to forward<del>same</del> cases to you with all the dispatch immediately- We are all quite well – love &amp; - Your affect <hi rend="superscript">e </hi> brother</p>
+                  <p>S. W. Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

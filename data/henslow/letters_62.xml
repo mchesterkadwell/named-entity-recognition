@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_62.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-62">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From B. Leadbeater   15 January 1828</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 72</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_40.xml">Leadbeater, B.</persName>
+                <date when="1828-01-15">15 January 1828</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>19 Brewer St | Golden Square | London</placeName>
+                    <date>15 January 1828</date>
+                    <salute>Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I rec’d your Letter dated the 10 <hi rend="superscript">th</hi> of this Month closing our agreement for the Collection of British Birds and have sent answers to those Gentlemen who had written to me respecting them “that they are sold”– I have no objections to keep them a short time as you had better endeavour to get as many Subscriptions as you can for when your Gentlemen see the 10 large Cases that are completed , they will be anxious to have <del>to have</del> the reminder fitted up in the same manner and in uniform Cases, if you do that, and the Specimens you collect in future (are as fine as those you have just bought) to finish the Collection complete, you will have the finest Collection of British Birds ever made in this Kingdom, I am certain there are none to be compared to those you have now agreed for, “at this present time”, – Mr <hi rend="underline">Lombe</hi> of Melton Hall – Norfolk – has the next best Collection of British Birds in England that I know of – I think it would be adviseable for your Counsel to adopt some Person to come and give such orders respecting the remainder of them, as there are a great many Birds in similar Cases to those you have already got which must be sent in large Packing Cases as before– the 10 large Cases are 3 feet 10 Inches Square those are completely finished and at no expence to pack them, except a Carpenter a short time to fix some Screw plates on, them which are made for the purpose, those I will lend you on those terms that you will return them free of expence to me when finish’d unpacking– there is likewise other 2 Cases the same size as the 10 cases before mention’d, which the former proprietor thought he could Mount when Stuff’d equally to the 10 cases which I fitted, being anxious to have them sooner than I could spare time to fit them up but finding them not so easy as he thought he did not complete them to please himself, one of those contains the finest Collection of small British Birds I ever saw, and the other Case for the Corvus Family these 2 cases should be remounted to correspond with the other 10 cases, those I showed to Mr Jenyns,– as to the room they will occupy I cannot say, as it depends on the height you put them upon each other , if your Counsel should think proper for me to pack the Collection and send it as it now stands, or make any alterations they wish I will do it with the greatest pleasure, on the most reasonable terms, not to injure myself, if I hope that in 6 weeks or 2 months from this Date you will be able to make ready for their reception– the Specimens that are out of Cases must be kept in some Store Case, until you get such Specimens as will make the familys complete to fill a Case as before, your answer to this, as soon as convenient that I may make any preparation will greatly oblige</p>
+                  <p>Your most obedient | Humble Servant | B. Leadbeater</p> 
+                    <p>Addressed to Henslow: favour'd by the Provost of Kings</p>
+                    <p>Professor Henslow</p>
+                    <p>Philosophical Society </p>
+                    <p>Cambridge</p>
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

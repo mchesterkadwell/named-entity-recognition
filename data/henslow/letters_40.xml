@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_40.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-40">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. H. Vachell   1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 163</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_27.xml">Vachell, G. H.</persName>
+                <date notBefore="1830-01-01" notAfter="1830-12-31">1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>Sunday–</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I wrote some days ago to a friend of mine telling him to send you the Herbarium I had left with him. On each page I amused myself with scribbling such particulars as suggested themselves to me – perfectly ignorant of Botany – as likely to be of use, but I doubt whether you will find them so. The plants w<del>h</del>ere all gathered in Tasmania (vulg. V. D. Land) &amp; the greatest part in the neighbourhood of Oatlands, my residence in the centre of the Island. Will you be good enough to let me know what particulars would be useful to a man of science <del>ill del.</del>and which could be collected by one perfectly ignorant – as I am. I mean with regard to Botany, as perhaps when I get among the Jungles of India, I may take it into my head to collect again. Adieu, remembrances to all–</p>
+                  <p>Believe me |Truly Y <hi rend="superscript">rs </hi>|Harvey Vachell</p>
+                  <p>Appended:</p>
+                  <p>The Seasons in Tasmania are</p>
+                  <p>Spring – Sep. <hi rend="superscript">ber</hi> Oct. <hi rend="superscript">ber</hi> Nov. <hi rend="superscript">ber</hi>
+                  </p>
+                  <p>Summer – Dec. <hi rend="superscript">ber</hi> Jan. <hi rend="superscript">y</hi> Feb. <hi rend="superscript">y</hi>
+                  </p>
+                  <p>Autumn – March April May</p>
+                  <p>Winter – June July August</p>
+                  <p>The climate generally speaking very closely <add>resembles</add> that of England. The atmospherical changes are nearly as frequent &amp; sudden (at least from heat to cold &amp; during the winter from sunshine to rain) but as none of these changes ever tend to the damp unwholesome fogs met with in England, they are unattended with any bad consequences. The Spring months are much the same; <add>as those in England</add> 
+                     <del>as except</del> they are <del>not</del> subject <del>ill del.</del> however during the months of Sept: &amp; Oct: <hi rend="superscript">ber</hi> to heavy rains, though this year [1827] has been unusually dry. Summer is somewhat hotter, &amp; during the prevalence of hot winds which do not however occur often, it is sultry &amp; unpleasant in the extreme. This season in common with Spring is subject to morning frosts &amp; the evenings are generally cool enough to make a fire agreeable. Autumn is by far the finest season here, but seldom oppressively so, in the middle of the day, whilst the mornings &amp; evenings are delightfully salubrious. Winter too is here a pleasant time of the year, <del>ill.del.</del> with just enough cold to make it agreeable mornings &amp; evenings, sharp frosts; latter months attended with more rain than ordinary; snow sometimes but of rare occurrence; this year it was in some places 18 inches deep, but it was unheard of before, to have it in such quantities.</p>
+                  <p>From this similarity of climate I should be led to conclude that the seeds, bulbs, &amp;c of <del>flowers</del>, shrubs, &amp; trees &amp; flowers of this country would require little artificial heat to rear them in the first instance, &amp; after having attained some growth would for the most part stand the Winter in the warmest part of English Gardens.</p>
+                  <p>Tasmania or Van Dieman’s Land. H.V. 1827.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

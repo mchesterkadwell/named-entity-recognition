@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_664.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-664">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Sir B. Brodie   30 October 1858</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 37</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_248.xml">Brodie, Sir B.</persName>
+                <date when="1858-10-30">30 October 1858</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks JSH for sending American lily roots as a companion to white lilies sent previously. Hopes that JSH will visit him at his estate at Broome Park, Surrey, as he is attending examinations at London University.</p>
+            <p>Discusses the question of church rates payments and a paper on the subject by JSH. Discusses difficulty of paying them if a tenant refuses as other landlords would see this as a bad example. Also discusses landlords making the payment and adding the amount to the rent on new leases.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Broome | Betchworth | Surrey</placeName>
+                    <date>30 October 1858</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I thank you very much for the American lily roots which arrived safe some days ago, &amp; are deposited in the water; as companion to the white lilies, which you were so kind to send me formerly. You said that you would be going to the examinations at the London University; <del>&amp;</del> we hope that you will be able to pay us</p>
+                  <p>a visit when you are in London, with any of your family who is with you. We should be most happy to receive you at any time, except on Friday next when I shall be absent, not probably returning to Broome until the afternoon of Saturday.</p>
+                  <p>I do not quite understand about the church rates. Of course I shall be ready to subscribe my proportion as stated in your printed paper: but this will go very little way indeed to relieve you of your difficulty. On the other hand it is difficult for me to know how to do more, as if <del>my</del> I pay what my tenant refuses to pay, other landlords would complain of my setting a bad example. The last thing would be, if that could be managed, that landlords should agree in granting every new lease to take the church rates on themselves, adding the amount to the rent. But I have many fears that if the questions were discussed by the proprietors all should come across the old proverb tot homines &amp;c</p>
+                  <p>Always Dear Sir | yours faithfully |B C Brodie</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

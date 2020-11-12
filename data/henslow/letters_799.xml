@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_799.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-799">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Palmerston   18 January 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:39</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_265.xml">Palmerston, Lord</persName>
+                <date when="1826-01-18">18 January 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>4 Haymarket</placeName>
+                    <date>18 Jany 1826</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have not a very brilliant addition to make to our list today, having only the names of the Revn G. Tavel of Triny, &amp; the Revn Wm. Wing of St Johns. I believe I included the Revn Horatio Bolton in my list of yesterday; In the meantime we are incessantly occupied in writing letters; and I expect to be impeached when Parliament meets for negecting all my official business to carry on my canvass. The account some give of the Atty Genls progress tallies with what we hear. His friends say that he is 200 ahead of any other candidate; I hope he is so, for then we are not much behind the other two, but we have so many votes in view and so many that we can fairly reckon upon although we cannot book then as certain that I confess I begin to think better of our case than I have heretofore done; at the same time that it is clear that every vote must be piled one upon the other by hard labour &amp; by dint of repeated applications. We have however a great many people working for us in the country. I have sent Littleton of Staffordshire four County Lists. I have sent a list to Sir Thos Acland, Ld Camden is at work with Kent, Mr Huskisson with Sussex &amp; Liverpool. Sir Wm. Rowley I hope is helping us in Suffolk. In Norfolk we have several allies, Milton &amp; Atthorpe have got lists for Northamptonshire and Lincolnshire Lord Tavistock a list of his county; in Wiltshire I have a most active canvasser; I have friends at work in Yorkshire; in short I have been putting in motion all the county engines I could think of &amp; if any others occur to you pray mention then to me.</p>
+                  <p>My dear Sir</p>
+                  <p>yrs sincerely</p>
+                  <p>Palmerston</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

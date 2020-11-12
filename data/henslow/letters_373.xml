@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_373.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-373">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   3 November 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 189</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1853-11-03">3 November 1853</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>3 November 1853</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>You seem to be very busy with your parishioners, stocking their minds with all kinds of useful knowledge. Your bill of fare for the Horticultural Show that was to come off last week is rather amusing. I was so taken up, just at the time your letter arrived, in getting my wife back into her place from Teignmouth, where she had been staying whilst I was at Swaffham, that I could not immediately attend to it. I do not remember you asking for an edible Swallow’s nest, but I have just been to see what specimens I have and I doubt not I can find a duplicate at your service, which I will either send by post, – or keep it till I have more leisure to see if I have anything else to send with it. –I am rather busy at present in packing &amp;c., what of my remaining effects at Swaffham I have brought away, – leaving others for Sale. – I have been very fortunate in the matter of settling with my Successor: I had heard so much of heavy charges for dilapidation, even in the case of comparatively newly-built houses, like my own, that I was cautious enough to reserve  a largish sum, as I thought, to meet liabilities; – it turn’s out, however, in the end, that instead of paying I have to receive, the estimate for fixtures (to be allowed for by the next incumbent,) exceeding that for dilapidation by more than £18. The auction also went off admirably, – old furniture &amp; miscellaneous articles <del>of</del>, almost useless lumber in my eye, realized £50 or more, after paying the expences of the sale: this is a capital bonus to me &amp; will help to meet all the charge I have been at in settling myself in this house.–</p>
+                  <p>I am not likely to be at Tenby again that I know of; but if anything takes me there, I will remember G.Parker, who I suppose is, or was, the fascinating youth that was so persevering in his visits formerly at Hitcham Rectory.–</p>
+                  <p>I have still a lot of Camb <hi rend="superscript">sh</hi> Diptera by me, which I have recently had named by M <hi rend="superscript">r</hi> Walker, and w <hi rend="superscript">h</hi> must, when orderly arranged, be transferred to the Cabinet of Insects I gave to the Philos. Soc. last year. I think, perhaps, if I can manage it, I shall contrive to visit Cambridge again for this purpose next Spring, – during the time of your Lectures, that I may have the advantage of your society on the occasion; – but more of this nearer the time.– Between now &amp; then, too, I will see if I can find anything for the Ipswich Museum.–</p>
+                  <p>My love to Harriet, to whom I will write some future time.</p>
+                  <p>Your’s affectly| L. Jenyns</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

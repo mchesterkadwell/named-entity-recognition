@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_76.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-76">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. K. Greville   9 September 1828</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 93</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_50.xml">Greville, R. K.</persName>
+                <date when="1828-09-09">9 September 1828</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Edinburgh</placeName>
+                    <date>9 September 1828</date>
+                    <salute>My dear friend,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I ought to have acknowledged your last communication long before this – but you must not imagine I undervalued it – your parcel contained indeed an ample supply of many rare plants and occasioned sundry uncivil ejections of less perfect specimens– Accept now my best thanks for the whole &amp; also for your letter of the 18 <hi rend="superscript">th</hi> July. I am truly glad to find you proceeding in so spirited a manner. The naming of the species in the garden would require some courage but like a plunge with a cold bath is best done without much previous contemplation.</p>
+                  <p>Since I returned from Devonshire I have had much to do – being wofully in arrears with my correspondence– I am now going to relax for 6 weeks – &amp; <hi rend="underline">then </hi>you may expect some of my Algae– by the way – my book is at a standstill, waiting for Agardh’s last vol. of his Sp. Algarum. The French too have just been at least doubling my labor – by cutting up Agardh &amp; publishing a system of their own. M. Gaillon has written pretty largely on the<hi rend="underline"> Thalassophytes </hi>in the last vol. of the Dict. des Sciences Naturelles– I must now concoct a system for myself before I can put pen to paper &amp; I like not the <hi rend="underline">mare magnum </hi>that they have placed before me– Do you know that Hooker has got the 2 remaining vols. of Smith to finish? I confess I should have liked very well to have done them myself.– &amp; more,– I think Hooker has too much in hand to get through with justice to his subjects.</p>
+                  <p>Mougeot’s work costs me 15s/ per vol. that is exclusive of carriage &amp; duty which <hi rend="underline">you </hi>paid for the 4 vols you have. I therefore owe you 2s/–</p>
+                  <p>My Fl. Crypt. was interrupted on account of my absence I found I could not go on with 500 miles between me &amp; the engravers &amp;c– the last nos. are all in the colourer’s hands &amp; about finished– a supplementary no. will contain the synopsis &amp; index which occupy nearly 100 pages &amp; is just coming from the printer. All this I have had to do since I came. As it is sometimes allowable to put a part for the whole, I am inclined to call my next book <hi rend="underline">Fucologica Britannica </hi>or <del>a description of</del> the Algae of Great Britain &amp; Ireland <del>&amp;c &amp;c</del> – systematically arranged &amp; described – &amp;c</p>
+                  <p>I hope your family is well. Mrs G. desires to be kindly remembered to you &amp; Mrs Henslow.</p>
+                  <p>Believe me |my dear Sir |yours very faithfully | R.K.Greville</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_924.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-924">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From L. Sulivan 2 June 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:164</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_290.xml">Sulivan, L.</persName>
+                <date when="1826-06-02">2 June 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>2d. June 1826</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Some of the gentlemen who call at the Committee state that their correspondents in the country are anxious to know what facility there is for <hi rend="underline">approaching</hi> Cambridge by coaches, other than the <hi rend="underline">London</hi> line - Will you inform me where the lines of communication are, if there be any, besides Huntingdon &amp; Chesterford - You (illeg) anticipate no difficulty in finding <hi rend="underline">posthorses,</hi> for those who travel in the day.</p>
+                  <p>As many applications will now be making for accommodation in College will you allow me to speak in turn for myself, Sir George Shee, Mr Middleton, Lord Clive, &amp; Hon Clive. The two last will arrive on the <hi rend="underline">Wednesday morning</hi>, &amp; therefore not interfere with any <hi rend="underline">Thursday</hi> occupants</p>
+                  <p>I think we must take great care of our plumpers who are numerous &amp; who are certainly entitled to be first considered. I wish you and I would compose a list of plumpers - stating opposite to each name those whom we consider as exchangeable - a good deal of management will be necessary in <hi rend="underline">having ready</hi> such exchanges for those who are disposed to make them and such <hi rend="underline">leisure </hi> to negotiate them.</p>
+                  <p>In haste</p>
+                  <p>My dear Sir</p>
+                  <p>Yrs very truly</p>
+                  <p>L. Sulivan</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_296.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-296">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. T. Lowe   15 November 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 223</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_31.xml">Lowe, R. T.</persName>
+                <date when="1831-11-15">15 November 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Madeira</placeName>
+                    <date>15 November 1831</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>To: Prof <hi rend="superscript">.r</hi> Henslow</p>
+                  <p>
+                     <del>Cam</del> [rubbed out] I long for the Plates of my Helices.</p>
+                  <p>Two letters of y. <hi rend="superscript">rs</hi> are before me. The 1 <hi rend="superscript">st</hi> came with the copies of my Primiteae. It is vain now to repeat my regret &amp; vexation at the unfortunate delay in the Plates of shells. In every way I felt annoyed in the extreme, &amp; the loss of the 1 <hi rend="superscript">st</hi> box of shells (for I hear nothing of them) is very provoking. But my chief mortification is the plague it may have occasioned you. However, I was much gratified with the <del>ill.del.</del> look of my paper in regard to the style in w. <hi rend="superscript">ch</hi> it has been got up – &amp; you have my warm thanks for all the plague &amp; trouble you have had about it. You omit to say how much the binding &amp; so forth has run me in y. <hi rend="superscript">r</hi> debt in matters of cash. – Has not Treuttel had a copy of de Candolle? I had a letter from him (D.C.) the other day in w. <hi rend="superscript">ch</hi> he says he had not then (June) rec. <hi rend="superscript">d</hi> it, – but that he hardly c. <hi rend="superscript">d</hi> on second thoughts. I am just sending him our Compositae for his 7(?). <hi rend="superscript">th</hi> Vol. of the Prodr.– I thank you, for y. <hi rend="superscript">r</hi> letter by Smith &amp; for his acquaintance; for he seems a very nice fellow, &amp; botanically disposed. I am doing all I can to urge him on [letter cut] present any genus of above 20 species gives him a panick</p>
+                  <p>The box contains for the Soc. <hi rend="superscript">y</hi> a large jar of Fish (No. IV) to each of w. <hi rend="superscript">ch</hi> is attached a N. <hi rend="superscript">o</hi> corresp. <hi rend="superscript">g</hi> with those of my MSS more securely I hope than before. – A green bottle marked (A.) contain. <hi rend="superscript">g</hi> spec. <hi rend="superscript">ns </hi>of my Sideroxylon M…. in fl. <hi rend="superscript">r</hi> &amp; with the only ripe fr. <hi rend="superscript">t</hi> ever got; Habenaria caudata Br.; Orchis secundiflora Lois (no Orchis….. but as Berkeley says, a Himantoglossum), very rare indeed. – The fruit full grown but unripe of my Tamus morsa; that of an Arum, possibly A. italicum, the only one we have indig. <hi rend="superscript">s</hi> here, &amp; lastly the fruit of a Solanum (S. sanctum?) from St. Iago of the Cape de Verdis) w. <hi rend="superscript">ch</hi> I rec. <hi rend="superscript">d</hi> with a few plants thence this summer. Another green bottle marked (C.) contains spec. <hi rend="superscript">ns</hi> of Olea excelsa. The small brown jar (B.) is divided by lines into 3 divisions. The uppermost div. <hi rend="superscript">n</hi> contains a branch of ripe fruit of Dracaena Draco; – another with d. <hi rend="superscript">o</hi> of Olea microcarpa nob. N. <hi rend="superscript">o</hi> 572 <hi rend="superscript">x</hi> MS very rare in fruit; – Chaetophora marina? – Flowers &amp; unripe fruit of my Smilax pendulina; Flowers of Pomadermis Africana nob (Ceanothus, Auct. <hi rend="superscript">m</hi>); – &amp; Valonia utricularis Ag. wrapped in paper. The 2. <hi rend="superscript">nd</hi> layer consists of Codium adhoerens Ag.; unripe fruit of Amaryllis Belladonna; &amp; ripe fruit (omnium rariss!) of Chameomeles coriacea, with 2 unripe berries of D. <hi rend="superscript">o </hi>all I ever c. <hi rend="superscript">d</hi> get. The lowest layer consists of the flowers of Salix canariensis in w. <hi rend="superscript">ch</hi> as very often occurs, notwithstanding Sir James Smith, the anthers change into germens &amp; vice versa; – &amp; a berry of Ruscus hypophyllum β. nob. There is [written sideways over text] in the box also a ripe capsule of Brugmansia arborea, &amp; 2 pieces of the wood of a fine-leaved Casuarina not determined. In all there are 2 Jars, 2 bottles, 2 pieces of Casuarina wood &amp; the capsule aforesaid. I have only time to add my kind regards to L. Jenyns. I am</p>
+                  <p>y. <hi rend="superscript">rs</hi> most sincerely | R.T. Lowe.</p>
+                  <p>I shall set to … regards to the Sec for the Trans. directly &amp; an appendix to the Plants of a few more new species.– The Cycas is not forgotten but w. <hi rend="superscript">d</hi> not go into with the box.–</p>
+                  <p>[On reverse]</p>
+                  <p>C. Inn| 5th Dec.r</p>
+                  <p>Dear John</p>
+                  <p>As desired on the half of the Sheet you will not get – I forward this half to you – &amp; have desired Ilbery (?) to send you the package forthwith, &amp; me the Bill–</p>
+                  <p>Yours affect.ly | J. W. Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

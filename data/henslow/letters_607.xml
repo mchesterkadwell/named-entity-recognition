@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_607.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-607">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns 1839</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 207</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date notBefore="1839-01-01" notAfter="1839-12-31">1839</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swaffh. Bulb.</placeName>
+                    <date>Aug. 20.—</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>The long missing volumes came safely back to me on Saturday last thro’ some channel or other, &amp; I thank you for sending them. —I thought I had been always very careful in putting up your full share of plates belonging to the Botanical half of the Annales des Sciences, but on the return of several vols. of my half which I had sent to be bound, there came back loose one Botanical plate, which I suppose had escaped my eye, but which the binder had found: it is 3 <hi rend="superscript">rd</hi> Ser. Tom. 9. pl. 12; therefore just see if that plate is missing in your set (for possibly it may be a duplicate) &amp; if so I will take care that it is forwarded in the next parcel.— You said of the plant, I sent you some time back to name,— it is “Melissa (not Melittis) grandiflora”, without referring me to any authority;— consequently my puzzle is not altogether closed, as I find in Babing. Man. (at least 1 <hi rend="superscript">st</hi> Edit. for I have not got 2 <hi rend="superscript">nd</hi>) both these names, standing as genera,— Melissa (sp. officinalis 2.) p.231,— &amp; Melittis (not Melissa)— sp. melissophyllum, of which grandiflora of Smith is made a variety: I presume you meant this last to be my plant, but if so, you &amp; Bab. don’t agree about Genera.— I now send you another plant, which George, as much as myself, wishes to know about— as it came up of its own accord in the Flower Garden at the Hall amid a bed of some annual or other which he had sown: it is very succulent &amp; has the habit of a water plant, without anything about it to attract the notice of a florist, there being no flower that is at all conspicuous, but seeming to pass from a state of bud to that of seed (of which there is plenty) by the spitting or shedding of <del>something</del> a diphyllous calyx somewhat resembling in the fresh state the calyfera of a moss: it seems to be more nearly allied to Peplis portula than to any other of a British plant, but I presume it is a foreign.</p>
+                  <p>I am still without having found a Curate yet to take my parish during the winter, though I have made every possible inquiry, &amp; in all quarters, short of advertising, — a step I am very unwilling to have recourse to, except driven to it. Our plans therefore are still undecided, but as I fully hope &amp; trust to make some arrangement before long, &amp; as in the event of our being away 6 months, I shall be put to a considerable expence, I am afraid I must deny myself the Birmingham expedition, &amp; save all I can, till it is wanted to meet more pressing calls.—</p>
+                  <p>Yours affly | L. Jenyns.</p>
+                  <p>P.S. Is the journal of D <hi rend="superscript">r</hi> Hooker’s travels &amp; route, of which I have seen some printed nos, to be bought, &amp; if so— what is the exact title, &amp; who is the publisher?—</p> 
+                  <p>Date of letter inferred from the date of the Birmingham meeting of the British Association</p>
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

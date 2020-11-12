@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_73.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-73">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. Hunneman   22 May 1828</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 87</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_47.xml">Hunneman, J.</persName>
+                <date when="1828-05-22">22 May 1828</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>London</placeName>
+                    <date>22 May 1828</date>
+                    <salute>Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>After having anxiously waited for the arrival of the different shares from the Itinerary Union, I received them at last in the course of yesterday by the Steamboat from Hambro’, and I now beg leave to transmit a single share, for which you subscribed and paid the money last year, to which I have now to make the additional charge of 2L., defrayed by me for its conveyance from Esslingen to Hambro, from thence to London and for expence at the Custom house.</p>
+                  <p>After you have looked over the dried Specimens of plants, you will be best able to judge, whether the undertaking will merit your future support, in which case I beg for your early information that I may take the first opportunity of announcing your subscription for 1828.</p>
+                  <p>On the other half of this sheet you will find some notice of which I received a german copy from Dr. Steudel, detailing the plans, which the institution proposes to pursue for the present year, in order to promote the interest of its subscribers.</p>
+                  <p>Trusting, your first subscription will afford you a satisfactory result, I am</p>
+                  <p>Sir | Your obd <hi rend="superscript">t </hi> Servant | J. Hunneman</p>
+                  <p>
+                     <hi rend="underline">Enclosure</hi>: Translation from the German of ‘Preliminary Notice’ (transcribed in full below) Esslingen in Wurtenberg Dec. <hi rend="superscript">r</hi> 20 1827</p>
+                  <p>Preliminary Notice</p>
+                  <p>To the members of the travelling Union for promoting natural history and an invitation to Botanists as well as Mineralogists for contributing their Subscriptions for 1828.</p>
+                  <p>About the middle of this month the copious &amp; valuable collection of objects of natural history, particularly in reference to Botany, made by Mr Fleischer, during his travels in the Levant and – chiefly in the surrounding country of Smyrna, from whence he is now returned, has arrived not only, but also the first part of a similar collection, made during last Summer in the Island of Sardinia by Mr. Muller, an other of the travelers,</p>
+                  <p>Besides a great variety of Seeds and other objects of natural history, there are now lying ready for distribution to the Subscribers for 1827 about 40,000 Specimens of plants from these countries, hitherto but little frequented by naturalists. But the Union consisting at present of 116. members, by where 145. shares have been subscribed for, the arrangement of the shares will require so much time, as to prevent the distribution from taking place till the month of March 1828. However we may venture to anticipate, that every member will feel fully satisfied with the result of this year’s travels; for from 2-300 perfect and well-dried specimens of plants from those distant countries, and for such of the members, as have subscribed for other objects, a corresponding variety of insects, seeds, &amp;c. is, for a single share of 15 florins, (30s.) certainly a very acceptable dividend.</p>
+                  <p>In soliciting all the members of the Union, to send in their subscriptions as soon as the earliest opportunity will admit, in order to give full scope to the further enterprises of the Union, we beg leave to present here a more detailed account of the plans intended to be pursued for 1828. viz.</p>
+                  <p>1, Mr Muller who remains in Sardinia, will continue making collections there, and indeed with more success, since he has become more intimately acquainted with the nature of the country.</p>
+                  <p>2, Some friends of the Union collect for its members the Flora of the Southern point of Africa at the Cape. A portion of which collection, intended for the year 1828. consisting in from 6000 to 7000 Specimens, is already in our possession, and such members therefore, as send in their subscriptions sufficiently early, may, if they wish it, receive a dividend of Cape-Specimens for 1828. to be added to their share for 1827.</p>
+                  <p>3, Two travelers, both students of Pharmacy, will be sent to Norway and are to depart in April next. One of them has been preparing himself for some years for a journey in pursuit of objects of natural history in that country, he is likewise well acquainted with the northern Flora and an expert Muscologist; the other , being an experienced Mineralogist, will direct his chief attention to collecting Norwegian fossils, but he is at the same time no stranger to Botany and well acquainted with Lichens and Algae, for which reasons this journey is likely to promise a rich harvest of that tribe of plants.</p>
+                  <p>Thus we may presume that this undertaking, which is to be extended into Lapland, will prove no less interesting than those in the South, since Norway has not, upon the whole, been much frequented for similar purposes. We therefore invite for the year 1828 all friends to Botany, and also every mineralogist, who may be desirous of obtaining in a safe manner and at a moderate premium, the singular fossils of Norway, a country so remarkable in a geognostic and orgetognostic point of view. The amount of a single subscription is 15. florins (30s. Sterl.) Mineralogists inclined to become Subscribers, are requested, when they remit their subscription (Postage paid) to mention the average form or size, of which they wish their Specimens to be, and to state which specimens they would wish to receive in preference to others. The friends of Botany, who desire to become subscribers for the year 1828. are in the same manner requested to express at the time of sending in the amount of their subscriptions, whether they prefer receiving phaenomagous or cryptogamous Specimens, or Cape specimens only, or Sardinian or Norwegian Specimens, or indiscriminately Specimens from all the different countries, or lastly, whether they prefer Specimens of some natural families in particular. The subscriptions are to be remitted either to the central Institute of the oeconomical Society at Stuttgard, or to one or the other of the undersigned, but allways postage paid. For receiving their respective shares, the Subscribers have to pay nothing further, except the charges incurred for transmitting them from here to their places of residence, and it is left to their own option, to point out the most safe and least expensive channel, by which they are to be transmitted.</p>
+                  <p>(Signed) | Professor Hochstetter | D <hi rend="superscript">r</hi> Steudel</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

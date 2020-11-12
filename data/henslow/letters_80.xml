@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_80.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-80">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Revd Edward Wilson   13 October 1828</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 96</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_263.xml">Wilson, Edward</persName>
+                <date when="1828-10-13">13 October 1828</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swinton nr. Rotherham</placeName>
+                    <date>13 October 1828</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am afraid you will begin to think me remiss in not sending according to my promise, specimens of plants from this neighbourhood. By my friend Green I send a few, tho' few I think I am sorry to say, that can be worthy of y <hi rend="superscript"> r.</hi> acceptance. Many of the plants in y <hi rend="superscript">r</hi> list I have not <del>been</del> again met with, but I am willing to hope that next year I shall be able to send every one of them, &amp; those properly dried; for at present I am having made a press, (similar to a napkin press) for prepar <hi rend="superscript">ing</hi> specimens, having found that drying them in Books does not answer very well. So unsatisfactorily to myself have I felt filled my promise, that at present I cannot ask for any return of specimens for my herbarium siccum.</p>
+                  <p>Among the plants, new to me &amp; found in this neighbourhood in the last summer are the Parnassia palustris, the Pyrola minor, (this extremely scarce,) and another variety of the Anagallis arven: the flowers of wch were of a pinkish white and the leaves instead of two, were invariably, three together. a very small quantity of the seed of that &amp; the Anag: coer. I send.</p>
+                  <p>In y <hi rend="superscript">r.</hi> last favour you ask, if the Saponaria is truly wild. I can only say, that on the banks of the river Don it grows most abundantly &amp; that for miles on either side. I have frequently gathered it with large double flowers; nearly the size of a monthly rose: from its beauty it certainly deserves a place in our gardens. In May last I visited Lakeby Car nr Boro' Br. in hopes of procuring good specimens of the Scheuchzeria palust: but the bog was so very wet, that I dare not venture upon it. The Comarum had not yet come into flower. By the bye I caught there several specimens of the Thecla rubi, a most lovely fly: this is only habitat I know of in Yorkshire of this insect. I trust you will forgive me for introducing the subject of Entomology-- <del>but</del> the study of Botany naturally leads to that of Insects— &amp; it seems almost impossible to investigate plants without being perpetually awakened by the infinite variety of those little bugs, busied in a thousand different ways, to the study of Entomology. M <hi rend="superscript">r. </hi> Green will tell you that I collect insects, &amp; I can say it w <hi rend="superscript">d</hi> give me pleasure to send your duplicates: But I will not make professions, having so indifferently fulfilled my intention. At present I have in bran the pupa of the Sphinx Atropos; wch is 2 <hi rend="superscript">1/2</hi> inches in length &amp; 1 <hi rend="superscript">3/4 </hi>in girth: when the larva was sent me, I did not know what was the species: I fed it on privet leaves wch it eat most greedily: But it was a beautiful saffron colour previous to its entombments &amp; it had shown its black chevrons of blue &amp; white, its length was 5 in.. at present the pupa seems remarkably healthy. Tho' insects generally this summer have been scarce, the Brimstone &amp; the half-on owner have been plentiful. The synodendron cylind: (1/2 a doz) I took a few days ago. The N <hi rend="superscript">o.</hi> of Butterflies, (i.e. species) I have caught in this neighbourhood is 27.— But I will not trespass on your time, I must have already exhausted y <hi rend="superscript">r.</hi> patience. I am extremely concerned to inform you that poor Mr. Atkinson of Leeds after a long &amp; lingering illness, died on the 3 <hi rend="superscript">d.</hi> inst.— &amp; I am afraid that M <hi rend="superscript">rs.</hi> A. &amp; his family are left almost wholly unprovided for. He was an excellent naturalist his collection of British Insects is in very good preservations, nrly 1200 specimens.</p>
+                  <p>Pray excuse this miserable servant, I am anxious to forw <hi rend="superscript">rd.</hi> the parcel to M <hi rend="superscript">r.</hi> Green.</p>
+                  <p>Believe me ever to be | yours very truly | Edw <hi rend="superscript">rd</hi> Wilson</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

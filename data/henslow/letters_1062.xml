@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1062">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Macmillan's Magazine, Editor January 1861</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Victoria University of Wellington Library</repository>
+                        <collection>The Pamphlet Collection of Sir Robert Stout: Volume 11</collection>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date notBefore="1861-01-01" notAfter="1861-01-31">January 1861</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_358.xml">Macmillan's Magazine, Editor</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham Ipswich</placeName>
+                        <date>January 1861</date>
+                        <salute>My dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>The manner in which my name is noticed in a review of Mr. Darwin's work in your number for December, is liable to lead to a misapprehension of my view of Mr. Darwin's "Theory on the Origin of Species." Though I have always expressed the greatest respect for my friend's opinions, I have told himself that I cannot assent to his speculations without seeing stronger proofs than he has yet produced. I send you an extract from a letter I have received from my brother-in-law the Rev. L. Jenyns, the well-known author of "British Vertebrata," as it very nearly expresses the views I at present entertain in regard Mr. Darwin's theory - or rather hypothesis, as I should prefer calling it. I have heard his book styled "the book of the day," on more than one occasion by a most eminent naturalist; who is himself opposed to and has written against its conclusions; but who considers it ought not to be attacked with flippant denunciation, as though it were unworthy consideration. If it be faulty in its general Conclusions, it is surely a stumble in the right direction, and not to be refuted by arguments which no naturalist will allow to be really adverse to the speculations it contains.</p>
+                  <p>Yours faithfully,</p>
+                  <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

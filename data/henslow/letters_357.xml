@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_357.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-357">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Algernon Pollock   19 February 1851</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 272</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_164.xml">Pollock, Algernon</persName>
+                <date when="1851-02-19">19 February 1851</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Bituminous Shale Company | 145. Upper Thames Street</placeName>
+                    <date>19 February 1851</date>
+                    <salute>Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I beg to acknowledge your letter of the 15 <hi rend="superscript">th</hi> of Feby, which I shall proceed to answer as fully and as well as I am able.</p>
+                  <p>We have not any of the refuse in London just now, but I will see about having a small quantity up from our Works, and will forward some to you.</p>
+                  <p>The most part of the Cliff is composed of Shale, but there are layers of a strong substance intersected with it – the best of the Kimmeridge coal is a black substance, and yields in some instances as much as 25p cent of Rough Oil: while the inferior class of Shale yields only 6 p cent. There is no doubt however that there is enough to last this company 150 years – though they might work 500 Tons per week.</p>
+                  <p>There are some parts which do look like Jet, and which can be turned in a lathe – We have a specimen or two of the Kimmeridge money, but no such thing as an armlet, although such may exist.</p>
+                  <p>The Shale is composed of animal and vegetable matter, but I am afraid I am incompetent to explain more fully its nature &amp;c. The following is an Analysis of the burnt Shale, made by Mr J. J. Cooper, but we do not place much faith upon it as it was obtained from an inferior quality of Shale.</p>
+                  <p>Analysis–</p>
+                  <p>Lime – 2.93 out of 100 parts</p>
+                  <p>Carbon – 20.</p>
+                  <p>Imbibed water – 1.30</p>
+                  <p>Phosphate of Lime – 5.21</p>
+                  <p>Peroxide of Iron – 6.84</p>
+                  <p>Silica – 46.07</p>
+                  <p>Trace of Sulphate of Lime &amp; Loss – .66</p>
+                  <p>Alumina – 15.08</p>
+                  <p>Perphosphate – 1.91</p>
+                  <p>100 0</p>
+                  <p>I fancy in the above there is a much larger amount of Silica than in what we shall henceforth operate upon – because we now pick our Shale.</p>
+                  <p>The following is a copy of a letter received lately from Mr Cuthill, an eminent florist of Camberwell.</p>
+                  <p>“Sir. Yes, it is good for all these things you have mentioned, everything which I tried throve amazingly I hesitate not to say that it is a first rate Manure I am Sir &amp;c J Cuthill.”</p>
+                  <p>The residuum after being burnt is placed in cooling boxes while almost in a red hot state. I have no doubt a great deal of Carbon escapes in combustion, at least some does so – which is proved by this namely, an experiment was tried by subjecting the Shale to a low heat in a kind of closed oven, which of course did not produce any rough oil, or any of the products excepting the residuum, and this upon analysis was found to be composed of the following – viz:</p>
+                  <p>Organic matter consisting of Hydrocarbons &amp;c – 54.24</p>
+                  <p>Soluble in water consisting of Sulphate of Lime with traces of soluble Chlorides &amp; Phosphates – 12.36</p>
+                  <p>Soluble in aqua regia only – 20.96 45,76</p>
+                  <p>Insoluble in water &amp; aqua regia – 12.44</p>
+                  <p>100.00</p>
+                  <p>&amp; the ash which remained after burning off the Volatile organic matter amounted to 45.76 per cent &amp; contained</p>
+                  <p>Sulphuric acid – 9.81</p>
+                  <p>Phosphoric acid (with phosphates of iron &amp; alumina) – 7.34</p>
+                  <p>Carbonic Acid – 0.88</p>
+                  <p>Lime – 12.66</p>
+                  <p>Silica Alumina &amp; Loss – 15.07</p>
+                  <p>45.76</p>
+                  <p>We consider the Residuum by itself to form a very good manure, and the materials we add <del>are</del> the ammoniacal water coming from the distillation, and <del>the</del> certain wastes of the factory. Our Jet Varnish Paint we ask 7/.s a gallon for wholesale price – The Government at Woolwich use it for the Ordnance Department &amp; the Eastern Counties Rail <hi rend="superscript">y</hi> are going to send us an order. They find it stands heat so well. It should be laid on with a soft brush. The brush when hard should be softened in Naptha, &amp; well dried before using again. I do not know the analysis of our Volatile Oil.</p>
+                  <p>I have looked over your list &amp; will try as far as I am able <del>and</del> to forward what you wish.</p>
+                  <p>The Shale prepared for putting into the Retorts is merely broken into small pieces to allow of its grilling more easily &amp; regularly.</p>
+                  <p>
+                     <del>In conclusion</del> If there should be any specimens of Shale dug up which have impressions of plants or fish upon them I will have the same preserved for you – I have seen these on French specimens from Autun – We have also some Shale which is full of shells and if you would like a piece of this as well it shall be sent.</p>
+                  <p>The asphalt is collected at the two different stages of the process – namely the rough oil is heated with sulphuric acid which precipitates a large quantity of the Material – and it also remains in certain quantities in the Tar Still at the conclusion of the distillation, viz after the liquid grease has been run over.</p>
+                  <p>I hope this will afford you all the information you may require</p>
+                  <p>I remain, Sir, | your’s faithfully| Algernon Pollock |Secretary</p>
+                  <p>[2 Enclosures, notices entitled “Bituminous Shale Company, for the production of Mineral Oil &amp; Spirit, Asphaltum, Grease, &amp; Manure”;</p>
+                  <p>Cambridge University Library, MSS Add. 8177: 272b</p>
+                  <p>“To Agriculturalists.</p>
+                  <p>Bituminous Shale Company for the production of Mineral Spirit, Asphaltum, and manure.”</p>
+                  <p>Cambridge University Library, MSS Add. 8177: 272c]</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

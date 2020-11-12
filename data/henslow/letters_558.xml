@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_558.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-558">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Evans   2 June 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 148 &amp; 148(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_210.xml">Evans, John</persName>
+                <date when="1860-06-02">2 June 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Nash Mills</placeName>
+                    <date>2 June 1860</date>
+                    <salute>Dear Professor Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Many thanks for your Report, letter and extract from the Comptes Rendues— I found the Report very interesting as showing in how effectual a manner a Parish may be worked— The only symptom I don’t like is the absence of Church-rates in so thoroughly a country Parish— but possibly your Parishioners might think themselves behind the age if they continued to pay them “on compulsion”— I had already heard of M. Gosse’s discovery, but am not the less obliged to you for bring it under my notice in a tangible form— M <hi rend="superscript">r</hi> Mighie had been at the Gravel pit with M. Gosse &amp; had brought away one of the implements of the simple flake character but had seen and then found these chipped out all round— It is very satisfactory for M. De Peithes to have his predictions fulfilled and he was not a little proud of it when I saw him— I was very sorry not to be able to give you longer notice of my visit to France, but it was made quite unexpectedly on my part in consequence of it being thought desirable that I should see Cobden— It was rather a hurried affair altogether but I managed a day at Amiens and a few hours at Abbeville— From St Acheuil I brought away a considerable number of flint implements, but none remarkably fine— I also brought a few teeth &amp; bones— and moreover some nice Roman antiquities including a statuette of Mercury in bronze of very good art— At Abbeville I procured the relics from a Merovingian interment— the spearhead Francisca, fibula and an urn. So my Museum is the richer for my visit to France— Our wretched foreign paper and rag question is not yet settled and that “reckless visionary” the Chanc <hi rend="superscript">r</hi> of the Exchequer seems determined if he can to sacrifice us in order to let foreign nations know that they may place what restrictions they please on commerce and give any bounty they like on exports and there will be no compunction on the part of our paternal Government at sacrificing any of our home interests that may be affected— Some enlightened Genius has enunciated the principle that “our Legislators must be entirely independent of that of foreign nations” and M <hi rend="superscript">r</hi> Gladstone is a Pedant who admits of no exceptions to his rules— However we think we shall beat him in the Commons and if not “Thank Heaven there is a House of Lords!” But I must not run off on Rags— My time this Spring has been nearly taken up with this question and I don’t know when we shall get it settled[.] In the mean time I can spare but little time for my other pursuits but have put the engravings of the series of British coins in hand which Fairshott is doing very well— I have a packet of letters come in so goodbye for the present[.] M <hi rend="superscript">rs</hi> Evans desires to be kindly remembered to you— Miss Stewart I am sorry to say left us yesterday from ill health— If you are coming up to town this summer pray let us see you here—</p>
+                  <p>Yours very sincerely | John Evans.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_547.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-547">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Adam Sedgwick   4 February 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 290</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_160.xml">Sedgwick, Adam</persName>
+                <date when="1860-02-04">4 February 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Tr Coll Combination Room</placeName>
+                    <date>4 February 1860</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have received a letter from M. <hi rend="superscript">r</hi> Acton of Grundisburgh near Woodbridge offering to sell a magnificent collection of mammals bones crag shells &amp;c &amp;c Do you know any thing about the collector &amp; his Collection? He says nothing about the price— But I fear the sum will be out of the reach of the University:; &amp; I cannot a second time undertake the the task of sending circulars to the Members of the University &amp; asking for help. The labour was enormous in a former case including me in a frightful correspondence— many persons responded nobly; but I cannot ask them a second time—</p>
+                  <p>I came back to an examination in the early part of this week— The Xmas vacation I spent partly in Norwich &amp; partly in Dent My sister-in –Law is better than I expected to find her; &amp; my niece Isobella was quite well when I left them at Dent— They are now living in a cottage to which my old Father retired when he gave up the Church duty, &amp; in which he died: &amp; it so fell out that Isobella first saw light in that cottage. There also my dear Sister Isobel (the darling companion of my childhood) died in January 1823. So the cottage has many associations (some sunny &amp; some gloomy, but very bright &amp; cheery to my memory<del>)</del> on the whole) which make it <del>look</del> feel like a home, &amp; make it the most beloved house in Dent next to the old parsonage— When do you come to see us? How are you? When the [illeg] bucks up I will try to see Annie.— While writing this, Martin has been going thro’ log statistics to which I have given wonderful attention. Ecce signum: in the shape of these three pages so no more at present from</p>
+                  <p>Yours affectionately | A Sedgwick</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

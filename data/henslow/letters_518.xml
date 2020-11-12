@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_518.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-518">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Ellis   15 January 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 138</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_221.xml">Ellis, William</persName>
+                <date when="1859-01-15">15 January 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hoddesdon Herts</placeName>
+                    <date>15 January 1859</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Absence from home has prevented my forwarding an earlier reply to your favour of the 12 <hi rend="superscript">th</hi> Inst. I hope the contents of my book will prove interesting to you &amp; I thank you very cordially for kindly offering me the perusal of remarks of your late Brother on Madagascar. It is too late for me to make any use of them in the account of my “visits” but as I have undertaken to give a couple of Lectures on Madagascar early in March at the Institution of the United Service Club, the observations of a Naval Officer might suggest and assist me in topics of remark that might be interesting to my audience in the occasion. I have long been familiar with you by reputation Sir W. Hooker has more than once adverted to your name when I have been with him in the Museum at Kew &amp; I should be happy to make your acquaintance personally if I had an opportunity of so doing here if not I should feel obliged by the loan of the paper of your late Brother some time during the ensuing month[.] I think I either possess or have access to most of the articles you mention The musical instrument is the Valiha it has a soft &amp; not unpleasing sound when thumbed by a native I think I mention it in the account of one of  my early visits to the “Harbour Master” on my second Voyage to Madagascar but as I really have not a copy of the book in the house just now I cannot be certain[.] I described &amp; figured it in my history of Mad <hi rend="superscript">r</hi> published in 1838.</p>
+                  <p>I am Dear Sir |very faithfully yours | W Ellis</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

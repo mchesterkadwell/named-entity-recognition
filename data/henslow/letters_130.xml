@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_130.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-130">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. T. Lowe   22 August 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 157</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_31.xml">Lowe, R. T.</persName>
+                <date when="1830-08-22">22 August 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Lambley House, near Nottingham</placeName>
+                    <date>22 August 1830</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Sowerby is hard at work (I hope) with my shells, making the requisite figures, for w. <hi rend="superscript">ch</hi> he is to have 3. <hi rend="superscript">s</hi> a piece. About 50 fig. <hi rend="superscript">s </hi>I believe will be requisite, – that is to be done by him, for I shall furnish some myself. I sh. <hi rend="superscript">d</hi> have wished, if possible to include them all in one plate, but in the first place they are too numerous &amp; w. <hi rend="superscript">d</hi> look crowded &amp; awkward, – in the next there are 3 or 4 species of w. <hi rend="superscript">ch</hi> I find by some mistake I have left my specimens behind in Madera; &amp; as it is very important that <hi rend="underline">all</hi> sh.d be fig. <hi rend="superscript">d</hi> the best plan will be to <del>[ill.del].</del> give <hi rend="underline">two </hi>plates of shells, one of w. <hi rend="superscript">ch</hi> may be engraved completed &amp; published if you will previous to my leaving England, – the other must wait till I can send the shells wanting from Madera. Sowerby told me the plate (when I thought of giving all in a single one) w. <hi rend="superscript">d</hi> cost nearly 7.G. <hi rend="superscript">s </hi>engraving. Two will cost less individually (say 5 or 6 G. <hi rend="superscript">s</hi>) but of course be more expensive on the whole. I have chosen a man named Zeiter to engrave them. To my judgment he is the best (except J.D.C. Sowerby) in London. It is not quite certain that J.D.C. Sowerby himself may not undertake them. Such of the drawings as were finished before I left town were most beautifully done. Engelman has got my new Goodyera (macrophylla) to lithograph. A plain plate will answer every purpose &amp; is to cost (engraving) 2£ I have contrived that the plant shall be packed into a single folded (not double) plate.</p>
+                  <p>I was disappointed you c. <hi rend="superscript">d</hi> not come up to dine with us. I was detained in town longer than I intended (till last Saturday week) by Cuvier’s indecision about coming to Cambridge. Had he done so, I had promised him to accompany or meet him there to show him my Fish &amp; MSS about w. <hi rend="superscript">ch</hi> he had sent me a message through Brown. He wrote to me however to say his letters from Paris obliged him to give up the plan but that he w. <hi rend="superscript">d</hi> write to me in Madera, from Paris. I called upon him one day &amp; found him extremely polite &amp; agreeable. His remarks on my plans were highly encouraging &amp; flattering. He made a very handsome speech at the dinner.</p>
+                  <p>Let me hear whether you approve of all I have done so far. I shall not see you in Cambridge before the 20 <hi rend="superscript">th</hi> of next month; by which time I shall have all things pretty nearly ready.</p>
+                  <p>Believe me | y. <hi rend="superscript">rs</hi> sincerely | R.T.Lowe</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

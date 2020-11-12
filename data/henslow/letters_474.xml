@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_474.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-474">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">William Clark to Vice-Chancellor   2 April 1857</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 94</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_198.xml">Clark, William</persName>
+                <date when="1857-04-02">2 April 1857</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_323.xml">Vice-Chancellor</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>2 April 1857</date>
+                    <salute>Dear M <hi rend="superscript">r</hi> Vice-Chancellor</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have looked over the proof (which I enclose) &amp; discover no fault in it, until I arrive at the Botanical part. And there it is difficult to say what is to be assigned to mistakes in the press &amp; what to the barbarous latinity of Botanists. Thus L.11 from bottom—Hypericum &amp; Acer would lead one to suppose that Hypericeae, and Acerinae are the proper words: &amp; in the same line Lineae &amp; not Linaceae, from Linum. In the last line of the page are Plumbaginaceae &amp; Plantaginaceae, the one from Plumbago the other from Plantago. Surely they ought to be Plumbagineae and Plantagineae.</p>
+                  <p>In the next page L.2. Thymelaceae is derived from Thymelaea, &amp; therefore ought to be Thymelaeaceae.</p>
+                  <p>L.3 Salicaceae is given as the adjective from Salix, which surely ought to be Salicineae.</p>
+                  <p>L.8. I suppose Epigynae ought to be Epigyneae</p>
+                  <p>L.10 ----------- Hypogynae ------------ Hypogyneae</p>
+                  <p>L.11 ---------- Melanthaceae --------- Melanthiaceae</p>
+                  <p>I say nothing of such words as Orchidaceae, Iridaceae, &amp; Amaryllidaceae: Prof <hi rend="superscript">r</hi> Henslow’s love for terminations in aceae seems to account for them. Otherwise adjectives from Iris, Orchis &amp; Amaryllis, might possibly have been more classical as Iridieae, Amaryllideae, Orchideae.</p>
+                  <p>I think it well to send you Prof <hi rend="superscript">r</hi> Henslow’s address: it is “Hitcham |nr Hadleigh |Suffolk”—it may possibly save you trouble to request him to look over his part of the paper.</p>
+                  <p>I am D <hi rend="superscript">r</hi> Mr Vice-Chancellor</p>
+                  <p>Yours very truly | Wm Clark</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

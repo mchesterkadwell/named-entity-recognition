@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_517.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-517">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Searles Valentine Wood   October 29 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 361</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_194.xml">Wood, Searles Valentine</persName>
+                <date when="1853-10-29">29 October 1853</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Egham | Surrey</placeName>
+                    <date>1853</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>You will perceive by the Address that I have changed my place of abode. For some years past I have been suffering more or less under the infirmities of debility &amp; fancied my very close proximity to the London Clay at Kentish Town was unfavourable to health determined to try if any benefit w <hi rend="superscript">d</hi> be derived from a change. This is not irrelevant to the subject of your Letter, conceiving as I do that a Public Depository to which any one can have access the Place most suited for scientific objects &amp; the best means of furthering the ends of Science I have given my Collection of Crag Shells to the British Museum to which Establishment all that portion which has been described has been removed &amp; as that was its destination always intended by me I thought it best to avoid one more unnecessary remove I have reclaimed only those required to complete my Monograph &amp; they will follow the others when they have done their duty.</p>
+                  <p>My best wishes attend the Museum you have taken under your fostering care &amp; we all appreciate the Services you have rendered towards its success. It is now many years since I resided in the Crag District &amp; the knowledge of many Collecting Friends had pretty well eased me of a redundancy of Duplicates but there will be no difficulty in your obtaining what you require from some of the many Supporters and Well-wishers to the Museum in your own Neighbourhood &amp; for all general purposes a very great accuracy in Nomenclature is not requisite nor the very minute shades of difference considered essential for specific distinction of any vital importance to the Student.</p>
+                    <p>Some short time since I was looking over the Collection of London Crag Fossils from the neighbourhood of Highgate belonging to &amp; formed by a particular friend of mine a M <hi rend="superscript">r </hi>Wetherell of that place &amp; was much interested in the examination of many things that were beyond my capabilities of determining but which bore strong resemblances to some of my old acquaintances that are found in the Red Crag altho’ evidently not denizens of that Epoch it struck me at the time that several of these forms probably belonged to a Kingdom in Nature that I am not very well acquainted with &amp; suggested to my friend that I thought it was not at all improbable but that yourself co<hi rend="superscript"> d </hi> give him more information upon them than I was able to do &amp; I thought also you might feel interested in their inspection. If therefore you should in your next visit to the Metropolis have an hour or two to spare with an inclination to go so far as Highgate I am quite sure Mr Wetherell wo<hi rend="superscript">d</hi> have great pleasure in showing to you these fossils &amp; we may be all benefitted by your examination of them. A few lines addressed to him a day or two before your contemplated visit with the mention of my name as having suggested it will I am sure procure am appointment for such an object &amp; I shall be greatful if you should be able to assist in their determination. </p>
+                  <p> Believe me Dear Sir</p>
+                  <p>Yours very truly </p>
+                  <p> Searles V.Wood</p>
+                  <p/> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

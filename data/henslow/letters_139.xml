@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_139.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-139">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Robert Brown   1 January 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>British Library</repository>
+                    <idno>Add. 32441: 133-34</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1831-01-01">1 January 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_44.xml">Brown, Robert</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends Brown a copy of his recently published paper, <hi rend="italic">On the Examination of a Hybrid Digitalis</hi>. Comments on Brown’s work, <hi rend="italic">Observations on the Organs and Mode of Fecundation in Orchideæ and Asclepiadeæ</hi> and says he is looking forward to fact checking it in the summer. Asks to visit Brown for another ‘lesson’.</p>
+            <p>Says he has not had time to examine mignonette specimen, hopes to do so soon and complete drawings. Sends some of the wood specimens being gathered for Cambridge Botanical Museum, largely from the plantations of his  father in law, George Leonard Jenyns.</p>
+        </abstract>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>1 January 1831</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I take the liberty of sending you a copy of my paper on the Hybrid Digitalis which I mentioned to you– It is but an insignificant production compared with your tract on the Orchideæ &amp; Asclepiadeæ– I have now read with care the whole of that tract &amp; am impatient for the summer to verify the facts it contains– As I expect to pass through town in 3 or 4 weeks, I will do myself the pleasure of calling on you &amp; receiving another lesson if you are disposed to indulge me– I have not been able to examine the Mignionette again, this being always a busy term with me– but I hope to do so early in February &amp; complete my drawings– I have lately been preparing a set of specimens of different woods for our Museum– obtained chiefly from the plantations of my Father in law– &amp; have put up a few of them which appeared to me to possess the most interest, for your inspection– they want a little polishing. If you don't want them, they may serve to light your fire– Is it possible that any kind of invitation might tempt you to visit Cambridge? It would afford me the greatest pleasure to entertain you–</p>
+                  <p>Believe me | very truly y <hi rend="superscript">rs.</hi> | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

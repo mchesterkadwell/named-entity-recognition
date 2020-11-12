@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_652.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-652">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Emily Belper   8 October 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 25</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_245.xml">Belper, Emily</persName>
+                <date when="1856-10-08">8 October 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends thanks for receipt of papers and memoranda; praises JSH’s school sermon; regrets that archaeological digs during a recent visit to Derby area were unproductive.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>42 South St | Park Lane | London</placeName>
+                    <date>8 October 1856</date>
+                    <salute>Dear Professor Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I must have appeared very ungrateful for not having sooner acknowledged your great kindness in taking so much trouble on my behalf, &amp; sending me so many valuable papers &amp; memorandums. They are full of suggestions to me, and I only hope that I may be able sometime to carry out some humble imitations of some of your many thoughtful &amp; practical plans for the good of your people— I should have written sooner but we have had much anxiety during the past week, &amp; I have had scarcely half an hour at my disposal— In addition to a hurried visit to London to see my poor sister Lady Romilly who is suffering from a most painful &amp; distressing illness, my mother’s maid has been dangerously ill at Kingston, and in a state which required the greatest care &amp;  watchfulness. She is thank God now doing well, &amp; we came up to London again yesterday for a day or two, &amp; I must take advantage of this my first quiet evening to express my gratitude to you. I feel I scarcely ought to say how admirable I think your school sermon— It will I hope serve as a stimulus to me— for I feel my shortcomings very much. It is so easy to rest satisfied with tolerably good behavior, discipline &amp; reading writing &amp; arithmetic &amp; yet leave untouched so may points that form the mind &amp; character &amp; inform the habits— but I shall try, &amp; only wish you were near enough to come &amp; find fault a little some times— Your visit was a very great pleasure to us, &amp; I only regret that your archaeological researches were so unproductive— Some other time I trust you will come again, &amp; if possible bring a daughter with you as you wld not encourage me to hope that M. <hi rend="superscript">rs</hi> Henslow could be induced to take so long a journey. It would give us so much pleasure to show you some of the aspects of interest in our neighbourhood— My husband begs to unite with me in my kind regards to you. Would you allow me to add my kind compliments to M. <hi rend="superscript">rs</hi> Henslow though I have not the pleasure of knowing her </p>
+                  <p>Believe me | yours very truly &amp; obliged  Emily Belper</p>
+                  <p>[P.S.] Thank you for the 2. <hi rend="superscript">d</hi> enclosure. May I keep all the documents you have sent. I hope this is not very greedy of me?</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

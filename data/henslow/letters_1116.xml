@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1116">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Martin 10 November 1859</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Bury St Edmunds Public Record Office</repository>
+                        <collection/>
+                        <idno>FL586/13/1: 16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1859-11-10">10 November 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_368.xml">Martin, Thomas</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham Hadleigh Suffolk</placeName>
+                        <date>10 November 1859</date>
+                        <salute>My dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>A few well wishers to the Ipswich Museum have determined to have a
+                            portrait of the indefatigable Mr. G. Ransome in lithograph by Maguire –
+                            &amp; he (the artist) has succeeded to perfection – Mr Lovell Reeve has
+                            undertaken to issue copies to subscribers of [illegible] &amp; the
+                            surplus to be handed over to a Museum which is so well deserving of all
+                            encouragement – I have thought that possibly you might like to become a
+                            subscriber – but I am not well aware how far you are acquainted with the
+                            very great merit of Mr R.</p>
+                        <p>I have just been to look at our allotment land under process of draining
+                            previous to being parcelled out – &amp; am glad to find the job ably
+                            executed &amp; very nearly finished – I was at Ipswich on Thursday
+                            giving them a lecture &amp; was glad to find Mr Ransome looking well
+                            again – for he had been very seriously out of sorts from over-work</p>
+                        <p>Believe me</p>
+                        <p>Very truly yours</p>
+                        <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

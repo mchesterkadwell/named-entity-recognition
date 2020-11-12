@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_251.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-251">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. H. Balfour   4 November 1850</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Library, Royal Botanic Garden, Edinburgh</repository>
+                    <idno>101</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1850-11-04">4 November 1850</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_120.xml">Balfour, J. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>JSH discusses election of a new Curator for Cambridge University Botanic Garden and encloses report to the Vice Chancellor to be passed on to James Stratton as testimonial.</p>
+            <p>Thanks Balfour for inclusion of some of his tables in the <hi rend="italic">Manual of Botany</hi> and points out errors of genera and species in the tables based on Lindley and Bentham.</p>
+            <p>Asks for a sample of ‘woody fibre’ used in India for his museum.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadley Suffolk</placeName>
+                    <date>4 November 1850</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Owing to the death of one &amp; the absence of another of the Trustees of the Bot. Garden, the election of a new Curator will unluckily be postponed for a few days – I have however sent in the enclosed report to the Vice Chancellor such you may be glad to see- You may hand it over to M <hi rend="superscript">r</hi> Stratton, as it may serve as a testimonial in addition to those with which he has been supplied– I will write to himself as soon as I know the decision of the Trustees– but I believe he has not yet returned to Edinburgh- I hope we are to become personally acquainted next year when the Br. Assoc. meet at Ipswich– Your have greatly complimented me by adopting some [<hi rend="underline">tabular</hi>] views with your very excellent manual- but I am to blame in having so hastily thrown them together- the syllabus being printed as my lectures were progressing- I had not time to ask Bentham (for instance) why he had thrown the genera of Vicia &amp; Lotea together (as per Tables) &amp; I find he cannot account for his having done so- &amp; never meant to do so- It is clear he had accidentally summed up the genera of both – I think also you copied from me what had copied from Lindley respecting the enumeration of the genera &amp; species admitted in his acc of the Veg. Kingdom – but I very soon after saw a somewhat just rebuke in the Phytologist at his having been so careless as to allow such high numbers to pass muster, which he ought to have seen must have been too great in comparison with those of Endlicher whom he so closely follows – It seemingley caused me to wonder but I had no time to examine – I saw lately some account of your having received some new descriptions of woody fibre used in manufactures of India- If you should chance to possess it in plenty I should be very glad of a sample some convenient opportunity as I have a Museum (á le Kew) in which I place everything vegetable I can lay my hands on –</p>
+                  <p>Believe me | very truly yr | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

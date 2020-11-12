@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_144.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-144">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Jackson Hooker   26 January 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 176</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_45.xml">Hooker, William Jackson</persName>
+                <date when="1831-01-26">26 January 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Glasgow</placeName>
+                    <date>26 January 1831</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have given in charge to my friends Gordon &amp; Monteith a packet, neither so large nor so valuable as I could wish, for you, &amp; which by this time is, I think in your possession. Some of the plants are not yet named, because they are not yet published &amp; I never have the names engraved till the plates are on the point of being published. Had I known of your wish earlier for these things I could have sent you many more engravings, of which the corpus, a little previous to the arrival of your letter, had been sent to London.– &amp; thus I have no more control over them.</p>
+                  <p>I do hope this ensuing summer may bring you to Scotland. When we are together &amp; that you can point out what kind of plants would be most acceptable I am sure I can add considerably to your Herbarium, without in any respect diminishing the value of my own. My duplicates occupy nearly as much space as my arranged collection &amp; with you at my elbow to write down the names &amp; to select such as are alone useful to you, I should think well &amp; certainly agreeably spend time. I now recollect the Clove, Sugar Cane, Coffea, Quassia &amp; some others which you may probably like to have, but which did not occur to me while I made the little selection for you, nor did the bundles containing them come in my way.</p>
+                  <p>You will find in the packet my opinion upon the specimens you sent. Indeed the Veronica &amp; the Callitriche were <del>it</del> not in a state to enable me to pass an opinion upon decidedly:– The former I think has few or none of its real stems-leaves. The true Callitriche pedunculata I am ashamed to say I have not in my own possession except one <hi rend="underline">so called</hi> from the Unio Itineraria. But I shall write to Sussex for specimens and you shall have it. I am now as I proceed with my 4 <hi rend="superscript">th</hi> vol. of Smith Flora putting all my duplicate British Mosses in order: &amp; I can there help you much. Two or three very interesting Musci have been lately added: especially Anictangium caespititium.</p>
+                  <p>If you have not yet sent your parcel to the north &amp; can add to it any of your country &amp; the south of England plants they will be acceptable I need not clarify, because generally those that we have not in the north are valuable to me.</p>
+                  <p>I am almost daily expecting Drummond’s arrival from Ireland on his way to N. Orlea[ns].</p>
+                  <p>I gave him your order for £5. It will be time enough to pay when the plants arrive. I have procured for him the best letter of introduction to enable him to go into Mexico &amp; to California: &amp; I look for great things for him. His first remittances will be from N. Orleans, but that is a country very little known to the Botanist.– Thank you for the list of errata in my Brit. Flora; they are all near corrected &amp; many others: but many I fear still remain. I have altered the situation of the Generic Characters: <del>but</del> 
+                     <add> &amp; </add> as I had not room for them in two places I have confined them to the heads of each Class as in the Fl. Scotica.</p>
+                  <p>I have just finished parts 4 &amp; 5 of Bot. <hi rend="superscript">l</hi> Miscellany which I hope will be found to embrace some interesting matter. There is the 1 <hi rend="superscript">st</hi> half of the Memoir of Capt. <hi rend="superscript">n</hi> Carmichael, &amp; a valuable portion by M. <hi rend="superscript">r</hi> Cruickshank on Climate &amp; vegetation of a part of Peru.</p>
+                  <p>Yours ever | much truly &amp; faithfully | W. J. Hooker</p>
+                  <p>P.S. If your northern parcel should be already dispatched, a parcel left for me at any time with Treutell &amp; Wurtz Soho Square, will reach me by my monthly parcel.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

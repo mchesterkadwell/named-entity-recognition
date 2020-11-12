@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_447.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-447">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Spence   16 June 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 301 &amp; 301(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_165.xml">Spence, William</persName>
+                <date when="1856-06-16">16 June 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>London</placeName>
+                    <date>16 June 1856</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>As I knew M <hi rend="superscript">r</hi>. Stainton would be gratified by reading your approval of his remarks on female education, I took the liberty which you will excuse of sending him your letter, which he has returned with thanks &amp; tells me he has written to you for one of your lists of Hitcham plants. Of this—I shall be also glad of one, or two or three if you can spare them, &amp; I trust you will not let the striking success of your mode of infusing a love for Botany into Common Minds, be lost to the World, but that you will publish it in a cheap form so as to stimulate other clergy-men to follow your example &amp; show them the way of setting about it, of which at present even the best-disposed are quite ignorant. You are in fact the only man that has worked out this important social problem, &amp; you will leave your work bur half done, if you don’t tell other how to solve it.</p>
+                  <p>It is quite enough, if in addition to trying out the general outline of your excellent plan of a typical arrangement of Museums, you yourself supply what belongs to your own department, &amp; I am glad that Prof. Huxley &amp; other Zoologists are coming forward to assist in carrying out the idea.</p>
+                  <p>I beg your acceptance of a duplicate Copy (sent by today’s post) of W. Wollaston’s Work on Variation of Species—an enlarged summary of the facts &amp; reasoning on this head in his admirable Insecta Maderensia. This I long since urged him to give in a paper to the Linnean Transactions, but he has done better in publishing it as a distinct work.</p>
+                  <p>I rather hoped to have seen you at the Lord Mayor’s Scientific dinner at the Mansion House on Wednesday, but was disappointed. Every thing went off extremely well.</p>
+                  <p>I am | my dear Sir | yours very truly | W. Spence</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

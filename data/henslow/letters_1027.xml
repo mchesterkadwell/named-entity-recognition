@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1027">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From William Henry Fitton 8 December 1837</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Uppsala University Library</repository>
+                        <idno>Waller Ms alb-62:273</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_337.xml">Fitton, William Henry</persName>
+                    <date when="1837-12-08">8 December 1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Bloomfield Lodge, Norwood (Surrey)</placeName>
+                        <date>8th Decr. 1837</date>
+                        <salute>My dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>You will I have no doubt be very sorry to learn that Mr Webster is in a state of <hi rend="underline">great</hi> pecuniary difficulty from very indifferent health. I write these lines at home, with the intention of adding to them in London tomorrow, and I wish much to have your opinion &amp; assistance as to the best mode of doing something for Webster, - if you think, as I do, that he has strong claims upon the kind, &amp; just, feelings of the Geological Society.</p>
+                  <p>My information upon the subject comes from Mr Darwin. It has been confirmed by what I learned yesterday in London &amp; I now keep this letter open for the purpose of adding what I learn tomorrow when I intend to make further enquiries upon this subject.</p>
+                  <p>It occurred-, at once, to some of us who talked over the matter on Wednesday evening, at the Geological Society, that a small <hi rend="underline">pension</hi> if it can be obtained, - would be the best, - as it is obviously the most <hi rend="underline">acceptable form</hi> of relief, to a man in W's strictures, and he is not without claims to the <hi rend="underline">public</hi> notice, such grounds with which you are well acquainted. These of course cannot be compared to the claims of <hi rend="underline">Smith</hi> - <hi rend="underline">Dalton</hi> - &amp;c - but with reverence to most of the names upon the (hitherto) pension-list - Webster would have great advantage:- And it will be very easy, - if the Cambridge members of our society think well, to suggest &amp; [text illegible] <hi rend="underline">Mr Spring Rice</hi>, -  to obtain a statement in memorial with very good signatures, from members of the Geological &amp; Bryol. Societies, in W's favor</p>
+                  <p>Pray think of this, &amp; oblige me with a few lines:- I shall write at the same time to Sedgwick (though I fear he may be at Norwich) &amp; to our President Mr Whewell.</p>
+                  <p>My dear sir very sincerely yours</p>
+                  <p>Wm. Henry Fitton</p>
+                  <p>P.S. [text illegible] Sedgwick I learn is at Norwich:- and I have sent my letter to that place. What I could learn today about W. confirms what I have mentioned above - &amp; makes me imagine that he wants <hi rend="underline">immediate</hi> help:- even if we should obtain a small pension. His lectures have failed of late:- &amp; I believe he has no resources but drudgery for the booksellers. We shall have on Wednesday next, at our geological meeting, a good opportunity of collecting opinions, - &amp; perhaps you would write to me before that day.</p>
+                  <p>I am pleased to find that some [text illegible} I should grieve if he were to end his days in misery.</p>
+                       
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

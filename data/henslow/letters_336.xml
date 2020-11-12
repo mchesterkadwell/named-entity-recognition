@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_336.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-336">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Whewell   2 March 1849</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 352</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+                <date when="1849-03-02">2 March 1849</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Trin. Lodge| Cambridge</placeName>
+                    <date>2 March 1849</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I send you the result of our last Professors’ meeting. It is still for consideration, and I shall be glad of your suggestions.</p>
+                  <p>I believe the V.C. intends to bring in again the grace for revising the statutes; but the chance of anything being done is almost annihilated by the opposition which has already taken place. Once that the war-cry is raised, there is small prospect of the calmness and harmony without which such a work cannot succeed. And the prospect is all the worse in consequence of the opposition being a junction of the two parties - mon[illeg] men, like your friend Babington, and high churchmen. I suppose these latter think that the V.C.’s design looks too much like putting new wine into old bottles, namely the old statutes, and in truth this application of the image seems to me more apt than some. The opposition was quite uncalled for; as the syndicate was conferred with studious pairings: – old and young, heads and others, and a representative from every college: but perhaps it could have been well if the V.C. could have explained beforehand the nature of the revision intended. That however it was not easy for the V.C. to do, as he never speaks except officially. I suppose he expected to be able to explain his views and intentions in the Syndicate, and in the Report of the Syndicate so far as they were adopted. As you may have seen, it is now declared that the majority of the objections are against a revision altogether; so, as I have said, I much doubt whether anything can be done.</p>
+                  <p>I hope Mrs Henslow is well. Give our kind remembrances to her.</p>
+                  <p>Yours very truly | W. Whewell</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

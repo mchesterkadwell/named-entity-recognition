@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_94.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-94">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Jackson Hooker   12 October 1829</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 122</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_45.xml">Hooker, William Jackson</persName>
+                <date when="1829-10-12">12 October 1829</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Glasgow</placeName>
+                    <date>12 October 1829</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I received your kind letter from Wentworth House: &amp; at the time had the plan of going to England for the purpose of escorting hither M. <hi rend="superscript">rs</hi> Hooker &amp; a good part of my family; &amp; so of taking Wentworth in my way for the purpose of drawing the Cycas. But I soon found that I had too much to do at home. I could not spare the time to go to England:– when I found that, I took the liberty of writing to Lord Milton &amp; asking if a portion of the fruit could not be sent to me. Perhaps the plant could not allow of it. For nothing has yet come.</p>
+                  <p>You may well suppose that I could not make such a journey purposely to draw the plant; nor could I afford to send a draughtsman (even if I knew of one) to make the drawing. But I have from our friend Lowe an excellent sketch of an entire plant, &amp; young fruit in spirit; from which I shall probably make a figure. Having given the Cycas circinalis, I should later wish to illustrate the <hi rend="underline">revoluta</hi> in Bot. Mag. <hi rend="superscript">e </hi>Smith’s figure of the ripe fruit in Linn. Trans. <hi rend="superscript">ions</hi> is especially faulty.</p>
+                  <p>I am now making good use of the dried specimens of British Plants you were so good as to send me: for I am working at a British Flora; that I know not what you will say to me, at learning that it is to be arranged according to the Linnean System. I will yield to none in my admiration of the Nat <hi rend="superscript">l.</hi> Arrangement, nor in my endeavours to recommend its study: ― but I will not give up the Linnean method as the most sensible for a student to commence with. Ten years experience in teaching has enabled me to set, I think, a right estimate upon it. Tis strange to me that Botanists' cannot or will not see the merits of both systems, which are no more in opposition to each others (except in the minds of the ignorant) than are poetry &amp; prose― In my first page I had reason to mention your name as having found Salicornia radicans in Kent. Tis a good plant &amp; there are few stations for it. I have at present only printed as far as Tetrandria; &amp; have already added 4 or 5 species to the British Flora.</p>
+                  <p>It is not solely on Botany that I wish now to write to you. I have on a former occasion mentioned to you two young friends of mine M <hi rend="superscript">r </hi>R <hi rend="superscript">t </hi>Monteith and M <hi rend="superscript">r </hi>Francis Gordon. They have now entered of Trinity Coll. &amp; I hope you will allow me to introduce them to you. They are excellent young men &amp; I hope will prove good scholars. They conducted themselves most creditably while here &amp; in our college &amp; have since been with a M <hi rend="superscript">r </hi>Hall in Gloucestershire to prepare them for Cambridge. They have I believe very few introductions and perhaps it is better <del>they</del>it should be so. Monteith is destined for no particular, perhaps for no, profession: his father is a man of great wealth. Gordon’s (illeg) is for the English Church. D <hi rend="superscript">r</hi> Chalman has given them a letter to M <hi rend="superscript">r</hi> Simeon. I know not whether this will be an advantage or not in any point of view for he is a man of whom we hear the most opposite characters: and if one party (illeg) him (which is not very likely of any party) such an introduction may be the means of excluding from other &amp; really good society. I wish I could know your opinion on such a point. I shall desire my young friends to call upon you &amp; any attention you may be kind enough to pay to them I shall feel very grateful to you for. A little notice from you too will give their parents great pleasure &amp; I will issue you a cordial welcome at Carstairs, one of the very finest houses in Scotland (M <hi rend="superscript">r</hi> Monteith’s) &amp; at Cray (Mr Gordon) one of the most beautiful in point of country. And I hope next Summer you will really come &amp; see us―</p>
+                  <p>Your's ever, my dear Sir | most truly &amp; faithfully | W. J. Hooker</p>
+                  <p>If M <hi rend="superscript">r.</hi> Twopenny still resides in Cambridge pray make my young friends known to him. He was very kind to M <hi rend="superscript">r.</hi> &amp; M <hi rend="superscript">rs.</hi> Gordon when they past through Cambridge some time ago.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

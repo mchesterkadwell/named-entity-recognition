@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_241.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-241">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   30 October 1847</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 9537/2/12</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1847-10-30">30 October 1847</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_122.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Had. S.</placeName>
+                    <date>30 October 1847</date>
+                    <salute>My dear Hooker,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>By placing the backs of the strips (as paged) by the sides of others in front you will see a few suggestions for verbal corrections – but I have not been able to be very critical – Your views appear to me to be just except at one place on the last page to which I have attended – Could you procure me ripe seeds of Melampyrum arvense – they are said to be very like common Wheat – from whence I suppose it has been called “Cow-wheat”– It is possible some of your correspondents may be able to get some – It is rare in England, but too plentiful in France – Thanks for discharging the two bills– My doctor tells me to stay at home for a few days as I have got an attack of shingles round the right hip – It is prevalent just now, &amp; I paid one of our benefit Club 10/– today for having it– I suppose I shall have no such luck myself– Kindest regards to Sir W. &amp; Lady H. &amp; yr Sister &amp; Fanny believe me</p>
+                  <p>Ever aff <hi rend="superscript">ly</hi> &amp; sincerely y <hi rend="superscript">rs</hi> | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

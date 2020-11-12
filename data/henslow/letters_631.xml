@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_631.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-631">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Scott Bowerbank   6 June 1849</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 4</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_242.xml">Bowerbank, James Scott</persName>
+                <date when="1849-06-06">6 June 1849</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Discusses forthcoming trip to Isle of Wight, states that he will help JSH with Ipswich Museum on his return.</p>
+            <p>Shelves portrait scheme due to Thomas Herbert Maguire project of 60 scientific portraits, commissioned by George Ransome for the foundation of the Ipswich Museum. Explains the causes of fine dust that appears on daguerreotypes and that his portrait of JSH in this medium is admired.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>3 Highbury Grove</placeName>
+                    <date>6 June 1849</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I go to the Isle of Wight early on Friday morn &amp; on my return will do any thing that is in my power to further your scheme of the Museum &amp; will not fail to look out some fruits for you. If I were to bring forward my Portrait scheme now I should certainly damage the spirited undertaking of an excellent Friend Ransome &amp; therefore I have put it on the shelf, at least for a while. I took good Daguerreotypes of Buckland &amp; Murchison last Monday in one of our Friends series and they are now at Maguires.</p>
+                  <p>There are two causes of the fine dust that appears on Daguerreotypes. The first one is, that the picture is always composed of minute mealy particles predominating in the lighter parts &amp; nearly absent in the darker parts &amp; thus it is the picture is produced. The second cause is rather too long an exposure to the Mercury, &amp; then it is an additional crop of larger particles equally dispersed over the surface, but at considerable distance from each other comparatively. This second effect is not a desirable one but often occurs in the best Daguerreotypes.</p>
+                  <p>The portraits of yourself an[d] the Bishop are much admired as having so very characteristic expression</p>
+                  <p>I remain | My Dear Sir | yours most truly | J S Bowerbank</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

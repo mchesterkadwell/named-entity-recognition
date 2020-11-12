@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1019">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Robert Graham 3 November 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>American Philosophical Society Library</repository>
+                    <idno>Mss.B.H382</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_30.xml">Graham, Robert</persName>
+                <date when="1826-11-03">3 Nov 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Edinburgh</placeName>
+                    <date>3 Nov. 1826</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                  <p>I this morning, with great pleasure, received your letter of the 31st Oct. I cannot flatter myself that my correspondence can be in the smallest degree important to you, but it will certainly give me much pleasure to support it. I can scarcely persuade myself that you are so much behind in your botanical studies as you would have it believed, seeing you have taken the Bull so stoutly by the horns as to threaten publication already. I have never been bold enough, or active enough, for this, tho' I have been lecturing for ten years, - for a quarterly list of the new &amp; rare plants which flower in the botanic Garden here, &amp; which I describe in the Edin. new Philosophical journal, does not enable me to say I have not been totally negligent of appearing in print.</p>
+                  <p>There is not at this University anything deserving the name of a herbarium, but I am labouring hard to form one; I fear therefore I cannot be so great a contributor to yours as I would wish, but I shall certainly be able to spare you a few which I think you would like. Besides the University Herbarium, which I always consider myself bound to attend to in the first instance, I have also a herbarium of my own, which is however only in embryo. The arrangements I have made will I think enable me in a few years to accumulate duplicates, but at present I really have very few. August is about the only month in which I can leave Edin., but annually at this period I take a ramble in the highlands, &amp; hereafter I shall not on these excursions forget that you have expressed a wish to have some Scotch plants. Will your zeal ever carry you among our Mountains. If so I wish you could contrive to encounter wind &amp; rain &amp; all kind of privations, in my company. I should pilot you with singular pleasure among scenes of such beauty, &amp; great botanical interest. Almost without exception, I start for the north every 2<hi rend="superscript">d</hi> of August, the day after the close of my academical labours. I can answer for Grevelles readiness to assist you in those departments of practical botany to which he has paid particular attention.</p>
+                  <p>Believe me that I feel obliged to Mr Ramsay for having caused me the pleasure of your correspondence, &amp; accept of my assurances that I will derive great satisfaction from its continuance.</p>
+                  <p>I am with much regard yours very truly</p>
+                  <p>Rob<hi rend="superscript">t</hi> Graham</p>
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

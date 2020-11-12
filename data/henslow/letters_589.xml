@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_589.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-589">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Ducie [1853-1860]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 121</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_231.xml">Ducie, Lord</persName>
+                <date notBefore="1853-01-01" notAfter="1860-12-31">1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Tortworth Court | Wootton under Edge | Glostershire [stamp]</placeName>
+                    <date>????</date>
+                    <salute>Dear Mr Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I had rec. <hi rend="superscript">d</hi> the Statement from Prices Works. I now send you what particulars I can of my 3 lots of Onions</p>
+                  <p>Planted   Dug up   No Weight</p>
+                  <p>John Davis March Sept 8 131 38¾ lbs [Has grown his own seed for 40 years]</p>
+                  <p>Tho Burford D. <hi rend="superscript">o </hi>15 <hi rend="superscript">th</hi> Do 188 30½ lbs</p>
+                  <p>Dan. <hi rend="superscript">l</hi> Payne March Do 269 23½ lbs</p>
+                  <p>The manner is all these cases was Pig dung and Soot. The Soil good geologically “Wenlock Limestone” John Davis gained the 1 <hi rend="superscript">st</hi> Prize for Onions at my allotment tenant show, where samples alone were the criterion and weight in a given area was not considered</p>
+                  <p>I should be pleased to know the weight produced by the first Prize man. My people did not understand the affair until I appeared with the weighing machine— so you see that there was no special preparation. The samples sent were all taken from the 6x6 feet which was dug up. Had we selected from the whole patch of onions (a proceeding w. <hi rend="superscript">h</hi> I did not permit) we could have sent better samples</p>
+                  <p>The decrease of weight attending the increased number of onions is curious. Compute the produce of an acre according to the proportions given in the three cases, and the difference between good and bad cultivation will amount to many cw <hi rend="superscript">ts </hi>
+                  </p>
+                  <p>I should add that “John Davis” is the noted onion grower of this neighbourhood, and that his seed is in great request.</p>
+                  <p>My show went off admirably. N. <hi rend="superscript">o</hi> of lots 200 less than last year. Samples excellent and better sorts beginning to be in vogue.</p>
+                  <p>Believe me |yours very truly | Ducie</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

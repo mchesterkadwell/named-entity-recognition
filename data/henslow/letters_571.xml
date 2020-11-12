@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_571.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-571">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Evans   26 October 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 154 &amp; 154(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_210.xml">Evans, John</persName>
+                <date when="1860-10-26">26 October 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Nash Mills | Hemel Hempsted</placeName>
+                    <date>26 October 1860</date>
+                    <salute>Dear Prof <hi rend="superscript">r</hi> Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am rather ashamed of not having sooner acknowledged your letter but I have been so much occupied all this week that I have not had a leisure minute— Fairholt has been staying with me and all my spare time has been devoted to the British Coins of which we have now got 21 Plates arranged and 12 actually engraved— It really begins to look as if my long threatened volume upon them would come to maturity in course of time— I was in hopes when I saw your letter that it was to say that you were coming up to London in the course of a few days and intended to run down here for an evening and would bring some of your Amiens and Abbeville specimens with you— I hope your next may be to that effect and that it may not be long before you send it— If you could come shortly you would be able to look over the proof sheets of my paper on the Drift Imp. <hi rend="superscript">ts</hi> which is to appear in the next vol. of the Archaeologia— I have not yet had time to correct it at all myself— I read your letter in last Saturdays Athenaeum but I cannot say that I am prepared to accept the theory you propose of a lake bursting its banks and enclosing the human relics with those of an earlier date, in a reconstructed gravel— But it would involve too long a yarn on paper to go into this— Only keep in mind the Marchecourt Rhinoceros &amp; the numerous instances of the two classes of remains being found associated together in different localities[.] I think the Icklingham case will eventually be authenticated— I have two of the implements here, just like those from Hoxne &amp; the valley of the Somme[.] I can tell you something of the manufacture of modern flint implements when we meet— There is a party at Ipswich, something of a pawnbroker I think — and near S. <hi rend="superscript">t</hi> Clements if I remember rightly, who can sell you a hundred of them cheap— I understand that the man who made them is now dead, but I think I understand the art— No time for more I hope you will soon find your way here &amp; Prestwich will come to meet you— M. <hi rend="superscript">rs</hi> Evans’ kind regards</p>
+                  <p>yours very sincerely | John Evans</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

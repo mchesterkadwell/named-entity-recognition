@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_802.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-802">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From A. Carrighan   Jany 18</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:42</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_271.xml">Carrighan, A.</persName>
+                <date when="1826-01-18">18 January 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>4 Haymarket</placeName>
+                    <date>Jany 18</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>We have but little good news for you today-no more than three promises.</p>
+                  <p>Horatio Bolton, Caius</p>
+                  <p>Wm  Wing, Jon.</p>
+                  <p>Tavel, G. F Trin.</p>
+                  <p>unless Egremont. S. G. Cath.was admitted in yesterday's bulletin.</p>
+                  <p>Tyson  Cath. gives his 2nd vote to the Attorney, so does Wrench of Trinity Hall. Skirrow's vote in the same quarter is to be a plumper, unless Tatham can soften him. Dealtrey votes for Goulburn certainly, and for us almost probably. R. Grant will see him immediately and no doubt obtain his promise, if he will allow himself to be pledged.</p>
+                  <p>Has G.Blamire of our College been written to - he is now at Carlisle? Could the Master or the orater write to him?</p>
+                  <p>I was in hopes you would before now have sent up to us Crick's name, and Jeffery's,&amp;2 or 3 other fellow's names. They must be by this time returned, and something must be known about their intentions. Is it possible that they can hesitate about supporting Ld  P.?</p>
+                  <p>Have you in your list of promises a Bligh or a Blyth or both - if so how do you describe them? The only way in which you can be useful to this Committee over &amp; above the trouble you take of corresponding with it - is, I imagine to remind all our friends, especially those who are on the committee whom we illeg that they may look in upon us. London is still very thin, and therefore we do not yet muster in great numbers - but we expect more visitors anon. Pray slip into the Bulletin at the end of the week, directed to me, some account of the highest illeg. I trust Elwes will get well through, when he is safe, pray say so. As you don't mention Haswill?, he, I presume is just found for the present as he told me indeed illeg be case.</p>
+                  <p>I have twice written to my nephew about some Cottenham cheeses - I wish he would send me a note saying whether he has sent me any or not</p>
+                  <p>I cannot get rid of the tickling in my throat and have not yet, on account of the business in this room, been able to get to Brighton. Now it draws so near to the time of my being obliged to return for a few days at least to Cambridge that I shall probably defer bathing till the end of the month.</p>
+                  <p>Mrs  Watson not having been able to take advantage of Crawly's escort, or, rather, Dr Latham being of opinion she ought to wait here a little longer, I have offered my services but do not yet know whether the same time will suit us both.</p>
+                  <p>Ever yrs</p>
+                  <p>Dear H,</p>
+                  <p>Faithfully,</p>
+                  <p>Carrighan,  A.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

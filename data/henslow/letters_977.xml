@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-977">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Adam Sedgwick 14 March 1861</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>Add 7652.IIO.61</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1861-03-14">14 March 1861</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_160.xml">Sedgwick, Adam</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Steyning, Sussex</placeName>
+                    <date>14 March 1861</date>
+                    <salute>My Dear Sedgwick</salute>
+                </opener>
+                <div type="transcription">
+                    <p>Additional comment at top of letter:</p> 
+                  <p>I am back on 23d my address til Wednesday will be - Neville's Esq. Dangstein Petersfield</p>
+                  <p>George's rector, Rev J. Medland, has given me some Saurian remains just found in the lower chalk of this place. I told him I should present them <hi rend="underline">in his name</hi> to the Woodwardian. They are fragmentary parts of a jaw, 2 or 3 vertebrae, &amp; some unexposed pieces in lumps of chalk, which it will need the ingenuity of your assistant to unravel. The teeth already exhumed are <hi rend="underline">curved</hi> &amp; <hi rend="underline">I hope</hi> the fossil maybe some first cousin to a Mososaurus, if not a nearer relative. I think you won't mind paying for the carriage - so I have packed them up in a small box, &amp; shall remit them by rail tomorrow from Shoreham in my way to G. Jenyns near Portsmouth. If you happen to be so fully supplied with such things as not to care about this fragmentary specimen, you can send it on to Ipswich; but I rather think it a good thing though there is not much of it. It is supposed that more is still in the pit; &amp; I have obtained a promise that it shall be sought after when the men resume work, &amp; shall have cleared away some rubbish which at present overlies the spot. I dare stay Livering would like to see it, when it arrives, &amp; might assist (if need be) ascertaining the character of the fossil. I have no book at hand for comparison beyond Lyell's elements, &amp; he is very meagre about Mososaurus &amp; Pterydactyle - in fact gives no description. I am sorry I missed you twice when I called. Barnard told me you had written to him - but the Master took me into Hall on Sunday.</p>
+                  <p> Ever affecly Yrs</p>
+                  <p>J. S. Henslow</p>
+                    
+                    
+
+                   
+                        
+                        
+                        
+                            
+                        
+                      
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

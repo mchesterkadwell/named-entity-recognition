@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1051">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To John Lindley 16 January 1846</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1846-01-16">16 January 1846</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_58.xml">Lindley, John</persName>
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham Hadleigh Suffolk</placeName>
+                        <date>16 Jan 1846</date>
+                        <salute>My dear Lindley,</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I send you a sequel to what you had before. I had it in my pen to refer to a hasty remark I made in one of my letters - as I felt after it was gone it might have an ungracious &amp; perhaps canting appearance to you. But you rather startled me by an expression of my "good works" to which I felt I had no claim. I feel very deeply indebted to you for the kind manner in which you assisted in repelling the very false imputation laid upon me last year by a reporter in the Times. It was very friendly of you &amp; I am not insensible to good report - but I fear it at least as much as bad report, <hi rend="underline">when not merited</hi>. So pray do not suppose that I wanted to be snappish, though I confess the manner in which I expressed myself may have had that appearance. I hope you understand me, indeed I am sure you do - so I will say no more. If you disagree with me in any of the principles I endeavour to enforce do not hesitate to do so - &amp; I will always try to see where I am wrong.</p>
+                  <p>Ever sincerely Yrs</p>
+                  <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

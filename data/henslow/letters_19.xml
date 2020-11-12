@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_19.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-19">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Stephens   22 July 1824</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 22</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_60.xml">Stephens, J. F.</persName>
+                <date when="1824-07-22">22 July 1824</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>3 Leigh Street</placeName>
+                    <date>22 July 1824</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Fearing you may be at a complete non plus for pins I have been sent you all I have been able to procure; you will see by Noake’s Bill that he had only ¼ lb ready and promised to send more yesterday, but as he has not I forward these for immediate use. Your cork I have ordered but it has not arrived here yet, &amp; I have been confined to the house since Sunday last with a slight attack of fever, which is now much abated: directly I receive the rest of the pins I will pack them off with Cork.– The papers of pins in Noake’s Bill are for myself.– I am rejoiced to hear from Jenyns that you have been so successful this year in your pursuits, &amp; that even a Stylops has not escaped your penetrating eye. I hope next season that you will be able to catch more and secure a duplicate for my cabinet, as I am very anxious to possess at least one specimen of an Order, that is a total desideratum with me. Since I last wrote I have been so busily engaged in providing for the printers that I have not been out entomologizing, and I fear that I shall have very little opportunity of doing so any more this season, from the same cause: but I hope by October that all my time will be devoted to the pursuits of that study, at least all my extra official time. Do you catch the larvae etc of Sphinges in your neighbourhood? If so, have the kindness to give me their habitats, and also any others, belonging to that group, that you may have captured in your rambles over the country: as I wish to make them as complete, in my monograph, as possible. If you are able, I will thank you to catch me eight specimens of Machaon, 3 of them to be under sides. You will find <hi rend="underline">at last a few</hi> named shells, but they have been done so long [illeg] and I have attended so little to shells lately, that I almost fear some mistakes may have occurred, but I trust not. I will, if possible send more with the rest of the pins &amp; the cork, and believe me in great haste</p>
+                  <p>yours truly | J. F.Stephens.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

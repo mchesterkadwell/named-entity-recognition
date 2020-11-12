@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_324.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-324">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Albert Way   18 February 1846</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 349</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_155.xml">Way, Albert</persName>
+                <date when="1846-02-18">18 February 1846</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>12 Rutland Gate | Hyde Pk</placeName>
+                    <date>18 February 1846</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am much distressed about this affair of the Urns, finding that it is a cause of much annoyance to M <hi rend="superscript">r</hi> Strutt. I am not aware how far you would cede the right in matter to him, as lord of the soil where the treasure was trove. Or whether you regard his interest in the matter as inferior to that which you have yourself acquired by the labour and skill with which you elaborated the results of the discovery. I am vexed that you have brought me in as particeps, I well remember our conversation about the urns, and am quite sure that my own feeling would have been, if you considered yourself in any measure beholden to send your account to M <hi rend="superscript">r</hi> Smith, that I should owe you no grudge for doing so. We were not struggling for a question of old pots. At the same time knowing nothing of M <hi rend="superscript">r</hi> Strutts interest in the matter my expression amounted merely to that of my own personal feeling.</p>
+                  <p>In the mean time the matter has I suppose gone too far for any withdrawal of the account – it seemed to me a case wherein Mr Strutts feelings might have but been considered by transferring the discovery to neutral ground, at Somerset House, so that the account and the representation of the objects discovered might appear in the Archaeologia. This course might I thought have been also most advisable in consistency with the neutral position which you yourself occupy, in the archaeological division. M <hi rend="superscript">r</hi> Strutt, doubtless wished that the discovery made on his property should be communicated to this society with which he is pleased to take part, and not to M <hi rend="superscript">r</hi> Smith. He is I imagine desirous that his name should not appear in an equivocal light, and this desire I am sure you will fully feel, whatever may become of the old crocks, should be respected. If no middle course more in agreement with his feelings can be adopted, you will I am sure use your influence to prevent such use of his name in the matter as would increase the evils which have too abundantly arisen from this unfortunate Dissention.</p>
+                  <p>Like yourself I have joined the Cambridge Society, which I hope will strike root under the auspices of our friend Willis. Many thanks for your kind invitation – it would give me much pleasure to visit you and I hope that the opportunity may occur, as we shall very probably be in the Eastern Counties during this year. Your name remains on the list of corresponding Members of the Institute, and I hope you will not withhold that support from our endeavours &amp; extend the taste for Archaeology.</p>
+                  <p>Believe me | yours truly | Albert Way</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

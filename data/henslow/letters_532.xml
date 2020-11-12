@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_532.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-532">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William B. Carpenter   3 August 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 78</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_146.xml">Carpenter, William B.</persName>
+                <date when="1859-08-03">3 August 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>University of London, | Burlington House, W.</placeName>
+                    <date>3 August 1859</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am very glad to hear that everything went off so auspiciously yesterday; and without expecting that your daughter’s future will be all sunshine (which would really be very monotonous) I sincerely hope that her married life may be as happy as I have the pleasure of believing that of her sister to be.— I cannot tell you how pleased I am at the mutual liking that has sprung up between M <hi rend="superscript">rs</hi> Hooker and M <hi rend="superscript">rs</hi> Carpenter, and I hope that in our new home, to which we migrate tomorrow, we shall see more both of her and Hooker, as we shall have a comfortable guest room, which has always been a desideratum with us.</p>
+                  <p>I have duly superintended your Exam. <hi rend="superscript">n</hi> this morning, and think it safest to send you the specimens numbered, for fear of a blunder from any ignorance of “common things” in Botany. The Examiners meet this day week (Aug 10) at 2 PM. Perhaps it will be better for you to send up your Honours Paper previously.</p>
+                  <p>I shall be very glad to promote your Son’s plans if I have the opportunity. I gave his programme to Donaldson, who was examining (1 <hi rend="superscript">st</hi> B.A. Class Hon) at the same time, and who hopes to be able to serve him. D. says your son is the best-tempered fellow he ever met. Is there a lady in the household? or is there to be when pupils offer? I think this indispensible to the development of the family feeling, which is the advantage of private education to foster, and which compensates for much that is excellent and invigorating in the Public School system. My own experience would lead me to regard the combination of both plans as having advantages possessed by neither taken alone—</p>
+                  <p>Yours most faithfy | William B. Carpenter</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

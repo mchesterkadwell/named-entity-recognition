@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-978">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Adam Sedgwick 27 November 1852</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>Add 7652.IIX.36e</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1852-11-27">27 November 1852</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_160.xml">Sedgwick, Adam</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham H. S.</placeName>
+                    <date>27 Nov 1852</date>
+                    <salute>My dear Sedgwick</salute>
+                </opener>
+                <div type="transcription">
+                    <p>On getting home from Kew last night I found yr letter. I never stated that I heard that Owen had 
+ <hi rend="underline">stolen</hi> any thing beyond the "priority of description" of the Telerpeton (sic) (= Tulerpeton), &amp; had backed his claim by somewhat more that an equivocation. The story told me (so far as I have looked in my memory) was this. Somebody sent to Mantell (for <hi rend="underline">his</hi> express use &amp; description, through Lyell) the unique specimen in question. Lyell, in confidence, showed this to Owen, intimating at the time that Mantell was to describe it. Owen was stated to have been seen <hi rend="underline">surreptitiously</hi> examining the fossil, after it was sent to the Geol. Soc. &amp; when called on for explanation by the Council, declared he had drawn up his account from <hi rend="underline">another</hi> specimen but would not say where this was to be found. I heard all this from Hooker, when naturalists of repute were present &amp; it was admitted as a <hi rend="underline">notorious </hi> fact. But may regard this as strictly confidential, for if the story is founded on misapprehension I should be very sorry to have been the means of carrying it to you without naming me, you can ask Hopkins &amp; other members of the Council what passed at the meeting when Owen is said to have made his refutation, &amp; been accused of unfair dealing - &amp; if you ascertain the statements to be untrue, I shall be very glad to undeceive Hooker &amp; through him whoever were his informants &amp; may have been falsely impressed with these ideas. It is grievious enough to find how O. was prejudiced against Mantell, without supposing he could be guilty of so mean a proceeding. But really one hears so many tales, that it is necessary to be extremely cautious among the London Naturalists - lest some of them be no better than fancies prompted by jealousy and ill humours. We expect Mrs Hooker to come here in about 3 weeks &amp; remain til her confinement is over in Feby. She seems remarkably well at present - her summer trip having given her quite a fillip. I have just been subpoened to another Coprolitic trial Lawes v. Batchelor - &amp; be hanged to them -for 16th Decr is my wedding day. All well here.</p> 
+                  <p>Ever affy yrs </p>
+                  <p>J. S. Henslow</p>
+
+                   
+                        
+                        
+                        
+                            
+                        
+                       
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_45.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-45">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. T. Lowe   26 March 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 53</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_31.xml">Lowe, R. T.</persName>
+                <date when="1827-03-26">26 March 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Funchal</placeName>
+                    <date>26 March 1827</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I owe you more thanks than I shall attempt to express for the friendly promptitude with w. <hi rend="superscript">ch </hi>you have so effectively assisted my views; &amp; not less for the very kind manner in w. <hi rend="superscript">ch </hi>you communicate the good intelligence. I feel much gratified by the Bishop’s message showing so decidedly his favourable intentions towards me . I suppose Mr. Shaw will write when I am appointed, &amp; tell me when the Latin letter is to be sent him</p>
+                  <p>You will be sorry to hear my scheme for visiting the Canaries and Cape Verdes is knocked up. Mr Davis who made the proposal has rec. <hi rend="superscript">d</hi> instructions from Government to proceed without delay to the West Indies &amp; South America. This he is to do the first opportunity; though when I first told him I was at liberty to accept his offer, I was in hopes he w. <hi rend="superscript">d</hi> still have found <del>it</del> the former plan practicable.</p>
+                  <p>I shall be on the look out however, &amp; all events Teneriffe and the neighbouring Islands here are accessible, if no better occasion offers. Meantime I shall have plenty on my hands here. The Island is very extensive &amp; from the nature of the surface requires much time &amp; careful examination. The Ravines &amp; places in the interior favourable for botanizing are so difficult to access that I am but just beginning to enter upon the most promising part of my ground. The Mollusca here (though the marine are very difficult to procure) are very interesting; I speak particularly of the land. In an excursion to the North &amp; up Pico Ruivo I discovered last week Helicarion Cuvieri in tolerable abundance. Most of the Helices are new.– I shall have a packet of Plants for you shortly, but I sh. <hi rend="superscript">d</hi> like to hear from you first whether I shd. not direct them to some friend of y <hi rend="superscript">rs</hi>.in Town who w. <hi rend="superscript">d</hi> himself get them from the Docks, where there is often delay &amp; in case of Plants injury. Pray send me word how I ought to direct a Box to the Cam: Phil: Soc:, that is if you think one of the splendid Spec. <hi rend="superscript">ms </hi>that are got here of Garganica verrucaria w. <hi rend="superscript">d</hi> be acceptable. As for Mineralogy, there is nothing to be seen but Lavas and Tufas. At Porto Santo though, the Limestone contains most curious shells; &amp; if Mr Bulwer has not already stocked y. <hi rend="superscript">r </hi>market with a supply of Fossilized wood &amp; shells from Canical, I shall be able to send the Society a very interesting collection.</p>
+                  <p>My kind regards to Mrs. Henslow not forgetting little Fanny.</p>
+                  <p>Believe me | Y. <hi rend="superscript">rs</hi> most sincerely | R. T. Lowe.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

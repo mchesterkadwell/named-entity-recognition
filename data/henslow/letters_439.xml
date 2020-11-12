@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_439.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-439">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William B. Carpenter   15 April 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 68</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_146.xml">Carpenter, William B.</persName>
+                <date when="1856-04-15">15 April 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>London</placeName>
+                    <date>15 April 1856</date>
+                    <salute>Dear Prof. Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I quite appreciate the difficult position in which you are placed among so many rival claims, and do not wish to urge my own to the exclusion of those of any of the other<del>s</del> Candidates—still I think I may say that if one of your friends at least (I refer to Hooker) had been aware that I was in the field, he would not have applied to you in behalf of Latham. I feel sure that you will give a fair consideration to the qualifications of all the Candidates, should you determine upon attending the Election; and I venture, therefore, to ask your perusal of the first two pages of the accompanying Report of University Hall for the year 1833, which records the circumstances under which I came to hold my present position. The Council of the Hall, at its Meeting last Thursday, kindly offered me the strongest Testimonial in its power, as to my general Educational knowledge and experience, my habits of business and my fidelity in the discharge of duties undertaken. Finding, however, that I thought it preferable to fall back on the perfectly spontaneous testimony contained in the Report,the Council authorized me to state that the experience of three subsequent Lessons has fully realized the anticipations therein expressed at the end of the first.</p>
+                  <p>I cannot but hope that my exertions for the promotion of public Education may be felt by you as strengthening my other claims upon the appointment. I have never spared either time or labour, where any path of usefulness has been opened to me. Since I had last the pleasure of meeting you, I conducted the Examination for Lord Ashburton’s Schoolmaster’s prizes for a knowledge of “Common Things”; which altogether took me at least a week’s work; and I have given up a great deal of time in obtaining for the Society of Arts the cheap and good Microscope now to be had of them.—I feel sure that you will not forget all this, if the case should happen that you feel yourself at liberty to serve me</p>
+                  <p>Believe me to be, dear Prof Henslow</p>
+                  <p>yours faithfully | William B. Carpenter</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

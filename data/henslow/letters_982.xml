@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-982">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Adam Sedgwick 1 September 1845</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>Add 7652. IE. 130</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1845-09-01">1 September 1845</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_160.xml">Sedgwick, Adam</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh Suffolk</placeName>
+                    <date>1 Sept 1845</date>
+                    <salute/>
+                </opener>
+                <div type="transcription">
+                    <p>O Sedgwick, Sedgwick - mark my prescience! Did I not rightly in saying I would fix no more days for Geological Professions of Geological Professors. "Tell Bunbury I will come before the end of August!" I told him no such thing; for having got a little rap for faithlessness before, I thought it best to wait &amp; see what the <hi rend="underline">end of August</hi> would produce. I suppose we must now give you up, like a horrid bad riddle. I must go to Town on Monday week to fetch Fanny &amp; Ann from St Albans. Louisa &amp; I took a drive to Felixstow last week &amp; found a whale's Ear &amp;what looks like a Cachelots tooth! I have got a large stack of the pseudo-coprolitic (?-sic) nodules in their <hi rend="underline">primitive condition</hi> from the London Clay at Colchester. Are they transformed bones?? Moreover I am pretty well satisfied that the highly mineralised Whales ears &amp; bones in the Crag are derivatives from the London Clay - a matter of importance in clearing up the comparative climates of the 2 Epochs &amp; accounting for the fortuitous jumble of 5 species in one limited spot. Harriet is considered as decidedly progressing though slowly &amp; not yet venturing down stairs.</p> 
+                  <p>Ever affectly yrs</p>
+                  <p>J. S. Henslow</p>
+
+                   
+                        
+                        
+                        
+                            
+                        
+                        
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_163.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-163">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Lindley   12 April 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 200</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_58.xml">Lindley, John</persName>
+                <date when="1831-04-12">12 April 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>12 April 1831</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>You have rightly conjectured the cause of my not having acknowledged the arrival of the plants you were so kind as to send me. The truth is I am so overwhelmed with occupations that I can only find time for the most urgent of the many matters that press upon me. I was very much obliged to you for the China specimens, which contain a number of curiosities. What a pity they are so terribly squeezed! A short time since I turned some of them in &amp; noted down a few names which I could but with one or two exceptions they are probably no information to you. As to the Cyperaceae, Ferns &amp; Grasses – you will find a great many of them among Wallich’s, particularly the first. But that part of my Collection from him not being in order I cannot compare them at present. I will note down any of your numbers which I may from time to time, determine &amp; communicate them</p>
+                  <p>I have read Schultz paper with attention. How are we to reconcile his acct. of the functions of [illeg] with Bischoff’s experiment with which you are no doubt acquainted. They cannot both be right.</p>
+                  <p>Ever Yours truly | John Lindley</p>
+                  <p>I will not forget your wishes about drawings</p> 
+                    
+                    
+                    
+                    <p>Chinese plants to be named for J. S. Henslow (written by JSH)</p>
+                    
+                    <list rend="ordered">
+                        <item>1</item>
+                        <item>2etc</item>
+                        <item>18 Polypodium pertusum Ronb.</item>
+                        <item>20 Psilotum - as triquetrum</item>
+                        <item>21 Lycopod. Cernuum</item>
+                        <item>31(a) Saccharum very near officinarum</item>
+                        <item>33 Spinifra squarrosus</item>
+                        <item>39 (a), (b), (c), 40  Schizea</item>                                                    
+                        <item>62(a) Cyperus Iria  vald(?) affinis</item>
+                        <item>62(b) ______ Iria</item>
+                        <item>63 Fuirera (?)</item>
+                        <item>75  a Fls Asclepiadia angiusdam? (?) Probably Garden  !!!!!very curious</item>
+                        <item>74 Nepenthes phyllamphora Linn</item>
+                        <item>76  Ptericarpus</item>
+                        <item>77 Pandanus   (male symbol)  -  probably garden</item>
+                        <item>78 Raphis</item>
+                        <item>79 Goodyera probably not distant from G. Procera</item>
+                        <item>80 Spiranthes pudica  m.</item>
+                        <item>81 Apaturia chinensis  mfs (?)</item>
+                        <item>82 Arundina chinensis ? Blume     v. species nova</item>
+                        <item>83 Commelina</item>
+                        <item>84 Vinca </item>
+                        <item>85 Rubus - probably parvifolius - or a new species - specimen too imperfect</item>
+                        <item>86 Asparagus</item>
+                        <item>87 Rhaechia frutescens</item>
+                        <item>88 Hedysarum    * another 88 is Convolvulus pes caprae</item>
+                        <item>89 Scaevola kernigii</item>
+                        <item>91(a) Callicarpa cana</item>
+                        <item>(b) Callicarpa sp.</item>
+                        <item>92 Cilmia angustum</item>
+                        <item>93 Lippia</item>
+                        <item>94 Jussiaea (?) levula (?) Medicin a (?)</item>
+                        <item>95 Phyllanthes turbinatus  (attrib illegible) Simsianus Wall. &amp; (illeg)</item>
+                        <item>96 Psychotria ?</item>
+                        <item>97 Eleagnus</item>
+                        <item>98 Myrtus tomentosa</item>
+                        <item>100 Euphorbia ?</item>
+                        <item>101 Calystegia</item>
+                        <item>102 Impatiens</item>
+                        <item>104 Rubiaceae</item>
+                        <item>105  Do.</item>
+                        <item>106 Grewia very near microsus(?)</item>
+                        <item>107 Sterculia</item>
+                        <item>108 Pantta (?) indica</item>
+                        <item>109 Tradescantia</item>
+                        <item>110 (a) Polygonum</item>
+                        <item>110 (b) Polygonum</item>
+                        <item>111 Aneileum - perhaps Sinicum</item>
+                        <item>112 Chenopodium</item>
+                        <item>113 Polygonum</item>
+                    
+                    </list>
+                    
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

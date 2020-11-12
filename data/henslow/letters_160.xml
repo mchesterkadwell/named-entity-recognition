@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_160.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-160">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. A. W. Arnott   9 April 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 196</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_77.xml">Arnott, G. A. W.</persName>
+                <date when="1831-04-09">9 April 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Acknowledges receipt of package of plant specimens from JSH and explains that he has not had time to add them to the Herbarium.</p>
+            <p>Has been working on a botany paper for new edition of the <hi rend="italic">Encyclopaedia Britannica</hi>. After this, working with William Jackson Hooker on <hi rend="italic">The Botany of Captain Beechey's Voyage</hi>. </p>
+            <p>Making plans to move to property in Kinrossshire, which is being extended to contain library and plants. Plans to provide JSH with dried willow specimens with names from Botanic Garden Edinburgh.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Edinburgh</placeName>
+                    <date>9 April 1831</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I take great blame to myself for not having acknowledged the receipt of your packet sooner. I received it on my arrival in Edinburgh for the winter – but have just been since so engaged with writing that I have not looked at a plant in my herbarium that I admit immediate reference to the subject. Your packet therefore though looked over and containing much that I wished, has not yet found its way into my cabinet, indeed including those I have lately received from the East I. Co. <hi rend="superscript">y</hi>, Unio Itineraria, and private correspondents. I believe I have not fewer than 10 or 15 thousand specimens to intercalcate. Being so much in arrears, I can scarcely say when I shall commence again the looking out of my duplicates. Indeed were I to postpone doing so till I get my own Herbarium in order, I should exhaust the patience of all my friends, and must therefore do what I can to serve them before myself. The paper I have been engaged in, the Art. Botany for the new Edition of the Encyclopedia Britannica, has occupied me all winter, and cannot easily be finished for a fortnight yet, after which I must go to Glasgow and work with D. <hi rend="superscript">r</hi> Hooker till we get other two no. <hi rend="superscript">s</hi> of our Botany of Cap. <hi rend="superscript">n</hi> Beechey’s voyage ready. Then, instead of taking my usual business trip to the Highlands, I shall work at home. My time however, I forsee must be much broken in upon. Some months ago I formed a resolution to quit Edinburgh, and reside on my small property in Kinrossshire: to contain my books and plants, it was however necessary that I build an addition of two rooms to my house. These I have partly to superintend during the summer, nor do I expect they can be in readiness before the middle of August. Then the trouble of removing my library, will be considerable, and it may even possibly see the winter months approach before I get comfortably again into my study. When once rooted in the country I shall having nothing to interrupt me, and shall be then I expect able to repay my kind friends for what I have received: but I may perhaps be able to do so previously.</p>
+                  <p>Owing to the bad weather our last years excursions to the highlands were rather unproductive. But I hope to be able to furnish you with a good many willows with names, having last summer dried them from the Bot. Garden of Edin. <hi rend="superscript">r</hi>, received a collection from Mr. Forbes (Woburn abbey), and another from Mr Borrer. What I give, although not always native spems I hope may be therefore well named.</p>
+                  <p>Believe me yours very truly and sincerely |G. Walker Arnott</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

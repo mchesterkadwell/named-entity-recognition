@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_413.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-413">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Horner   27 September 1855</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 179</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_131.xml">Horner, Leonard</persName>
+                <date when="1855-09-27">27 September 1855</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>17 Queen’s Park West | Regent’s Park</placeName>
+                    <date>27 September 1855</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I quite agree with you that the system of the Committee of Council on Education of refusing aid to places where it is impossible to raise their required preliminary sum is absurd &amp; mischievous, for it leaves these places without any school worthy of the name that’s stand most in need of assistance. I have remonstrated against this in respect of the Factory districts again &amp; again in vain. Their excuse is that if aid were granted without such a condition, all voluntary subscriptions would cease. That might be the case, at least to a considerable extent, but when the coil arises, the remedy should be applied. The best remedy would be, to give the Committee of Council power to order a rate to be levied when the voluntary sum was not forthcoming, the schools in all such cases to be practically and really free from all religious compulsion of any sort. There is I believe the means of getting some aid, by what is called the Capitation allowance &amp; I believe your School would be entitled to it. You had better write to the Committee of Council on the subject.</p>
+                  <p>What you suggest would be most useful, to have a return of every parish not in receipt of any grant from the Committee of Education, &amp; if you would draw up the Return wanted, there would be no difficulty in getting some Member to Move for it immediately on the assembling of Parliament. If a similar return could be got from the National Society it would be desirable to have it.</p>
+                  <p>I hope you got my letter of thanks for the reports you lately sent me;</p>
+                  <p>Ever faithfully yours | Leonard Horner</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

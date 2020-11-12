@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1012">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Ann Henslow 11 September 1849</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>American Philosophical Society Library</repository>
+                    <idno>Mss.B.H382</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1849-09-11">11 September 1849</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_334.xml">Henslow, Ann</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham H. S.</placeName>
+                    <date>11 Sept 1849</date>
+                    <salute>My dear Ann,</salute>
+                </opener>
+                <div type="transcription">
+                  <p>It is not so absolutely necessary to remove the ridge whilst the wax is warm. I find the marks of the knife are easily obliterated with the finger by the help of the turpentine which acts on the wax. It would be impossible to see any trace of the ridge on your models of the potatoes now. Turnips &amp; carrots need not be modelled as they are not <hi rend="underline">fruits</hi> &amp; the potatoes were only wanted for a specific object. I will send your lists to Sir W. H. &amp; ask if he can suggest anything. I can only think of the following at the moment among our succulent fruits.</p>
+                  <list rend="ordered">
+                     <item>Red Bryony   (Bryonia dioica)</item>
+                     <item>Black Bryony   (Tamus communis)</item>
+                     <item>Bitter-sweet   (Solanum dulcamara)</item>
+                     <item>Dogwood</item>
+                     <item>Gooseberry</item>
+                     <item>Blackberry</item>
+                     <item>Dewberry</item>
+                     <item>Pomegranite</item>
+                     <item>Granadilla   (fruit of Passion Flower)</item>
+                     <item>Belladonna</item>
+                     <item>Hip</item>
+                     <item>Laurel</item>
+                     <item>Cornelian berry</item>
+                     <item>Grape</item>
+                     <item>Currants   red-white-black-</item>
+                  </list>
+                  <p>Any of the last named that you think will not do well you need not care about &amp; this year it is too late for some of them.</p>
+                  <p>Ever affectionately</p>
+                  <p>J. S. Henslow</p>
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

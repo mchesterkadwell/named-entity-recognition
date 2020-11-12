@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_327.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-327">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   6 January 1847</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 188</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1847-01-06">6 January 1847</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swaffham Bulb.[eck]</placeName>
+                    <date>6 January 1847</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I must not begin without offering my condolence in respect of the severe <del>blow</del> loss you have recently sustained, and which I fear will be very much felt not by yourself only, but by all the other members of your family: I hope, however, you are partially recovered from the first shock, which must have been increased by the somewhat sudden manner in which your brother seems to have been taken off.–</p>
+                  <p>With this I send you a copy of Van Voorst’s Naturalists Almanack, which I edited for this year at his request, and according to the plan he desired – in a great measure. But I am not sure that he will continue it, – still less that I shall continue to be its Editor if he do; as he gave me but £5 for my trouble in this instance, – and I found it much more trouble than I wish to undertake again for so small a sum.– Were you to engage in such a matter yourself, looking to the nature of the publication, which is indeed a trifling one, – would you feel scruple in asking for £10 as a remuneration? – I ask this merely in guidance to myself, if I take it in hand, – (as I think I should not do under that sum) – another year. –</p>
+                  <p>If I continue to do it, – I consider very probably the plan of it may be a little altered, – and the whole somewhat enlarged so as to contain more matter generally useful to Naturalists. – I should be glad, therefore, of any hints you can give for its improvement, – if you will make a note of what may happen to strike you when you look it over. – Mark down, especially, any heads of information which you think ought to find a permanent place, (altered only from year to year as circumstances may demand) in an Almanack for Naturalists. Mr Van Voorst’s idea is, &amp; I think he is right there, that it need not contain all the usual matter given in Almanacks in general, – but should be, as it were, supplemental to the others, – &amp; confined in a great measure to the immediate subject of Nat. Hist., – and N. Hist. meetings, Museums &amp; Phenomena.–</p>
+                  <p>I shall I expect, be going to London early in February, when I shall confer with Mr V. Voorst, &amp; come to some definite decision respecting it: – perhaps before then, you can, at your leisure moments, look over the Almanack in its present form, and give your opinion.–</p>
+                  <p>I hope Harriet is going on well, and all the sick ones, of which you seem to have had several in the house lately. – My love, with a happy new year, to them all.–</p>
+                  <p>And believe me, | yours affect <hi rend="superscript">ly</hi>, | L. Jenyns</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

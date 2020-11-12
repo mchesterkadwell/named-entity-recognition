@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_33.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-33">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Wilson   18 July 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 41</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_22.xml">Wilson, William</persName>
+                <date when="1826-07-18">18 July 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Bangor</placeName>
+                    <date>18 July 1826</date>
+                    <salute>Rev <hi rend="superscript">d</hi> Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>According to your wish I now have the pleasure of sending you roots of the scarlet <hi rend="underline">Anthyllis vulneraria</hi>– they were gathered yesterday morning, &amp; I hope to dispatch them this evening; so that I have little fear of their living; especially as I have sent whole sods– By way of ensuring your object, I have also gathered ripe seeds, which you shall receive in due time– The scarlet variety is pretty common along the S.W. coast of Anglesea, it is however most abundant in the place where I gathered the roots now sent (Llangwyfan, 2 miles from Aberffraw)– It is not invariably found separate from the yellow sort, of which I observed one or two roots, when cutting up the sods; which circumstance, &amp; the consideration that the parcel would not be more expensive for being so large as it is, induced me to send you a more liberal supply than perhaps you may think necessary, or than I should otherwise have ventured upon– There is an intermediate cream coloured variety which is pretty common, but being rather late in the season this year, I did not see it– I have dried specimens at home, some of which I will send you on my return home, which will be now in two or three days, when I shall be anxious to receive your list of desiderata as soon as soon as may prove acceptable to you.</p>
+                  <p>I enclose a specimen or two of Inula Crithmoides &amp; Statice Reticulata, which were both growing at Llangwyfan close to the Anthyllis–</p>
+                  <p>My list of desiderata I have not yet completed &amp; though am unable to send it now, as I could have wished– I however select a few of the plants from the Flora Cantabrigensis, any of which, I shall be glad to have, when you can conveniently send them– you need not fear being able to gratify me most amply in this way without having recourse to <del>others of</del> your botanical correspondents to assist you, tho’ indeed such an addition could not fail to enforce the obligation greatly, but as my greatest fear is that I shall not be able to supply you with novelties to the extent I hoped when I first wrote, I must for the present rest satisfied with the expectation of receiving only a few of your <hi rend="underline">native </hi>varieties in exchange for mine, otherwise I shall be, I fear, more troublesome to you than serviceable– But let me, my dear Sir, beg you to understand that it is not by any means my wish to put you to the least inconvenience, in procuring me specimens – the number of your correspondents &amp; the little leisure which you may perhaps have, will very likely prevent your attending to me, with convenience for some time to come, &amp; in that case I shall be quite content to wait, or even to forego <add>altogether</add> the gratification which I should have in receiving them – the subjoined list is therefore sent only with the view of furnishing you with the requisite knowledge of what will be acceptable to me, should favourable opportunities present themselves, for gathering specimens before the season is over &amp; you should have sufficient leisure for the purpose</p>
+                  <p>I remain | Rev <hi rend="superscript">d</hi> Sir | Yours very truly | W Wilson</p>
+                   
+                    <p>[Plant list—apparently from Flora Cantabrigensis; apparently marked by JSH?]</p>              
+                    
+                   
+                        <list rend="ordered">
+                        
+                            <item>o Crocus sativus</item>
+                            <item>. Scirpus caricinus</item>
+                            <item>Panicum viride</item>
+                            <item>Phleum paniculatum</item>
+                            <item>-------Boehmeri</item>
+                            <item>Agrostis spica-venti</item>
+                            <item>Poa distans</item>
+                            <item>x Bromus erectus</item>
+                            <item>---------pinnatus</item>
+                            <item>. Arundo calamagrostis</item>
+                            <item>x Hordeum maritimum</item>
+                            <item>x Asperula cynanchica</item>
+                            <item>. Galium erectum</item>
+                            <item>. -------spurium</item>
+                            <item>---------anglicum</item>
+                            <item>Sanguisorba officinalis (for comparison with ours)</item>
+                            <item>. Potamogeton densum (I do not see it in Anglesea)</item>
+                            <item>. Lithospermum arvense</item>
+                            <item>Asperugo procumbens</item>
+                            <item>x  Menyanthes nymphaeoides</item>
+                            <item>. Campanula glomerata</item>
+                            <item>. ----------hybrid</item>
+                            <item>x Viola odorata (if truly wild with you)</item>
+                            <item>x Verbascum lychnitis</item>
+                            <item>------------nigrum</item>
+                            <item>x Atropa belladonna</item>
+                            <item>. Rhamnus catharticus</item>
+                            <item>/ Thesium linophyllum</item>
+                            <item>x Vinca major (if wild)</item>
+                            <item>. Chenopodium urbicum</item>
+                            <item>--------------rubrum</item>
+                            <item>--------------murale</item>
+                            <item>--------------hybrida</item>
+                            <item>--------------ficifolium</item>
+                            <item>--------------olidum</item>
+                            <item>.-------------polyspermum</item>
+                            <item>. Cuscuta europaea</item>
+                            <item>x Bupleurum rotundifolium</item>
+                            <item>x ----------tenuifolium</item>
+                            <item>Caucalis latifolia &amp; daucoides</item>
+                            <item>x Selinum palustre</item>
+                            <item>x Athamanta libanotis</item>
+                            <item>x Sison segetum</item>
+                            <item>x Viburnum lantana</item>
+                            <item>x Linum perenne</item>
+                            <item>--------angustifolium (crossed through)</item> 
+                            <item>x Frankenia laevis</item>
+                            <item>Rumex pulcher</item>
+                            <item>.-----maritimus</item>
+                            <item>Colchicum autumnale</item>
+                            <item>Monotropa hypopithys</item>
+                            <item>o Saponaria officinalis (if wild)</item>
+                            <item>Silene otites</item>
+                            <item>-------noctiflora</item>
+                            <item>x Arenaria tenuifolia</item>
+                            <item>Sedum sexangulare (if wild)</item>
+                            <item>------album (ditto)</item>
+                   </list>
+                        
+                        <p> Second column</p>
+                        
+                        <list rend="ordered">
+                           
+                        <item>Lythrum hyssopifolium</item>
+                            <item>Reseda lutea  .</item>
+                            <item>Euphorbia platyphylla</item>
+                            <item>----------amygdaloides x</item>
+                            <item>Potentilla argentea</item> 
+                            <item>Glaucium violaceum  x</item>
+                            <item>Papaver dubium  .</item>
+                            <item>--------somniferum (if wild) o</item> 
+                            <item>Delphinium consolida  x</item>
+                            <item>Stratiotes aloides   x</item>
+                            <item>Anemone pulsatilla  x</item>
+                            <item>Clematis vitalba  x</item>
+                            <item>Helleborus (both)  x  x</item>
+                            <item>Ajuga chamaepytis  x</item>
+                            <item>Teucrium scordium  x</item>
+                            <item>Mentha sylvestris</item>
+                            <item>Leonurus cardiaca (if wild)  o</item>
+                            <item>Thymus acinos   .</item>
+                            <item>Melissa nepeta  .</item>
+                            <item>Melampyrum cristata  x</item>
+                            <item>-----------sylvaticum</item> 
+                            <item>Linaria spuria  x</item>
+                            <item>--------minor  x</item>
+                            <item>Limosella aquatica</item>
+                            <item>Lepidium ruderale</item>
+                            <item>Thlaspi arvense</item>
+                            <item>Isatis tinctoria</item>
+                            <item>Nasturtium amphibium  .</item>
+                            <item>Erysimum cheiranthoides  .</item>
+                            <item>Arabis turrita  x</item>
+                            <item>Geranium rotundifolium</item>
+                            <item>Althaea officinalis  x</item>
+                            <item>Lathyrus aphaca  x</item>
+                            <item>---------nissolia</item>
+                            <item>---------latifolius</item>
+                            <item>---------palustris  x</item>
+                            <item>Astragalus glyciphyllos  x</item>
+                            <item>-----------hypoglottis  x</item>
+                            <item>Trifolium subterraneum x</item>
+                            <item>----------ochroleucum  x</item>
+                            <item>----------scabrum  .</item>
+                            <item>Medicago falcata</item>
+                            <item>Hypericum hirsutum</item>
+                            <item>Picris hieracioides  .</item>
+                            <item>Sonchus palustris  x</item>
+                            <item>Lactuca (all) virosa  x</item>
+                            <item>Crepis foetida</item>
+                            <item>Hypochoeris glabra</item>
+                            <item>Lapsana pusilla</item>
+                            <item>Carduus acanthoides  x</item>
+                            <item>Cnicus acaulis  .</item>
+                            <item>-------eriophorus  .</item>
+                            <item>Onopordium acanthium  x</item>
+                        </list>
+                        
+                        <p> (overleaf)</p>
+                      <list rend="ordered">
+                      
+                          <item>Senecio viscosus  x</item>
+                          <item>--------paludosus</item>
+                          <item>Inula pulicaria</item>
+                          <item>------Intergrifolia var. a.  x</item>
+                          <item>Anthemis arvensis</item>
+                          <item>Centaurea calcitrapa  .</item>
+                          <item>Orchis ustulata  x</item>
+                          <item>Aceras anthropophora</item>
+                          <item>Herminium monorchis</item>
+                          <item>Ophrys apifera  x</item>
+                          <item>-------aranifera</item>
+                          <item>Epipactis grandiflorum  x</item>
+                          <item>Malaxis loeselii</item>
+                          <item>Aristolochia clematitis</item>
+                          <item>Carex divulsa</item>
+                          <item>Amaranthus blitum</item>
+                          <item>Ruscus aculeatus  o</item>
+                          <item>Mercurialis annuus</item>
+                          <item>Aspidium cristatum ?</item>
+                      </list>
+                         <p>Page One top right</p>
+                        <p>"The following of which Mr Roberts had specimens will also be very acceptable to me"</p>
+                    <list rend="ordered">
+                        <item>Milium lendigerum (?)  x</item>
+                        <item>Dactylis stricta  x</item>
+                    </list>
+                        
+                    <p>List from Crocus to Bromus pinnatus indicated.</p>
+                        
+                        
+                        
+                    
+ 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

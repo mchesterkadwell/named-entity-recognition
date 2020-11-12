@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_551.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-551">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   March 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 199</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date notBefore="1860-03-01" notAfter="1860-03-31">March 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swainswick</placeName>
+                    <date>March 1860</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have to thank you for a sermon on “Sudden Death” received a few days since. The subject of death had been brought home to us here at this present time by the decease of M. <hi rend="superscript">rs</hi> Daubeny, my wife’s mother, which took place on Monday morning last. Her’s however, was not a sudden end, as her health had been declining several years, &amp; her weakness had greatly increased of late. Still her last illness was short, and Jane was hardly prepared for losing her quite so soon.— Jane’s own health too has been so very indifferent all the winter that she is the less able to sustain any heavy trial of this nature. She was quite unequal to going to Ampney to see her mother before she died,— which of course renders the separation more painful.— Still I hope her spirits will rally after a time, &amp; that, when the warm weather comes (so long upon its road this year) — &amp; she is able to get more out into the air, — her health &amp; strength likewise will improve.— I suppose after Easter you will be going to Cambridge to lecture.— I again entertain a hope of being able to meet you there, — tho’ whether I may be able to realize it any better than last year is very uncertain.— Independently of our plans being a little unsettled in consequence of M <hi rend="superscript">rs</hi> Daubenys death, which may lead to family movements, in which Jane &amp; myself may have to take part,—there is another circumstance I may mention, &amp; for which perhaps you are not prepared by any thing you have already heard. —That is— that we are about to change our house, —&amp; I am not sure whether another party will not take our present one off our hands as soon as we are disposed to give it up!— We should not naturally have quitted, till Mich <hi rend="superscript">s</hi>, —but if I can save a quarter’s rent in this way, — having already taken another house from this Lady Day, — it would be very desirable, &amp; we should then leave at Mids <hi rend="superscript">r</hi>.— This would entail my being at home to look more after our new residence, which is being entirely done up afresh, — that it may be ready in time, — &amp; I should have very much to do &amp; attend to connected with the removal of all my effects.— Several circumstances have combined to make us desirous of getting nearer to Bath, independently of certain inconveniences in the house in which we are now: Principally, however, it is in order to be nearer Elizabeth, who being an invalid like Jane, the two hardly ever meet as things are. I had also determined not to hold on to my Curacy of Woolley another winter, which, from the very cold church at that season, &amp; the wet fatiguing walk to it, I found trying to my health. — I hope to get duty at Bathwick Church instead, in which parish (close adjoining Bath) our new house is, — &amp; which is held with Woolley by my present rector.— Our intended residence is very nicely situated— scarcely 10 minutes from the station,— &amp; likely to suit us well, tho’ of course not everything one c <hi rend="superscript">d</hi> wish, which it is vain to look for.—</p>
+                  <p>I hope when you write next, you will be able to give a good account of all, especially of Louisa, who we were very sorry to hear had not been well of late. With our kind love to her,—</p>
+                  <p>Your’s affectionately | L. Jenyns</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

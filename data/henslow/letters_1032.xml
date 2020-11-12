@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1032">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Baden Powell 16 October 1842</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Uppsala University Library</repository>
+                        <idno>Waller Ms alb-62:240</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_342.xml">Powell, Baden</persName>
+                    <date when="1842-10-16">16 October 1842</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Oxford</placeName>
+                        <date>Octr 16 1842</date>
+                        <salute>My dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I regret you should have had any trouble respecting the parcel which you were so kind as to forward to me - it seems to have been intended to have been delivered by a friend of Dr Henry's who was to have visited Oxford - but who first forwarded to me by post what should have been his letter of introduction, &amp; then, I know not why, sent the packet through you - I am sorry I did not meet you at Manchester. I have not been able to attend several of the Meetings - being now a family man I am less portable - but I look to these meetings whenever they are held within my reach chiefly as opportunity of meeting old acquaintance. I have heard some rumours that the cycle is to recommence with York &amp; Cambridge. I hope it may be so - as in the present state of Oxford I fear it will require all the stimulus of example from the sister University to drive the spirit shown on the former occasion.</p>
+                  <p>Believe me</p>
+                  <p>Very many yours</p>
+                  <p>B. Powell</p>                        
+                </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

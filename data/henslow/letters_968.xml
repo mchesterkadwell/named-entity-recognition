@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-968">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John J Audubon</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>British Library</repository>
+                    <idno>Cup.510 1943</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_76.xml">Audubon, J. J.</persName>
+                <date when="1836-01-13">January 13 1836</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S. </persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends JSH a copy of third volume of <hi rend="italic">Ornithological Biographies</hi>. Asks why G. N. Granville has discontinued patronage of <hi rend="italic">The Birds of America</hi> as it is nearing completion.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>4 Wimpole Street London</placeName>
+                    <date>January 13 1836</date>
+                    <salute/>
+                </opener>
+                <div type="transcription">
+                    <p>I take a private opportunity to send for your acceptance one of the third Volumes of my Ornithological Biographies.</p>
+                  <p>My family and myself returned to town a few days since and have established ourselves at No 4 Wimpole Street, Cavendish Square, just opposite the house of the Honble George Thackeray, D. D.</p>
+                  <p>Can you inform why the Honble Revd G. N. Granville has discontinued his patronage to my Birds of America? I think that if he was aware that when finished (and that will be in two more years) one thousand pounds could not secure a Copy, he would probably be glad to possess so rare a Work.</p>
+                  <p>Inclosed I send three stamp receipts for the Subscribers at Cambridge and will feel obliged to you for a remittance at your convenience.</p> 
+                  <p>With best regards to your Lady and family as well as to your relative Doc <hi rend="superscript">r </hi> Jennings (sic) </p> 
+                  <p>believe me ever Your Friend &amp; Obt Servt</p> 
+                  <p>John. J. Audubon</p>
+                        
+                        
+                        <p>£22.1</p>
+                        <p>£43.1 </p>
+                        <p>_____</p>
+                        <p>£65.2</p>
+                        <p>- £1.6 = £64.19.6 on 29 Jan <hi rend="superscript">y</hi>
+                  </p>
+                        
+                        
+                   
+                  <p> From: Three Letters of John James Audubon to John Stephens Henslow. Printed in 1943 for members of the Roxburghe Club of San Francisco by the Grabhorn Press</p>
+                   
+                        
+                        
+                        
+                            
+                      
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

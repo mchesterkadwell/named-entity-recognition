@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_235.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-235">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   9 March 1846</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 9537/2/11</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1846-03-09">9 March 1846</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_122.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh Suffolk</placeName>
+                    <date>9 March 1846</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>As you had stated that you had received what duplicates you could from the Galapagos, I told Darwin there were a few scraps of duplicates remaining, &amp; he has written to say that you will like to have them for some one at Paris– I will therefore put them up for you– when I send the other things– If I have no opportunity of sending them otherwise I can get my Hadleigh bookseller to forward the parcel to Town before the end of the month– &amp; you can send the Macrae specimens (&amp; a few others I have for Lindley) to the horticultural Soc <hi rend="superscript">ty</hi> when you have examined them – I have a few duplicates from Dominica that were sent me in a packet of about 100 species from a Clergyman residing there – Are they likely to be of any use to you? I will look at the plants I have had of Hartwig’s collecting &amp; let Mr Bentham know the N <hi rend="superscript">os</hi> that is to say the lowest &amp; highest, for if I recollect rightly I did not receive the first set or sets – I envy you the task you are enjoying with him – A man who has 2 sermons to prepare weekly &amp; a host of other matters to attend to can be little more than a looker on at such labours as yours – I am rejoiced to hear that your Sister is so soon to be married, &amp; to so excellent a person – The little differences in the various sections of the Church of Christ are as nothing compared with individual character– With you I have the firmest attachment for my own Church &amp; the older I grow the clearer I can see that those who formed her articles were the real Giants of the day in which they brushed off the dirt &amp; rubbish that had so long defiled her–</p>
+                  <p>Believe me | very truly y <hi rend="superscript">rs</hi> | J H Henslow</p>
+                  <p>P.S. I have been recommending Darwin to read a most interesting book by Thom – in the cause of Storms, which must interest all when been at sea–</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

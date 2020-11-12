@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1109">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Martin 10 February 1857</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Bury St Edmunds Public Record Office</repository>
+                        <collection/>
+                        <idno>FL586/13/1: 34</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1857-02-10">10 February 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_368.xml">Martin, Thomas</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham, Bildeston, Suffolk</placeName>
+                        <date>10 February 1857</date>
+                        <salute>My dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>It is very kind of you to offer me your aid – but I must decline it – I
+                            am rather over-societed already, &amp; my pocket is not unfathomable as
+                            regards expense, or my time sufficiently charged with leisure to allow
+                            of my running up to town for a lecture at Soc. of Arts – I was at Dr
+                            Royle’s lecture on E.I. fibres hoping to learn, rather than presuming to
+                            teach on such a subject, &amp; I saw a new machine for extracting fibre
+                            from the leaf of Plantains &amp; other Monocotyledons – Altho’ I
+                            exhibited a large assortment of fibres &amp;c for a Country town – my
+                            stock would have seemed comparatively insignificant besides by the side
+                            of Dr Royle’s – If I lived in or near London I should belong to all such
+                            societies but I have always resisted invitations to join the Athenaeum,
+                            &amp; pay for an F. R. S. to my name – &amp; content myself with
+                            Geological &amp; Linnean, as far as the Metropoles is concerned; &amp;
+                            with the Phil. Soc. in Cambridge – This allows me to concentrate a little
+                            more cash &amp; energy to our local institutions – &amp; especially to
+                            the Museum at Ipswich of which I am president &amp; consequently bound
+                            to do all I can in supporting its interests. What with two journeys to
+                            visit paper mills, one in Surrey &amp; the other in Herts &amp; procuring
+                            &amp; preparing specimens &amp; diagrams of my last lecture cost me in
+                            money &amp; time rather more than I like to think of – I can assure you
+                            it is from no desire to shun work that I decline your proposal – but I
+                            am already taxed as far as prudence allows in respect of health, if
+                            nothing else – I have to lecture at Bury on 10th March, &amp; to examine
+                            at Cambridge during that month – so I have enough to think about at
+                            present</p>
+                        <p>We are sadly afflicted in the parish with a low typhus – &amp; I have
+                            just returned from burying a stout hale man of 40 who died on Sunday,
+                            leaving a widow &amp; 2 children dangerously ill – I hardly think that
+                            one, a lad of 14, will recover, but the other, a nice little girl of
+                            about 10, seems to have turned the corner after 3 or 4 weeks illness,
+                            &amp; is smiling again – The widow was an old servant of ours, &amp; lost
+                            2 children last winter from Measles &amp; Whooping Cough – Luckily her
+                            eldest daughter is in Cambridge with her Grandfather, or she also would
+                            now probably have taken the fever – It has been brought this year into
+                            the parish from Stowmarket, as it was (without any doubt) last year from
+                            Monk’s Eleigh – It is strange how completely it prostrates a family
+                            &amp; lingers among them when it once gets hold of them</p>
+                        <p>Believe me</p>
+                        <p>very truly yours</p>
+                        <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

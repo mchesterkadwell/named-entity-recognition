@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_360.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-360">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From George R. Waterhouse   18 September 1851</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 348</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_170.xml">Waterhouse, George R.</persName>
+                <date when="1851-09-18">18 September 1851</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>British Museum</placeName>
+                    <date>18 September 1851</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Many thanks for your kind note– that you are not acquainted with any papers from me on Paleontology is easily accounted for upon other grounds than those you mention– I have not published on the subject! I had long back engaged to with a work upon Mammalia for M <hi rend="superscript">r</hi> Baillieu, and in this, I intended noticing the leading facts relating to the fossil as well as the recent species – and did so, so far as the work went– It was, unfortunately for me stopped ( for a time only as the publisher supposes) by want of funds, &amp; it so happened that the groups which I have had to write about presented by few fossil species– as I had in this work the means of publishing my views in an independent manner I was not anxious to send papers elsewhere– especially as those branches of Paleontology which I had most attended to were already taken up by most able hands–</p>
+                  <p>I have now taken an active part in the Paleontological department of the British Museum for very nearly eight years, having entered in Nov <hi rend="superscript">r</hi> 1843, with very strong testimonials from Sir Chas. Lyell Sir Roderick Murchison, Sir John Herschel, M <hi rend="superscript">r</hi> Darwin and others, who at that time thought that my previous studies of the recent animals, had supplied one with a kind of knowledge wanted in the department – Besides naming and arranging the fossils in the Museum during this period I have spent nearly the whole of my vacations in the field with Geologists – &amp; I may further add that nearly all the collections which have been added to the Geol. depart <hi rend="superscript">t</hi> of the museum have been purchased upon my recommendation – my reports upon the various collections offered –though addressed <del>having bee</del> to the chief of the department – having been forwarded to the Trustees by him – I have of late years worked hard at comparative anatomy, and have delivered two long courses of lectures upon the subject – one on the osteology of the vertebrate animals, &amp; one on the comparative anatomy of the invertebrata– although that principle is not formally admitted, I have always had reason to believe that I might rise to the position of the officer above me, provided a vacancy occurred, &amp; provided I should be found competent &amp; I have only to add that the persons whose names I have already mentioned have stated it as their opinion that I am so– &amp; most of them have written directly to the Trustees on the subject.</p>
+                  <p>Now the mere accident of living in London, or of living away from it, would alone put a person in possession, or not, of many of the points I refer to, as furnishing claims for the promotion I desire, and I am to blame for not having taken this into consideration when I wrote to you. In writing the above my sole object is to excuse myself for this, and at the same time to point out that there are grounds upon which I might reasonably found hopes that I shall not be rejected on the score of incompetency–</p>
+                  <p>I am particularly anxious that what I have said should not be viewed as a removal of my <del>[ill.del.]</del> application.</p>
+                  <p>Believe me, | my dear Sir | very truly yours | Geo. R. Waterhouse</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

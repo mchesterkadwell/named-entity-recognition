@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_912.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-912">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Palmerston   28 May 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:152</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_265.xml">Palmerston, Lord</persName>
+                <date when="1826-05-28">28 May 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Stanhope St</placeName>
+                    <date>28 May 1826</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I shall immediately have prepared a Circular announcing that the Election will be on the 13th 14th &amp; 15th of June &amp; ernestly urging attendance - I send you in another cover some additional reports of votes ascertained. The state of my Poll Book tonight is</p>
+                    <list rend="simple">
+                        <item>unconditional promises __________________________648</item>
+                        <item>conditional _____________________________________13</item>
+                        <item>Total____________________________________________661</item>
+                        <item>of which there are plumpers________________________133</item>
+                        <item>Votes divided or not known to be single votes_________528</item>
+                  </list>
+                  <p>Supposing that we have 50 defaulters we may probably be able out of the 133 Plumpers to obtain 60 additional votes by exchange and this would give us a Poll of 671. We may however hope between this time &amp; the Election to get 29 more votes &amp; thus to make up our number to 700. If we can Poll 700 we shall do, perhaps 650 might win, but I should fear that a less number than that would come third upon the list.</p>
+                  <p>In what respect have the Attorney General's Committee been disappointed of late? Is is that friends of ours who have promised him upon condition that I am safe venture to think that contingency not yet arrived, or is it that the Committee having, as I know they have in some cases, put down a man as voting for Copley who never intended to do so. Explanations have taken place which have reduced the number of their promises.</p>
+                  <p>I suspect they are playing a game by their anger; They have done nothing but manoeuvre all along. They expected me to be perfectly safe when I had not six votes and neither they nor I knew whether I should turn a hundred; They gave out this to induce my friends at once to pledge their second votes. Then they said that I &amp; Copley understood each other, and now they say that I am canvassing against him &amp; urging my friends to withdraw their second votes from him - and as a proof of this they mentioned the name of a person who they said had withdrawn his vote from Copley at my request, but who, as it happens, at the very beginning of the canvass &amp; before he had received my first letter wrote to tender me his vote, &amp; assured me that he would not give a second to my prejudice to any of the other candidates and with whom I have had no communication for the last three months; But depend upon it their only object is to bully us out of our second votes, &amp; we should be unwise I think to give way &amp; anything like a coalition would tell as much against us as for us; It would disgust the Whigs who are now most zealous &amp; will certainly come up and would probably keep them all away. I have no fear of any coalition between Copley &amp; Bankes it <hi rend="underline">cannot</hi> be. Copley's second votes we shall have by individual exchanges which is the only safe way of getting them, but we must not mind the anger of his friends which in fact is only a symptom of his being weaker that they pretended. But if you hear me accused of canvassing against him I wish you to say upon my authority that I have certainly from the beginning of the contest endeavoured to get as many plumpers as possible, &amp; I imagine every other candidate has done the same as Copley included; &amp; that I have done so because I stand on the defensive, and plumpers are my best security, but that I have never in any one instance asked a friend who had promised a second vote to another candidate to withdraw that promise, and that consequently none of the other three candidates has any right to say that I have been acting hostilely towards him.</p>
+                  <p>With respect to conveyances I have taken three coaches the Telegraph the Lynn and another, for the three days, but I shall not engage any Post Horses, in fact they are no use, as they are given to the first comer whichever candidate he travels for; The coaches will be useful as they will secure the means of conveyance for a certain number of persons.</p>
+                  <p>My dear Sir</p>
+                  <p>Yrs sincerely</p>
+                  <p>Palmerston</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

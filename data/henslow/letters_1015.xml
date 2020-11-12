@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1015">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Unknown 21 September 1840</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>American Philosophical Society Library</repository>
+                    <idno>Mss.B.H382</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1840-09-21">21 September 1840</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_289.xml">Unknown</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Bildeston</placeName>
+                    <date>21 Sept 1840</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                  <p>I must say that I consider the arrangement at which you have arrived very different from what I had supposed was the nature of our agreement. I had supposed that I was to have the general revision of all the Botanical articles translated by Mr Roney - &amp; was to suggest any additions that might occur to me - but that I was to have no responsibility with the <hi rend="underline">Alphabetical</hi> list beyond this. In short, from what you showed me you were doing little more than translating a French work which was publishing simultaneously in France. When I state that I could revise the articles in physiology - but recommended some additional help in the lower tribes of Cryptogamy I never intended to <hi rend="doubleUnderline">select</hi> Physiology &amp; Cryptogamy <hi rend="underline">as my portion</hi> - &amp; leave Phanerogamy &amp; Glossology to others. This would have been selecting the most difficult &amp; rejecting the easy. I am at this moment halfway through a dictionary of Botanical terms which comes out soon in the Botanist, &amp; this portion of your work would have cost me no trouble - whereas Physiology is so scattered through journals that I should have had to search for the articles which it might be right to add. I mention all this to show you how very different your arrangements have been from what I had supposed. I can only forsee fresh difficulties &amp; perhaps unpleasantnesses in working this with others - with whom I should be perpetually jostling - &amp; after all we should probably make this mere patchwork of it - so that I have thought it best at once to decline having anything to do with the work. Any misunderstanding that has arisen has most probably been my own fault, &amp; I am very sorry for it but you will agree with me that it is better to pull up in time than to multiply difficulties. You have got Dr Wilkes for the Phanerog. &amp; Glossol<hi rend="superscript">y</hi> - &amp; you state that you could get assistance in the Physiology and Cryptogamy - so that I feel I am not leaving you unprovided in any department, &amp; only deeply regret that I should have mistaken the nature of our engagements.</p>
+                  <p>Very truly Yrs</p>                    
+                  <p>J. S. Henslow</p>
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

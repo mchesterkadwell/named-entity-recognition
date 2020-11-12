@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_389.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-389">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Yates   9 November 1854</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 369</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_183.xml">Yates, James</persName>
+                <date when="1854-11-09">9 November 1854</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Lauderdale House | Highgate</placeName>
+                    <date>9 November 1854</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have lately made up a parcel for you and left it at M. <hi rend="superscript">r</hi> Webb’s in Clement’s Inn. Its multifarious contents are Miss Crompton’s Writing Lessons (all then printed), M. <hi rend="superscript">r</hi> R.P. Greg’s letter on arranging minerals; specimen of Jute; parts of male &amp; female cones of Macrob. Spiralis; London clay with selenite; D. <hi rend="superscript">o</hi>, nodule containing Bivalves; specimens of blistered steel, and the same after being melted and made into ingots; &amp; some other minerals. I have also put into the parcel 6 copies of the pamphlet, lately published by the Institution of Chief Engineers, and the greater part of which is my writing. It contains first my Essay, to which the Council of the Institution have awarded the Telford Gold Medal; notes on the same; and then an abstract of the discussion, which occupied 3 meetings of the Society, and which concludes with my answer to objections. As the whole is edited by Mr C. Manby, I may state without presumption that this pamphlet is the only work in our language, which gives a complete view of the arguments for and against the French metrological system. I will beg you to do me the favour at your leisure to send these copies to the Public Library, the Mechanics’ Institution, and the Phil. Soc <hi rend="superscript">y</hi> in Ipswich, and M <hi rend="superscript">r</hi> John Glyde (Hair-dresser &amp;c) who once gave me his work in 8vo on the institutions of Ipswich. One copy has your own name inscribed on it, and a sixth is added for you to give wherever you think it will be acceptable and interesting, my object being to promote discussion and to assist in making the subject understood.</p>
+                  <p>I went yesterday to Kew to show Sir William the Karen dress, with which he was much pleased. Your kind letter having arrived a day or two previously I was able to take Job’s Tears and we had a very interesting discussion about them, in which Mr Smith joined. Their botanists, I think, took rather a different view from yourself in regard to the porcellaneous substance regarding it as an envelope to the flower only, and taking the protruding threads for stamens and pistils.</p>
+                  <p>I thought Sir W. <hi rend="superscript">m</hi> looked remarkably well. I will inform my sisters of your kind notice of them, and participating in your pleasant recollections of the days we passed so delightfully at their house, I am,</p>
+                  <p>Dear Sir, | most truly yours | James Yates</p>
+                  <p>[P.S.] M. Foucault, on coming to London, stayed here a full week, and shared his experiments one mornings to a party of about 30, chiefly mathematicians and physicists.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

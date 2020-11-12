@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1024">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Robert Brown 18 June 1833</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Uppsala University Library</repository>
+                        <idno>Waller Ms alb-62:274</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_44.xml">Brown, Robert</persName>
+                    <date when="1833-06-18">18 June 1833</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>17 Dean St Soho</placeName>
+                        <date>18 June 1833</date>
+                        <salute>My Dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I am giving you trouble by making you pay postage because I hardly know in what other way to send my answer to the polite invitation for the 27th of the Master &amp; Fellows of St John's. Pray do this for me &amp; express my regret that I am unable to accept the invitation stating if you please the cause formerly mentioned. Many thanks for your kind offer to assist any friend not acquainted in Cambridge. Professor Agardh of Lund who is here &amp; intends being present at the Meeting is a friend whom I am very desirous of recommending to you though I am sure he requires no introduction from me. He does not start till Monday &amp; I believe leaves town with Burchell.</p>
+                  <p>Believe me</p>
+                  <p>My Dear Sir</p>
+                  <p>very truly yours</p>
+                  <p>R. Brown</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

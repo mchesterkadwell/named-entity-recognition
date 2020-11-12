@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_387.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-387">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Roach Smith   3 October 1854</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 320</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_152.xml">Smith, Charles Roach</persName>
+                <date when="1854-10-03">3 October 1854</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>London</placeName>
+                    <date>3 October 1854</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>The payment must refer to vol.3 of the Collectanea &amp; other Abbé Cochel’s work. Vol. 4 you can pay for when you please; the notice was not meant for you &amp; such as you.</p>
+                  <p>You are the only subscriber I have had from the Liverpool meeting!! I never calculated on more than 5 from such a source. Chiefly from my own connections I have now about 180 names.</p>
+                  <p>You say you have seen the Collection. I have never yet had the chance of sitting down to it quietly. Some time since when I wanted the MSS, M. <hi rend="superscript">r </hi>Hawkins refused them! –Now however they are with me. I hope you will carefully read over what I have written about the history of this collection. No one has seen it for 40 years, until, (after great pains,) I induced D. <hi rend="superscript">r</hi> F to grant me access to it.</p>
+                  <p>I suppose <del>you</del> now the 3000 people of the Liverpool Meeting are satiated with these remains I may quietly &amp; undisturbedly get to work upon them.</p>
+                  <p>I send you an extra circular in case you can enlist any Subscriber.</p>
+                  <p>I was sorry I had not the pleasure of seeing you. I came in within 10 minutes after you had left.</p>
+                  <p>Believe me, | my dear Sir, | Your’s very sincerely | C. Roach Smith</p>
+                  <p>[P.S.] When the B.A.A. could not publish the MSS I offered to do it at my own risk. D. <hi rend="superscript">r</hi> F. would not consent, saying he had no recollection of ever saying he would allow anyone to do so! See the note of thanks he received from us at Canterbury!!</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

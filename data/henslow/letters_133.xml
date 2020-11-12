@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_133.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-133">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Christy Jr   9 October 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 160</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_81.xml">Christy Jr, William</persName>
+                <date when="1830-10-09">9 October 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Clapham Road</placeName>
+                    <date>9 October 1830</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your letter arrived during my absence from home on a botanical trip into Somersetshire &amp; it was not until I had some time returned that I discovered it among my papers. This will account for my not attending to it earlier.</p>
+                  <p>I have now great pleasure in sending you a parcel containing a few of your desiderata but as a great part of my herbarium is in Cheshire I have not been able to send all I could wish. I expected to have been down there ere this but circumstances seem likely to prevent my going before the new year. Anything I have to send you from there I can hand to my friend Mr Wilson of Warrington who I believe sometimes sends packets to you.</p>
+                  <p>My late trip into Somerset was tolerably productive of good plants but I had the mortification to lose nearly the whole of my specimens owing to the papers not being changed. You will see what a shocking state some of the specimens now sent are in from that cause. In travelling on foot (which I do for my health &amp; the greater convenience of botanizing) I find it impossible to carry my collection with me but am obliged to forward the packet to some town I fix on as head quarters. When any delay takes place in the delivery of these or I do not reach the place at the time I expected they sometimes suffer materially. I lost about 100 specimens of Reseda alba from an undoubtedly wild habitat on the Somerset coast &amp; my specimens of Chrysocoma linosyris shared very much the same fate though not so irretrievably injured.</p>
+                  <p>On the other page I hand you a list of my desiderata in British Plants any of which will be acceptable &amp; as I am forming a general Herbarium I shall be also obliged by any spare specimens you may at any time happen to have in Exotic Plants.</p>
+                  <p>Believe me |Dear Sir |Yours very truly|W Christy Jr.</p>
+                    
+                    
+                    <p>
+                      
+                          <list rend="ordered">
+                            <item>Veronica verna</item>
+                            <item>--------triphylla</item>
+                            <item>Centunculus minimus</item>
+                            <item>Hippophaea rhamnoides</item>
+                            <item>Cuscuta epithymum</item>
+                            <item>------- Europaea</item>
+                            <item>Pulmonaria officinalis</item>
+                            <item>---------- angustifolia</item>
+                            <item>Borago officinalis</item>
+                            <item>Polemonium coeruleum</item>
+                            <item>Campanula rapunculus</item>
+                            <item>Phyteuma orbiculare</item>
+                            <item>Lonicera caprifolium</item>
+                            <item>Erythraea littoralis</item>
+                            <item>Viola lactea</item>
+                            <item>Ribes nigrum</item>
+                            <item>-----  alpinum</item>
+                            <item>-----  spicatum</item>
+                            <item>Thesium linophyllum</item>
+                            <item>Eryngium campestre</item>
+                            <item>Bupleurum odontites</item>
+                            <item>Tordylinium sp.</item>
+                            <item>Caucalis sp.</item>
+                            <item>Athamanta libanotis</item>
+                            <item>Corrigiola littoralis</item>
+                            <item>Statice reticulata</item>
+                            <item>Linum perenne</item>
+                            <item>Asparagus officinalis</item>
+                            <item>Convallaria multiflora</item>
+                            <item>----------- verticillata</item>
+                            <item>Dianthus caryophyllus</item>
+                            <item>--------  prolifer</item>
+                            <item>Silene otites</item>
+                            <item>Stellaria glauca</item>
+                            <item>Arenaria tenuifolia</item>
+                            <item>Lythrum hyssopifolium</item>
+                            <item>Actaea spicata</item>
+                            <item>Glaucium phoeniceum</item>
+                            <item>-------- violaceum</item>
+                            <item>Delphinium consolida</item>
+                            <item>Pulsatilla vulgaris</item>
+                            <item>Teucrium scordium</item>
+                            <item>Galeopsis villosa</item>
+                            <item>Leonurus cardiac</item>
+                            <item>Melittis melissophyllum</item>
+                            <item>-------- grandiflora</item>
+                            <item>Melampyrum cristatum</item>
+                            <item>Limosella aquatica</item>
+                            <item>Arabis turrita</item>
+                            <item>Dentaria bulbifera</item>
+                            <item>Turritis glabra</item>
+                            <item>Geranium phaeum</item>
+                            <item>Althaea hirsuta</item>
+                            <item>Genista pilosa</item>
+                            <item>Vicia bythinica</item>
+                            <item>Hypochaeris maculata</item>
+                            <item>Cineraria palustris</item>
+                            <item>--------- integrifolia</item>
+                            <item>Gnaphalium luteo-album</item>
+                            <item>---------- gallicum</item>
+                            <item>Doronicum pardalianches</item>
+                            <item>Centaurea jacea</item>
+                            <item>Malaxis loeselii</item>
+                            <item>------- paludosa</item>
+                            <item>Equisetum hiemale</item>
+                            <item>--------- variegatum</item>
+                        </list>
+                    
+                    </p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

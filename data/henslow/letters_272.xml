@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_272.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-272">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Whewell   5 March 1854</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell Add.Ms.a.65: 34</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1854-03-05">5 March 1854</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh Suf.</placeName>
+                    <date>5 March 1854</date>
+                    <salute>My dear Whewell</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>The illness &amp; death of one of my Aunts has interfered with my arrangements, &amp; I must return to London tomorrow to give directions for &amp; to attend her funeral on Friday– I just saw Sir W <hi rend="superscript">m</hi>. H. on Friday night &amp; was surprized to hear Stratton had forestalled my visit by a week– Some of Sir W <hi rend="superscript">m</hi>s objections appear to me sufficiently grave to admit of further discussions – but Stratton writes me word his plan is to be laid before the senate in a few days. I have never seen it, &amp; have only a general impression of what it is to be– I could have wished to have met him at Kew, &amp; have discussed it with Sir W <hi rend="superscript">m.</hi> &amp; M <hi rend="superscript">r </hi>Smith – for though I have not sufficient practical knowledge to propose plans myself, I think I could have understood the bearing of their objections or otherwise sufficiently to have given you a decent opinion on the subject– I hope &amp; think it will all turn out well– I am writing to Willis about the Museum.</p>
+                  <p>Ever sincerely y <hi rend="superscript">rs</hi> | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

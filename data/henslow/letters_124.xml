@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_124.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-124">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From E. T. Bennett   30 June 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 149</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_79.xml">Bennett, E. T.</persName>
+                <date when="1830-06-30">30 June 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Writes to postpone proposed pilgrimage to the tomb of John Ray due to the death of George IV.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Bulstrode Street</placeName>
+                    <date>30 June 1830</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I regret to say that the proposed pilgrimage to the tomb of John Ray is postponed. The demise of the crown which has occurred since I last addressed you prevents several of our friends from joining the party, and it seems to be a very general feeling among the others that no Meeting should take place at present. After the funeral it is feared that our London friends will be so much dispersed as to render it impossible to collect them together so as to do justice to the occasion, and I therefore fear that the intended tribute to a distinguished countryman cannot take place this year. If, however, circumstances should favour such an undertaking, I will lose no time in communicating with you, as one of the most valuable cooperators on such an occasion.</p>
+                  <p>I need scarcely say that the postponement has been some disappointment to myself and to others, but it was better that such a resolution should be adopted than that we should meet not only with divided numbers, but with divided feelings even among those who adhered to their original intention.</p>
+                  <p>I remain my dear Sir |yours very truly |Edw. <hi rend="superscript">d</hi> T. Bennett</p>
+                  <p>[P.S.] I should have acquainted you with the determination earlier had it not seemed necessary to know whether any arrangement s had been made for our reception. There is now reason to believe that no definite arrangements had been made. Should you have an opportunity of informing Mr. Jenyns of the abandonment of our plan you will much oblige me by doing so.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

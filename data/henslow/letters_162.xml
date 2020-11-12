@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_162.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-162">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Revd James Dalton   12 April 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 199</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_61.xml">Dalton, Revd James</persName>
+                <date when="1831-04-12">12 April 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Croft</placeName>
+                    <date>12 April 1831</date>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>This morning’s post, my Dear Sir, afforded me much pleasure, in presenting me with you Letter. In the secluded life of a country Parson, to be remembered by those we esteem, is one of the few gratifications which fall in my way. You may depend on my best attention, bad as it may prove, to your Desiderata. Alas! They remind me, forcibly, of my own necessities; &amp; yet there are some things which I hope to send you. Except Carex Vahlii, &amp; a few things I already possessed, from M. <hi rend="superscript">r </hi>Greville, I have not had one solitary donation. That said, equally, liberal &amp; scientific L. L. D. volunteered his assistance in the Algae – but his avocations have left me as bare as his promises found me. I own that want of communication has relaxed, considerably, my Botanical furor. There are so many doubts &amp; difficulties in the study, which, even a well stocked library cannot set at rest, that a diminution of zeal, as well as pleasure, is no very unnatural occurrence. I have bought the works of our two Doctors – Hooker &amp; Greville, “Arcades asubo”, &amp; have given them away, claiming no merit from bestowing tools which I could not handle, upon those who could.</p>
+                  <p>This is nearly all a Veteran can; &amp; let me add, somewhat more than every Veteran is disposed to do: but n’importe! As I passed through Cambridge, last Summer, I left a bad specimen of Monardia for you, which I scratched out of a rotten mass of jumbled reliquiae in Sowerby’s Collection: too bad, no doubt, to prevent its being still wanting to your collection. Do you know Borrer? He is one of the Lynx-eyed Tribe, &amp; a most kindly, liberal man. Experto crede, an application from you w. <hi rend="superscript">d</hi> not be a barren effort.</p>
+                  <p>I fear it is useless to invite you into these back-settlements – which, by the bye, are not without their comforts. The long promised Bottle, of either Port or Claret, sh <hi rend="superscript">d</hi> be drawn from the “Jas Binn, &amp; right kindly would I join you in its drainage! Perhaps the time may come; &amp; I will only add, the sooner the better!</p>
+                  <p>With my best respects to M. <hi rend="superscript">rs</hi> Henslow,</p>
+                  <p>I am, Dear Sir, y. <hi rend="superscript">r</hi> sincere Friend &amp; obliged servant | James Dalton</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

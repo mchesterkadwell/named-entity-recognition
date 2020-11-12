@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_780.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-780">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Whitworth Russell   6th January 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:20</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_313.xml">Russell, Whitworth</persName>
+                <date when="1826-01-06">6th January 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Exmouth</placeName>
+                    <date>6th January 1826</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have no hesitation in letting you know my intentions as to voting at the next election. It is my earnest wish to forward Lord Palmerstons interest not only by my vote, but by every exertion in my power. I have already told him so, though he may have forgotten it. My brother George will do the same. Our second votes, if it will not interfere decidedly with Lord Palmerstons success, will be given to the Attorney General. I do not know a single Master of Arts who has a vote in this neighbourhood, but I will make diligent enquiries &amp; will yet you know any success I meet with. If you can give me any names of voters in Devon or Cornwall, I might get at them through friends if not by myself. Certainly I will leave no stone unturned to bring in Lord Palmerston. As to the Catholic question his views are mine but that I think has nothing to do with the present contest. When first he was returned for the University, his views on that subject were known: he never has altered, or failed in any way in redeeming the pledges he gave. What therefore induced men to support him originally remains the same, &amp; in addition what we owe for the services he has rendered since he represented us. Pray let me know what you think of his chance, &amp; who stands next in probable success. Not the Attorney General I hope, tho' most likely I shall give him my second vote. He is a radical at heart, &amp; I fear little better than an atheist.</p>
+                  <p>My wife joins me in kind regards to yourself &amp; M<hi rend="superscript">rs</hi>Henslow. This election may bring us all acquainted.</p>
+                  <p>Believe me Dear Henslow</p>
+                  <p>your affec<hi rend="superscript">n</hi>friend</p>
+                  <p>Whitworth Russell</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

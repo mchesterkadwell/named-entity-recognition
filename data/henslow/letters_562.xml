@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_562.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-562">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Evans   11 July 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 149</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_210.xml">Evans, John</persName>
+                <date when="1860-07-11">11 July 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Nash Mills | Hemel Hempsted</placeName>
+                    <date>11 July 1860</date>
+                    <salute>Dear Prof <hi rend="superscript">r</hi> Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Can you enlighten me as to the species of trees to which the enclosed leaves belong— They appear to me to be Holly of two kinds but I am no judge on these points[.] The leaves were found in an Irish bog at a depth of 30 feet— with stems of various trees above— If they are of any interest to you pray retain them and I will also try to procure some more specimens for you— They seem curiously well preserved for the length of time which they must have been imbedded— Can you form any estimate of the length of time that it would take for 30 feet of peat to accumulate under ordinary circumstances. The rate of accumulation must I should think vary very considerably under different conditions. There is no very recent intelligence on the flint implement question. The discovery at Paris of which you sent me notice is the last of which I have heard. Of course you saw or heard Lord Wrottesley’s speech at Oxford— I am just seeing about having some specimens engraved for my paper in the Archaeologia—but have hardly time for anything having still Gladstone to fight &amp; my partner in London laid up with smallpox— He is now recovering— We are all well here and shall be glad to see you whenever you are coming up London-wards— With united kind regards</p>
+                  <p>believe me | yours very sincerely | John Evans.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

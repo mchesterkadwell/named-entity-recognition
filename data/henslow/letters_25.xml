@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_25.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-25">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Robarts   15 October 1825</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 33</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_20.xml">Robarts, John</persName>
+                <date when="1825-10-15">15 October 1825</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Bangor</placeName>
+                    <date>15 October 1825</date>
+                    <salute>Rev <hi rend="superscript">d.</hi> Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have sent a few plants which I picked out of my small herbarium &amp; am very sorry I could not fill up all your present desiderata – as I have given several plants away to different friends &amp; neglected to keep specimens of others even the most common – however all these deficiencies can be <del>all</del> made up <hi rend="underline">next</hi> 
+                     <hi rend="underline">season </hi>indeed, sir, I must confess that I have often spent a day in botanising collected several good &amp; rare plants but in consequence of my professional avocations allowed these to get mouldy &amp; have thrown them away to <hi rend="underline">my great regret</hi> – but now I make a point of taking with me a Book or two made of blotting paper &amp; lay the plants out on the spot I collect them, which I have found to answer exceedingly well– as I was rather hurried the day I packed all the plants I might have committed some errors with naming them, but that <hi rend="underline">you </hi>will soon discover as I have not paid particular attention to the Grasses, Carex family &amp;c - I put a few of each up in a jumbly way perhaps you can pick something <hi rend="underline">good</hi> out of them– I have a small collection of Mosses, Lichens &amp;c, some of which I shall send you when I have another opportunity– I intend next season to <hi rend="underline">steal</hi> every opportunity I can in order to make my local herbarium as complete as I can &amp; then I shall be able to complete your <hi rend="underline">desiderata</hi> I have several of them by me, but in such a state as <del>would</del> not to be fit to be sent out– &amp; I am afraid you will find many of those which I have sent not in the best order, perhaps you will be kind enough to give me a hint to preserve them better– My collection was sadly neglected about 2 years ago during my absence from home for a few months – several got mouldy and were thrown away– as to my old friend &amp; <hi rend="underline">prescriptor</hi> (for I was formerly acquainted with the Rev. J .H. Davies) I think he made many additions to the Botanical list of Plants to be found in the Isle of Anglesey which he was not exactly justified although a most excellent Botanist– I will mention a few instances as I proceed – I query these with ? being natives as they are not to be found now–</p>
+                    <p>
+                    <list rend="ordered">
+                        <item>Zostera marina - I never found</item>
+                        <item>? Salvia pratensis - inserted upon the authority of no botanist and probably came from a garden</item>
+                        <item>Scirpus pauciflorus  I can get</item>
+                        <item>---------- glaucus  - ditto -   </item>
+                        <item>Potamogeton fluitans   I believe I can get</item>    
+                        <item> ------------------ lanceolatum  - ditto -</item>
+                        <item>Ruppia maritima  I never found yet although he says not sure</item>
+                        <item>?Lysimachia thyrsiflora  he says by Mr Llwyd R. Synopsis</item>
+                        <item>?Campanula rapunculus probably came from Bara (?) hill gardens </item>
+                        <item>Viola palustris  - have no specimen</item>
+                        <item>Chironia littoralis - can procure plenty</item>
+                        <item>Ribes alpinum - no specimen</item>
+                        <item>Ulmus suberosa  no specimens</item>
+                        <item>--------  glabra  - ditto -      </item>
+                        <item>Daucus maritimum  no specimen</item>
+                        <item>Linum angustifol.  - I never found</item>
+                        <item>Alisma repens - very abundant but no specimen</item>
+                        <item> Vaccinium myrtillus        - ditto -     - ditto -    </item>
+                        <item>?Pyrola minor taken upon hearsay I never saw any of them in this country</item>
+                        <item>?Cucubalus baccifer a complete error see Smith in English Flora</item>
+                        <item>?Cerastium humile - I believe of his own creation</item>
+                        <item>Euphorbia portlandica plentifully but no specimen</item>
+                        <item> -------------  paralia I can get more</item>
+                        <item>Pyrus torminalis   common - but no specimens</item>
+                        <item>-------  aucuparia   - ditto -             </item>
+                        <item>The Rosa I have not examined well</item>
+                        <item>Rubus idaeus  very common -  no specimen</item>
+                        <item>Tormentilla reptans - no specimen</item>
+                        <item>Cochlearia danica very common</item>
+                        <item> Iberis amara &amp; nudicaulis no specimens</item>
+                        <item>Sisymbrium monense    not to be found at present in Mr D.'s habitats</item>
+                        <item>Cheiranthus sinuatus     - ditto -   - ditto -   - ditto -       </item>
+                        <item>Arabis thaliana     no specimens</item>
+                        <item>Turritis hirsuta      - ditto - </item>
+                        <item>Anthyllis vulneraria  our red flower I shall procure it &amp; seeds</item>
+                        <item>Trifolium subterraneum &amp; suffocatum I never found</item>
+                        <item>Santolina maritima  not now to be found</item>
+                        <item>Artemisia gallica  -  no specimen</item>
+                        <item>Inula helenium common     - ditto -     </item>
+                        <item>Quercus sessiliflora - the most common oak of this country but no specimen!!</item>
+                        <item>The Salices I have not examined</item> 
+                        <item>Atriplex laciniata never found</item>
+                        <item>The Aspidia I shall send -</item>
+                    </list>
+           
+                    </p>
+                
+                  <p> Dr. Smith has omitted to notice in his English Flora the beautiful nectary at the base of each petal in the <hi rend="underline">Anthericum serotinum </hi>&amp; also that the whole plant is covered with a kind of white shining particles which is very evident in the fresh state— I shall take the liberty of troubling you with a list of my desiderata when I shall have another opportunity–</p>
+                  <p> I am Rev <hi rend="superscript">d.</hi> Sir y <hi rend="superscript">r</hi> most obed <hi rend="superscript">y</hi> humble s <hi rend="superscript">vt</hi> | John Robarts</p>
+                  <p>You perceive sir, that I have been idle in not keeping by me specimens of even the most common plants also that 9 or 10 specimens mentioned by Mr Davies are not to be found in the present day – but I expect I shall be able to procure most of the others you mention – I have on Withering’s arrangement - The Flora Britannica &amp; the English Flora (illeg) perhaps you could recommend me some other good &amp; useful Botanical books- which is the best on the mosses &amp; on the Cryptogamia altogether?</p>
+                  <p>Fw <hi rend="superscript">d</hi> by the Rev John Warren</p> 
+                
+               </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_440.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-440">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William B. Carpenter   18 April 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 70,69(i),69(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_146.xml">Carpenter, William B.</persName>
+                <date when="1856-04-18">18 April 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>London</placeName>
+                    <date>18 April 1856</date>
+                    <salute>Dear Prof. Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am obliged by your letter, and do not wonder at your feeling embarrassed among so many contending claims—My own belief is that the contest will be, at last, between Heaviside &amp; myself. Latham will have, perhaps, in the first instance, some of the literary &amp; some of the medical support; but I feel pretty sure of the bulk of the latters, and am not without hopes of some of the former. M <hi rend="superscript">r</hi> Grote has given John Mill to understand that he will support me, if in England; and the Bishop of Durham has promised Sir John Forbes to vote for me if he can attend the Election.</p>
+                  <p>I suppose I misunderstood Playfair about Latham; I thought he said that he had got Hooker to write to you in his behalf.</p>
+                  <p>I feel my chief point of inferiority to be, that I have not got a Cambridge or Oxford degree. This, of course, is <del>not my fault</del> rather my misfortune than my fault; and in order to remedy it, and to justify my appeal to my works as evidence of qualifications, I have asked one or two friends of high standing in <del>both</del> each University to state their opinion regarding this point. I happened to know that Sir J. Herschel had read my “Comparative Physiology” as he spoke to me about it the last time he attended the Philosophical Club; and I enclose a copy of a letter I have just had from him. I hope for a letter to the same purport from Thomson (the Provost of Queen’s Coll. Oxford) and perhaps from Jowett. The former has read my Human Physiology, and I believe that the latter is acquainted with the psychological portion of it.</p>
+                  <p>Believe me to be, Dear Prof. Henslow</p>
+                  <p>yours faithfully | William B. Carpenter</p>
+                  <p>Addition of a letter Add.8177/69(ii) (not dated) from Sir J.F.W. Herschel to Dr W.B.Carpenter, copied in the hand of W.B. Carpenter:</p>
+                  <p>“My Dear Sir</p>
+                  <p>I know not what the special qualifications may be, which are looked for in a Candidate for the Registrarship of the University of London, but if one of them be scientific eminence of a high order, founded on the production of one of the best, if not the very best, works existing on a <add>most</add> difficult and important branch of knowledge, you certainly may offer yourself as a Candidate. –</p>
+                  <p>Though far from competent to estimate at its full value your elaborate work on General and Comparative Physiology, I consider myself fully so to appreciate the philosophical views and generalizing spirit, as well as the logical and scholarlike habits of thoughts which are displayed in that work, especially in the recent enlarged edition; and I have not a doubt that the same powers of mind and the same application which have enabled you to produce such a <del>work</del>book, would have ensured you arriving at the most distinguished Academic Honours, had your career commenced at either of the Universities.</p>
+                  <p>Allow me to add the assurance of my very high personal esteem and regard; and also that if you consider this letter as likely to be of use to you in your canvass, it is quite open to you to make it so</p>
+                  <p>Believe me, Dear Sir</p>
+                  <p>Yours very truly</p>
+                  <p>J.F.W. Herschel”</p>
+                  <p>PS. I cannot help adding, to correct an impression which you may have in common with others, that, successful as my principal works have been, they have paid me very little. I have for the most part received only from £100 to £150 for each edition of my largest books; and for the third edition of my Comparative Physiology – which was a volume of 1150 pages, and occupied all my disposable time for two years, I did not receive one farthing, having done the work as a labour of love, in order that the <del>book</del> publisher might spend £350 in illustrations. It does not answer to print a larger edition of any such book, than will sell in three or four years, since it otherwise becomes old and is superseded by some other. I find that it is currently supposed that I make £600 or £800 a year by my books; I have certainly not received an average of £150 for the last few years.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

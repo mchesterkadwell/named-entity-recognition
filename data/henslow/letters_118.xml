@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_118.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-118">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. J. Audubon   12 May 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 142</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_76.xml">Audubon, J. J.</persName>
+                <date when="1830-05-12">12 May 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+            <p>Has just returned to England from America and been elected as a Fellow of the Royal Society. Acknowledges receipt of money in return for works delivered to JSH.</p>
+            <p>Has completed 50 drawings in America as improvements on <hi rend="italic">The Birds of America</hi> and asks JSH for help with increasing subscriptions. Comments on animal specimens.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>43. Great Russel St Bloomsbury London</placeName>
+                    <date>12 May 1830</date>
+                    <salute>My dear Sir,–</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have now the pleasure of addressing you again from <del>[ill. del.</del> “Old England” the Land of Hospitality and of Science – and at the same time you will allow me to present you my thanks for your continued kind attention whilst I was so far in the Wild Forests of America – our Friend Children has remitted me your letters and the money you remitted for the Numbers of my Work whilst away. – in a few days I will send you No. 16 which would have been delivered a month ago had not Mr Children waited to see me <hi rend="underline">seated </hi>at the Royal Society of London, where I was elected a Fellow during my absence.–</p>
+                  <p>Whilst in America I made 50 Drawings; Large, Middle Size, &amp; Small, to replace the same number in my Port Folios with a view to improve upon the old ones; <del>and</del> my Friends at Liverpool, Manchester and Lon having pronounced them superior to any heretofor published &amp; I sincerely hope that they may meet the approbation of my Kind Partners.– Should you come to Town it would give me much pleasure to shew them to you and to shake your friendly hand.–</p>
+                  <p>I have also brought many Skins of Birds &amp;c &amp;c and am pleased to see some of the quadrapus and birds that I shipped from America now at the Zoological Gardens.–</p>
+                  <p>My principal employment will now be to augment my List of Subscribers, but how I am to proceed to effect this to the extent desired in a thing unknown to me – My Work is going on very regularly and I think improving in point of Engraving &amp; Colouring– I am well aware of the many who possess both Taste and Wealth and could I discern the means of shewing the “Birds of America” to them it is probable that a Portion would wish to possess it. – may I beg your advice?–</p>
+                  <p>I left America a fast improving country in many respects, but that department of Science to which I am so devotedly attached <del>to</del>, <hi rend="underline">flourishes only in her Great </hi> 
+                     <hi rend="underline">Forests!</hi> I have only 5 Subscribers in the whole of the U. States.– The work is admired but the Price is yet much too great for people who have existed as a Nation less than half a century.–</p>
+                  <p>I hope your Family and the Reverend Mr. Jennings (sic) are quite well and happy – permit me to present them my most respectful remembrances and believe me my Dear Sir</p>
+                  <p>ever Yours much obliged and faithfull|John J Audubon</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

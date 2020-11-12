@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1021">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Justus Radius 15 September 1825</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Uppsala University Library</repository>
+                    <idno>Waller Ms de-04470</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_15.xml">Radius, Justus</persName>
+                <date when="1825-09-15">15 September 1825</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Leipzig</placeName>
+                    <date>Sept 15 1825</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                  <p>So many good news contain both your esteemed letters, the first of which is dated Febr. 28, the second July 13, that indeed I feel at a loss how to proceed in congratulating you. Believe me that I read with very great pleasure the news of your having taken a husband &amp; order in church, as well as those communicated by Prof Whewell of your lady's having presented you with a healthy &amp; handsome child. I hope I shall see young Mr Henslow one day on his tour on the continent. Your appointment as Prof. of Botany &amp; the reorganisation and removal of the botanical garden have given me likewise very great satisfaction, and I wish from all my heart, you may always find that happiness in your family, and in nursing and conversing with Flora's children, which most of their friends enjoy.</p>
+                  <p>I feel very much obliged for your having been so kind to introduce to me Prof. Whewell, with whom I spent some very agreeable hours, &amp; who was kind enough to forward this letter together with the packet of dried plants. - The second collection of Brittish plants, which you favoured me with by Mr Jacob, contained a great deal of very interesting plants. I tell you my best thanks, and would be very much obliged to you, if you could procure me some duplicates of those, which I shall mention at the end of this letter.</p>
+                  <p>Practice &amp; medical employment in general prevent me from studying much botany,however I try to find out now and then some minutes to dedicate to it. Adding to this that I have been married about three months ago, you will excuse my not having made up for you a richer collection than you will you find in the joint packet. I added some cryptogamics which perhaps will not be disagreeable to you. - I inclosed two catalogues of dried plants, which are to be sold, &amp; which my friends DDr. Preppig &amp; Sadler asked me to communicate to my Correspondents. The price of the small American plants (200 specm) is £3.8.., of the small hungarian taken at Leipzig £1.10. the specimens of both are very fine, and the tickets of the american ones printed as you may see in the catalogue. If you or any of your botanical friends should be desirous of them I should find great pleasure to procure you some.</p>
+                  <p>I am Sir</p>
+                  <p>very truly</p>
+                  <p>Yours</p>
+                  <p>Dr Justus Radius</p>
+                    
+                  <list rend="ordered">
+                     <item>
+                        <hi rend="underline">Desiderata</hi>
+                     </item>
+                     <item>Fumaria claviculata</item>
+                     <item>Antirrhin. repens</item>
+                     <item>[?]anth. caryophyllus ['X' pencil]</item>
+                     <item>[?Sa]xifraga stellaris ['X' pencil]</item>
+                     <item>[?]nemaritima</item>
+                     <item>
+                        <hi rend="underline">[?Epi]lobium alsinifol.</hi>
+                     </item>
+                     <item>[?]at. Limonium ['X' pencil]</item>
+                     <item>[?S]tellaria minor</item>
+                     <item>[?S]atyrium viride</item>
+                     <item>Orchis apifera ['X' pencil]</item>
+                  </list>
+                  <p>2nd column</p>
+                  <list rend="ordered">
+                     <item>
+                        <hi rend="underline">Malaxis paludosa</hi> ['X' pencil]</item>
+                     <item>Betonica officinalis - appears to be different of our plant, which Prof. Sprengel calls B. stricta.</item>
+                     <item>Picris echioides</item>
+                     <item>
+                        <hi rend="underline">Sison Anicomum(?)</hi> ['X' pencil]</item>
+                     <item>
+                        <hi rend="underline">Balloto nigra</hi> - appears to be the genuine Linnaean Species since our plant is a new species B. vulgaris; it particularly varies by the calyx.</item>
+                     <item>Stat. Armeria ['X' pencil]</item>
+                     <item>
+                        <hi rend="underline">Caucal. nodosa</hi>
+                     </item>
+                     <item>Cineraria integrifol. ['X' pencil]</item>
+                     <item>Papaver hybrid.</item>
+                     <item>Glaucium violac.</item>
+                  </list>
+                  <p>['X' pencil, note by Henslow] to those sent since this time</p>
+
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

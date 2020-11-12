@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1004">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Lord Belper 1 September 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>British Library</repository>
+                    <idno>R.P.4738 (vii) 945c</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1856-09-01">1st September 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_244.xml">Belper, Lord</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Makes arrangements for a visit to see potential archaeological sites in Derby area discussed by Belper in previous letter: potential Roman remains on the banks of the River Derwent opposite Little Chester; a barrow in Tugford that looks to be unopened. JSH states samian ware may be indicative of a Roman burial ground.</p>
+            <p>JSH also discusses son's curacy at Hitcham, local responsibilities including horticultural shows and recent ill health.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Bildeston Suffolk</placeName>
+                    <date>1 September 1856</date>
+                    <salute>Dear L<hi rend="superscript">d</hi> Belper</salute>
+                </opener>
+                <div type="transcription">
+                    <p>First I must congratulate you on your new Title, which I has seen notices in the papers, though I did not feel absolutely certain whether it was yourself or some relative who might be intended. Though time has indeed passed or rather flown since my former visit, I have too lively a recollection of the pleasure I then experienced not to rejoice in the prospect of a renewal if I can continue it. I am fully engaged up to the 21<hi rend="superscript">st</hi> Sept<hi rend="superscript">r</hi> - but I think I might continue either in the week beginning with Monday 22<hi rend="superscript">nd</hi> or in that beginning with Monday 29<hi rend="superscript">th</hi> It so happens that after ten years during which I was never once absent from my parish I have had a little liberty - during the last 2 years from my eldest son having become my Curate. This enabled me last year to go to the Paris Exposition - &amp; I have this year been away for a Sunday at the Cheltenham meeting - My son however has just accepted a curacy at a distance, in the laudable desire of improving himself by going a little more alone than stopping at home enables him to do - I think he is right, though I am very sorry to lose him, as we have got on harmoniously together. It so happens that his last Sunday here will be the  21<hi rend="superscript">st</hi> so that I am again tied to my Sundays &amp; must arrange accordingly - I hope to have a new Curate in November; for although I can manage the clubs &amp; parish singlehanded, it is rather more work as I get older than medical advisers consider proper. Two years ago a neuralgic attack was ascribed to overwork &amp; I was advised to take an iron or two out of the fire - live better, recreate more &amp; keep warm - all comfortable medicines, which properly attended to enable me to employ myself as actively as ever  - This time of year is always a busy season - I have promised this week to assist in rigging out a Marquee Museum for L<hi rend="superscript">d</hi> Henniker at his Horticultural Show - &amp; the week after I have to prepare for my own, which comes off on the 17<hi rend="superscript">th</hi>. If then, you find it can be conveniently arranged for me to come to you during either of the weeks I have named - allowing time for getting back by Saturday - I shall be most happy to renew our acquaintance &amp; assist in the proposed operations - I suspect the Samian ware is indicative of a Roman Burial ground. There are two at Colchester which extend over several (I believe) acres. The vases have been deposited in trenches, much after the fashion of those in Kingston, &amp; possibly you have a rich harvest before you. When I hear again I may perhaps suggest a few tentative processes to be undertaken before I come. With best respect to Lady Belper</p> 
+                  <p>believe me</p>
+                  <p>very faithfully yours</p>
+                  <p>J. S. Henslow</p>
+
+                   
+                        
+                        
+                        
+                            
+                  
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

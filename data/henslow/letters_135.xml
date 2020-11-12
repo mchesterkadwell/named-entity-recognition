@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_135.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-135">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Jackson Hooker   27 November 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 165</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_45.xml">Hooker, William Jackson</persName>
+                <date when="1830-11-27">27 November 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Glasgow</placeName>
+                    <date>27 November 1830</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>There are few, in our particular vocation, who have enjoyed the pleasure both of <hi rend="underline">giving</hi> &amp; <hi rend="underline">receiving</hi> than I have myself. In regard to you I feel &amp; am always ready to acknowledge that I am much your debtor. I have many plants that I wish to give you &amp; were it not for the incessant occupation of my time, &amp; the hope, not a vain one I trust, of seeing you in Glasgow, they would have been sent to you before this time.</p>
+                  <p>I have at this time some 20 or 30, or perhaps more, plants by me, such as you express a wish for. They shall go to London by the first opportunity if you think them worth paying carriage for from that city. I have, too, many plates in hand of which you shall have impressions by and by, particularly of the N. am. Flora &amp; the Plants of Capt. <hi rend="superscript">n </hi> F.W. Beechey’s Voyage; of which 10 plates are just finished, but not yet printed off. You might have had many more a month ago, of plates now beyond my control, of which I had impressions but which were lately asked of me by Mr. Lyell.</p>
+                  <p>Have you good specimen of the Nutmeg plant, Cinnamon, All-Spice? If not I can add them to the parcel just now. These &amp; such like I find very useful in my Class-room. Longman’s have lately informed me that the whole impression of British Flora is so nearly sold: that I doubt if there will be enough for our Classes here, next Spring. If so I must immediately set about a new edition; though I would gladly have a little respite.</p>
+                  <p>Do you care about the purchase of Exotic Plants? Bridges in Chile has sent me some excellent specimens from that country &amp; offers to collect for others. He will not fix a price himself. But I shall [ill.torn] &amp; think them well worth 40. <hi rend="superscript">s</hi> the hundred. Greville has given an order for every species, 1 of each, at 30. <hi rend="superscript">s</hi> for 100. I fear the man cannot afford to collect them at this rate. The passage out is £100: &amp; tis certain that the species are very curious &amp; interesting.</p>
+                  <p>I am very glad you have at length arranged for a piece of ground for a Botanic Garden. You may make the pleasure ground of it very useful for trees &amp; shrubs, which a moderately sized Bot. Garden is scarcely calculated for.</p>
+                  <p>I am my dear Sir | most truly &amp; faithfully yours | W. J. Hooker</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

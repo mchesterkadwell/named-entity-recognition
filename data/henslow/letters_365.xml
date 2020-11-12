@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_365.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-365">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Horner   8 August 1852</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 173</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_131.xml">Horner, Leonard</persName>
+                <date when="1852-08-08">8 August 1852</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>4. The Grove | Highgate</placeName>
+                    <date>8 August 1852</date>
+                    <salute>My Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I was very glad to receive your account of your very successful excursion to Languard Fort, the reading of which brought before me the expedition to the same place in which I had the good fortune to join. The pleasure you must see in so many countenances &amp; the assurance you must feel that a new light has broken upon many a mind capable of receiving impressions for good by the widening of their horizon will fully compensate for all the trouble &amp; anxiety you must have in the organizing of these parties– The episode of the finding of the lost brother must have been very touching.</p>
+                  <p>I have no hope of finding any one here to co-operate with in any measures such as you have been so successful in carrying out. Exclusive Churchism, a hatred of dissenters amounting to exclusive dealing &amp; even cruel persecution of the tradespeople &amp; humbler classes and exaggerated toryism appear to be the characteristics of the place. But they cannot spoil the beautiful scenery, and with London so near we are independent of the local society. There are two or three exceptions– people whom we like but for any public purpose requiring cordial co-operation– “what are they among so many”–</p>
+                  <p>We leave on the 18 <hi rend="superscript">th</hi> for Scotland, by the Cumberland lakes, pass three weeks in Scotland, &amp; then return to the South, stopping in Lancashire for my official work until the beginning of Nov <hi rend="superscript">r</hi>.</p>
+                  <p>I hear that the Joseph Hookers went off last Monday to Switzerland– They have much pleasure before them in that charming country.</p>
+                  <p>The Lyells sail for the United States on the 21 <hi rend="superscript">st</hi>, &amp; mean to return in December.</p>
+                  <p>I beg to be kindly remembered to M <hi rend="superscript">rs</hi> Henslow &amp; all your family circle &amp; am ever</p>
+                  <p>Very truly yours | Leonard Horner</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_544.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-544">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Evans   28 January 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 146 &amp; 146(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_210.xml">Evans, John</persName>
+                <date when="1860-01-28">28 January 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                     <placeName>Nash Mills</placeName>
+                    <date>28 January 1860</date>
+                    <salute>Dear Prof. <hi rend="superscript">r</hi> Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Many thanks for your two kind letters— I was very sorry yesterday that I was not able to get up to London as I should have liked very much to have met you in Jermyn Street— I find by your letter today that when I go there next, I shall hear of something to my advantage[.] Pray accept my best thanks for the Saxon urn which will be a very valuable addition to my little collection— The New Zealand Celt will also be of much value for comparison with our native and pre-native productions— Miss Stewart desires me to thank you for your kindness in sending her the Botanical papers into which she is beginning to gain some little insight— We are all lost in admiration of your schoolgirls— M <hi rend="superscript">r</hi> Johns was over here today in pursuit of some Siskins and told me he had heard from you— He had enjoyed his evening with you very much— I hope next time you come here you will be able to spare us a little more time— If you are summoned up to London again remember how accessible we are &amp; try if you cannot make your headquarters here—</p>
+                  <p>I gave them a paper at the Antiquaries the evg after you left us, on the flint implements from Reigate— I don’t think there was one in five of my audience who believed a word I said nor one in ten who took any interest in the implements— It was really absurd to see the utter unbelief of some of the F. S. A's. But I must try to improve their education. The fact is that most of them are Mediaeval people if they are antiquaries at all and very few know anything in the world of the provincial and purely British antiquities. I met with a few nice coins on Thursday or rather had them knocked down to me at a sale.— One of them a ‘semi—unique half sovereign of Edward VI &amp; another a very pretty large brass of Agrippina— I am sorry to have to write in such a hurry but I would not let another post pass without writing to thank you— M <hi rend="superscript">rs</hi> Evans desires to be kindly remembered to you &amp; with kind regards</p>
+                  <p>I remain, | yours very sincerely | John Evans</p>
+                  <p>Poor D <hi rend="superscript">r</hi> Nicholson the other night after an hour and a half’s wandering in dark lanes found himself again at my garden-gate!</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

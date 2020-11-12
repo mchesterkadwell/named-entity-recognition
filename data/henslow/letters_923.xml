@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_923.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-923">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Palmerston   2 June 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:163</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_265.xml">Palmerston, Lord</persName>
+                <date when="1826-02-06">2 June 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Haymarket</placeName>
+                    <date>2 June 1826</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I send you more ascertained votes. We had a very full meeting of the Committee yesterday &amp; gave several of our friends a number of names of persons to be attacked. We do not as yet hear of so many absentees as I expected; several of those whom we reckoned upon as defaulters wll be able to come. The Clives, Sir Watkin Charles Grant Wm Lamb Ld. Brecknock &amp; several Lawyers, are among these; They will all come</p>
+                  <p>Ld Normanby too is returned from abroad &amp; Ld Burghish not gone &amp; both will vote the first a plumper. Ld. Burghish also wishes for rooms at Trinity but cannot tell on what day. I should be glad to have rooms for Ld Clive &amp; his brother at St Johns. They will be with us early in Weddy morning</p>
+                  <p>Our Lawyers think it of great importance to them to have the Poll open on Monday as they could come down on Sunday, vote Monday &amp; go back again, &amp; this would be more convenient to them than Thursday which the the only other day thay would have free; This would be advantageous to Copley as well as to me and a little so to Goulburn but against the interest of Bankes. Bankes came here yesterday very angry at our having as he was informed got Theed to turn plumper from having been split between Bankes &amp; me, but I found a reference to my papers that early in this canvass Theed was reported as a vote for me unless some Whig candidate started and he has since been given me as a plumper by Ld Milton.</p>
+                  <p>My dear Sir</p>
+                  <p>Yrs sincerely</p>
+                  <p>Palmerston</p>
+                  <p>Whatever is done about opening the poll on Monday we must have it open Tuesday Weddy &amp; <hi rend="underline">Thursday</hi> It will be highly important to us to have Thursday a Polling Day</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

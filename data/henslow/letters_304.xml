@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_304.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-304">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Buckland   9 January 1833</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177:54</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_256.xml">Buckland, William</persName>
+                <date when="1833-01-09">9 January 1833</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Ch. Ch. (Christ Church Oxford)</placeName>
+                    <date>9 January  1833</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Many thanks for your parcel recd last evening inclosing the sketch wh I have placed in the Artists Hands &amp; I shall hope to have in the printing press by Friday or Saturday as he is waiting for it –</p>
+                  <p>Your Zamia cone throws much light on my drawing of a cone from the Portland Bed &amp; is much nearer to the fossil than any of the fir cones. I now understand fully your reasoning upon this subject.</p>
+                  <p>Mrs Buckland desires also to return her best thanks for Mr Jenyns manuscript on the Cryllas &amp; Pisidium - &amp; your Election Papers of evil omen to all Pluralists.</p>
+                  <p>I think your notices of on the temperatures of springs near Weymouth – shd be recorded in a note, as they may be hereafter of use – when you take the temperature of water from a pump do you first pump off as much as may have filled the pipe &amp; been affected by the air surrounding it ?</p>
+                  <p>With respect to the wood encircled with the cylinder of flint do you think it certain that the said cylinder bearing marks of no organic structure may not possibly be of the same nature. (simply mineral) with the concretions of flint &amp; chert that we find of the same cylindrical form around alcyonic bodies in the chalk and greensand formations assuming the form of the inclosed organic body to a distance of some 2 3 or 4 inches beyond the actual surface?</p>
+                  <p>On your Theory as you apply it to the case of yr stumps in the Dint(?) Bed it seems to me we ought to have the heart of these trees also increased with cylinders of chert bearing no organic structure or but little of it – but I am not aware of any case in wch such a Crystal or case of chert has been found around the Dint Bed Trees &amp; unless you have an example that has occurred to you I wd hardly venture to print what you state on this subject in your former letter – pray inform me immediately if you have any case such as this - &amp; it will be in time for the press – if you have no such Cryst , we must I think rest content to believe in the decay of all but the heart of the Trees before they were buried under the Burr</p>
+                  <p>I will return your Chalbury Hill specimen &amp; Zamia cone in a box which I hope to send to Professor Miller the end of this week or beginning of the next</p>
+                  <p>Mrs B is much better and writes in kind regards to Mrs Henslow</p>
+                  <p>With as always</p>
+                  <p>Very truly</p>
+                  <p>W. Buckland</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

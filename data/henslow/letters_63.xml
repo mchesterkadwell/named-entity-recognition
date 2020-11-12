@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_63.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-63">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Robert Graham   26 January 1828</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 74</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_30.xml">Graham, Robert</persName>
+                <date when="1828-01-26">26 January 1828</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Edinr.</placeName>
+                    <date>26 January 1828</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I remand, in perfect order, the Plants w <hi rend="superscript">ch</hi> you were good enough to send to me by M <hi rend="superscript">r</hi> Ramsay. I am disappointed that he was not at the same time the bearer of a letter which he said you intended to have written to me. I am particularly curious to hear about your Althæa hirsuta. How could such a plant have been overlooked in Kent? Is it certainly indigenous? The whole of your Specimens were most acceptable to me.</p>
+                  <p>I wish I could hope for a similar reception to a few which M <hi rend="superscript">r</hi> Ramsay has offered to carry to you. They were chiefly collected by me in the extreme North West of Scotland in August last. Perhaps you may not be displeased to receive them on account of the stations, tho’ many of them you must have already. The Luzula arcuata has only been found in the station quoted, &amp; in that discovered by D <hi rend="superscript">r.</hi> Hooker in Aberdeenshire a year or two before. I am sorry I can only send to you a very miserable specimen of the Apargia alpina. It is scarce in the only two stations in which I have yet found it &amp; unfortunately the only season in which I can visit the mountains is too early to find it in flower.</p>
+                  <p>I went into the Country with too large a portion of my Class this season. The rule on such occasions is always to give a specimen of every plant found, to every individual of the party, &amp; consequently the rarest plants were absorbed by the Party itself. As an appendix to my last quarterly list of new plants, there is a list of such things as were worth noticing, which we found in new Stations, omitting such plants &amp; stations as I had observed two years ago, &amp; which had appeared in the Edin <hi rend="superscript">r. </hi>Philosophical Journal for Jan. <hi rend="superscript">y</hi> 1826. Here these lists will give you some notion of the vegetation of that frightful corner of Britain, &amp; Prof. Sedgwick (to whom I beg to be remembered) will give you some idea of the privations to be endured in getting at it.</p>
+                  <p>Believe me yours very faithfully | Rob <hi rend="superscript">t</hi> Graham</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

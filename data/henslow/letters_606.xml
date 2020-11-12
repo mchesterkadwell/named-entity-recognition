@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_606.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-606">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns 1857</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 206</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date notBefore="1857-01-01" notAfter="1857-12-31">1857</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swainswick</placeName>
+                    <date>Sept. 12.—</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have just sent off to the printer the Mss. of my work on Meteorology, with the exception of the last chapter, which, for the benefit of your supervision, accompanies this letter.— All the former part, being more purely meteorological, you could not so well judge of perhaps, —nor could I have asked you to read it all over before printing. But this chapt., which is of a more general nature, —touching on matters connected with Camb <hi rend="superscript">sh</hi>, —&amp; saying a few words on the geology of my late neighbourhood, &amp;c. on which you are well competent to give an opinion,— I should esteem it a kindness, if you will look over— making any connections &amp; remarks you think called for.— The paragraphs to which I wish you to give your closest attention are those numbered—(452.)—(459)—(460)—(462)—(463)—(464)--&amp;(468).— [ill. annotations by JSH] Tell me also, whether the chapter ends too abruptly, its last words being the conclusion of the whole work?— In truth, more was to have followed but Van Voorst was afraid the book would be too long,— in respect of the pages it would make,— I struck off this latter portion, which perhaps was not altogether wanted. Van V. does not also quite like the Title I propose to give it, as —what he calls—“not a tasking one”; but I can think of no others which so clearly expresses what the book really contains,— &amp; which, moreover assimilates with my former “Observations in Nat. Hist.”—The proposed title of the new work is—“Observations in Meteorology”, “Being chiefly the results of a Met. <hi rend="superscript">l</hi> Journ. <hi rend="superscript">l</hi> kept for 19 years at Sw. Bull.,<add>in Camb <hi rend="superscript">sh</hi> 
+                     </add> and serving as a guide to the weather &amp; climate of that part of England.”— Can you suggest any better, or would you in any way alter the wording of the above?— The work is not an Elementary one, nor an Introduct <hi rend="superscript">n</hi> to the subject, nor a treatise on any particular parts of Meteorology,— but, in the main, a detail of the chief circumstance connected with the weather &amp; seasons as observed during a certain period of years at S.B, &amp; a deducing therefrom the general conditions under which weather changes come about.— To make the work more generally useful in this respect,— &amp; to enable it to be of not merely local interest,— I have added &amp; worked in passages from difft writers on Meteorology of known authority,— always giving a reference to the author from whom I have this borrowed, or got assistance.</p>
+                  <p>—I will just state the headings of the 7 Chapts. preceding the one herewith sent, that you may form a better idea of the nature of the work</p>
+                  <p>Ch.1. —Thermom <hi rend="superscript">r</hi> &amp; Temperature</p>
+                  <p>“ 2. — Winds</p>
+                  <p>“ 3. —Barom <hi rend="superscript">r</hi> &amp; Atmospheric pressure.</p>
+                  <p>“ 4. Aqueous Phenomena of the Atmosphere. (1) Evaporation &amp; drought/dew?? (2) –Dew— (3) ??— (4) Rain— (5) Hail— (6) Snow.</p>
+                  <p>“ 5. Thunderstorms.—</p>
+                  <p>“ 6.-- General Remarks on the weather, &amp; weather changes.—</p>
+                  <p>“ 7.— Of Weather Prognostications.—(Of course discouraging the weather prophets[)]</p>
+                  <p>Then follows this last chapter on Climate, containing, however, only a few general remarks,— previous to speaking of that of Camb <hi rend="superscript">sh</hi>.—When you have read it, &amp; given me your remarks,—send it back — as soon as you conveniently can.—</p>
+                  <p>With regard to the agreement between me &amp; V. Voorst, on which I wrote to you before,— it is arranged that, in addition to the £60 he first offered,— he is to give me £20 more for editing, with any necessary corrections &amp;c., a second edition,— in the event of a 2 <hi rend="superscript">nd</hi> Edition being called for. I am also to have 12 copies free of charge for distribution to friends. —With this I am quite satisfied.—</p>
+                  <p>I presume you did not go to Dublin. I wrote to Harriet two days back at Tonbridge Wells, where I find she is staying, &amp; am sorry to hear she has not been so well lately. Fanny I suppose has left you. With kind love to the rest,--</p>
+                  <p>Believe me, | yours affectionately| L. Jenyns.</p>
+                  <p>Date of letter inferred from the date of the Dublin meeting of the British Association</p>
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

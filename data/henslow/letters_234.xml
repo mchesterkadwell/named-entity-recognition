@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_234.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-234">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   28 February 1846</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 9537/2/10</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1846-02-28">28 February 1846</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_122.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh Suffolk</placeName>
+                    <date>28 February 1846</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have stumbled upon a few of Darwin’s ferns which have not been sent to you– They are from the following localities, &amp; if you wish to see them in connection with the other S. American plants you still have I will bring them to town the first opportunity – Should you want them soon I can send them to you – The localities mentioned are</p>
+                  <p>Chiloe (the Island)</p>
+                  <p>Bahia</p>
+                  <p>S. part of Tierra del Fuego</p>
+                  <p>Port Desire</p>
+                  <p>Patch Cove, Cape Tres Montes</p>
+                  <p>Chonos Archepelago</p>
+                  <p>E. Falklands –</p>
+                  <p>There are also about 7– a doz. Plants of Macrae’s marked Dubia from Malden &amp; Albermale Isl <hi rend="superscript">ds</hi> Galapagos – which belong to the Hort. Soc. &amp; were overlooked when I sent the others – I see you have honored me with a Viscum &amp; an Adiantum – Your Genus Pleuropetalum was one that struck me in my hasty &amp; only rough examination of the lot – I sent you some very absurd remarks &amp; memoranda – I felt aware that most of them <del>were</del> had better been burnt, but I though I w <hi rend="superscript">d</hi> let them go just as I had left them some 8y <hi rend="superscript">rs</hi> ago – A Capt. in the Navy was up Mona Roa in Owyhee in /44 &amp; has brought me a few scraps of ferns &amp; other plants badly prepared – as you like to examine plants with a view to Bot. Geog., if you think you w <hi rend="superscript">d</hi> like to see them I could add them to the packet – but I suspect there is nothing worthy your notice, as your Father has probably every thing from thence– Do you ever ramble in England? It would give me the very greatest pleasure to see you here, if at any time you can indulge me– I shall be visiting Cambridge for 5 weeks (return <hi rend="superscript">g</hi> home on Saturdays) from April 17. but with that exception I am not likely to be absent for any time– My Sunday duty always confines me, &amp; I have not been absent from home on a Sunday for the last 3 y <hi rend="superscript">rs</hi>. Kindest regards to Sir W. &amp; Lady H. &amp; believe me</p>
+                  <p>Very sincerely y <hi rend="superscript">rs</hi> | J S. Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

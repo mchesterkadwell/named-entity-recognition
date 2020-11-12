@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-3">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Cumming 1821</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176:7</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4.xml">Cumming, James</persName>
+                <date notBefore="1821-01-01" notAfter="1821-12-31">1821</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract/>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+          <change when="2020-10-26" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName/>
+                    <date>Thursday evening</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                    
+                    <p>I have subjoined the results of my examination of the two specimens, which you will have the goodness to insert in your Paper in what manner you may think proper. — The darker Crystals seem so decidedly Garnets that I made only a rough chemical attack upon them which is [symbol for therefore] not worth mentioning. — I regret that you have waited so long for this account</p>
+                    <p>&amp; ever | most truly yours | J. Cumming</p>
+                    <p>The lighter coloured crystals, having the form of the Trapezoidal Dodecahedron, appear to be analcine with excess of Iron — They are slightly electric by friction; they scratch glass; they readily vitrify before the Blowpipe &amp; gelatinize with acids. — The Specific Gravity of some detached Crystals was 2.293, that of a mass 2.394. — By exposure to a red heat there was a loss of 5 per cent.</p>
+                    <p>The mineral was examined in the usual method by repeated digestion with muriatic acid. The residue being boiled &amp; fused with caustic Potash. — The muriatic solution dried &amp; heated to redness to decompose the muriates of Iron &amp; Alumina was dissolved in water; a … of Lime was separated from the Solution, which by evaporation gave crystals of Common Salt. — Silex was obtained from the alkaline solution by muriatic acid; Alumina &amp; Iron were precipitated by Caustic Ammonia, and Lime by the oxalate; the Iron &amp; Alumina were separated by boiling with Caustic Potash, from which the Alumina was precipitated by Muriate of Ammonia. The results were</p>
+                    <p>Silex — 49</p>
+                    <p>Alumina — 17</p>
+                    <p>Lime — 12</p>
+                    <p>Iron — 4</p>
+                    <p>Soda — 9</p>
+                    <p>Water — 5</p>
+                    <p>Loss — 4</p>
+                    <p>= 100</p>
+                    <p>The character and composition of the darker coloured crystals <del>were</del> are decidedly different. Their form is the Rhomboidal Dodecahedron; their hardness such that they readily scratch the former crystals; their specific gravity 3.353: they do not easily fuse before the Blowpipe, nor gelatinize in acids; in short they have all the characters of the Garnet. —</p> 
+                    
+                  <p/>
+                  <p/>
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

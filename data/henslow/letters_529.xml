@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_529.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-529">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   27 July 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 196</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1859-07-27">27 July 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swainswick</placeName>
+                    <date>27 July 1859</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I must not let Anny’s marriage come off, as I believe it is arranged to do next week, without writing in person to offer her &amp; yourself my best congratulations on this auspicious event.—From all that I have heard of her intended from those who have either seen him or received accounts of him I am inclined to hope that it is likely to be a good match, &amp; one promising much happiness to Anny, &amp; with which you have reason to be well satisfied yourself.—</p>
+                  <p>These congratulations are rather late, but you know the circumstances which have prevented my writing sooner.— I am now in great measure recovered from the tedious &amp; rather serious illness, which <del>had</del> kept me to the house for near seven weeks, &amp; during a great part of which time, I was quite unequal to letter-writing.— I have only my full amount of strength to make up, which returns but slowly.— I was out yesterday for the first time beyond the garden, &amp; hope to get further &amp; further each day.— My illness has been quite accidental, &amp; owing, as I daresay you heard, to <del>be</del> my being caught in a very heavy thunder-storm, when a great way from home, &amp; getting thoroughly drenched.— This was on the 31 <hi rend="superscript">st</hi> of May, &amp; I was beginning to feel unwell the same day I wrote to you at Cambridge the beginning of June, tho’ little expected then what was coming.— As soon as I am well enough to travel, we intend going into Gloucestershire to visit the Daubenys, &amp; after that possibly to the sea, -- but this is uncertain.— I am sorry that I was so altogether prevented from meeting you at Cambridge, as I sh <hi rend="superscript">d</hi> have so much liked to do, —but my illness would have stood in the way, had no other cause hindered. I hope I shall be more fortunate another year.— I was very glad to see your son Leonard when in Bath but I was too ill at that time to see him for long.— Is he to be the officiating party at Anny’s wedding? I presume the Hooker’s will be there, but I think I heard it was to be (as I should always prefer) a quiet affair.</p>
+                  <p>I never heard anything more from M <hi rend="superscript">r</hi> Walker, who wanted me to subscribe for an Engraving of D <hi rend="superscript">r</hi> H. in the Himalayas. I cannot understand what his motive was in making the application if the print (which he said was quite ready for delivery) is not forthcoming. But, however, he has not got my guinea &amp; I care not.— What a hot summer we have got, —but it affords another proof of what I stated in my book, that the heat in summer in this neighbourhood is more moderate, as the cold in winter is less severe than in other places. My therm <hi rend="superscript">r</hi> has not exceeded 84 whilst in many parts of England it has been 90 or more—— Pray give our kind love &amp; congratulations to all at home, &amp; believe me</p>
+                  <p>Yours affect <hi rend="superscript">ly</hi>, | L. Jenyns.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

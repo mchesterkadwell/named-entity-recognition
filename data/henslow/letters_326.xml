@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_326.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-326">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Parker   1 December 1846</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 244</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_156.xml">Parker, Charles</persName>
+                <date when="1846-12-01">1 December 1846</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hartford Cottage| Torquay</placeName>
+                    <date>1 December 1846</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I requested Calvert to send you the Torquay Directory, containing an account of the bones and flints found under the Stalagmite in Kent’s cavern. That the same bones, with the marks of teeth on them, have been found at Kirkdale and Banwell I am well aware, but the flints, with an edge and serrated, are I believe, new, and these found only at Haldon hill, distant seven miles, of this colour. I now possess one of these serrated knives, if I may so call them, and send you a correct drawing of it– another I have sent to my old friend Dr Kidd of Oxford– May I request you, after reading the Torquay report, to give me your opinion of it? – I saw a basket full of teeth and bones collected under some feet of stalagmite in a mass of mud, and one of the flints was nearly at the bottom of it. This stalagmite had throughout the same appearance excepting a slight stained streak on the top. On this last had formerly been found British implements. I believe all agree that lions, tigers, hyenas, elephants, elks, rhinoceros, have not lived here since the Deluge. Here we have the tools of men mixed with them (if you allow the flints to be such) who could not have been here till after the dispersion. I read Parkinson’s work may years ago, and have some recollection that he says the bones of antediluvians may be found, but it is not probable that we should meet with them, considering their numbers and the space to which they were confined. A wish has been expressed here to break up the whole floor of the cave and to draw off the water beyond the low narrow passage at the end, but the funds of the Museum will not allow it– a cave was <del>discovered</del> found near Brixham, on the other side of the Bay, by a clergyman. On the top he found Roman remains of bones of oxen; at a greater depth British &amp; Druidical, with the bones of oxen, but of greater size, and far below these the same bones and teeth as in Kent’s cavern, but no flints. Charles, who is so much indebted to you, finds full employment here, and there are lectures weekly at the Museum– My other son has taken his degree &amp; will soon come to us, but I am sorry to say that our residence at this beautiful place has done little for my wife. We rejoiced to hear of M. <hi rend="superscript">rs</hi> Henslow’s improvement, and, with our kind regards to all in your parsonage</p>
+                  <p>I am, my dear Sir, | very truly yours, | Ch. Parker</p>
+                  <p>[appended: a newspaper cutting entitled “Report of the sub-committee appointed to superintend the excavations in Kent’s cavern”, and a watercolour sketch of a worked flint]</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

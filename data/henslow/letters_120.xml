@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_120.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-120">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Wilson   15 May 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 144</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_22.xml">Wilson, William</persName>
+                <date when="1830-05-15">15 May 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Warrington</placeName>
+                    <date>15 May 1830</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>It is almost two years ago that I made up a packet of dried plants for you, consisting of Welsh specimens gathered in 1828, for the purpose of transmitting them thro' the hands of M <hi rend="superscript">r</hi> Warren; and in expectation of his carrying them to Cambridge, they were deposited with M <hi rend="superscript">r </hi> John Roberts of Bangor, who had the care of them till April 1829, when on my passing through Bangor and on being informed that the expected opportunity of sending the parcel had not arrived, I carried it with me to Warrington, for the purpose of adding other specimens, collected since my Welsh visit of 1828, before I forwarded it to you, but a multiplicity of other engagements, and the small worth in point of novelty, of what I had to send, induces me to withhold what I had dedicated to you until a more favorable time–</p>
+                  <p>The arrival of a letter from you in April last, tho' most welcome in every other respect, found me unprepared to give, as I greatly wish I could have given, an immediate reply, except indeed to communicate my intentions, and to announce the probability, of sending further contributions to your Herbaria– and I have preferred waiting until I could fulfill those intentions—</p>
+                  <p>On examining your small list of desiderata, I have to congratulate you on the great success of your laudable endeavours to concentrate &amp; combine in the most authentic mode, the discoveries &amp; <del>results</del> labours of British botanists. When complete, it will form a truly national work &amp; serve as a truly solid basis upon which to build a descriptive Flora of the country, the only one not liable to error— I have long been Sensible of the necessity of cooperation in Botanical Science, to advance materially its interests, but I know not where to find one who had influence enough to command it.— In you, I think, without the least wish or pretence to flattery, I see the president of the only real Linnean Society of the British dominions; which needs no other assemblage, &amp; which may yet well dispense with the <hi rend="underline">honorary</hi> title– It is in fact an undertaking like this which should have been an important object of that Society already long established &amp; which I fear has been almost neglected by it—</p>
+                  <p>Although you have not named <hi rend="underline">Daltonia splachnoides</hi> as<hi rend="underline"> wanted</hi>, I have not presumed to omit sending that really desirable moss, now it is in my power to do so— I can easily suppose that you would omit for the present, to name such species as were very unlikely to be obtained— None were more hopeless perhaps than the <hi rend="underline">Daltonia</hi> alluded to— I have also thought it well to send specimens of other rare plants; not noticed in the list, because already obtained— Mr. Winterbottom a late pupil, or member of your Class, has already, I know, gathered <hi rend="underline">Eriocaulon</hi>— and from another Gent <hi rend="superscript">n</hi>. of your class, from near Conway (M <hi rend="superscript">r.</hi> Price) whom I had the pleasure of meeting upon the Ormeshead in N. Wales, you have probably had Welsh specimens; sending such as I could send of still less interest than before— they will however enable you to furnish some of your correspondents, who will I hope, also have frequently supplied you with supernumerary local or rare specimens from their own respective places of residence—</p>
+                  <p>I have the pleasure of sending you several new Cryptogamous species, and a new <hi rend="underline">Fedia</hi>, which owing to a constant &amp; engrossing occupation of my attention to other subjects, escaped my actual detection, as well as M <hi rend="superscript">r.</hi> Winch's, who gathered it with me on the Ormeshead— It is to D <hi rend="superscript">r.</hi> Hooker that the real merit of the discovery belongs— It would be a cause of surprise to me that those who already knew <hi rend="underline">Hymenophyllum tunbridgense</hi> (verum) should so long have overlooked or mistaken the far more general but spurious species, which was until my visit to Ireland last year the only one that I had ever seen growing, if I were not informed that M <hi rend="superscript">r</hi> Borrer (doubtless from not attending sufficiently to them) did <del>not</del> doubt still whether any essential difference exists between them.— I wish the <hi rend="underline">Roses</hi> could be so easily &amp; clearly distinguished— I wish that the species of ferns generally in the Eng. Fl. could be as well identified— There are several plants, yet, in your list, which I could procure in this neighborhood, but I cannot well hope to gather <del>many</del> all this year, as my present engagements may require me to be absent at the proper season— <hi rend="underline">Apargia hirta</hi>, <hi rend="underline">Mentha gentilis</hi>, <hi rend="underline">Alopecurus bulbosus, Epilobium hirsutm </hi>are chiefly what I allude to— <hi rend="underline">Carex lævigata</hi>, if any thing more than a tall variety of <hi rend="underline">binervis</hi>, with <hi rend="underline">elongated</hi> spikelets; peculiar to <hi rend="underline">wet</hi> situations, I shall scarcely hope to obtain— D <hi rend="superscript">r.</hi> Hooker's herbarium has not satisfied my doubts at all— the "two or more" male spikelets I rather think will not be found in any british species, otherwise agreeing with the description of <hi rend="underline">lævigata </hi>which in no other material respect differs from that of <hi rend="underline">binervis</hi>— Indeed these, with <hi rend="underline">distans</hi>, should I think be reduced to one—</p>
+                  <p>I will endeavour to send with this a distinct list of my wants in Mosses, which are not now very numerous— those of <hi rend="underline">Jungermanniæ </hi>are the same as yours <hi rend="underline">will be</hi>, after receiving my specimens, with the addition only of <hi rend="underline">J. albescens</hi>  
+                     <hi rend="underline">lanceolata</hi>  &amp; <hi rend="underline">setiformis</hi>, the latter of which however I have seen in <hi rend="underline">Hobsons</hi> collection, &amp; find it to belong to the <hi rend="underline">stipulate </hi>section—</p>
+                  <p>I thank you for so kindly offering to be my guide to the Fens of your County, but am afraid that there is no prospect of my visiting your neighbourhood this year at any rate—</p>
+                  <p>It gives me pleasure to think that your zeal in the cause of natural science is likely to produce, in the formation of a general taste for the study, especially of botany, most important changes, &amp; I hope beneficial effects— The pursuit of Game will be given up, especially by the Clergy, for one of a more rational cast, &amp; not less possessed of interest or less conducive to exercise or amusement; and tho' the former may not &amp; perhaps need not be wholly relinquished, this will have the preference— The great evils attendant upon the Game Laws furnish a strong argument in favour of their complete abolition. Your exertions, if entirely successful, would effect this good in the most desirable way, by rendering them obsolete— May that &amp; every other success attend you &amp; with every other good wish — believe me, | Yours very sincerely | W. Wilson</p>
+                  <p>
+                     <hi rend="underline">Cover: </hi>Professor Henslow | Cambridge | With a Parcel</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

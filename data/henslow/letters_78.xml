@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_78.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-78">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Revd Joseph Power   30 September 1828</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 95</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_52.xml">Power, Revd Joseph</persName>
+                <date when="1828-09-30">30 September 1828</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Lichfield</placeName>
+                    <date>30 September 1828</date>
+                    <salute>Rev <hi rend="superscript">r.</hi> Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Tho’ tardy in its performance, I have not been unmindful of my promise, to send you some Specimens of Lichens and I now beg your acceptance of I believe about 300 species and varieties of those Genera, into w <hi rend="superscript">ch.</hi> Acharius has divided the Lichens; being all the duplicates w <hi rend="superscript">ch. </hi>I have at present in my possession; I wish they were more worthy <del>of your</del> of your acceptance; I more especially regret, that the Specimens are in general so small; but my collection having received very little addition during the last ten years, and the duplicates having been abstracted by several collectors of my acquaintance, must be my apology, for this deficiency. Should I again attempt to increase my stores, I shall not forget, that you who have so many more important objects in view, may have had little but little time to spare for this particular pursuit. I have used the Lichenographia universalis of Acharius; and you will observe my principal stations have been Charnwood Forrest in Lincolnshire, and Buxton, with the neighbouring Rocks of Derbyshire. I had a rich harvest at Chee Tor, where I only spent one morning. I commenced this pursuit in Oct. 1809, &amp; in 1812 I removed from the neighbourhood of my favourite station Bardon Hill, the Wrekin of Charnwood Forrest. Upon many of the Specimens you will find an abbreviation, of the Habitat of the Plant, expressed by the Letters. B:H. by w <hi rend="superscript">ch</hi> I mean to designate this Map of Slake &amp; Siemile; since 1812 I have done very little in this way. The Welsh specimens indeed, were picked up in the summer of 1809, before I had paid any attention to the Lichens, or given myself any trouble to investigate the species; I must however acknowledge, when I had looked over my Cambrian acquisitions at home, and found amongst them several scarce Species &amp; particularly that I had picked up, without knowing it, the Lichen frustulatus on the very rock at Penmorfa, where Dillenius found it, my ardor was not a little excited; &amp; to this trifling instance I attribute having ever become an amateur of the Lichenoides. I fear you will find many Errors, &amp; sh <hi rend="superscript">d</hi> feel myself much obliged by your correction of them.</p>
+                  <p>I have added a few of the smaller Fungi, w. <hi rend="superscript">ch</hi> having been steeped in a solution of the Hydrony. oxymus, are tolerably free from depredators; they will probably not be worthy of your acceptance, in w <hi rend="superscript">ch</hi> case you can throw them away.</p>
+                  <p>you was kind enough to say you w <hi rend="superscript">d.</hi> have pleasure in sending me, such Cambridgeshire plants as I wished for; at present I shall nearly confine myself to my favourite tribe, and shall quote Relhan's <del>&amp; shall</del> should any of their fall in your way, I shall feel myself much obliged to you, to forward them to my Son at Clare Hall, who will take care to send them to me.</p>
+                  <list rend="ordered">
+                     <item>No. 840 of Rehlan  Lich. sanguinarino</item>
+                     <item>841.L. fusco-ater</item>
+                     <item>847.L. caeruleo-nigricans</item>
+                     <item>848.L. muscorum. This seems diff. from what I have called muscorum</item>
+                     <item>868.L. nigrescens</item>
+                     <item>755.Osmunda lunaria</item>
+                     <item>855.Lichen excavatno</item>
+                     <item>865.Lichen lentigerus</item>
+                     <item>191.Thesium linophyllum</item>
+                     <item>209. Bupleurum rotundifolium</item>
+                     <item>210.---------- tenuissimum </item>
+                     <item>212.Caucalis latifolia</item>
+                     <item>215.---------  nodosa </item>
+                     <item>416.Teucrium scordeum </item>
+                     <item>469.Limosella aquatica</item>
+                     <item>543.Trifolium striatum</item>
+                     <item>563.Lactuca scariola </item>
+                     <item>572.Picris echioides</item>
+                     <item>622.Cineraria alpina</item>
+                     <item>238.Smyrnium olusatrum</item>
+                     <item>285.Rumex pulcher</item>
+                     <item>320.Silene anglica</item>
+                     <item>395.Anemone pulsatilla</item>
+                     <item>417.Teucrium chamaepithys</item>
+                     <item>542.Trifolium scabrum</item>
+                     <item>544.----------fragiferum</item>
+                     <item>564.Lactuca saligna</item>
+                     <item>621.Cineraria palustris.</item>
+                  </list>
+                  <p>In enumerating so many plants, I wish to be understood that any of these w. <hi rend="superscript">d</hi> be very acceptable.</p>
+                  <p>If there are any plants in this neighbourhood, w <hi rend="superscript">ch</hi> you wish for, I will use any endeavor to procure these; if I have not already duplicates of them.</p>
+                  <p>I hope you will pardon this intrusion upon your Leisure and believe me to remain with great deference and respect,</p>
+                  <p>your obed <hi rend="superscript">t</hi> &amp; obliged Serv <hi rend="superscript">t </hi> | J. Power</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

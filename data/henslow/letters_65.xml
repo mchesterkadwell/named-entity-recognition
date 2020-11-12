@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_65.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-65">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. C. Loudon   7 March 1828</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 77</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_41.xml">Loudon, J. C.</persName>
+                <date when="1828-03-07">7 March 1828</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Bayswater</placeName>
+                    <date>7 March 1828</date>
+                    <salute>Reverend and Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I beg, leave to offer you my best thanks for your letter of the 4 <hi rend="superscript">th</hi>. instant. The offer of assistance on the part of yourself and the Reverend L. Jenyns. I should have highly valued at <del>all</del> any time<del>s</del>, but I particularly prize it at the commencement of a work much of the value of which I feel <del>that much of its value</del> will depend on the general cooperation of naturalists.— I shall state at once what I think you and Mr. Jenyns could do for me.</p>
+                  <p>An account of the origin, rise, progress, and present state of the Museum for Natural History attached to the Philosophical Society of Cambridge, including a <del>the</del> notice of the latest purchases. Minute details need not be gone into, but leading dates, facts, and features, so as to give a general interest to the thing.</p>
+                  <p>A paper on the Natural History of Cambridge and its neighbourhood, in which might be introduced an historical account of the taste for Natural History at Cambridge, (meaning among the learned men there,) from the earliest times to the present, including notices of the different institutions, museums, lectures, Botanic Garden, &amp;c. to which this taste has given rise, short notices of the eminent naturalists which have studied at Cambridge or lived there, and a disquisition on the influence of the study of natural history, on the other studies pursued at Cambridge – shewing how much it would add to the enjoyments of Clergymen and others destined to live in the country to have a taste for Natural History, &amp;c. &amp;c. so extensive a subject would of course occupy a series of papers; but being so various in its objects, it admits of being both interesting and instructive.</p>
+                  <p>Occasional short notices on any point, or of meetings or Transactions at the Museum, or in anyway connected with Natural History, accounts of public lectures, &amp;c. &amp;c., and in short a monthly letter containing scraps of information suited for various heads enumerated in the prospectus, might I should think be sensibly furnished, by or between you and Mr. Jenyns, and for which I should be singularly obliged to you, and as a mark thereof send you the work regularly as it came out.</p>
+                  <p>I have thus Reverend and Dear Sir, expressed to you very fully what you can do for me, and have only to repeat my best thanks to yourself and the Reverend L. Jenyns, and to add that I hope you will let me have something in time for the first number.</p>
+                  <p>I remain, Reverend and Dear Sir, | Much obliged and very faithfully | J. C. Loudon</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1107">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Martin 26 July 1856</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Bury St Edmunds Public Record Office</repository>
+                        <collection/>
+                        <idno>FL586/13/1: 27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1856-07-26">26 July 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_368.xml">Martin, Thomas</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham, Bildeston, Suffolk</placeName>
+                        <date>26 July 1856</date>
+                        <salute>My dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>I have only just returned from fetching Mrs H. from London. I had not time
+                            before leaving home to write – I see that J. H. Brewer’s work is out – I
+                            mentioned my wish to subscribe to it. If he will be so good to forward
+                            my copy by post &amp; let me know the expence of work &amp; postage I
+                            will send him a P. O. order.</p>
+                        <p>Many thanks for your good address to the Members of the Reigate Mec.
+                            Inst– I am glad to see how much we agree, of on the advantages that are
+                            likely to accrue from the study of Nat. history – I carried over to
+                            Ipswich last Tuesday my head botanist (just 14 yr old) to be examined
+                            for a pupil teachership – &amp; when we got there she said she had seen
+                            (by the roadside 3 plants she had never found in Hitcham – I told her to
+                            stop me as we returned &amp; point them out – which true enough she did,
+                            &amp; got out of the chaise &amp; gathered them – &amp; told me their
+                            Orders tho’ she was of course ignorant of their names – you have
+                            probably seen that I am sending a series of articles to the G.C. on the
+                            plan I have pursued in giving our Village Children a little insight into
+                            Botany. A friend 8 miles off [had/has?] taken it up also – &amp; I have
+                            proposed that we bring our respective botanists acquainted by an
+                            interchange of visits &amp; so have a Village botanical match at each
+                            others habitats</p>
+                        <p>Yrs very truly</p>
+                        <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

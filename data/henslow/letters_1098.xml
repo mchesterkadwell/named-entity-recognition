@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1098">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Martin 8 February 1854</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Bury St Edmunds Public Record Office</repository>
+                        <collection/>
+                        <idno>FL586/13/1: 13</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1854-02-08">8 February 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_368.xml">Martin, Thomas</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham Hadley Suffolk</placeName>
+                        <date>8 February 1854</date>
+                        <salute>My dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>I am much obliged by your last batch of notices – all useful in affording
+                            hints, whether applicable to such a parish as this or not – we had been
+                            doing something in the way of Rice – &amp; have had 1½ Tons to sell at
+                            1d per lb. Besides 500 herrings, &amp; 1 lb of coarse sugar, to sweeten
+                            the rice to the Children – I find the Rice has made great progress in
+                            the affections of most of the people – Our plan was to allow such
+                            families as had 2 or more children under 14 years, to purchase 10lb for
+                            each child – &amp; those that had 3 or more to purchase (in
+                            addition either 5lb of flour or 7lb more rice for 1d – the latter
+                            receiving their quota in 2 deliveries (of which one will take place
+                            tomorrow) – &amp; I find that more than half of those who preferred to
+                            take the addition in flour last time now prefer to take all in rice – in
+                            fact very few stick to the flour. On Tuesday I finish the course of 4
+                            lectures I have been giving at Ipswich this winter, in reference to a
+                            series of illustrations I am preparing for the Museum, &amp; I send you
+                            a few newspaper strips of the notices of these illustrations, which have
+                            already appeared – I have sketched out a plan for an epitome of Natural
+                            History, in a series of typical objects (specimens, models &amp;
+                            figures) which range on the floor of the Museum; &amp; from these
+                            references one made to others in the cases round the room – [letter
+                            cut] – notice I send you a copy I have retained for myself &amp; you
+                            can return it – but possibly the enclosed [one may be?], to show you the
+                            plan – My object is to make people (who visit a museum) think about,
+                            &amp; not merely gape at the objects they see there – I have had rather
+                            too many Irons in the fire for a man now 58, &amp; for the first time in
+                            my life, my constitution has given me warning that I am getting old –
+                            about 3 months ago a pain in my chest made my medical attendant
+                            apprehensive that I might have some organic affections of the head; but
+                            he &amp; Dr Billing (who examined me) now think it arose from dyspepsia
+                            – I can now walk about freely again; instead of going to bed at 1, I get
+                            there as soon after 10 as I can – live a little more freely – &amp;
+                            clothe myself more warmly – I trust with a little less work than
+                            heretofore I shall before long find myself re-established – indeed I
+                            have only slight traces of the affections left – I accidentally saw Mr
+                            [Sand?] in the train to Ipswich yesterday I was concerned to hear from him
+                            that the son who was with you is seriously ill at home</p>
+                        <p>Believe me</p>
+                        <p>very truly yours</p>
+                        <p>J. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_514.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-514">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   18 November 1858</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 193</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1858-11-18">18 November 1858</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swainswick</placeName>
+                    <date>18 November 1858</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I seldom hear of you now except when you have time to write a line yourself in the midst of your multifarious occupations. I am induced, however, to hope that you will be coming this way during the winter to bring Annie to Elizabeth, which arrangement I understand is quite agreed upon, tho’ not definitely fixed as to time. Perhaps you will be able to say when the visit is likely to take place,— &amp; of course we hope to see something of you here on that occasion. We only returned from the seaside the end of last week. We did not go to Weymouth after all, for Jane was too unwell to venture upon so long (for her) a journey; — but we went to Weston for a week, &amp; then moved to Clevedon, where we had never been before, &amp; where we spent more than a month.— The scenery &amp; walks in the neighbourhood of the latter place are far more attractive than at the former,— &amp; if it had been earlier in the year,— there was good ground &amp; localities for botanizing: but nothing was to be done in this way in October. I observed at Weston that the spot where I used to gather the Coriander had been built over &amp; I imagine there is quite an end of that habitat for this local species.— Before going from home, Broome &amp; myself found an umbellifer quite new to us in a field of mangold-worzel, not near any habitation of men, &amp; which was probably sown with the seed of the latter plant: I send a small piece of a <del>small</del> specimen for you to look at. I can only make it out to be <hi rend="underline"> amarella</hi>; <hi rend="superscript">h</hi> I never saw or gathered before;— but not being in seed, I was unable to identify it with certainty.— I also enclose a specimen of Gentian, which is evidently nothing more than G.campestris, &amp; was growing with others having the usual characters: but this &amp; one other specimen have the divisions of the corolla &amp; calyx in 4 <hi rend="superscript">s</hi> instead of 5 <hi rend="superscript">s</hi>, thereby making an approach to gather the Linosyris had been, if not almost identical, —or do you conceive there are two other better characters to w. <hi rend="superscript">h</hi> the two species may be kept separate.</p>
+                  <p>When you come to Bath you will find Eliz. in a very comfortable, &amp; rather grand house for her, with entirely new furniture: she likes it very much in itself, as well as in situation.— My wife is better since she came home, than she was, when out; but as you know she is weakly subject at all times. I shall be glad to know which of your family are now with you, &amp; how they all do. Is Leonard still at his Welsh curacy?— I think I heard of your Eldest sister being lately at Bristol.— With love to all at home,</p>
+                  <p>Believe me, | yrs affectly | L. Jenyns</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

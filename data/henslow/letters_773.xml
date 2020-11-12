@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_773.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-773">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Loxdale  26 December 1825</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:13</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_269.xml">Loxdale, James</persName>
+                <date when="1825-12-26">26 December 1825</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Temple</placeName>
+                    <date>Dec<hi rend="superscript">r</hi>26 1825</date>
+                    <salute>Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I received your letter of the 22<hi rend="superscript">d</hi>ins.<hi rend="superscript">t</hi>late on Xmas Eve and have no objection to give you the information you request. I have no hesitation in letting you know that it is my intention to vote for the Attorney General for it is a matter of great satisfaction to me to be enabled to support a person so well qualified for the honorable situation to which he aspires and whose principles at the same time are so perfectly consonant with those which I have held from my earliest years and which after mature repeated consideration I have hitherto seen no reason to change. I have as little hesitation in telling you that I shall not support Mr Bankes. The only question then with me is between Lord Palmerston and Mr Goulburn. I differ from his Lordship on the Catholic question and feel so decidedly averse to any further concessions that I cannot vote for him; but as I differ from him only upon that point and he has represented the University for a considerable time and hitherto as far as I can collect has given satisfaction in other respects to the majority of his constituents I feel inclined by withholding my vote from Mr. Goulburn to leave His Lordships election to the determination of those who hitherto supported him. However I by no means pledge myself to this, for a considerable term must necessarily elapse before the election &amp; circumstances may in the mean time occur to render it necessary for me to mark as strongly as I can the decided objection I feel to any further concessions to the Catholics. I shall also be guided in a great measure by the proceedings of the next session of Parliament &amp; of the Catholics themselves, and if I see the advocates of this measure increasing I must tell you candidly I shall think it an imperative duty to oppose Lord Palmerston.</p>
+                  <p>I have repeated in the foregoing part of my letter what I have in effect already stated to His Lordship personally. You will be assured by it that I shall not vote for him solely on account of his supporting the Catholic claims and that if I should at a future period come to the determination of voting against him it will be upon the conviction of the necessity of such a step from which neither influence or interest however great will send me and I will then communicate my intentions as readily as I have done in the present instance. I am sorry I cannot give you any information good or bad of the intentions of any other members of the University as I am aquainted with very few here &amp; have not seen any of my country friends since the canvass. I believe my friend Lawrence Peel of the Middle Temple is inclined to support Lord Palmerston and he is I know a strenuous advocate for Catholic emancipation so you will encounter no obstacles from him on that point. I must request that no allusion is made to this information either directly or indirectly in any application which you may make to him as I have no authority from him to state his opinion or any right to subject him any application on the subject. If I have not the pleasure of seeing you before the election I hope I shall then &amp; that though we may then as posible foes we shall be as good private friends as ever but pray remember that I am lately here almost constantly &amp; that I shall be very happy to see you whenever inclination or business may lead you to London and believe me to remain</p> 
+                  <p>Dear Henslow</p> 
+                  <p>yours very truly</p> 
+                  <p>James Loxdale</p>
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

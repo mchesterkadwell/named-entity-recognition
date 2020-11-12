@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_654.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-654">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Dr Archibald Billing   22 November 1855</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 27 &amp; 27(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_246.xml">Billing, Archibald</persName>
+                <date when="1855-11-22">22 November 1855</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Mainly discusses the character and achievements of Nathaniel Bagshaw Ward in positive terms, including the invention and properties of the Wardian case.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>6 Grosvenor Gate</placeName>
+                    <date>22 November 1855</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I was really grieved to find that you had been taking yourself to task, they say oneself is the hardest taskmaster, and I assure you I quite exhonerated you and gave in to your motives.</p>
+                  <p>Most true what your friend Hooker says that it is “as an active and energetic naturalist and most amiable man” that Ward’s friends have wished to offer him a testimonial brevetè d'invention is not always so easy to establish— Doubtless other persons may previously have transported some delicate plants in a box with mica or (Lantern) horn to admit light in preference to glass as not liable to be broken—</p>
+                  <p>Wards case was planned and used from a knowledge of the physiology of plants and in scientific principles, looking like a little greenhouse but differing in all points requisite for the purposes to which it is applied— the air is admitted and changed only be exosmose so slowly as not to produce sudden vicissitudes of temperature, whereas the temperature of a common greenhouse coincides &amp; keeps pace with that of the surrounding atmosphere. The vapour in the case is condensed and preserved for use when necessary returning into the earth instead of escaping freely as through the opening and crevices of a common greenhouse and whenever condensed on the glass by external cold, giving out caloric so as to modify the temperature within—</p>
+                  <p>It is only necessary to see Wards large case as big as a greenhouse i.e. about 60 feet by 20 &amp; about 12 high to be convinced of its nature and products—</p>
+                  <p>But it is the man who must be known to be appreciated. In early life the res augusta did not deter the ardent disciple and admirer of Linnaeus from his investigation of Nature engaged in an arduous and fatiguing profession, yet rising in the middle of the night to reach by sunrise on foot Blackheath or some of the localities furnishing botanical specimens. In after life honored in his profession and beloved by his friends as a single minded honest sincere and religious individual— Still, in advanced age, fulfilling his duties public and private with an equanimity which does not betray, to those who are not intimately acquainted, what he goes through from his own malady and the hopeless suffering of his beloved wife. He bears all with the placidity of Stoicism grafted upon Christianity—</p>
+                  <p>I am writing this in the examination room the first moment I have had at liberty since I rec. <hi rend="superscript">d</hi> your note and you see I abuse my lesson by inflicting my tediousness upon you— I am sorry to find we cannot have our dinner just yet as Tweedie an [illeg] of this conviviality the prime movers, have been both suffering from the plague of boils.</p>
+                  <p>I bear in mind the agates, about what time shall you want to bring them into action?</p>
+                  <p>If you subscribe, as Hooker applied to you first, why not do it through him?</p>
+                  <p>Believe me | my dear Sir |very sincerely yours |Dr Billing</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

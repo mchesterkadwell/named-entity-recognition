@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_15.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-15">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Revd J. T. Huntley   18 Feb 1824</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 18</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_12.xml">Huntley, Revd J. T.</persName>
+                <date when="1824-02-18">18 Feb 1824</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Kimbolton Vicarage</placeName>
+                    <date>18 Feb 1824</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I shall forward this Evening to Biggs a very extraordinary Phenomenon in the vegetable Kingdom, viz, a Plant of the Primula vulgaris &amp; P. veris united on the same Root. I am inclined to think that of all the Varieties, I may say endless varieties; to which these two species are subject, an Instance of the like kind has never before occurred. Professor Martyn assures me he never before heard of such a Thing. In a very large collection presented to the Horticultural Society it is noticed that even the P. veris &amp; P. elatior have never run into the same "Plant," much less has the P. vulgaris united with either of them. Biggs says he never heard of any Thing of the kind. It is my Intention to draw up a Paper on Mules (which indeed I have already done) &amp; if it be thought worth reading to the Phil. Soc. I shall do so. I wish to have the Plant accurately figured. Therefore should you not have the opportunity of employing your own Pencil would you have the Kindness to engage some one to do it. I send the Plant to Biggs because I wish him to put it into the Shade, thinking that the Blue will be more distinct by that means.</p>
+                  <p>Will you have the goodness to inform me upon the two following Points, viz, whether Mules in the animal World ever Breed? &amp; whether, (in the same Department) Mules are ever produced from different Genera? I know not that there is any Mule amongst Quadrupeds except that from the Horse and Ass which certainly does not propagate. I am totally unacquainted with Ornithology &amp; therefore do not know whether the Canary &amp; Linnet are of the same Genus. I know bird Fanciers in London have mules from them as well as other birds but I am likewise misinformed whether the Cross stops with the first Generation.</p>
+                  <p>I believe there is a Collection of Shells for us at <del>Kimbolton </del>Portsmouth from my friend Col. Gresmork (Greswall?) at Ceylon, which have unfortunately got into the Hands of the Custom House, i.e. they are seized. They were brought over by Lt. Col. Campbell of the 45 <hi rend="superscript">th</hi>. I have every Reason to think they are consigned to me but do not know it for a Certainty. I think it would be proper at all Events to get your Master to write a Note to Lord Palmerston, since the Revenue Officers pillage every Thing they lay hold on– I have ascertained the fact that he has got a package of Shells &amp; I have no doubt they are for us. If there are any Plants &amp; seeds amongst them they will be good for nothing if detained–</p>
+                  <p>I had a letter from Winch the other Day, who informed me that he had sent you [illeg] some valuable Collections of Shells Specimens of north Country Plants. It is since I saw you; have you received them?</p>
+                  <p>Ask Sedgwick what he thinks about increasing the Subscription from £1.1 to £2.2 in the Phil: Soc: <hi rend="underline">&amp; giving</hi> the Report. By this Plan our funds might be a little better for the Museum &amp; no one feel himself poorer than he was. The Transactions cost the Members about a Guinea in 18 months, consequently in three Years the Society would gain 1 Guinea, which never would be felt by the Members. I would however have this fund exclusively applied to the Purchase of Objects in Natural History. I had the misfortune on Thursday last to break my leg. It is not a bad fracture, but I shall be confined for some time to my Room. I am agitating the Erection of a House. I have so many Chances of Foreign Correspondence that I think I can be of service to the Botanical Garden &amp; increase my own Collection as well–</p>
+                  <p>Make my best compliments to Mrs Henslow &amp; with every wish for your Happiness &amp; welfare– If possible let me hear from you by Return of Post?</p>
+                  <p>Believe me Dr Henslow | Yours ever J. T. Huntley</p>
+                  <p>P.S. As the Duke’s Gardener is out I cannot gather Plants packed &amp; consequently it will not go before Friday, by which Time I hope to hear from you as to what can be done towards procuring a figure of it–</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

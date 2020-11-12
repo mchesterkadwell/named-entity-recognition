@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_91.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-91">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. F. Stephens   9 July 1829</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 117</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_60.xml">Stephens, J. F.</persName>
+                <date when="1829-07-09">9 July 1829</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>3 Leigh Street</placeName>
+                    <date>9 July 1829</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I sent a reply to your letter respecting the Paper in <hi rend="underline">your </hi>last Number which you have probably not seen, or possibly may have sent off to L. Jenyns – you will therefore find it in one of the two; but I marked the one containing the note with your initials.</p>
+                  <p>With reference to the contents of your kind letter of the 7 <hi rend="superscript">th</hi> inst. <hi rend="superscript">t</hi> I return you my thanks; for the fact is, as I stated to L. Jenyns (who also kindly offered to assist me) that for the next few weeks I want all the cash I can muster, not only to relieve me from the exigency to which Churchill’s has temporarily reduced me, but with the purpose of moving into my new residence which I propose doing the end of the present month– if therefore you can with <hi rend="underline">perfect convenience </hi>to yourself advance me £30, [ill. del.] I can decidedly promise to return it on <hi rend="underline">the 26</hi> 
+                     <hi rend="superscript"> 
+                        <hi rend="underline">th</hi> 
+                     </hi> 
+                     <hi rend="underline"> December next (if not earlier). </hi>
+                  </p>
+                  <p>I am sorry you are not likely to visit London in the course of next week but I still hope for the pleasure of your company <hi rend="underline">to dinner</hi> (as mentioned to L.J.) <hi rend="underline">on your return </hi>though as you mention it will be twds the end of the month, it is most possible that you will not find me <hi rend="underline">here </hi>but at “the Hermitage”, South Lambeth, (a delightful entomological spot) where I hope to spend many years, &amp; to be quietly seated in about 10 days.</p>
+                  <p>My Catalogue will be out on Monday I <del>ha</del> have a <hi rend="underline">complete</hi> fair copy at last.</p>
+                  <p>&amp; believe me to remain | yours very truly | J. F. Stephens</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

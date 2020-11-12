@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_381.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-381">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Richard Dawes   29 December 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 107</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_181.xml">Dawes, Richard</persName>
+                <date when="1853-12-29">29 December 1853</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Deanery |Hereford</placeName>
+                    <date>29 December 1853</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I was very glad indeed to get a letter from you but sorry to hear of your being in any way ill, but I hope a little relaxation will put you all right again: I congratulate you on being a Grandfather which I learn from your letter &amp; hope that you &amp; yours are all well:</p>
+                  <p>There is no one to whom I would so soon send one of my protegeés among school mistresses so soon as your-self but I really do not know one who is at liberty – There is one very promising young woman of about 22, whom I brought down into this county about two years ago &amp; she was doing well - Four months ago she was obliged to give up her instruction on account of her health but is now doing better she is at Somborne but I don’t know whether well enough to take a School:</p>
+                  <p>I think were I you, I should apply to the Home &amp; Colonial Schools or to Whitelands &amp; see what kind of mistress they would recommend &amp; on what terms &amp; have one holding a Gov. <hi rend="superscript">t</hi> certificate of merit:</p>
+                  <p>You could get one for £35 a year &amp; I am persuaded this would be your most economical plan in the end: your own &amp; your daughters assistance to an improving school mistress would be invaluable &amp; you would very soon create a feeling in favor of the School, much stronger than you imagine:</p>
+                  <p>Your anecdote of the little <del>girl</del> girl &amp; the wild-flower is a very interesting one – I must take your letter to my friend M <hi rend="superscript">rs </hi>Henry where I am going on Tuesday (D <hi rend="superscript">r</hi> Daubeny will be there) to relate the anecdote to her – she has a good girls school &amp; has in imitation of you commenced the wild-flower system – I send her your list of plants of the Parish: Rather than fill up your School with a Mistress not likely to improve it I would get someone temporarily until Easter or such time as you found one to suit: Should any one fall in my way, I shall be sure to bear you in mind:</p>
+                  <p>I hope you found Darwin in improving health – I met him in June last at M <hi rend="superscript">r</hi> 
+                     <del>Ashman</del> Northems &amp; he was then progressing towards good health:</p>
+                  <p>I fear I am not likely to be in your county for a long time, but should I be near you, it would give me great pleasure to pay Hitcham a visit – Is any thing likely to bring you or yours into this part of the world – recollect we are rather a tourizing county – the banks of the Wye &amp;c</p>
+                  <p>I wish you would come &amp; stir us up &amp; remind one of days gone by: we are now being brought within the sphere of rail roads where we have never been before. Playfair is working hard about Diagrams &amp; I think formed the same opinions of Griffins that you &amp; D <hi rend="superscript">r</hi> Hooker have done: you need not be afraid of having offended Mosely &amp; I have no doubt you did him good – Playfair I have no doubt will be much obliged by any hints you can give him &amp; also thankful for them:</p>
+                  <p>I know of no one who deserves a holiday more than yourself – &amp; as the days get longer &amp; Spring advances take a run down here where we shall be most glad to see you:</p>
+                  <p>Wishing you &amp; yours many happy returns of the season in which M <hi rend="superscript">rs</hi> Dawes joins me</p>
+                  <p>believe me | my dear Henslow |very sincerely yours |R. Dawes</p>
+                  <p>Have you seen the Minute 6 ?? of Council which gives 5 or 6 <hi rend="superscript">s</hi> for each child per annum educated in the School, under certain conditions - at present it does not apply to a mixed school under a Mistress only but there is an attempt to get it extended</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

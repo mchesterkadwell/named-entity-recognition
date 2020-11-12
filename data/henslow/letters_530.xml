@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_530.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-530">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Edward Charlesworth   28 July 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 87(i) &amp; (ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_123.xml">Charlesworth, Edward</persName>
+                <date when="1859-07-28">28 July 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>York</placeName>
+                    <date>28 July 1859</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I sent to the Ipswich Museum about 3 months a small box addressed to you containing a few choice fossils from the main Crag— also a piece of indurated London Clay from the Crag District with specimens upon its surface of Vermetus Bognoriensis, a species new to me <del>in the</del>as a Suffolk Fossil. There is standing to your credit an old Sub <hi rend="superscript">n</hi> of 24£ to the Brit. Nat. Histy Collecting Fund— This was given for the Lewisham London Fossils, but as I have never been very successful in <del>m</del> obtaining good specimens from this formation you would perhaps be willing to receive the value of your Sub. <hi rend="superscript">n</hi> in other Fossils, <del>when</del> of which what I have sent in this case may be considered part— I was greatly interested in giving over the Collection in the Ipswich Museum, but I think it is much to be regretted that there is not a larger series of Crag Shells— you have some fine and rare species, but the total no. of species is so small— only about 100 I think one of the 500 figd by M <hi rend="superscript">r</hi> Wood—</p>
+                  <p>It would be the work of a life time to get all these, but a very fine collection might be got together at a moderate expense—</p>
+                  <p>I am very anxious to work again at my early hunting ground, and perhaps a sum of money might be raised in the County for the special purpose of providing the Ipswich Museum with an extensive &amp; carefully named series of Crag Shells— If this idea meets with your approval, I think I should meet with cooperation in the attempt to set a Sub. <hi rend="superscript">n</hi> on 100£, and I could undertake the Mounting as well as to Collecting the Specimens—</p>
+                  <p>Not long since I <del>had</del> spent a very pleasant visit at Stanway in <del>company</del> the Society of my old friend John Brown upon whom the weight of years now begins to tell— It is a happy thing that he feels as keen as relish as I do in the pursuit of Science—</p>
+                  <p>I <del>was</del> read when in Suffolk about 4 months since the Report of a Lecture given by you in which I was greatly interested—</p>
+                  <p>yours dear Sir | very truly |Edw Charlesworth</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

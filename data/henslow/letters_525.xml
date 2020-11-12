@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_525.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-525">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   3 June 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 195</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1859-06-03">3 June 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swainswick</placeName>
+                    <date>3 June 1859</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am sorry to say I must give up all hopes of getting to Cambridge as I had wished before your lectures end. We have been applying in different quarters to find some one to be here with my wife on my absence, but all in vain. No one seems able from some cause or another, to come to us at the time I wanted.— I must therefore bend to circumstances &amp; forego the pleasure I had anticipated in meeting you all there.— I still trust I may get away later in the summer when Jane is with her family in Gloucester <hi rend="superscript">sh</hi>—but this, tho’ it will serve equally well for the other purposes of my visit, avails nothing, for seeing you. However it can’t be helped, &amp; I hope we may meet again before long somewhere else.— I wanted very much when in London last month, to visit the Museum at Kensington of which you speak, but owing to the shortness of my stay, &amp; other matters which passed I had not time. I have never yet visited it. It must now stand over to another occasion.—</p>
+                  <p>I mentioned to you some time back that Miss Molesworth (a friend of yours) had sent me her returns of rain measured at Cobham over a long term of years. I took the trouble of getting the means of the whole, which she had not worked out herself, as also the mean of each month,— &amp; now to my annoyance I receive a second copy of one half of her sheet, with a note stating that the first had errors, &amp; that consequently she had had it printed over again. How tiresome this is—all my time &amp; labour thrown away: I wish she had corrected her mistakes before she went to press at all, &amp; before circulation.</p>
+                  <p>Eliz. is still at Brighton, &amp; I was sorry to learn from her last letter that she had failed in selling her house there at the auction at which it was put up. I am afraid it will be a trouble to her hanging so long upon her hands. She has got a very nice house she has bought in Bath, which is preparing for her against the Autumn.</p>
+                  <p>With our kind love to Louisa &amp; Amy,</p>
+                  <p>Believe me | yours affect <hi rend="superscript">ly</hi> | L. Jenyns.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

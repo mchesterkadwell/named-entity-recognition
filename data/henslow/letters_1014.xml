@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1014">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Unknown 13 July 1825</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>American Philosophical Society Library</repository>
+                    <idno>Mss.B.H382</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1825-07-13">13 July 1825</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_289.xml">Unknown</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>13 July 1825</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                  <p>I have not been able to answer your letter before, having been from Cambridge &amp; it was only during my absence that Council of the Cam. Phil. Soc. have met to determine upon the papers for the next volume. As your paper appeared to them to contain an <hi rend="underline">application</hi> only of a principle already discovered, to the explanation of a particular phenomenon, they do not consider it sufficiently original to form a part of the volume though they desire me to thank you for the communication as one of considerable ingenuity.</p>
+                  <p>Allow me on my own part to thank you most sincerely for your offer of procuring some of the Devonshire plants for my Herbarium. I shall be very thankful for native specimens of any which are <hi rend="underline">local</hi>, however common. Should Mr Banks wish for any of our Chalk county plants in this neighbourhood I shall be happy to dry them for him or any of yr friends who may be collectors. Give my remembrances to Saltan if you see him &amp; believe me.</p>
+                  <p>Dr Sir</p>                    
+                  <p>Yrs very truly</p>                    
+                  <p>J. S. Henslow</p>
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

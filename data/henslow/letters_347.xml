@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_347.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-347">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Spence   19 March 1850</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 297</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_165.xml">Spence, William</persName>
+                <date when="1850-03-19">19 March 1850</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>18 Lower Seymour St |Putnam Square</placeName>
+                    <date>19 March 1850</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>We are trying to remove the deep disgrace to the British Fauna of having no descriptions of our 3 to 4000 Species of Diptera &amp; Hemiptera as you will see by the enclosed pamphlets which I take the liberty of sending &amp; of expressing my ernest hope that you will aid us in this good Work.</p>
+                  <p>We have no Entomologists at once able &amp; willing to undertake the task bar Mr. Walker &amp; Mr Dallas, &amp; as they cannot afford to give their time gratis, it will take £200 to pay their very moderate demand of £50 per volume to be completed in 4 years. Now Rowe &amp; Co will advance this &amp; pay all expenses of paper for writing &amp;c, if we can generate them 170 Subscribers, but without this certainty they will not undertake it, nor will Van Voorst or any other publisher. You perceive therefore that it is now or never with us. If we can by hook or by crook get the 170 names required, the thing will be done. If not, we must still be content with the deep mortification of seeing even Sweden with her Diptera described by Zetterstedt in 7 8vo volumes while we with our 2 to 300 [illeg] of general increase cannot achieve the description of ours.</p>
+                  <p>We have so few Entomologists that we cannot calculate on more than 80 to 100 subscriptions from them, but I shall use every effort to get Naturalists generally to assist us in completing the British Fauna, which now wants little more than we are proposing to accomplish. Prince Albert has very kindly responded to my appeal &amp; I hope his name will secure others of our upper classes. I should add that the Ray Socy cannot undertake our task because they never pay money to authors.</p>
+                  <p>Pray have the goodness to send this section of the manuscript upto Mr Jenyns who will kindly excuse my writing separately to him, as I have so much to do in this way</p>
+                  <p>I am</p>
+                  <p>My dear Sir</p>
+                  <p>Yours very truly</p>
+                  <p>W. Spence.</p>
+                  <p>I am, my dear Sir | yours very truly | W. Spence</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

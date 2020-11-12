@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_898.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-898">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Green   Wednesday</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:138</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_105.xml">Green, Charles</persName>
+                <date notBefore="1826-01-01" notAfter="1826-12-31">1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Havercroft</placeName>
+                    <date>Wednesday</date>
+                    <salute>Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I much approve the disinterestedness of the <hi rend="underline">In-voters</hi> of the University in prescribing terms to the <hi rend="underline">Out-voters</hi>- that they should bear their own expenses at the ensuing election; seeing that the said In-voters will in no wise be effected by so generous a regulation. I wish the Out-voters may not consider the measure in this point of view otherwise that I am afraid that on this question the In-voters will out-voted. Perhaps it maybe worthwhile still further to shew the disinterestedness of the In-voters by making an amendment to the measure in the second edition vs. "that the In-voters shall bear their share of the aggregate of the expenses incurred by the out-voters". This however is an amendment I would suggest rather for the sake of uniformity that one to which I would subscribe my name.</p>
+                  <p>But jesting apart, it appears to me that the measure you have adopted, although exceedingly proper &amp; indeed necessary to the good name of the University, had better have emanated from the Committees that from the resident members. For it is possible that the non-residents may take umbradge at this recommendation from the residents by which they themselves apparently are not affected.</p>
+                  <p>But this has no doubt been duly considered by the proper authorities: and as the resolution is certainly good &amp; indeed indispensable, you have my permission to add to your list the name of</p>
+                  <p>yours very truly</p>
+                  <p>Charles Green</p>
+                  <p>Pray tell Ramsay to let Mrs Langham know that I shall be in Coll on Saturday</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

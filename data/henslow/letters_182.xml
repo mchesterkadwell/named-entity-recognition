@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_182.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-182">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From E. B. Ramsay   11 August 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 222</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_104.xml">Ramsay, E. B.</persName>
+                <date when="1831-08-11">11 August 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Darnaway Street | Edinburgh</placeName>
+                    <date>11 August 1831</date>
+                    <salute>Dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                    <p>I found your letter on my arrival here &amp; feel more &amp; more soothed &amp; comforted as I learn your opinion of my beloved Marmaduke– I think it will be as well to procure a catalogue of the effects, that is; a list of every thing except the books could easily be made up. I shall be greatly obliged to you getting a <hi rend="underline"> bookseller</hi> to draw up a catalogue of the books – perhaps there may be some made of mentioning the quantity of wine. Perhaps Skinner sh’ be applied to for a statement of the Intms account &amp; I think it probable he may expect me to write to him w. <hi rend="superscript">h</hi> I feel disposed to do– I found in looking over his mem: of a will that he appointed no executor. The only three persons named are my brother William now on the coast Africa my sister &amp; myself – so that the arranging of everything will devolve upon me nearly as much as if I had been named Executor. I am much pleased with the observations you have made regarding the clock. It has occurred to me that his print or prints by Wilkie might form a good substitute, but of course any other rem <hi rend="superscript">ce. </hi>you prefer , you will mention– I mention the Wilkie because it is a good thing &amp; in your mind associated with his room–</p>
+                  <p>Might it not be as well to get bills sent in, as Bookseller’s book’s, tailors &amp;c I will write to Stulty. I do not apprehend that our libraries had many books in common. The Edinb: Per: is I know a duplicate work but I think it w. <hi rend="superscript">d</hi> be a good present for one of his brothers. At any rate I sh. <hi rend="superscript">d</hi> be obliged by you getting a person accustomed to the work to make a catalogue. Bathurst’s letter has pleased me from the testimony it contains to Maramaduke’s character &amp; pained me for the acknowledgement of his own unworthiness. I do not in the least degree understand in what his demerit consisted &amp; shall therefore be guided entirely by your advice, should I be called upon, to act, at all where he is concerned– <del>I</del>
+                  </p>
+                  <p>I regret much to hear of your anxiety on account of a brother’s state of health – be assured of every good &amp; kind wish for you on my part and that I am</p>
+                  <p>With great regard | yours very sincerely | E.B. Ramsay</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

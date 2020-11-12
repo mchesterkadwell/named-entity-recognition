@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_97.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-97">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Revd Andrew Bloxam   27 October 1829</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 164</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_64.xml">Bloxam, Revd Andrew</persName>
+                <date when="1829-10-27">27 October 1829</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends JSH a list of flora from the Charnwood Forest and the area of Glenfield and Grooby Pool in north-west Leicestershire, together with a geological description. He offers to send specimens of these plants if required and asks JSH for Cambridgeshire specimens.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Glenfield near Leicester</placeName>
+                    <date>27 October 1829</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>My Friend the Rev <hi rend="superscript">d</hi> Clutton will with this give you a list of the Flora of the part of the country where I reside. I do not know whether I am right in putting down so many of the more common plants, by my wish was to give you a general list of the plants, that you may form some idea of what this country affords. I have a great many duplicates of some of the above plants, &amp; whatever you may wish to have I shall be most happy to send you, or if I have them not by me― I shall be enabled to procure them next year for you― Cambridgeshire is I should suppose rich in the bog &amp; water plants, any specimens that you can send me, which are not in the accompanying list I shall feel greatly obliged to you for, and I shall at all times be happy in sending you what number of duplicates you might wish for. I sent up to the Naturalists magazine some time since a list of the Flora in my neighbourhood, but I do not know whether the ['e' <hi rend="underline">over </hi>‎ 'y'] Editor will make use of it―</p>
+                  <p>Believe me to remain | very sincerely &amp;c. | Andrew Bloxam</p>
+                    
+                    
+                    <p>Flora of Charnwood Forest and the neighbourhood of Glenfield and Grooby Pool. Soil chiefly sienitic rock &amp; slate excepting near Gracedieu which is carboniferous limestone.</p>
+                    
+                    <list rend="ordered">
+                        <item>Callitriche verna</item>
+                        <item>Ligustrum vulgare</item>
+                        <item>Circaea lutetiana</item> 
+                        <item>Veronica serpyllifolia, beccabunga, anagallis, chamaedrys, arvensis, agrestis, hederifolia, officinalis, scutellata, montana</item>
+                        <item>Lycopus europaeus</item>
+                        <item>Valeriana dioica, officinalis</item>
+                        <item>Fedia olitoria</item>
+                        <item>Iris pseudacorus</item>
+                        <item>Eriophorum angustifolium</item>
+                        <item>Montia fontana</item>
+                        <item>Dipsacus sylvestris</item>
+                        <item>Scabiosa succisa, arvensis, columbaria</item>
+                        <item>Sherardia arvensis</item>
+                        <item>Asperula odorata</item>
+                        <item>Galium cruciatum, palustre, saxatile, verum, mollugo, aparine</item>
+                        <item>Plantago major, media, lanceolata, coronopus</item>
+                        <item>Sanguisorba officinalis</item>
+                        <item>Cornus sanguinea</item>
+                        <item>Parietaria officinalis</item>
+                        <item>Alchemilla vulgaris, arvensis</item>
+                        <item>Potamogeton natans, densum, crispum</item>
+                        <item>Sagina procumbens</item>
+                        <item>Moenchia erecta</item>
+                        <item>Myosotis palustris, caespitose, arvensis</item>
+                        <item>Lithospermum officinale, arvense</item>
+                        <item>Cynoglossum officinale</item>
+                        <item>Symphytum officinale</item>
+                        <item>Lycopsis arvensis</item>
+                        <item>Echium vulgare</item>
+                        <item>Primula vulgaris, elatior, veris</item>
+                        <item>Menyanthes trifoliate</item>
+                        <item>Lysimachia nemorum, nummularia</item>
+                        <item>Anagallis arvensis, tenella</item>
+                        <item>Convolvulus arvensis, sepium</item>
+                        <item>Campanula rotundifolia, latifolia</item>
+                        <item>Jasione montana</item>
+                        <item>Viola odorata, canina, palustris, tricolor</item>
+                        <item>Verbascum thapsus, nigrum</item>
+                        <item>Datura stramonium</item>
+                        <item>Hyoscyamus niger</item>
+                        <item>Atropa belladonna</item>
+                        <item>Solanum dulcamara</item>
+                        <item>Erythraea centaurium</item>
+                        <item>Lonicera periclymenum</item>
+                        <item>Rhamnus catharticus, frangula</item>
+                        <item>Vinca minor</item>
+                        <item>Chenopodium bonus-henricus, album, rubrum</item>
+                        <item>Sanicula europaea</item>
+                        <item>Daucus carota</item>
+                        <item>Torilis anthriscus</item>
+                        <item>Scandix pecten-veneris</item>
+                        <item>Chaerophyllum sylvestre</item>
+                        <item>Myrrhis temulenta</item>
+                        <item>Bunium flexuosum</item>
+                        <item>Sium angustifolium, nodiflorum</item>
+                        <item>Sison amomum</item>
+                        <item>Aethusa cynapium</item>
+                        <item>Conium maculatum</item>
+                        <item>Oenanthe fistulosa, peucedanifolia</item>
+                        <item>Aegopodium podagraria</item>
+                        <item>Angelica sylvestris</item>
+                        <item>Pimpinella saxifraga, magna</item>
+                        <item>Onidium (?) silaus</item>
+                        <item>Hydrocotyle vulgaris</item>
+                        <item>Pastinaca sativa</item>
+                        <item>Heracleum sphondylium</item>
+                        <item>Parnassia palustris</item>
+                        <item>Linum catharticum</item>
+                        <item>Allium ursinum</item>
+                        <item>Scilla nutans</item>
+                        <item>Convallaria majalis</item>
+                        <item>Berberis vulgaris</item>
+                        <item>Rumex palustris, crispus, acetosa, acetosella</item>
+                        <item>Alisma plantago</item>
+                        <item>Epilobium hirsutum, parvifloreum, montanum</item>
+                        <item>Vaccinium </item>
+                        <item>Calluna vulgaris</item>
+                        <item>Erica tetralix, cinerea</item>
+                        <item>Daphne laureola</item>
+                        <item>Acer pseudoplatanus, campestre</item>
+                        <item>Polygonum amphibium, persicaria, hydropiper, bistorta, aviculare, convolvulus</item>
+                        <item>Paris quadrifolia</item>
+                        <item>Adoxa moschatellina</item>
+                        <item>Butomus umbellatus</item>
+                        <item>Chrysosplenium oppositifolium</item>
+                        <item>Saxifraga granulata, tridactylites</item>
+                        <item>Scleranthus annuus</item>
+                        <item>Dianthus deltoides</item>
+                        <item>Stellaria media, holostea, graminea, uliginosa</item>
+                        <item>Arenaria trinervis, serpyllifolia, rubra</item>
+                        <item>Cotyledon umbilicus</item>
+                        <item>Sedum acre, reflexum</item>
+                        <item>Oxalis acetosella</item>
+                        <item>Agrostemma githago</item>
+                        <item>Lychnis flos-cuculi, dioica</item>
+                        <item>Cerastium vulgatum, viscosum, aquaticum</item>
+                        <item>Spergula arvensis, nodosa</item>
+                        <item>Lythrum salicaria</item>
+                        <item>Agrimonia eupatoria</item>
+                        <item>Reseda luteola</item>
+                        <item>Sempervivum tectorum</item>
+                        <item>Prunus spinosa</item>
+                        <item>Pyrus malus, aucuparia</item>
+                        <item>Spiraea filipendula, ulmaria</item>
+                        <item>Rosa canina, spinossisima, rubiginosa</item>
+                        <item>Rubus fruticosus, corylifolius</item>
+                        <item>Fragaria vesca</item>
+                        <item>Potentilla anserina, argentea, reptans, fragariastrum</item>
+                        <item>Tormentilla officinalis</item>
+                        <item>Geum urbanum</item>
+                        <item>Chelidonium majus</item>
+                        <item>Papaver rhoeas</item>
+                        <item>Nymphaea alba</item>
+                        <item>Nuphar lutea</item>
+                        <item>Tilia europaea</item>
+                        <item>Anemone nemorosa</item>
+                        <item>Thalictrum flavum</item>
+                        <item>Ranunculus lingua, flammula, ficaria, auricomus, sceleratus, bulbosus, hirsutus, repens, acris, arvensis, parviflorus, hederaceus, aquatilis</item>
+                        <item>Caltha palustris</item>
+                        <item>Ajuga reptans</item>
+                        <item>Teucrium scorodonia</item>
+                        <item>Nepeta cataria</item>
+                        <item>Mentha hirsuta, arvensis</item>
+                        <item>Glechoma hederacea</item>
+                        <item>Lamium album, purpureum</item>
+                        <item>Galeopsis ladanum, tetrahit</item>
+                        <item>Galeobdolon luteum</item>
+                        <item>Betonica officinalis</item>
+                        <item>Stachys sylvatica, palustris</item>
+                        <item>Ballota nigra</item>
+                        <item>Clinopodium vulgare</item>
+                        <item>Thymus serpyllum, calamintha</item>
+                        <item>Scutellaria galericulata, minor</item>
+                        <item>Prunella vulgaris</item>
+                        <item>Bartsia odontites</item>
+                        <item>Rhinanthus cristae-galli</item>
+                        <item>Euphrasia officinalis</item>
+                        <item>Melampyrum pratense</item>
+                        <item>Pedicularis palustris, sylvatica</item>
+                        <item>Antirrhinum linaria, majus</item>
+                        <item>Scophularia nodosa, aquatica</item>
+                        <item>Digitalis purpurea</item>
+                        <item>Draba verna</item>
+                        <item>Lepidium campestre</item>
+                        <item>Teesdalia nudicaulis</item>
+                        <item>Thlaspi bursa-pastoris</item>
+                        <item>Cardamine hirsuta, pratensis, amara</item>
+                        <item>Nasturtium officinale, terrestre, amphibium</item>
+                        <item>Sisymbrium officinale, sophia</item>
+                        <item>Erysimum alliaria</item>
+                        <item>Cheiranthus fruticulosus</item>
+                        <item>Barbarea vulgaris</item>
+                        <item>Brassica napus</item>
+                        <item>Sinapis arvensis</item>
+                        <item>Erodium cicutarium</item>
+                        <item>Geranium pratense, robertianum, lucidum, molle, dissectum</item>
+                        <item>Malva sylvestris, rotundifolia, moschata</item>
+                        <item>Fumaria claviculata, officinalis</item>
+                        <item>Polygala vulgaris</item>
+                        <item>Spartium scoparium</item>
+                        <item>Genista tinctoria, anglica</item>
+                        <item>Ulex europaeus</item>
+                        <item>Ononis arvensis</item>
+                        <item>Orobus tuberosus</item>
+                        <item>Lathyrus pratensis</item>
+                        <item>Vicia cracca, sepium</item>
+                        <item>Ervum tetraspermum, hirsutum</item>
+                        <item>Trifolium officinale, arvense, procumbens, minus</item>
+                        <item>Lotus corniculatus, major</item>
+                        <item>Medicago lupulina</item>
+                        <item>Hypericum quadrangulum, perforatum, humifusum, hirsutum, pulchrum</item>
+                        <item>Tragopogon pratensis</item>
+                        <item>Picris hieracioides</item>
+                        <item>Sonchus palustris, arvensis, oleraceus</item>
+                        <item>Prenanthes muralis</item>
+                        <item>Leontodon taraxacum</item>
+                        <item>Apargia hispida</item>
+                        <item>Hieracium pilosella, sabaudum, sylvaticum</item>
+                        <item>Crepis tectorum</item>
+                        <item>Hypochoeris radicata</item>
+                        <item>Lapsana communis</item>
+                        <item>Cichorium intybus</item>
+                        <item>Arctium lappa</item>
+                        <item>Serratula tinctoria</item>
+                        <item>Carduus nutans</item>
+                        <item>Cnicus lanceolatus, palustris, arvensis, eriophorus, pratensis</item>
+                        <item>Carlina vulgaris</item>
+                        <item>Bidens tripartita</item>
+                        <item>Eupatorium cannabinum</item>
+                        <item>Tanacetum vulgare</item>
+                        <item>Artemisia vulgaris</item>
+                        <item>Gnaphalium uliginosum, minimum, germanicum</item>
+                        <item>Erigeron acris</item>
+                        <item>Tussilago farfara</item>
+                        <item>Senecio vulgaris, jacobaea, aquaticus, sylvaticus</item>
+                        <item>Inula dysenterica</item>
+                        <item>Chrysanthemum leucanthemum, segetum</item>
+                        <item>Pyrethrum parthenium</item>
+                        <item>Anthemis cotula</item>
+                        <item>Achillea ptarmica, millefolium</item>
+                        <item>Centaurea nigra, cyanus</item>
+                        <item>Orchis bifolia, morio, mascula, latifolia, maculate, conopsea</item>
+                        <item>Listera ovata</item>
+                        <item>Euphorbia peplus, exigua, helioscopia</item>
+                        <item>Alnus glutinosa</item>
+                        <item>Myriophyllum spicatum</item>
+                        <item>Sagittaria sagittifolia</item>
+                        <item>Arum maculatum</item>
+                        <item>Salix repens</item>
+                        <item>Humulus lupulus</item>
+                        <item>Tamus communis</item>
+                        <item>Mercurialis perennis</item>
+                        <item>Atriplex -</item> 
+                        <item>Polypodium vulgare</item>
+                        <item>Aspidium filix-mas, filix-foemina, dilatatum, aculeatum, lobatum</item>
+                        <item>Asplenium trichomanes, ruta-muraria, adiantum-nigrum</item>
+                        <item>Blechnum boreale</item>
+                        <item>Pteris aquilina</item>
+                        <item>Ophioglossum vulga</item>
+                        <item>Equisetum fluviatile, limosum, palustre</item>
+                    </list>
+                    
+                  <p>I have several duplicates of the Viola lutea and Chrysosplenium alternifolium from the neighbourhood of Ludlow, where also I found the Aconitum napellus growing in great abundance on the banks of a little stream called the "Letwyche" which runs into the Teme. Amongst the mosses found in this neighbourhood are the Trichostomum lanuginosum, Bryum turbinatum. Hypnum dendroides, H. cordifolium. Polytrichum juniperinum &amp; about 40 other different kinds.</p>
+                    <p>Additional plants. Ornithopus perpusillus, Brionia dioica, Solanum nigrum, Nardus stricta, Arabis thaliana</p>
+                    
+                    
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

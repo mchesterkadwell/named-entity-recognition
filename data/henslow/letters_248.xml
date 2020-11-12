@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_248.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-248">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Whewell   5 March 1849</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell Add.Ms.a.63: 87, 1-2</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1849-03-05">5 March 1849</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh Suffolk</placeName>
+                    <date>5 March 1849</date>
+                    <salute>My dear Whewell,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Probably my remarks contain no useful suggestions, or nothing that has not been already fully discussed– I send them at a venture– Totally ignorant of what the V.C. had been suggesting about the Statutes[.] My allusion to new bottles may have been an unhappy one– but I was in hopes he was proposing some new bottles for our new wine. The old wines needs none– According to your view I should have said he would be putting old bottles (not wine) into old bottles– I was considering the statutes generally as so many bottles, &amp; I thought a few dry <del>added</del> to the old stock might well be added for our recent changes– Perhaps he is only intending to repair the old ones &amp; stretch them a little for the intermixture of the new wine, which I think will not deteriorate the flavour of the old– However I am very sorry to find that he meets such determined opposition–</p>
+                  <p>Is there not a loop hole for men who take law degrees as compared with common degrees? They do not seem to be <hi rend="underline">required</hi> to attend any of the Professors beyond the one who lectures in their <hi rend="underline">own</hi> subject– Louisa saw you riding with the Worships last week on the Shelford road but you did not see her–</p>
+                  <p>Ever y <hi rend="superscript">rs</hi> truly | J S Henslow</p>
+                  <p>
+                     <hi rend="underline">Enclosure</hi>
+                  </p> 
+                  <p>Comments on the Draft–</p>
+                  <p>1. As I can seldom contrive more than 20 lectures in the half term of Easter, a man required to attend 20 as a minimum, must attend every one– But quere w <hi rend="superscript">d.</hi> a fair excuse be allowed for omitting one or two? or suppose I so divided the course at to give Systematic Botany in the Easter term, &amp; Physiological in the Oct <hi rend="superscript">r</hi>. would this answer the purpose?</p>
+                  <p>2. Why Michaelmas Term? A man might not think of attending just then, who might wish afterwards to do so– Might there not be a specified <hi rend="underline">place</hi> where men could enter their names at Colleges, &amp; either pay their fee or direct the party to whom the care of the list might be intrusted to apply for it in [<hi rend="underline">two illeg words</hi>] Tutors–? This would save the necessity of continual repetition of the proposed <hi rend="underline">request</hi>– Who would have to make the <hi rend="underline">request</hi>?</p>
+                  <p>3. I think there might be some beneficial alterations here– A four guinea ticket to last for 3 years might lead to collusion– Let <del>such</del> a ticket be delivered in to the Professor (to each of the Professors) whose course is to be attended, &amp; returned <hi rend="underline">countersigned</hi> (that attendance has been 9.5 &amp; examination satisfactory) at the end of the course– Four guineas might supply ticket for <del>each</del> one course under each &amp; all– But suppose a second course were to be attended might not a second course ticket be provided say at 2 guineas? On second thought I think this would no do– for a man might not answer satisfactorily in one course who would do so at a second– My own subject has so many technicalities that it is difficult to recollect them in one course, &amp; very easy to get hold of them in a second–</p>
+                  <p>7. The end of my lectures always interferes with college examinations– &amp; I fear the subject requires more time for observations &amp; for allowing multiplicity of new terms to settle in mens heads to allow of any very satisfactory examinations being passed so immediately after the course–but experience will show this– at p. 3. line <del>read</del> 3 read <hi rend="underline">aca</hi>demical not a<hi rend="underline">cc</hi>ademical} &amp; that line but one my days of attendance s <hi rend="superscript">d</hi> be T.W.Th.F not every day– N. B. also the days on which the several lectures begin should be inserted E. gr. my own <hi rend="underline">1849.April.24.</hi>
+                  </p>
+                  <p>For convenience of Almanack consultation wd it not be better that the programme s <hi rend="superscript">d</hi> be issued at the <hi rend="underline">beginning</hi> of each yr. not of the academical year?</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

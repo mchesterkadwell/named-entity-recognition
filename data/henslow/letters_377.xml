@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_377.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-377">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Whewell   24 November 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 355</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+                <date when="1853-11-24">24 November 1853</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Trin. Lodge</placeName>
+                    <date>24 November 1853</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I was sorry that you could not meet us today, and still more sorry for the cause. It is certainly true that we are not so young as we were; we few have held out wonderfully long against an upper jacket. I hope it will produce all the good effects which the first application of new remedies sometimes does. We have considered your objections to the plans and others which have occurred to us; and have agreed to wait for your report from Kew, before we attempt to re… the designs. The opinions from Kew will of course be very valuable; but we are a little afraid that their (the Kewians) notions may be too magnificent for us. We must build in such a way that the sum required for the annual expences of the Garden shall not be greater than it now is. We (the other Syndics) agree with you in wishing to get rid of the doors with arched heads; we say altogether; and indeed of arches throughout. The points of examining ...[illeg]….. of our by experienced persons - When we have the responses from Kew and see our way a little further, we may perhaps send our Curator the issue to get further information and perhaps in a week or two you may be able to come here to confer with us.</p>
+                  <p>I hope Mrs Whewell is going on well – she is much better than she has been, and remains still [illeg]. Mrs Henslow will grieve to hear, if she has not yet heard, that dear old M <hi rend="superscript">rs</hi> Hughes was taken to her rest two days ago. Her friends have been long expecting the event. My kind regards to Mrs Henslow</p>
+                  <p>always truly yours | W. Whewell</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

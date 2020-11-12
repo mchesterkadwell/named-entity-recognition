@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_781.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-781">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Fred Calvert   6 Jan. 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:21</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_103.xml">Calvert, Fred</persName>
+                <date when="1826-01-06">6 Jan. 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Whatfield</placeName>
+                    <date>6 Jan. 1826</date>
+                    <salute>My Dear H.</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I cannot understand what you all mean. Taylor informed me that he has just returned from Cambridge &amp; that the feeling there particularly in Trinity &amp; St Johns was very strong in favour of Lord Palmerston. You yourself state that there is but one resident vote in St Johns decidedly against L,<hi rend="superscript">d</hi> P &amp; that most of the Jesuits are in his favour! Why then all this humbug &amp; pretence? I do not believe that there is the least doubt of L<hi rend="superscript">d</hi> P's success or that there is the least occasion for my promising him a plumper. I do not believe that the University have so far abandoned consistency &amp; common sense as to reject him. With respect to myself however the simple fact is that four days since I wrote to L<hi rend="superscript">d</hi> P offering him my vote having determined in my own mind to give him a plumper if at the time of the Election I found there was any doubt of his being returned. This I have done because I imagined that no man of common sense &amp; common liberality could do otherwise. I trust therefore that you will do me the justice to believe &amp; to explain to L<hi rend="superscript">d</hi> P that the offer of my vote was dictated entirely by my own vision of the case &amp; needed no other additional inducement.</p>
+                  <p>Cambridge votes are scarce in this neighbourhood. Speare of Clare Hall I have not seen but I am pretty confident that he will vote with Webb &amp; probably against Lord P. Young Hatch of Kings is now absent from Hadleigh. Taylor is in favour of L<hi rend="superscript">d</hi> P. I have canvassed Hanbury by letter but do not know his intention. His vote may be had through Geo. A. Browne. I shall dine tomorrow in company with 2 or 3 votes upon whom I shall diligently impress my own notions. Walker of S<hi rend="superscript">t</hi> Johns (Rector of Layham) is a very impractical person &amp; very cautious in concealing his opinion but he will vote for L<hi rend="superscript">d</hi> P if properly canvassed though Jack or Whitfield both formally of S<hi rend="superscript">t</hi> Johns. I thank you for the offer of a bed but I will not ask you to reserve it for me because I think that I shall (illeg Illeg) &amp; return without sleeping at Cambridge.</p>
+                  <p>I may amuse Dicks &amp; console Hilyard to know that the skin of one of my sheep was this morning found in a field without its carcass-the former will be the more amused when informed that I preached a vehement discourse against stealing only two Sundays ago.</p>
+                  <p>Yours ever truly Fred Calvert</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

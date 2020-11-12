@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_520.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-520">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   17 February 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 194</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1859-02-17">17 February 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swainswick</placeName>
+                    <date>17 February 1859</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I was sorry to hear a short time back of Anny’s having been taken ill, &amp; the doubt thereby occasioned as to whether she would be equal to a journey to Bath just at present.— But for this, I believe Elizabeth was expecting her next week; &amp; that is about the time you mentioned to me in a letter I had from you in December.</p>
+                  <p>I hope to hear again in a few days telling us how she is, &amp; what your plans are in respect of Bath. We hope you will give us at least a couple of nights when you come this way, —&amp; if it is to be next week, the time is not far distant. My wife is as you know, but a poor invalid at all times, —&amp; the Winter always pulls her strength down considerably, from her not being able to get air &amp; exercise out of doors, —still she is well enough to have you with us in a quiet way, &amp; I have been so long without seeing you, that I hope you will not omit the visit I have been looking forward to.— You must give a morning in Bath to the Museum at the Institution, which tho’ not containing much else of importance in the way of —Nat. History (for in Roman antiquities it is rich) —has now a very fine collection of fossils, all arranged by M <hi rend="superscript">r</hi> Moore F.G.S, to whom they really belong, —&amp; which I think were not there on the occasion of your former visit to this neighbourhood: indeed I am not sure that you visited the Bath Museum at all, though you went to Bristol.</p>
+                  <p>Eliz. is I think in better health than she used to be in Brighton, &amp; occupies (for the present) rather a grand house; —with another very good one in prospect, which she will take for a permanence &amp; furnish herself, from next Mich. <hi rend="superscript">mas</hi>. –With our kind love to all at home,</p>
+                  <p>Believe me |y’rs affect <hi rend="superscript">ly</hi> | L. Jenyns</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

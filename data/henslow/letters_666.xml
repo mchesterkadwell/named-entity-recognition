@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_666.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-666">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Sir B. Brodie   20 September 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 39</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_248.xml">Brodie, Sir B.</persName>
+                <date when="1860-09-20">20 September 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks JSH for account of his activities in Hitcham. Says he is unable to visit JSH in October as he is going to the seaside. Comments on the poor harvest, saying it must be bad in JSH’s part of Suffolk. States that potato harvest has been worse than ever, and he is planting the Chinese yam as a replacement.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Broome Park | Betchworth</placeName>
+                    <date>20 September 1860</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I thank you for the account which you sent me of your useful labours in Hitcham. I wish I could be with you on the 3 <hi rend="superscript">rd</hi> October; but I am afraid it will be quite out of my power to visit Suffolk this year. At present I am, as you will see, at my own house in Surrey; but we are on the point of going for a short time to the sea-side, from whence we shall return some time in the latter part of October. If it should happen that anything were to bring you into our part of the world afterwards, I hope I need not tell you how much pleasure it would afford us to receive a visit from yourself &amp; any of your family who may accompany you.</p>
+                  <p>The Harvest in our immediate neighbourhood has been nearly got in, but I am afraid that the state of it elsewhere must be very deplorable. My agent, M <hi rend="superscript">r</hi> Stowe, gives me a bad account of it in your part of Suffolk. Our potatoes are this year worse than ever. I am planting the Chinese yam, imported by Fortune, which I find to be very productive and which I hope that your poorer neighbours may find useful eventually, as in some degree a substitute for potatoes.</p>
+                  <p>yours very truly | B C Brodie</p>
+                  <p>[In JSH’s hand: This letter is signed by Sir. B. Brodie, who has recently undergone an operation on his eyes. It is probably written by Lady B. or some friend— JSHenslow]</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

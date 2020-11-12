@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_114.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-114">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. A. W. Arnott   9 March 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 137</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_77.xml">Arnott, G. A. W.</persName>
+                <date when="1830-03-09">9 March 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Asks whether JSH can send specimens of some of the rarer plants found in the Cambridge region. Invites him to Edinburgh and offers access to duplicates.</p>
+            <p>Discusses JSH’s description of the leaves of <hi rend="italic">Malaxis paludosa</hi> and states that he made the same description at an earlier date but did not publish it. Casts doubt on the observation that they are parasitic.</p>
+            <p>Requests British specimens of <hi rend="italic">Malaxis paludosa</hi> and offers JSH a Swiss specimen.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Edinburgh 7 St John St</placeName>
+                    <date>9 March 1830</date>
+                    <salute>Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I regret much that it is not in my power to accompany my friend Dr. Graham to London this Spring, and to Cambridge <hi rend="underline">en passant</hi>, as I had last Spring the pleasure of visiting Oxford with my other friend &amp; Professor Dr. Hooker: but I cannot resist the opportunity of writing you by him, in the hope of some time or other procuring from you a few of the rarer British species of plants that are to be found in your neighbourhood. But I will be frank with you in saying that I have not much to offer you – Scottish plants my friend Graham can give you as well as I can, and of my South of France plants my duplicates are sadly reduced – my principles as a Botanist have always been to give when I can give, and to sow information let who will reap the fruit. Of course then out of about 3½ stone of dried plants I brought from the South of France, Pyrenees, Spain and Switzerland, about four years ago, my stock after serving my own herbarium and about 25 or 30 correspondents or friends has been so much reduced that my <hi rend="underline">plantae rariores </hi>have long since vanished whilst my others I am almost ashamed to offer. Pray I know not how to make a selection for you, for perhaps you have all of them already, but if Graham could induce you to visit our modern– (I had almost said Athens but the dismal recollection that we have not half a dozen of Botanists in our whole population bids me refrain from giving that absurd appellation to “Auld Reekie”. I say if Graham can induce you to pay us in the North a visit, nothing would give me greater pleasure than bidding you help yourself out of my duplicates. All I wish in return (and if you don’t wish to gain anything in return – c’en fait rien – you are still welcome to my duplicates) is your assistance to complete my specimens of the British flora. For through want of correspondents in the chalky districts of England, my herb. <hi rend="superscript">am </hi>is woefully deficient in British specimens of many plants that I have myself gathered on the Continent.</p>
+                  <p>Would a collection of well named mosses or sea-weeds give you any pleasure?</p>
+                  <p>I observe you have described an old discovery(?) of mine in the leaves of Malaxis paludosa– I and an old friend of mine (Mr. D. Stewart) long since saw the same thing, but I had always suspicions that the appearance was long since described. I cannot at present refer to the work, but that was the only reason why we never published our ideas: indeed what is remarkable that it was these glandular bodies or rather gemmae for they actually give rise to young plants, that made me recognize the species when Mr. Stewart &amp; I discovered it on the Cleish Hills in 1820. Do you find it abundantly? If so I would wish much for a specimen or two for the sake of the locality. Have you found M. Loeselii? I have no British specimens although I could give you a Swiss one– With regard to their being parasitic I have doubts if in the true sense of the word any Orchideous plant is so. That is, I have doubts if <hi rend="underline">any</hi> one of the tribe draws its entire nourishment from <add>another</add> plant– Most of the Orobancheae are truly parasitical; one cannot raise them in earth– but all the Orchideous plants may be raised either in earth or bogmoss (Sphagnum): indeed I feel confident that Malaxis paludosa does not insert a single radicular fibre within the epidermis of any plant whatever, whether of the A- Mono- or Di-cotyledoneous tribes of vegetables.</p>
+                  <p>But my introductory, and perhaps (but as you please) valedictory letter has drawn too much on your patience so allow me to call myself</p>
+                  <p>Yours truly | G.A.W. Arnott</p>
+                  <p>[P.S.] I beg to send you one or two brochures – Of the work I published in 1825 in Paris on the Mosses– and of my memoirs in the Wern. Trans. along with Dr. Grasler– any private copies are long since exhausted– Of my French tour I have no intention at present to publish any word – being heartily tired of the subject.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

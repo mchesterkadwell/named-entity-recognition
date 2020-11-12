@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_574.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-574">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Robert Mansey Rolphe, 1st Baron of Cranworth    31 October 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 102</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_324.xml">Rolphe, Robert Mansey </persName>
+                <date when="1860-10-31">31 October 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Grundisburgh Hall | Woodbridge</placeName>
+                    <date>31 October 1860</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I left the flint hatchet and the Barnwell card with M <hi rend="superscript">r</hi> Wright at the Museum yesterday— I am very much obliged to you for the loan— My paper excited great interest— it is very badly reported and when I had finished reading it the Marquess of Bristol said that he met Sir Charles Lyell abt three days ago and that Sir Charles thought they might turn out the work of a Pre-Adamite race or something of that sort and that he also stated you took a different view of their antiquity he understood from Sir Charles— I stated in reply that your opinion was that at present you saw no reason to think they were pre-Adamite but that you could satisfactorily account for their deposition without any such hypothesis— This conversation the reporters jumbled up into a statement that you did not believe in their antiquity which is quite another thing— We had a very pleasant meeting indeed— As I returned from your house I met Capt <hi rend="superscript">t</hi>&amp; M. <hi rend="superscript">rs</hi> Heath with your curator. I find that he is brother in Law to M. <hi rend="superscript">rs</hi> Heath who is a grand daughter of poor old M <hi rend="superscript">r</hi> Bagshaw of Harwich— If you can spare a day or two to visit Grundisburgh Hall and see Actons collection and the Lions of these parts I shall be delighted to see you— I am almost always at home—</p>
+                  <p>I remain dear Sir | faithfully yours | R. Rolphe</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

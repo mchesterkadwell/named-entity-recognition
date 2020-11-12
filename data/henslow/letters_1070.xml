@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1070">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">E. A. Darwin to J. S. Henslow 23 January 1833</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Royal Botanic Gardens, Kew</repository>
+                        <collection>Henslow letters</collection>
+                        <idno>15</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_361.xml">Darwin, E. A.</persName>
+                    <date when="1833-01-23">23 January 1833</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName/>
+                        <date>Jan 23.</date>
+                        <salute>Dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I have received your parcel containing a book &amp;c and a letter for my Brother. I will forward them by the first opportunity, and will follow your suggestion in endeavouring to obtain the Anatomie des Mollusques which I do not think he at present has.</p>
+                  <p>I feel very much obliged to you for the two letters you are so good as to send. I have had great pleasure in reading them, and will gladly make use of your permission to send them home, and will take care that they are returned to you.</p>
+                  <p>I do not know whether I can be of any assistance to you either in receiving or forwarding the Boxes which my Brother may send to you, and can only beg that you will make any use of me that may be convenient</p>
+                  <p>I remain yours,</p>
+                  <p>Sincerely obliged</p>
+                  <p>E. Darwin</p>
+                  <p>24 Regent St.</p>
+                  <p>P.S. My Brother mentions in his letter that his Box is to be forwarded through Capt. Fitz Roy’s Agent at Falmouth  The former agent of Capt Fitz Roy (I forget his name) failed and I had in consequence considerable difficulty in sending out some books. If you should happen to know the address of the present Agent who forwarded the Box, I should feel exceedingly obliged to you if you could send it to me. I should not venture to give you so much trouble if I were not so well acquainted with all your kindness to my Brother.</p>                        
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

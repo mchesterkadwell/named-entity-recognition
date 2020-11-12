@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_581.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-581">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Edward Charlesworth   21 July 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 88</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_123.xml">Charlesworth, Edward</persName>
+                <date when="1859-07-21">21 July 1859?</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>York</placeName>
+                    <date>21 July 1859?</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have at length sent off your Fossils— They will be forwarded by Mr George from Bury, and you will find the series include every genus new-Found in the list— I hope you may be able to send us some new Members, as I should very much regret the having to give up the Collecting Station—</p>
+                  <p>Many new and interesting things have come to light, and doubtless more will follow if we can go on another 6 or 12 months— The present no. of Sub. <hi rend="superscript">rs</hi> is 140, but I hope to see the Society include 1000 Subs before another year is over—</p>
+                  <p>I am almost fagged to death with the labor of preparing the specimens and packing the Collections— Please give the boxes to the care of George Ransome unless you prefer keeping them at the cost if 3/- (postage stamps)— Your share of Car. to Bury is 3 <hi rend="superscript">d</hi>—</p>
+                  <p>Yours dear Sir | very truly | Edw Charlesworth</p>
+                  <p>No. 38 is the genus Globulus of J. de C. Sowerby</p>
+                  <p>59— is Sanguinolaria</p>
+                  <p>72— is the Genus Phorus of Montfort</p>
+                  <p>[Appended: typed list as follows:]</p>
+                  <p>Supplementary List</p>
+                  <p>3. Corbula costata, <hi rend="underline">Sowerby</hi>. M.C… plate 209</p>
+                  <p>4. Cytheraea obliqua, <hi rend="underline">Deshayes</hi>. C.F. ….21</p>
+                  <p>5. Potamides plicatus, <hi rend="underline">Lamarck. </hi>M.C. .. 340</p>
+                  <p>6. Psammobia rudis, <hi rend="underline">Lamarck</hi>. ………. 342</p>
+                  <p>Fossils either new or which the species are at present undetermined.</p>
+                  <p>7. Anomia. j. Mactra.</p>
+                  <p>8. Cancellaria. k. Melania.</p>
+                  <p>9. Cyrena. l. Nucula.</p>
+                  <p>10. Lucia. m. Potamides.</p>
+                  <p>[on reverse in ink: ‘W[illeg} to other list’]</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

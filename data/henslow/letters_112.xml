@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_112.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-112">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To william Baxter   12 February 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Oxford University Herbarium</repository>
+                    <idno/>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1830-02-12">12 February 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_55.xml">Baxter, William </persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>12 February 1830</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have requested by Banker here to place the sum of one Guinea &amp; a half to your account At Mess <hi rend="superscript">re</hi> Walker, Lock &amp; Co. Oxford – so that whenever you choose to send for It there, you will find it – this I believe is all that I am indebted to you, but if I have made any mistake I beg you will be so good as to let me know, I will immediately rectify it– I feel exceedingly obliged by the kindness you have shewn in forwarding the only copy you had left &amp; have lodged it in the hands of a person who will properly appreciate it I feel still more obliged for the good part in which you have taken my remarks upon what I conceive to be the duties of our peculiar vocation– for though I could have no right whatever to offer them to you, yet as my pen had once begun I found I could not stop myself until it had finished. I sincerely hope that God will soon restore you again to the best interests of society that of promoting the knowledge &amp; happiness of all around us – As our means are the greater &amp; our opportunities increase, so to our temptations also to lose sight of them – &amp; the carnal nature is perpetually enticing us to take disgust at something or other which we see in contradiction to our views and wishes, but by perpetually denying our own [<hi rend="underline">one word illeg.</hi>] for the General good, &amp; daily begging of God to allow us not be influenced either by good report or by evil report, we can (by patience &amp; the knowledge of our redeemed [<hi rend="underline">hole in paper</hi>] learn gradually to live a life of [<hi rend="underline">hole in paper</hi>] from such silly motives as continue to influence those who take the word for their model, or men like themselves for their guide. We can even at length feel no disgust at whatever malice, or ill nature may continue against us &amp; become as really delighted at being able to serve an enemy as a friend– at least I mean in spirit &amp; peace of conscience, for of course the carnal friendships we may form are above our control, &amp; it w <hi rend="superscript">d</hi> be equally sinful to be without such natural affections as to abuse the blessing of enjoying them to the prejudice of one above another</p>
+                  <p>Y <hi rend="superscript">rs</hi> truly | J. S. Henslow</p>
+                  <p>Post Paid | Mr Baxter | Botanic Garden | Oxford</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

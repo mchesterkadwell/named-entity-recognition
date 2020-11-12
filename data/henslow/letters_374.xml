@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_374.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-374">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Michael Faraday   5 November 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 189</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_178.xml">Faraday, Michael</persName>
+                <date when="1853-11-05">5 November 1853</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Royal Institution</placeName>
+                    <date>5 November 1853</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I send you first a bottle containing Sodium. If it is turbid (the liquid) when you get it, let it rest quietly &amp; the liquid will become clear &amp; you will see some of the globules of sodium as metals very well I think – Do not open the bottle – or the preparation will be spoiled – it is 30 years or more old.</p>
+                  <p>As for Potassium I have been in the habit in lecture of putting a moderately clear piece about the size of a pea between two thick glass plates then pressing the plates together with a little lateral motion added till the potassium is spread out as large as a shilling and holding the plates together with clips of bent copper. [pen sketch of plates] Somewhere the potassium will show itself metallic &amp; keep so under the glass for some hours.</p>
+                  <p>As to the wires – there is some fine copper [underlined by JSH] drawn to 1/350 of an inch – some fine platina[underlined by JSH] drawn to 1/216 of inch – 2 vials of platina in silver the platina being 1/1000 and 1/2000 of inch If you hold the ends of these in the side of a candle flame you may melt down the silver &amp; show the platina as the specimens will show you– The platina is then best shown to a company by letting it glow as an ignited body in the flame only the 1/2000 will melt in the candle unless care be taken.</p>
+                  <p>There are also two cards containing like specimens of platina the 1/10000 1/20000 1/30000 of an inch in diameter - Here you want a glass to see them</p>
+                  <p>I have put in some pieces of Gilt silver wire &amp; silver copper wire but here the covering metal is thick – I cannot get at any others</p>
+                  <p>I must ask you to return the Sodium* the *fine wires on cards &amp; *reel – I am sorry I cannot leave them with you</p>
+                  <p>Ever my dear Henslow| yours truly | M. Faraday</p>
+                  <p>I send this note by Post &amp; the other things <del>by</del> as a packet by the rail MF</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

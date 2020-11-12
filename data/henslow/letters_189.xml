@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_189.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-189">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From E. B. Ramsay   3 September 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 228</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_102.xml">Ramsay, E. B.</persName>
+                <date when="1831-09-03">3 September 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Edinburgh</placeName>
+                    <date>3 September 1831</date>
+                    <salute>My Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I ought to have written to you before &amp; purposed doing so, but have had some grievously distressing &amp; perplexing business to attend to – I now am desirous of assuring you that there is no need to find yourself to the least inconvenience in expediting the affairs since there is really no cause for haste &amp; you may require to take time &amp; are frequently absent from Camb: Long may your beloved wife be spared to you My Dear Friend! – may God be merciful &amp; gracious under all dispensations – it is delightful to me to read your resigned &amp; pious dispositions &amp; to notice the association you have made between them &amp; the beloved memory of my brother – May you never lose hold of the motives to resignation to consolation &amp; to a calm anticipation of the future, which the gospel so abundantly affords –may you never feel them less vividly than you do at present &amp; may you immerse yourself in them more &amp; more – I have expressed this awkwardly &amp; clumsily but you will see that I mean to convey to you my best wishes – Do not put yourself in the least out of the way on my account – My Sister has desired me to send her kind regards &amp; grateful thanks – indeed we all deeply feel your kindness – I wish to consult you about the books – I found that they are almost all perfectly useless to me – I have for some time found the necessity of devoting myself exclusively to my own professional business. I have a great demand upon me for new sermons &amp; I have no time for my studies those w. <hi rend="superscript">h</hi> bear upon that point – hence books on Mathematical subjects – on Botany, Classics &amp; modern languages are in fact no use to me – My idea is therefore to return certain books on general subjects &amp; to agree with a bookseller at Camb: to take <del>these</del> the rest in the way of exchange for certain other books – on divinity, church hist: &amp; morals w. <hi rend="superscript">h</hi> I am desirous of possessing. This (if it could be done) w. <hi rend="superscript">d </hi>perhaps be better than a sale by auction – I mean w.d oc[ca]sion less trouble. You do not mention your brot[her –] I suppose he is better – may God be with you in all you have to bear.</p>
+                  <p>M. <hi rend="superscript">r</hi> Ash of X Coll: has been here – we did not see much of him – but were much pleased with his kind &amp; sympathizing manner – he is extremely intelligent &amp; agreeable – M. <hi rend="superscript">rs</hi> Ramsay desires her kind remembrances</p>
+                  <p>&amp; believe me | your’s very truly | E.B.R.</p>
+                  <p>I have a very kind letter from D <hi rend="superscript">r</hi> French – If you would take the trouble (perhaps it w. <hi rend="superscript">d</hi> be somewhat awkward for me doing it) to write to Lady Charlemont – I sh. <hi rend="superscript">d</hi> feel obliged it is certainly worth while to have the chance of regaining any lost volumes – I have a few here w. <hi rend="superscript">h</hi> he brought. I like your idea of “the Strangers” of St Peter – Every day’s experience shews me more &amp; more strongly my “stranger” state–</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

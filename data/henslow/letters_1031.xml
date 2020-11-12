@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1031">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Adolphe-Théodore Brongniart 12 December 1840</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Uppsala University Library</repository>
+                        <idno>Waller Ms fr-01377</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_341.xml">Brongniart, Adoplphe-Théodore</persName>
+                    <date when="1840-12-12">12 December 1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Paris</placeName>
+                        <date>12 Decembre 1840</date>
+                        <salute>Monsieur</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>Je viens de mettre dans un paquet adressé La Societé royale de Londres un exemplair pour vous d'un memoire que je viens de publier sur une plante fossile qui je l'espere aura de l'interet pour vous. il a pour objet l'etude anatomique d'une petite tigè au plutot d'un rameau de <hi rend="underline">Sigillaria elegans</hi> silicifeé trouvé aux environs d'Autun avec les nombreuse [text illegible], et bois de diverses Coniferes que cette interessante renferme.</p>
+                  <p>Les fossiles à structure interne confermeé trouvié en Angleterre cet que le Lepidodendron Harcourtii en le Stigmaria facoides m'ont fourni. Des moyens de comparaison bien utiles et je vends grace à la generosite de M. Hutton qui me les a procuré. J'espere que vous voudres bien aussi que les continuer, comme vous me l'avez fait esperer, à me tenir au courant des decouvertes qui se permit en Angleterre soit en une communiquent des echantillons lorsque vous eu aurez donc vous pourrez disposer soit en me faisant part de vous travaux et observations sur ce sujet lors de leur publication.</p> 
+                  <p>Vous m'aviez annoncé la continuation de la fossil flora mais je ne crois pas qu'il en dit rien parmi; je desire bien dans l'interet de la science que cette publication reprenne; les matieriaux ne doivent pas vous manquer et je ne doute pas que vous ne nous en donniez une etude plu complete dont le rapport botanique que ne [text illegible] quelquefois les articles du fossil flora, ou voyait souvent que M. Lindley n'avait pas en la loisir d'examiner - sous tous les rapports les echantillons qu'il publiait. Je crois aussi qu'il y a un grave inconvenience à publier d'aprè des dessins communiqués sans avoir vous les echantillons eux [text illegible]; je l'ai faire quelquefois d'avez le commencement de mes publications et je ni'en suis presque toujours repenté.</p>
+                  <p>Si on trouve dans vos terrains mouiller ou carboniferes de nouveaux exemples de tiges fossiles à structure conservée, je serais bien reconnaissant si vous pouviez m'en procurer soit quelque petite portion suffisante pour l'etude, soit des plaques mincez deja preparées, s'il n'en pas possible d'eu avoir un morceau plus etendre pour ces caracteres internes en microscopiques plus que pour tout autre chose l'autopsia est necessaire [text illegible] presque jamais etre remplacé par les meilleurs figures  d'excellentes descriptions.</p>
+                  <p>Vous m'avez fait enquirer que vous pourriez me procurer les dernieres Livraisons du fossil flora que je n'ai pas rend quorique toutes les precidentes [text illegible] adressées de la part des auteurs  je n'ai pas osé les reclamer de MMs Lindley et Hutton mais je ne doute pas qu'il n'y ait eu oubli dans l'expedition on porte de ces livraisons ce sont les No. 19 a 24. Si cela vous offrait quelque difficulté je tacherais de me les procurer diratement.</p>
+                  <p>Veuilliez Monsieur recevoir la nouvelle assurance de mes sentiments les plus distingués et les plus affectieux.</p>
+                  <p>votre tout devoué</p>
+                  <p>Ad Brongniart</p>                        
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

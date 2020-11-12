@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1133">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From J. E. Bowman 14 September 1839</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>American Philosophical Society</repository>
+                        <collection>The Scientists Collection I</collection>
+                        <idno>509.L56</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_145.xml">Bowman, J. E.</persName>
+                    <date when="1839-09-14">14 September 1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Elm Place, Hulme, Manchester</placeName>
+                        <date>14 Sept. 1839</date>
+                        <salute>My dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>I was very glad to learn from Mr Hutton of Newcastle that you had undertaken jointly with himself to resume the publication of the Fossil Flora. You have my hearty good wishes for its success, &amp; I will cheerfully contribute anything new that falls in my way.</p>
+                        <p>I sometime since promised Mr Hutton the loan of a very singular &amp; interesting fossil fruit found by myself in Ironstone near Pontypool, Monmouthshire for the purpose of having it engraved for his work; &amp; he requested me at Birmingham the other day, to send it to Town to be placed in your hands for that purpose. As my son Wm. who is Demonstrator of Anatomy at King's College &amp; Curator of the Museum, will return thither in a few days, I will send it up by him; &amp; if you will favour him with a call at the Coll. when you next go to town, he will explain it and place it in your hands, with a few memoranda of mine which may assist you in understanding it. By the aid of the several pieces in to which the ironstone is broken, &amp; a separate piece containing a cast of another specimen of the same both its exterior &amp; interior form may be well studied; it is of an oblong or cylindrical shape, &amp; has a portion of stem from which proceeds the lateral branch to which it is attached, together with whorls of foliage resembling Asterophyllites, the stem being that of Bechera grandis. The fruit or seeds are distinctly seen in the numerous layers transverse to the axis of the cylinder; &amp; on the whole I consider it very interesting, &amp; likely to throw new light upon the genera in question if indeed they differ. When you see it, you will be able to judge for yourself; but I wd. suggest that in addition to such figures of its interior as you may think necessary to give, a <hi rend="underline">restored</hi> figure of its exterior shd. be given, exhibited on a plane, to make it intelligible; for you will see that its stem runs through the ironstone so obliquely that it cannot be understood without the aid of a restored figure.</p>
+                        <p>If it forms part of your plan to give better figs. of fossils hitherto figd. from imperfect or bad specs., I could send you a drawing of a very beautiful upper portion of the frond of Neuropteris cordata, having numeric 6 lateral leaflets on each side the rachis, as well as the terminal leaflet. This is from Lebotwood, whence the detached leaflets already figd. were obtained. I could also send you a good specimen of Favularia nodosa, which deserves a better fig. than is already given, which Lindley copied from a rough drawing of mine, avowedly done only to give him an idea, although he said he wd. have the specimen drawn if I wd. send it him up which I did. What Lindley figured as Polyporites Bowmanni, will have to be explained, &amp; in fact expunged from the Foss. <hi rend="underline">Flora</hi>, being as I then told him, the scale of one of the Saurian fishes, Holoptychus; probably the operculum or gill cover of H. nobilissimus.</p>
+                        <p>I saw in the Museum of the Phil. Institution at Birm. a fern in coalshale, named as "undescribed &amp; probably in its circinate state". On examining it, this appeared very evident, the main divisions of the frond &amp; also the footstalks of the pinnulae being regularly incurved something in the way here sketched [sketch of frond] though I do not pretend to give more than a general idea from memory. The most remarkable circumstance attending it, was that while <hi rend="underline">these</hi> were in process of development, the rachis seemed to be strait &amp; already fully expanded; whereas in recent Ferns the development of the rachis &amp; pinnae is simultaneous. The <hi rend="underline">top</hi> however is broken off. If you shd. wish for a drawing, Mr. Icke the very intelligent Curator, wd. probably be able to procure one. I also saw, a few months ago, the rich collection of Mr. W. Anstice * of Madeley, of fossils from the Coalbrook Dale Coalfield, &amp; observed among them several plants that struck me as new; &amp; especially ones like Asterophyllites in which the nerves of the leaves were at right angles midrib [sketch of leaf], thus. I name these matters should you want materials &amp; wish to avail yourself of them. I shall be happy to contribute my mite. Excuse the liberty I take, &amp; believe me to be Dear Sir</p>
+                        <p>Very sincerely Yours</p>
+                        <p>J. E. Bowman</p>
+                        <p>I have requested Babington to give you specm. of Cuscuta Epilinum</p>
+                        <p>* Some of W. Anstice's Fossils are figd. in Buckland's Bridgwr. treat. &amp; in Murchison's splendid "Silurn. System"</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

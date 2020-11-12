@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_215.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-215">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Joseph Henry   3 October 1842</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository/>
+                    <idno>Smithsonian Archives, Henry Papers Draft <hi rend="italic">The Papers of Joseph Henry</hi> 5 (1985): 273-74</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_119.xml">Henry, Joseph</persName>
+                <date when="1842-10-03">3 October 1842</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Princeton College of NJ</placeName>
+                    <date>3 October 1842</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I forward to you by my young Friend Mr Cuyler about two months ago a few articles of natural history and two no of Torrey and Gray's flora. I have found to day in one of the drawers of my study a copy of the 2 <hi rend="superscript">nd</hi> no of the 2 <hi rend="superscript">nd</hi> vol of the flora with your name written on the cover and the idea has occurred to me that I have by mistake sent to you two nos of the same kind. Please to inform me what nos <del> 
+                        <hi rend="underline">of the flora</hi> 
+                     </del> you have received and I will endeavour to complete your set as soon as the work is published. […] new way in the science. This is the season of our college vacation and I am about commencing to day a new series of experiments on electricity. My last labours in this line produced a series of interesting results. I was enabled to magnetize needs by an induced current at the distance of 30 feet from the primary current in the cellar of the Philosophical cabinet by a single spark from the electrical machine placed in the third story of the same building without any connection by mere induction or disturbance of the <del> 
+                        <hi rend="underline">elec</hi> 
+                     </del> equilibrium of the electrical plenum and also <del> 
+                        <hi rend="underline">magnetize</hi> 
+                     </del> to produce similar effects in my study by flashes of lightening at the distance of seven and eight miles.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_270.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-270">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. G. Latham   1 March 1854</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 119</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_121.xml">Latham, R. G.</persName>
+                <date when="1854-03-01">1 March 1854</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>29th J J [In JH’s hand: Upper Southwick St, Hyde Park Square]</placeName>
+                    <date>1 March 1854</date>
+                    <salute>My dear Professor Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am sorry your artist (who is so promising) should be away. I thought the accompanying could be enlarged &amp; copied. I have not the negatives; otherwise they should be at your service. They are the property of Delamorte – who makes a business of photography. The ones you saw were from busts – which were cast from the face.</p>
+                  <p>I wish much I could see you; and that so as to allow time to visit Sydenham; where all my casts &amp; busts are – 200 in number. I wish this because there are several Museums taking up Ethnology, &amp; if they would work together, I would let them have the needful specimens <del>for</del> and at slight cost – decreasing, indeed, according to the number of Museums acting together.</p>
+                  <p>This by no means implies that I cannot do something “out of favor &amp; affection” but for say such an outlay as £50 I could do a great deal. We supply casts of faces to a great extent, and a few full-sized whole figures. At present the charge of a full-length model falls on the Crystal Palace (In which I am superintending the Ethnology) only. Dundee with a Museum or two all <del>parties</del> parties would gain.</p>
+                  <p>However, I shall have some Daguerrotypes for you at any rate, and can give you the choice of several costs.</p>
+                  <p>If you come up send a line 2 days before, &amp; I will meet you at the Eastern Counties Station, or you can meet me at the London Bridge. I come – ¼ past each hour except 11 (eleven) when it is ten minutes after.</p>
+                  <p>Ever most truly yours| R .G. Latham</p>
+                  <p>The Revd Professor Henslow</p>
+                  <p>In W. <hi rend="superscript">m</hi> Hooker’s</p>
+                  <p>Kew, Brentford</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

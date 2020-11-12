@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_245.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-245">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Dawson Turner   29 October 1848</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Dawson Turner Correspondence O.14.45, Letter 132</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1848-10-29">29 October 1848</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_127.xml">Turner, Dawson</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        <change when="2020-08-10" type="footnotes" status="released">Footnotes cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh Suffolk</placeName>
+                    <date>29 October 1848</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have delayed a few days thanking you for the kind present you have been so good as to send me– &amp; which I dare say will sooner or later prove useful to me– &amp; will always serve as a memorial of your kindness. I received the plate of the Hadleigh Rectory safely &amp; have restored it to the person who had lent it to me.</p>
+                  <p>My daughter Fanny is now much better, &amp; the inconveniences she was suffering from the fall seems to be entirely leaving her– She bids me give you her very kind regards &amp; best thanks for the letters you forwarded to her– Indeed I am much gratified by all Josephs letters– The only confirm me mine &amp; secure in the good opinion I had formed of him– &amp; prove the zealous nature of his character in a way which must, <del>in</del> all <del>human probability</del>, satisfy everyone that in all human probability his future success is certain– I have busied myself lately in taking Wasps &amp; Hornets nests for Sir W <hi rend="superscript">m.</hi> H's Museum– &amp; have got some fine specimens now under process of drying &amp; preparation– I am glad to hear that the accounts from Irstead are somewhat better today &amp; hope &amp; trust that it will please God to restore Miss Hooker to her health before long– Our Curator M <hi rend="superscript">r</hi> Murray at Cambridge jumped at the idea of obtaining Maritime plants from Yarmouth, &amp; as I am going to Cambridge tomorrow for a couple of days I shall have some talk with him on the subject.–</p>
+                  <p>With kind regards to Miss Turner from myself &amp; family– believe me | Ever most truly y <hi rend="superscript">rs</hi> | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+       
+      </body>
+    </text>
+</TEI>

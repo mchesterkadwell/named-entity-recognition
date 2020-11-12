@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1033">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From J. D. Hooker 24 November 1845</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Uppsala University Library</repository>
+                        <idno>Waller Ms alb-62:263</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_122.xml">Hooker, J. D.</persName>
+                    <date when="1845-11-24">24 November 1845</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Kew</placeName>
+                        <date>Novr 24 1845</date>
+                        <salute>My dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I returned the Galapagos Island plants on Saturday, having kept them as long as I could: they are carefully done whether well or no. Those of Macrae's I separated both the Maldive group &amp; Galapagos Isld ones, &amp; returned them today to the Hort. Soc. Museum.</p>
+                  <p>I should have told you that I took the liberty of retaining those specimens that had <hi rend="underline">duplicate</hi> attached to them amounting I think to some 30 or 40 of the whole having thought that I had permission to do so there do not appear to be any specimens to spare amongst them &amp; pray do not break these upon any amount whatever as most of them are far too small as it is and I had to make some awful sacrifices in the examination, when the curious genera demanded it, though I was as saving as possible throughout, consistently with good determination.</p>
+                  <p>I returned a bundle of Tropical ones at the same time, in general approximately named, there was nothing seen remarkable amongst them. The Fuegian Falkland Isld &amp; Patagonian plants I retain, they will be nearly all named very soon &amp; returned as soon as the Phanerogamic portion of my book is done, there are some excellent things amongst them: especially from S. Chile &amp; the Chonos Archipelago, Chiloe</p>
+                  <p>The Niger flora is just begun &amp; I am including in it all the plants of tropical Africa, on the best count, from Cape Blanco to Great Fish River, I suppose you do not know where I can get such to my specimens from that shady world? The Niger Expedition plants form the foundation &amp; to them I add my own &amp; Darwin's Cape de Verd things. Don's W. African, Forbes' key ambigua (E. writes only in notes, &amp; a collection that E. Forbes had the goodness to offer me. In the Brit. Mus. I hope to have the use of C. Smith's Congo collections, Brass's Cape Coast ones &amp; some of Afzelius. From France we have some of Brunner's Senegambia &amp; Perrotets Senegal things &amp; I have written for a set of Hendelot's, then with other odds and ends will form a <hi rend="underline">Primitiva</hi> flora Af. occid. Trop.</p>
+                  <p>Amongst Darwin's Galapagos things you will find nearly all Macrae's, from a fine set of my father's &amp; one or two I added from the Hort. Soc. sets, as I wished the Cantab. collection to be as complete as possible. My father desires his very kind regards in which we all join.</p>
+                  <p>Ever with my great respect</p>
+                  <p>Most truly Yours</p>
+                  <p>Jos. D. Hooker</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

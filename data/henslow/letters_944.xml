@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_944.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-944">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Palmerston   9 June 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:184</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_265.xml">Palmerston, Lord</persName>
+                <date when="1826-06-09">9 June 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Haymarket</placeName>
+                    <date>6 o'clock 9 June</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Private</p>
+                  <p>Copleys plumpers are now I understand to be set free as to their second votes, and Monday is to be Exchange Day, do not quote me for this but you may act upon it pretty surely. Norris of Trinny is a plumper &amp; goes down &amp; Calthorpe goes with Godfrey Ed d. of St Johns who plumps for us &amp; therefore is likely to give us a vote, so says his brother the Peer.</p> 
+                  <p>Ld Weymouth is returned to England &amp; I have been trying to find him out; as his brother is against us he may perhaps be for us.</p>
+                  <p>My dear Sir</p>
+                  <p>Yrs sincerely</p>
+                  <p>Palmerston</p>
+                  <p>Ld. Brecknock will come and so will the Clives</p>
+                  <p>My counting up last night independent of the votes which I have sent you today was</p>
+                  <p>absolute promises 676</p>
+                  <p>Conditional ditto 18</p>
+                  <p>694</p>
+                  <p>of which plumpers 162</p>
+                  <p>Probable votes 69</p>
+                  <p>votes of whom <hi rend="underline">nothing whatever</hi> is known 490</p>
+                  <p>call the 694, 700 suppose 100 absentees which would reduce the number to 600 and add 54 Probables &amp; Exchanges &amp; we shall poll 650, &amp; if so I am convinced we shall beat Bankes.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

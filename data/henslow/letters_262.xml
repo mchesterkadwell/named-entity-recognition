@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_262.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-262">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. H. Balfour   29 April 1852</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Library, Royal Botanic Garden, Edinburgh</repository>
+                    <idno>100</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1852-04-29">29 April 1852</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_120.xml">Balfour, J. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks Balfour for sending a copy of <hi rend="italic">Class Book of Botany</hi>, vol. 1. Notes about teaching and students.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        <change when="2020-08-10" type="footnotes" status="released">Footnotes cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Downing College Cambridge</placeName>
+                    <date>29 April 1852</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Allow me to thank you for a copy, just received, of your Class Book N <hi rend="superscript">o</hi> 1.</p>
+                  <p>which seems to be very complete – I have named it to my Class &amp; I have no doubt many will avail themselves of it – tho’ not being complete, some will prefer your old manual- As our new system is now beginning fairly to work – I find my class much increased, &amp; am trying to restrict our non-readers to a sort of minimum that I may not frighten them by too much – They really have very little time away [<hi rend="underline">line illeg</hi>.] this sort of supernumerary lecture, &amp; my course consists only of 20 – There is a proposal to add 3 or 4 weeks to this term, which if carried will afford me more opportunity- I think I sent you a little sketch I printed last year of my minimum (not my syllabus) in the form of Questions to direct attention to what would be absolutely required- The questions would be put somewhat differently from the form in which they are printed to avoid mere rote-work- If I did not send this I shall be happy to forward a copy-</p>
+                  <p>Believe me | Very truly Y <hi rend="superscript">rs</hi> | J S Henslow</p>
+                  <p>P. S. It just catches my eye that you have accidentally given the same ex-planation to fig. 141 &amp; 142 _ at foot of p. 59 – &amp; at p. 58. S <hi rend="superscript">d</hi> it not be “as in tendril of Bryonia” at line 25? <del>141 is dextrorum &amp; 142 sinistorsum</del> - I never observed till lately that a misprint in my old volume (15 y <hi rend="superscript">rs</hi> ago) I have given them wrongly also.</p>
+                  <p>__________________________________________________________</p>
+                  <p>N. B. If you happen to have any waste copy with your wood cuts, I shall be very glad of some – as I make use of them by pasting such on pasteboard &amp; placing them among specimens at lectures</p> 
+                </div>
+            </div>
+
+        </div>
+      
+      </body>
+    </text>
+</TEI>

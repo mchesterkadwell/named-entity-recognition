@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_129.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-129">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Christy Jr   17 August 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 156</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_81.xml">Christy Jr, William</persName>
+                <date when="1830-08-17">17 August 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Clapham Road London</placeName>
+                    <date>17 August 1830</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>My friend M <hi rend="superscript">r</hi> W Wilson of Warrington knowing I had a good stock of specimens of <hi rend="underline">Asplenium septentrionale</hi> requested me to send you some as he knew it to be one of your desiderata.</p>
+                  <p>I accordingly forwarded some to him but he unfortunately sent off his parcel to you a few days before.</p>
+                  <p>As I think I may be able to add some other plants to it I now address you &amp; beg you to send me a list of your desiderata that I may see what I can send you.</p>
+                  <p>I have plenty of <hi rend="underline">Lychnis viscaria,</hi> 
+                     <hi rend="underline">Arbutus unedo</hi>, <hi rend="underline">Eriocaulon septangulare</hi> 
+                     <hi rend="underline">Helianthemum canum</hi> &amp; can also give you <hi rend="underline">Paeonia corallina,</hi> 
+                     <hi rend="underline">Allium ampeloprasum,</hi> 
+                     <hi rend="underline">Helianthemum polifolium &amp; vulgare var surrejanum</hi> with perhaps some others. At any rate as you are I believe an advocate for collecting in the Herbarium specimens of the same plant from various habitats I may be able to help you in that way.</p>
+                        
+                  <p>Will you at your early convenience hand me a list of your desiderata as I propose leaving town shortly for the Severn Sea to lay in a fresh stock of <hi rend="underline">Allium ampeloprasum</hi>  &amp; <hi rend="underline">Adiantum capillus-veneris</hi> . After that excursion I shall go into Cheshire where the greater part of my Herbarium is &amp; shall then be glad to send you anything you may be in want of.</p>
+                  <p>I happen to have specimens of <hi rend="underline">Asplenium septentrionale</hi> in town so could send them at once if you would point out any channels.</p>
+                        
+                  <p>Believe me to be with great respect</p>
+                  <p>Dear Sir | Yours very truly | W Christy Jr</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_47.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-47">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Wilson   17 April 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Warrington Library Archive</repository>
+                    <collection>Wilson Letters H-O</collection>
+                    <idno>Ms 53</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1827-04-17">17 April 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_22.xml">Wilson, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        <change when="2020-08-10" type="footnotes" status="released">Footnotes cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>17 April 1827</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I take the liberty of addressing you on the part of D <hi rend="superscript">r</hi> Hooker Professor of Botany at Glasgow, who would feel much obliged if you could send him some specimens of Woodsia ilvensis &amp; hyperborea, &amp; Anthericum serotinum– He bids me say that he shall be happy to make any return of the same sort that may be in his power– He informs me that he [is] about to publish your Mespilus Cotoneaster (which I sent him) in the forthcoming N <hi rend="superscript">o.</hi> of the Flora Londinensis– &amp; perhaps he would like to have a full account from you of the circumstances &amp; places where it is found– I Have told him that you think of visiting Scotland this summer and said that I should request you to call upon him– So that you may consider yourself as introduced if you should feel disposed to make his acquaintance– I have collated the specimens you sent me as far as Hexandria with my own herbarium, &amp; find a great many among them which I have picked out to add to my own stock– I feel very much gratified by the several observations you have made <del>&amp; [<hi rend="underline">three letters illeg</hi>]</del> which in general appear to me to be very just– I have lately satisfied myself that Linnaeus was correct in making Primula veris, elatior &amp; vulgaris but one species– I find that a Cowslip planted in a shady part of the garden &amp; well watered has in 2 years so far altered its character as to have both compound &amp; single flowered stems, a broad flat corolla &amp; no <hi rend="underline">pinching</hi> about the middle of the leaf.– This fact makes me doubtful of the accuracy of some other species. Ex. gr. Viola hirta &amp; odorata, if not mere varieties? I have been preparing 70 large drawings on Elephant folio for my lectures lately which commence in a fortnight– This has kept me pretty much at home, but I contrived to get to the hills yesterday &amp; fill a large vasculum with Anemone pulsatilla which is just now in full perfection–</p>
+                  <p>Yrs. most truly | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+      
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_609.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-609">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns Sep 24 1849</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 209</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1849-09-24">Sept 24 1849</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swaffh. Bulb.</placeName>
+                    <date>Sept. 24</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have just looked at Ann. des Sci., &amp; find that the only plates which accompanied the Botanical No. for March were 7 &amp; 8, both which I presume you have got. I feel certain that that none others came which have not been forwarded to you. When I am next in Cambridge, I will instruct Macmillan about sending the nos. in future to the Phil. Soc. addressed to you, where they may await your orders &amp; you will then take care of my share till I return.—</p>
+                  <p>No time is yet fixed for our moving to the I. of Wight, nor can be, till I get a Curate,— of whom no tidings whatever at present.— A D <hi rend="superscript">r</hi> Martin has just published a very nice little work (as it appears to me at first sight) on the Climate &amp; Nat. Hist. of the Undercliff, which I have procured, to take with me;— do you know anything of <del>you</del> him? He is a practicing physician, a medical man, in that neighbourhood. I shall be glad of a letter to D <hi rend="superscript">r</hi> Bromfield, whom I know by name, though I never met him;— but he resides at Ryde, not at Ventnor, so I shall scarcely see much of him.—</p>
+                  <p>So the next meeting of the Brit. Assoc. is for Edinburgh, &amp; the next after that for Ipswich; — then you will be in your glory, with all the Ipswich young men around you.</p>
+                  <p>I am sorry to say that, amid all my cares &amp; things to attend to, I never remembered the specs. of Turf for Kew — but those which served to illustrate the paper I read to our section at Cambridge—were never sent back here, but left at the Society’s house in a box, — &amp; if they are still in existence, which I will inquire after when next there— they may all go as they are to Sir W. Hooker—</p>
+                  <p>Some time back, a small species of Wasp, the exact name of I don’t know, built its nest against the roof of my dog kennel, obliging the dog to lye outside, &amp; who nevertheless got stung in the foot; about the size of an orange;— the insect is very like the V. vulgaris, but much smaller, &amp; is certainly distinct from what I have got named (by M <hi rend="superscript">r</hi> Smith the best authority in these groups) as the V. holsatica, but I have not time to attend to it now. I have the nest &amp; species of wasp. but it was much broken by my man who took it down prematurely, misunderstanding my orders.—</p>
+                  <p>Jane has sent a note to Harriet saying that I believe I shall take her to Brighton next week, &amp; then return here alone, till I can get a curate. With my best love to her,</p>
+                  <p>Yours affly | L. Jenyns—</p>
+                  <p>P.S. My Rheumatism is still very indifferent, &amp; obliges me to keep the house; I made it worse by doing duty yesterday.—</p>
+                  <p>Date of letter inferred from the date of the next Edinburgh meeting of the British Association </p>
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

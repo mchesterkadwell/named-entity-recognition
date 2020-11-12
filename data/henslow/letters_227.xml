@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_227.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-227">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Edward Charlesworth   27 December 1844</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>British Library</repository>
+                    <idno>Add. 35230: 93-97 [ALS 9 pp]</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_123.xml">Charlesworth, Edward</persName>
+                <date when="1844-12-27">27 December 1844</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Museum, York</placeName>
+                    <date>27 December 1844</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Enclosed is a fragment of the Cachalots tooth found by Mr Brown of Stanway at Felixstow, and of which he some time since permitted me to take a slice– Perhaps you may recollect my reference to this tooth upon the occasion of your paper being read at the Geological Society, and my remark that Prof. Owen had erroneously supposed it to have come from the Diluvia of Essex. – In making this observation I was certainly rendering him a service because a whale's tooth from [illeg] was of far greater interest than the discovery of one in gravel. My statement however was met with a flat contradiction by Owen immediately getting up &amp; asserting in the most unqualified manner that the tooth in question had the 'recent character' of Mammalian bones found in the gravel. This assertion of his was one of those reckless violations of truth which he never scruples to have recourse to when it suits his purpose, for so completely mineralised was this tooth that when first submitted to his examination he returned it to Mr Brown with an opinion that it was a <hi rend="underline">stalactite</hi> and to Mr Bowerbank &amp; not to Prof.Owen (as I have erroniously supposed) was due the determination of its being organic. I wrote the morning following the reading of your paper to Mr Brown telling him what has occured &amp; begging the loan of the fossil to prove my position - Owen calculating that I should do this also wrote making the same request but not mentioning what had happened or even asking Mr Brown whether he (Pr O), had been right or wrong in publishing this tooth as found the Essex Gravel. Owen's object was plainly enough that of keeping the fossil 6 or 12 months in his possession until everybody has forgotten what <hi rend="underline">he</hi> or <hi rend="underline">I</hi> had stated with regard to it. As it happened however the tooth came to <hi rend="underline">me</hi> &amp; I forwith sent it for the inspection of the Council along with a notice which was read at the next Meeting, Owen of course <hi rend="underline">himself</hi>. I am told Mr Warburton made a special reference to this circumstance in his annual address, but what he said I have not yet seen as the address is not [illeg illeg] in print - I do not place this matter before you for the sake of attempting to bring down Owen in your estimation but as a mtter of self defence, because it strongly bears upon the old question between us. I thought on that occasion the evidence was so clear as to the fact Owen's regulating his assertions according to circumstances but it was impossible for anyone with the facts before them to avoid coming to that conclusion. The history of the case however did not leave <hi rend="underline">you</hi> to take this view of the matter, and as most assuredly the veracity of one party or the other was deaply compromised in that business, I do not like to let the whale's tooth affair pass by altogether unnoticed.</p>
+                    <p>Pray add the fragment of thus unique fossil to your cabinet if it be worth placing there. I fully intended long since to have written to you on the subject, but many other matters have arisen to engage my thoughts. Just now I am in a most agreeable birth here. Possibly you may have heard of the noble legacy lately bequeathed to the York Museum namely £10000 &amp; the election of a permanent officer at the head of the Institution was one of the results.The salary is not large £150 per An. without residence but then I am only called upon to give up 20 hours a week to the duties of my office. We have a beautiful building with the small nucleus of a splendid collection, and altogether I don't know where else I could have found a post so suited to my taste &amp; inclinations. </p>
+                    <p>We had a great treat in the meeting of the Brit Association which everyone seem to think went off with great eclat. Owen &amp; I as usual fell out upon the subject of teeth - I ought to tell you bye the bye that the <hi rend="underline">Manchester Meeting</hi> teeth appear in the annual report of the Association as those of a <hi rend="underline">Roebuck</hi> !! not an <hi rend="underline">Anoplotherium</hi>. The  <hi rend="underline">'essential characters'</hi> which proved that the teeth were the teeth from Bacton could not by any possibility have belonged to a Ruminant &amp; which were so strongly insisted upon at Manchester vanished while the details were going through the press, appropriated I can only suppose by the Printers Devil for history affords us no solution of the problem. Now the <hi rend="underline">York</hi> meeting teeth are alleged to those of seals on my side &amp; positively asserted to be no such thing by Prof. Owen. The <hi rend="underline">Birmingham</hi> Meeting teeth with which the affray began were those of monkeys &amp; opposums &amp; having had the best of this dental warfare &amp; I really am beginning to feel myself quite learned on the subject &amp; you must not be astonished if one of these days you see a small volume make its appearance entitled 'Elements of Odontology' &amp; dedicated without permission to Richard Owen Esq, Hunterian Prof. of Com. Anaty &amp; c.&amp;. As I am upon the subject of teeth I must tell you what a curious discovery I made a short time since with regard to some teeth of Mososaurus - I have in my possession the only known portion of Mososaurus jaw from the English chalk, and after its remaining in my hands 10 years I discovered a few months since that the pulp cavities of the teeth are filled with black-flint, with no silicification whatever of the teeth themselves or the osseous substance of the jaw, and with no means for the fluid to have entered by infiltration or a precipitate from a solution. When Bowerbanks celebrated <hi rend="underline">sponge</hi> hypothesis was discussed at the Geological Society I stood alone in maintaining that his theory was untenable, and the objections to it which I so strongly urged on that occasion were thought by many frivolous &amp; vexatious, and attributed I doubt not to my fondness for controversy. On discovering the flint under the circumstances named, I immediately sent it to Bowerbank, not telling him where I had found it but begging he would examine it very carefully &amp; report to me as to the absence or presence of spongeous structure. He wrote me word in reply that it agreed with all other chalk-flints in its spongeous structure. Nothing could be more satisfactory than this. It proved to me what I had all alone contended for, that what he called spongeous structure was in face inorganic. I have eluded to that curious appearance which Bowerbank figures in the Geol. Trans. as the mouths of projecting tubuli on the surface of flints. [SKETCH OF TEETH AND JAW] I am going to publish a paper giving the details but this sketch will give you an idea of the position of the flint in pulp cavities. b. Black flint partly filling a, &amp; extending downwards into the jaw.</p> 
+ 
+                    
+                  <p>Trusting that yourself &amp; family are well</p>
+                  <p>I remain Dear Sir</p>
+                  <p>Very faithfully yours</p>
+                  <p>Edw. Charlesworth</p>                
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

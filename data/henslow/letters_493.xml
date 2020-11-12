@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_493.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-493">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William B. Carpenter   27 December 1857</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 66 &amp; 66(ii) &amp; 66(iii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_146.xml">Carpenter, William B.</persName>
+                <date when="1857-12-27">27 December 1857</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>6 Regents Park Terrace | London</placeName>
+                    <date>27 December 1857</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am very sorry that my delay in replying to your former letters should have led you to fear that I could for a moment regard you either as encroaching on the part of the Museum, or as presumptuous in venturing to criticize my book; for you are one of the last men in the world whom I could think of <del>u</del> under either of these aspects. The fact has been simply that I have been too busy to reply as I could wish, and have therefore postponed writing from day to day, in hope of sending you something worthy of transmission. The middle of December is always a very busy time with me; for the Medical Quarterly which I edit has to be out of my hands by Xmas day, and in the last fortnight there is always much to do— This is why I have never been able to attend one of the Ipswich anniversaries, in spite of the many kind invitations I have received from my friend Ransome[.] Moreover I am hard at work on present upon <del>the</del> a new Edit. <hi rend="superscript">n</hi> of my Human Physiology, which I am desirous to bring up to the mark as much as possible; and to this at present I am obliged to give all the time that I can spare from other matters. When I tell you that my work just now begins at 6½ A.M. and does not finish until my eyes refuse to keep open at night, you will understand that there is a little excuse for my delay in not answering letters not immediately pressing. Within a day or two after receiving yours, however, I had sent to the Printers to know if they had any waste <del>f</del> remaining from my Physiology— I had not kept the Proof Sheets, and these would have been of no use to your purpose, since the cuts in them are nothing else than blotches. A few days since Bentley sent me up a complete copy, made up from this waste; and it seemed to me a pity to cut up this,— more especially as I shall want a copy in sheets whenever my work<del>e</del> 
+                     <del>requires</del> goes on to a new Edition. I shall write again to get all I can; and will let you have it forthwith. I have however, a spare copy of Milne Edward’s small books on Physiology &amp; Zoology; and I will send you these, if <del>I</del> you have not already got them. Many of the cuts in that book were employed for my Physiology, as the Publisher was anxious to <del>get</del> have his Illustrations as numerous and at the same time as cheap as possible. He spent £250 however in new Engravings. It would not be possible to get impressions of these cuts otherwise than in the sheets, without a very large expense; as the adjustments required to print them off (which with fine work, are very tedious) would be just as tedious for a couple of copies as for 1000. But I will do my best to get you the sheets of a large part of the book.</p>
+                  <p>Now in reply to your friendly offer of corrections &amp;c, I have only to say that I shall be most particularly obliged by any remarks that you may be kind enough to send me, —not merely as corrections of errors in the press, —but also as corrections of facts that may be erroneously stated, or criticizing upon doctrines which I have advanced. I am far too much of a lover of truth, to feel hurt at being told that I am wrong, by any one whose knowledge or opinion I respect; and when the correction is supplied in the kindly spirit in which you would administer it, there is to me nothing but pleasure in thus getting nearer the truth. For it would be most absurd &amp; presumptuous in me to suppose that I can be right in a vast variety of points which I have not personally examined; and nobody could reasonably expect that a treatise extending over so wide a range could be the product of personal examination throughout.</p>
+                  <p>I have been asked by so many readers of the Treatise, why I did not make two volumes of it, that I intend, if this edition should sell off in the course of a year or more, to divide the Natural History from the Physiology, —taking the chapters which give a General View of the Animal &amp; Vegetable Kingdoms and expanding them into a <del>complete</del> distinct work, which will, I should hope, be useful to Scientific Naturalists, and would leave the Physiology of a more convenient size. In this case, I shall <del>ha</del>make a point of having an illustration of every important type in both Kingdoms.</p>
+                  <p>It occurs to me to ask you if you have seen a French Treatise on Cryptogamic Botany by Payer. This contains a<del>n</del> profusion of most beautiful woodcuts, and at a very moderate expense. His classification, I observe, differs a good deal from those in vogue among us; but it seems to me quite in vain to expect to establish a philosophical classification of the Cryptogamea until their Reproduction is thoroughly understood; and all that we are <del>p</del> now beginning to know upon the subject serves but to show how little we have hitherto known. You have probably heard that Hoffmeister has been extending Count Lumenski’s observations into other classes; and that Duret &amp; Decaisne have lately done much more upon the Alga. This is a subject upon which I should have been delighted to work, if my literary occupations had <del>given</del> left me leisure to do so. At present I can only snatch an hour now &amp; then to study a group of Australian Foramenifera that throws a great deal of light upon the gigantic fossil types of this class; on this I hope to be able to send a paper to the Royal Society before the end of the season, as I have a large number of Drawings in progress.</p>
+                  <p>I am quite ashamed of having neglected your specimens; but from what I have told you, I think you will be inclined to judge leniently &amp; not believe me willingly neglectful of your desire for information. I hope to be able to hunt them up, but I will not take upon me to say positively that I can find them, since I have changed houses since you committed them to my possession. I shall be very sorry if they have disappeared, but did not understand that you set much value upon them. As I now forget what you told me about them, anything that I can make out of their structure will have the value of an entirely independent observation.</p>
+                  <p>If you will favour me with a line about Milne Edward’s books, I will forward to you at once whatever I can get. Shall I address them to the Ipswich Museum, or to Hitcham?</p>
+                  <p>With the best wishes of the season, believe me to be, Dear Sir</p>
+                  <p>yours faithfully | William B Carpenter</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

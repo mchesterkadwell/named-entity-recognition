@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_149.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-149">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Wilson   10 February 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 180</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_22.xml">Wilson, William</persName>
+                <date when="1831-02-10">10 February 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Paddington n.r Warrington</placeName>
+                    <date>10 February 1831</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Estimating, as you do, your <del>own</del> feelings by my own, I do not so much wonder at the anxiety you manifest not to be wanting in your endeavours to make corresponding returns to your botanical contributors, but indeed I did not think that I had succeeded in thus overburthening you– I am glad however that you do not find me on the wrong side; especially as the correspondence between us was of my own seeking– With regard to your botanical favours I need not remind you that I have always been disposed to view them as a free gift; not as a requital: let me therefore beg you to consult your own convenience in imparting them– Since our acquaintance began, my views have indeed been considerably extended, and the indifference which I then felt as to receiving dried specimens, is now removed– I am willing now to know a plant <del>by</del> 
+                     <add>in</add> a dried state, without first going to gather it myself –</p>
+                  <p>The packet of dried plants just received <add>from you</add> (for I only returned home last week) did not need to be accompanied by an apology for not being more extensive– I am much gratified with its contents– Perhaps you may have opportunity to gather me two or three good specimens of Thesium linophyllum– I have only one in a flowering state, and that such an one as you yourself thought very inferior– It came in your first parcel– As it is a small plant &amp; grows near you, I may venture to ask for more than one, and I like to supply &amp; be supplied plentifully, when it can be done without much extra labour. Many an erroneous description in botanical works, might be traced to a servile attention to a solitary &amp; inadequate specimen– Who can pretend to describe the Rubi or Rosae in this way? – Were duplicate specimens to be cut &amp; dried, tho’ from the same bush, and a single one given to each of two botanists, who should not communicate together; a strange confusion would appear on comparison of their specific characters– would not this be a good test of the value of those distinctions which are at present admitted? –</p>
+                  <p>Your parcel fell into the hands of a Major Wilson, resident near Warrington, calling himself a Gentleman &amp; a Soldier– He was (when the parcel arrived in Warrington) absent on business near Sheffield &amp; my parcel, tho’ plainly directed, was forwarded to him, by his orders, as one which he was expecting to receive– He opened &amp; kept it till his return to Warrington &amp; modestly required, before giving it up, to have repaid to him the money laid out for its carriage from Warrington to Sheffield! – At length he was induced to replace it in the coach office, but still with the same demand &amp; accompanied by a note to me in which he gives himself credit for having done “ a good natured act” by bringing it to Warrington, gratis, &amp; keeping it by him till then– Was there ever such another narrow minded Gentleman; or, if there was – any Gentleman who would so candidly proclaim his own disgrace? – Of course I got the parcel without paying the additional charge, but also without any apology for its detention– Had you not better address in future, M. <hi rend="superscript">r</hi> W. Wilson? – for the Major seems to think there should be no Esquires near Warrington but himself of that name; and in truth I think he is right– proceri cedunt majori–</p>
+                  <p>You have sent me Rosa systyla marked R. Forsteri– I believe I have sent you specimens, rightly named, of R. Forsteri, and do not know whether your misnomer be inadvertently or deliberately committed; but I find it repeated in M. <hi rend="superscript">r</hi> Roberts’ parcel, which was opened last week by Mr Roberts who spent a night at our house– The mistake therefore, being liable to be repeated in other instances, cannot be too soon corrected–</p>
+                  <p>I have a few good things to send you; but they are not enough for a parcel: such as Elatine Hydropiper &amp; hexandra– Hypnum blandina in fruit &amp; Dicranum squarrosum also in fruit– I have Gymnostomum wilsoni now in cultivation, and it is likely soon to cover a great Space; for it extends rapidly by the roots, and appears to be of perennial growth– It was planted between Bricks, in March last, &amp; now, on my return, I find a thick harvest of capsules, just ripened &amp; the lids mostly fallen off: its characters apparently unaltered: but this you will say proves nothing, &amp; I only admit it as negative evidence against the assertion of any who would say cultivation might reduce it to the form of G. truncatulum: but as it is difficult to suppose hybrid mosses to exist, we must reason from different data than those on which you would explain ( &amp; I think with good reason) the transition of phenogamous plants out of one form into another– I am sorry that my pursuits and enjoyments do not permit me to cooperate with you in experiments relating to this enquiry–</p>
+                  <p>M <hi rend="superscript">r</hi> Roberts joins me in kind remembrance to you &amp; good wishes– I shall be happy to hear from you at all times–</p>
+                  <p>Believe me | Rev. <hi rend="superscript">d</hi> &amp; dear Sir | very truly yours | W. Wilson</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_476.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-476">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Horner   10 May 1857</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 171</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_131.xml">Horner, Leonard</persName>
+                <date when="1857-05-10">10 May 1857</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Rivermede | Hampden Wick | Midx</placeName>
+                    <date>10 May 1857</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I met M <hi rend="superscript">r</hi> Bentham at the Athenaeum yesterday, and was glad to hear from him the favourable result of the interview Sir W<hi rend="superscript">m</hi> &amp; Dr H. had with M <hi rend="superscript">r</hi> Phillips on Wednesday, a further account of which I got from Dr H. himself who dined with us yesterday. So far everything is encouraging. M <hi rend="superscript">r</hi> Phillips said that the Memorial proposed would be very useful, &amp; that the sooner it is sent the better. At my request M <hi rend="superscript">r</hi> Bentham undertook to make a draft of such an one as he thought would do, &amp; he sent it to me last night. I think it is very good. We are to meet on Monday at the Athenaeum to confer further on the subject, and I have asked Lyell to join us, &amp; am going to ask Forbes– Lyell thinks that besides the Botanists, there should be the testimony of others to the services J. Hooker has rendered to Natural History, Paleontology &amp; Physical Geography, &amp; we put down about 20 names in all, which considering their work in science, at least as regards the large majority of them; would do.—What do you say as to your signature being attached? To set against the great botanical weight, there is the relationship. Lindley I have seen, &amp; he will join cordially—Brown I have spoken to, indirectly, &amp; found him most kindly disposed to J. Hooker.</p>
+                  <p>Many thanks for the copy of the sketch of your Typical series. What you have already sketched is excellent, but it is no inconsiderable an undertaking. I will do what I can to supply specimens.</p>
+                  <p>I think J.H. has been far from being well and by De La Beche-- Had I known what H. told me yesterday evening, I would not have done D <hi rend="superscript">r</hi> W. B. the honour to speak about the movement in H’s favour as I did yesterday. However I must in justice say that he expressed a great desire to serve him; a consciousness perhaps that he had something to repair—</p>
+                  <p>On account of M <hi rend="superscript">rs</hi> Henry Lyell’s departure for India some time in the first week of July, it will not be possible for M <hi rend="superscript">rs</hi> Horner or any of my daughters to go to Ipswich, but I intend to go &amp; remain at all events from the Wednesday to the Saturday—</p>
+                  <p>My kind regards to M <hi rend="superscript">rs</hi> Henslow &amp; all at the Rectory--</p>
+                  <p>Ever faithfully your’s | Leonard Horner</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

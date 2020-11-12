@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_29.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-29">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From George Thackeray  1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Bath Royal Literary and Scientific Institution</repository>
+                    <collection>Jenyns Collection</collection>
+                    <idno>Letter 1015</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_21.xml">Thackeray, George</persName>
+                <date notBefore="1826-01-01" notAfter="1826-12-31">1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>1826</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I think Mr Jenyns' Observations on the Ornithology of Cambridgeshire well worthy of being printed.</p>
+                  <p>As you have requested me to make any remarks that may occur to me, I take the liberty of mentioning a few things which have struck me during the hasty perusal which I have been able to give to his observations.</p>
+                  <p>Under the head Insectivori the Cinercon[?] shrike is said to have been shot at Melbourne. This is a mistake – it was found recently killed probably by a hawk. Would it not be advisable to state that this bird feeds on birds and mice as well as insects. It swallows small birds and mice entire.</p>
+                  <p>The accentor alpinus was not shot in my garden but in the open space immediately under the last window of the Chapel.</p>
+                  <p>The Boarula[?] often appears in Octr: or earlier on our lawn and in the field on the other side the river.</p>
+                  <p>I have known 3 or four Martins stay about the South side of Clare Hall till the 18th of Novr.</p>
+                  <p>I have seen a single swift for many successive days about our chapel during the early part of Septr. I do not know if it be worth recording that a considerable number of a Covey of partridges bred in the neighbourhood of Clay high [?] were perfectly white.</p>
+                  <p>A Stone curlew in its first feathers was brought to me alive about two years ago which I was told was bred very near Cambridge.</p>
+                  <p>The Crane used to breed in England. Turner page 48. says apud Anglos etiam nidulantur grues in locis palustribus et eorum (vipiones) – young cranes – saepissime vidi. He does not mention the Cambridge fens, but probably alludes to them, As for what he says respecting the siskin he was acquainted with the country about Cambridge.</p>
+                  <p>I have known five or six whimbrels offered for sale at Cambridge.</p>
+                  <p>A solitary snipe also was brought to market some time since, but was too much mutilated by shot to be fit for stuffing.</p>
+                  <p>The Gallinula Baillonii was caught alive at Melbourne [?].</p>
+                  <p>I have been informed by a person who frequents the market that the coot is often sold in the Cambridge market.</p>
+                  <p>Anser ferns [?].</p>
+                  <p>A. Segetum [?]</p>
+                  <p>A. albifrons</p>
+                  <p>A. Bernicla [ ?]</p>
+                  <p>As far as my experience extends I cannot agree in the frequent appearance of most of these birds in the Cambridge market. More than ninety in a hundred which are sold there I believe to be Bean Geese. I have not yet been able to purchase the Anser ferus [?]. I have not known the albifrons to have been sold there above two or three times nor have I been able to procure from thence either a Brent Goose or a Barnacle both of which are not uncommon in the London markets at some season.</p>
+                  <p>Anas Strepera Gadwall [?) I find by a note in my Montagu that two of these birds were offered for sale in Cambridge market, Feb. 25 1824.</p>
+                  <p>Anas Iadorna [?] Sheldrake not uncommon.</p>
+                  <p>I procured only the male [?] on April 1st at Cambridge. I do not know where the female was killed. I have been told that it is not unusual for Cormorants to follow the course of rivers to [damage] great distance from the sea. The Shag never [damage] very rarely quits the Coast.</p>
+                  <p>Is not the Sea pie [?] found in Cambridgeshire?</p>
+                  <p>Believe me, Dear Sir | yrs very sincerely | G Thackeray</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

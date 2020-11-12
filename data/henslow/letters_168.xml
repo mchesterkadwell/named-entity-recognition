@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_168.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-168">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Curtis   29 April 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 207</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_7.xml">Curtis, John</persName>
+                <date when="1831-04-29">29 April 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>4. Gr. Pl.</placeName>
+                    <date>29 April 1831</date>
+                    <salute>Dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Having received the two Vols of Meigan I think it best to forward them to you, believeing that M. <hi rend="superscript">r</hi> Jenyns is desirous of having his</p>
+                  <p>I was much obliged by the Plants you sent both of which I drew, the insects also were very acceptable. As I leave town the end of May I know I <del>shall</del> shall not see you &amp; I beg you will not send any Plants at that time nor during June</p>
+                  <p>Give my best remembrances to your Brother &amp; Mr Sulivan</p>
+                  <p>&amp; believe me in haste | yours most truly | J. Curtis</p>
+                  <p>The 2 vols of Meigen are at 16s 1. 12. 0</p>
+                  <p>&amp; the 31 <hi rend="superscript">st</hi> May 1828 the 7. <hi rend="superscript">th</hi> part of 11.6</p>
+                  <p>Sturm’s Deuts Faun.</p>
+                  <p>2. 3. 6</p>
+                  <p>[In J.S.H. handwriting: ‘P <hi rend="superscript">d</hi> thro’ Stevens’]</p>
+                  <p>Be so good as to let M. <hi rend="superscript">r</hi> Babington have the enclosed in a few days</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

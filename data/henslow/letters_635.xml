@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_635.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-635">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Scott Bowerbank   27 September 1852</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 8</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_242.xml">Bowerbank, James Scott</persName>
+                <date when="1852-09-27">27 September 1852</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Asks JSH about the situation regarding George Ransome, the first Honorary Secretary of the Ipswich Museum. Under his tenure, which ended in 1852, the Museum got into debt and Ransome failed to keep others informed. As President, JSH was obliged seek Ransome’s resignation and subsequently the Museum was financially supported by the Ipswich Corporation.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>3 Highbury Grove</placeName>
+                    <date>27 September 1852</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have just returned from Ireland where I had conversation on Geo Ransome affair with Forbes and from what he says I have some hope that the imputation may yet be removed from his character. I most ardently wish it may be so. I have not heard from him or of him since the receipt of your note, but he has scarcely been absent from my mind since that period &amp; I am most anxious to know what further has transpired &amp; whether any thing favourable has turned up. Pray write me a few lines at your convenience. I wish I could aid him in any manner but I confess I do not see how I could. He has moral influence &amp; worldy wisdom enough in Ipswich if that would do it</p>
+                  <p>I cannot bring myself to believe that he is guilty of that which he has been charged but I fear that in trying to escape from lesser evils he has fallen into the advance of the greater one &amp; has so entangled himself as to render his release difficult but I hope not hopeless.</p>
+                  <p>You will I am sure excuse my thus troubling you but I cannot help feeling deep regret &amp; much anxiety regarding this painful affair</p>
+                  <p>I remain | My Dear Sir | yours most truly | J. S. Bowerbank</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

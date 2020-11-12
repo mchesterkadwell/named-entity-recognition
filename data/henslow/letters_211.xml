@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_211.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-211">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Whewell   30 October 1840</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord  fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell Add.Ms.a.206: 65</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1840-10-30">30 October 1840</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Bildeston Suffolk</placeName>
+                    <date>30 October 1840</date>
+                    <salute>My dear Whewell</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>On receiving L <hi rend="superscript">d</hi> Lyttleton's circular 3 or 4 days ago, I wrote to the Chairman (not knowing who he might be) to say that I would come, if wanted. I had engaged to go to Berkshire on Monday the 9 <hi rend="superscript">th</hi> – but if I came to Cambridge that day &amp; vote early on the 10 <hi rend="superscript">th</hi> – I can get in to town before night &amp; so off by the morning Train to Berkshire on Wednesday, which will do just as well– If I can't vote on Tuesday, I must give up my Berkshire trip, but from your letter I suppose I can– Crick's circular is nothing more nor less than what I should be ashamed to call it– &amp; if it is a type of Johnian morality, I feel that our College is at a low ebb indeed– I am glad to find that some of the best names are  you, &amp; give so flat a contradiction to M <hi rend="superscript">r</hi> Crick's manifesto– I should like to hear precisely when the voting begins on the 10 <hi rend="superscript">th</hi>, that I may arrange how I am to get to London– I think Nov. 30  suit me best for the Phil. Soc–but I can't feel quite sure as I have to go to London on the 20 <hi rend="superscript">th </hi>–</p>
+                  <p>Ever truly | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

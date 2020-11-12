@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_674.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-674">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From E. H. Bunbury   10 July 1857</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 47 &amp; 47(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_252.xml">Bunbury, E. H.</persName>
+                <date when="1857-07-10">10 July 1857</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>6 Adelphi Terrace</placeName>
+                    <date>10 July 1857</date>
+                    <salute>My dear Prof <hi rend="superscript">r</hi> Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I enclose you a printed paper containing some propositions of a general kind, which have been submitted by the Cambridge Univ <hi rend="superscript">y</hi> Comiss <hi rend="superscript">rs</hi> to the different Colleges that have sent them up proposals for revising their statutes, on which I should like much to hear your opinion, if you have time to consider them— The Commiss <hi rend="superscript">rs</hi> have not (as I dare say you are aware) the power under their Act of originating measures of reform or changes in the Colleges until next year: but finding that several of the Colleges (five in all) have sent them up schemes for the revision of their Statutes, &amp; that many of the most important questions would arise in every case, they have come to an understanding among themselves as to these points of general principle &amp; drawn them up in the form which I now send you for the consideration of the several Colleges. By this means they hope to have the opportunity of fighting the battle with those who are opposed to them once for all, instead of in every individual case: while they hope in some degree to elicit the general opinion of the University upon the proposed changes, several of which are undoubtedly of great magnitude &amp; will probably give rise to much diversity of opinion. The Comm <hi rend="superscript">rs</hi> do not feel themselves at Liberty to publish them officially to the University at large, but they have of course no objection to their being known as widely as possible. And as I know that you take a strong interest in everything connected with the reform of the University, I send you these propositions.</p>
+                  <p>From a correspondence I have had with Mr Potts in regard to a Memorial against celibacy of Fellows, I find that some of the suggestions, especially that for making all Fellowships limited in duration, or at least making the limited tenure the rule, &amp; the permanence the exception, have been already a good deal mooted &amp; canvassed, &amp; will not take people as much by surprize as I was afraid would be the case. My own feeling is strongly in favour of this scheme; but perhaps it is one likely to find favour especially with ex. Fellows of Trinity, to whom, if laymen, the rule has always applied, &amp; certainly in my opinion has worked well.</p>
+                  <p>Believe me | yrs vy truly | E H Bunbury</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1127">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Unknown July 1859</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>American Philosophical Society</repository>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date notBefore="1859-07-01" notAfter="1859-07-31">July 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_289.xml">Unknown</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham Bildeston Suffolk</placeName>
+                        <date>July 1859</date>
+                        <salute>My dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>Will you be so good as to correct an omission in the Hitcham List. Above chenopodianths should be inserted</p>
+                        <p>Sect. 4. Incomplete</p>
+                        <p>which escaped notice in looking over the proof.</p>
+                        <p>Bentham expressly intended his book for beginners, &amp; others who are not likely to become profound in Botany. I have become so thoroughly satisfied of the great advantage of introducing Botany into Village School - that I devote every Monday to the subject - &amp; I think if you were some day to favour me with a visit you would see at once how useful it can be made. I will send by this post a document or two which will show you the manner in which attempt to <hi rend="underline">work it</hi> in with other subjects. On Tuesday (if fine) all hands (about 3 doz. volunteers) will turn into our wood, &amp; thoroughly search it. If every Village in England had a battery of sharp eyes what an accumulation to be digested for the Cybele! You would find it difficult to puzzle my chief pupil Teacher in regard to the name &amp; classification of a Hitcham species - &amp; she would tell you the Order of most of our common garden plants - in to the bargain. It is in School work that I expect Bentham's book will ultimately prove most useful. But when shall we have School work in Botany?</p>
+                        <p>We had a famous day for our Hort. Show on Wednesday. The produce better than I ever saw it before. It has been continually improving. Nearly 300 of the peasants sat down to tea &amp; more peaceable &amp; well behaved set it is hardly possible to meet with.</p>
+                        <p>Yrs very truly</p>
+                        <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

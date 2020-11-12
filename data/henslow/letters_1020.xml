@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1020">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Jardine 10 February 1836</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>American Philosophical Society Library</repository>
+                    <idno>Mss.B.H382</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_199.xml">Jardine, William</persName>
+                <date when="1836-02-10">10 February 1836</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Jardine Hall</placeName>
+                    <date>10th Feby 1836</date>
+                    <salute>My Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                  <p>I have yours of the 8th and beg to return our acknowledgements for the interest you have expressed &amp; shown in our proposed undertaking. I was fully aware of the difficulty of making up such reports as we thought would have been proper even for the byegone year, but at the same time we thought that if you &amp; Mr Jenyns could from your studies otherwise have gone into the subject that it would have been valuable to our coming nos. the time we could not well extend, but if we are spared to see another year &amp; the magazine prospers we shall certainly apply for the summary of 1836, and perhaps as you see the progress of our work you will keep in mind that we shall be depending upon you.</p>
+                  <p>I am much obliged by your meeting Mr Berkely. May we depend for an immediate communication from him. Shall I be right in offering remuneration for his papers? I should not like to offend by doing so &amp; I should not <hi rend="underline">like</hi> to <hi rend="underline">lose</hi> them by <hi rend="underline">not</hi> doing so. I have taken the liberty to write a few lines to him without meeting this post &amp; you will perhaps be so kind as to mention how I should act here. Our Estimates were made out at the rate £8 per sheet for orig. communications. Somewhat less for several where extract from the works come in, &amp; for papers we know to be laborious we proposed £10. I merely state this that you may clearly understand us, at the same time a pound or two would be no object where we could depend on the worth of our contribution. You must also excuse my going into this for I am not so well aware how authors or contributors to Journals take these matters in England. On this side the Tweed the discussion till recently is attended with more <hi rend="underline">shyness</hi> &amp; I have once or twice nearly offended by making a money proposal.</p>
+                  <p>I am obliged by your mentioning Dr Hooker but from his connection with the <hi rend="underline">Companion to the Botanical Magazine</hi> he cannot in fairness to Mr Curtis give us the use of material which comes into it - otherwise he is most friendly  &amp; if anything should <hi rend="underline">happen</hi> to the <hi rend="underline">Companion</hi> which has now proceeded to six or seven numbers I believe we should receive all his botanical assistance, his Zool. correspondence &amp; assistance he has promised.</p>
+                  <p>We shall now trust to you for the prac. Zool. &amp; Bot. of the <hi rend="underline">Phil.</hi> Soc. and will still also hope that we may be favoured with some other communication ere very long.</p>
+                  <p>With my best wishes believe me truly yours</p>
+                  <p>Wm Jardine</p>
+                  <p>If I can be of any use in the north in a Zool. or Bot. way to yourself or friends I shall be happy to do my endeavour. Do not give yourself trouble by replying to me immediately, act for us as far as you can &amp; in three weeks I may perhaps expect again to hear from you. At the same time if your business allows I shall always with pleasure receive your letters. Mr Berkely will perhaps write a few lines.</p>
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

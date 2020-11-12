@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_64.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-64">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Leonard Jenyns   6 March 1828</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Bath Royal Literary and Scientific Institution</repository>
+                    <collection>Jenyns Collection</collection>
+                    <idno>Letter 1011</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1828-03-06">6 March 1828</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>6 March 1828</date>
+                    <salute>My dear Leonard,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>You must continue to come over here either on Friday, or Monday next. Mr. Audubon has brought some engravings of his work on American birds, more splendid than you ever beheld – Elephant folio, highly colored, 2 guineas per No. – each No containing 5 plates – Birds natural size – groups of birds and flowers where the subjects are small – 26 yrs in the woods of America – Losing 70 per cent by the publication, from a want of subscriptions – determined to continue it at all risks – subscribers increasing rapidly. The Public library has subscribed – and I hope the Fitzwilliam will.</p>
+                  <p>I have also planned a subscription of 5/– per head per annum for a copy for the Phil. Soc. there being five nos = 10 gns published annually. Of course I shall put your name down. The man is very amiable, very zealous, and deserves to be extensively patronised. The paper for each plate costs him 2/– so that you have engraving and coloring for 6/–. He is to bring his drawings here on Friday evening, and I intend to summon a meeting of the Council on Monday for the purpose of mentioning the subject and one or 2 other things I have to say. Perhaps you wd prefer coming on that day. I have returned a noble copy of the Flora Danica 10 vol. fol. for 10 gns.</p>
+                  <p>Yrs ever sincerely | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

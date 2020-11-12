@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/tei_math.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEST-LETT">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title"></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority></authority>
+            <publisher></publisher>
+            <pubPlace></pubPlace>
+            <idno type="lognum">0</idno>
+            <date when="2020">2020</date>
+        </publicationStmt>
+        <seriesStmt>
+        </seriesStmt>
+
+        <sourceDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+    </profileDesc>
+    <revisionDesc>
+    </revisionDesc>
+    </teiHeader>
+    <facsimile>
+    </facsimile>
+    <text>
+    <body><div type="letter">
+            <div type="text">
+                <opener>
+                </opener>
+                <div type="transcription">
+
+<p>Their correspondence began in 1843 when Hooker, just returned from James Clark Ross's Antarctic expedition, and already an admirer of the older man, was approached about working on Darwin's collection of plants from the Beagle voyage.</p>
+<p>Hooker was a frequent visitor to Darwin at his home in Downe, Kent, and became a great favourite of Darwin's children.</p>
+                </div>
+            </div>
+            <div type="annotations">
+            </div>
+
+        </div><div type="footnotes">
+        </div></body>
+    </text>
+</TEI>

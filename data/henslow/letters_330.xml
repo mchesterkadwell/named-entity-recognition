@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_330.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-330">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Spence   18 August 1847</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 296 &amp; 296(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_165.xml">Spence, William</persName>
+                <date when="1847-08-18">18 August 1847</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Barham</placeName>
+                    <date>18 August 1847</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>M. <hi rend="superscript">r</hi> Kirby &amp; Miss Rodwell &amp; myself were very sorry that we could not have the pleasure of your company to dinner yesterday, &amp; I am equally so that I am prevented accepting your kind invitation to spend a night with you, by being engaged, with my wife, to go to ?? <del>to</del> on a visit to my nephew the Rev. <hi rend="superscript">d</hi> J. Campbell Vicar of Eye, which can’t be put off as M <hi rend="superscript">rs</hi> Campbell expects very soon to be confined.</p>
+                  <p>I regret the more not having the pleasure of seeing you while we are in Suffolk, as I wanted to ask you if the flight of the Bean Aphid, which seems to have been very general about a month ago in the South <del>of</del> &amp; West of England, extended to your parish, &amp; if so, whether it seemed a true infection from a distance like many of those of this tribe, or second, or simply on quitting the Beans to settle on other plants in the immediate neighbourhood; &amp; in either case whether you conceive the object of the movement to have been mainly the search for fresh food, or the deposition of eggs by the winged females of the last generation. If this last were their great object, it would be highly desirable to ascertain where the eggs are placed, as they cannot be <del>placed</del> on the beans on which the larvae to be hatched from them next spring, are to feed. How much we have yet to learn as to this part of the economy of Aphids, seems proved by a fact (if correct) lately ascertained to me by Mr. Walker, who says he has ascertained that the eggs of the Hop Aphis are deposited on the Sloe, from which the first or second brood in Spring migrates to the Hop– “a good hop” as my venerable friend who has happily not lost his relish for a pun, observed when I told him of this. I was surprised to find on looking a little into this matter, previous to a discussion we had on it at the last meeting of the Entomological Society, how vague &amp; imperfect our actions are of the habits &amp; economy &amp; indeed physiology of the Aphids. Even Prof. Owen hardly lays it down in his “Comparative Anatomy” that all the 8 or 9 generations of viviparous females in summer, are wingless, except the last, yet we all see winged females on the Rose from very early in Spring  &amp; I saw a lecture on the subject in the Phil<hi rend="superscript">l</hi> Trans<hi rend="superscript">s</hi> explicitly say that the 2d generation of the species he made his observations on, is winged. I wish M. <hi rend="superscript">r</hi> Jenyns, to whom pray present my best regards when you see him, would turn his attention to this obscure subject. Pray also tell him that in a beam of oak so pierced with insect holes that it has been necessary to remove it from the top of the vestry window in Barham Church, to which Sir W. Middleton drew my attention on Sunday after Service &amp; of which I had a portion brought to W. Kirby’s for examination, I have found one entire, &amp; 3 mutilated specimens of Anobium tessalatum – the same insect of which the larvae attacked the beams of the houses at Brussels I referred to at Oxford &amp; which I have no doubt have been the cause of the mischief in this instance. A Visitor yesterday to whom I showed the honey-combed piece of beam &amp; the insects, said they were trying to pull down M. <hi rend="superscript">r</hi> Kirby’s church to revenge on him in this way, all the destruction he has caused to their home. With M. <hi rend="superscript">r</hi> Kirby’s best regards</p>
+                  <p>I am my dear Sir | yours very truly |W. Spence</p>
+                  <p>[P.S.] The Rev. <hi rend="superscript">d</hi> W. Meadows with whom we dined to-day, took us to a farmer’s near him at Witnesham who completely preserved his Turnips from the Flea by sowing a little before thin strips of mustard which they attack in preference to the Turnips. He has tried the plan several years &amp; says it never fails.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

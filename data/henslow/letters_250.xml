@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_250.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-250">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Leonard Jenyns   22 August 1849</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Bath Royal Literary and Scientific Institution</repository>
+                    <collection>Jenyns Collection</collection>
+                    <idno>Letter 3023</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1849-08-22">22 August 1849</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>H.H.S.</placeName>
+                    <date>22 August 1849</date>
+                    <salute>My dear Leonard,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I left your books in Cambridge last week on my way thro' and was about to let you know the fact – Melittis melissophyllum is the only species of Melittis, of which<hi rend="underline"> grandiflora is </hi>a variety, but this is not your plant, which is not a British plant.</p>
+                  <p>Melissa officinalis of <hi rend="underline">Bab</hi>. is the common Balm of the gardens, bears a whitish flower. Your plant is (as I stated) Melissa grandiflora found in various parts of Europe. You will find it described in Bentham's Labiata p. 395. I find that plate 12 of the Tom.[?] 3d series is wanting in my copy. I have just had the set bound as far as Tom.[?] 8, and not having collated carefully further I had not observed the ommission. Your plant is Portulaca oleracea, Garden Purslane. Tho' you have not observed the Corolla, I think you will find 5 small petals in fine sunny weather. The 1 <hi rend="superscript">st</hi> No. of Dr. Hooker's Journal is out, but Sir W. publishes the letters in his London J. of Botany first and then collects them into Nos. as he gets matter [?]. I think Reeve is the publisher. If not it will be Bailliere. I am truly sorry for the cause which presses so heavily on your time and purse – and sincerely trust you will not be obliged to put yourself to the great inconvenience which you contemplate as possible. I am sorry you cannot meet with a Curate to your mind. I fear I shall not get to Birmingham, partly from the difficulty of getting my Sunday duty performed for me, and partly because I have a good deal of work on my hands. I have just been dissecting some pistils of Elschotzia 1/100 inch in diam. and find Lindley's theory of their structure untenable – one of those quasi-ingenious guesses which sometimes retard us by putting us on a wrong scent. I am about to forward the result to Sir. W. H's Journal.</p>
+                  <p>Kind love [?] to yr Wife and | Ever yrs affectionately | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

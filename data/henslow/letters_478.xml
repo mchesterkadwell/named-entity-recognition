@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_478.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-478">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   4 August 1857</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 191</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1857-08-04">4 August 1857</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Ampney |Circencester</placeName>
+                    <date>4 August 1857</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I believe I mentioned, when at Hitcham, that I had left my mss. on Meteorology with M <hi rend="superscript">r</hi> Van Voorst in London in order that he might look it over against my return, —And when I saw him on Friday, after leaving you, —he offered either to give me £60 for the copyright, or to print it, &amp; divide the profits with me. —I am decidedly inclined myself to close with the first offer, rather than the second, and do not suppose that the mss is worth more than what he values it at. But before writing to give him my reply, I should like just to know what views you take of the matter, &amp; whether your opinion is the same as mine.—Might not also such an agreement be made subject to the contingency of the sale of the book not going beyond one edition, —&amp; that if a second were called for, something further might be allowed me! —Is this usual or not in the transactions between author &amp; publisher? —Or under what kind of agreement have you published your own works?—I presume I might ask him to give me a certain number of copies for distribution to friends &amp;c in addition to the 60£? And what number might I reasonably expect, 12 or 25?—Perhaps you will write me a line in reply to these inquiries as soon as you conveniently can, --that I may send my determination to Van Voorst.—</p>
+                  <p>There are one or two parts of the book which I shd like you to look over, before printing, &amp; which I will transmit shortly by post. —I hope to have the greater portion of the mss ready for the press in two or three weeks, &amp; get the whole matter off my hands, &amp; the book out, by the end of the year, —</p>
+                  <p>I got back to this place yesterday, after spending Sunday at Swainswick &amp; taking my duty; —found Jane very tolerable for her. It has been so hot travelling, that I am glad to sit still now, &amp; hope to remain quiet for some time. —With love to all at home,</p>
+                  <p>Believe me, | your’s affectly | L. Jenyns</p>
+                  <p>Jane says to send her love to all—</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

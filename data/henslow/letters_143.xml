@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_143.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-143">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. H. Vachell   23 January 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 189</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_27.xml">Vachell, G. H.</persName>
+                <date when="1831-01-23">23 January 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Canton</placeName>
+                    <date>23 January 1831</date>
+                    <salute>Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>N <hi rend="superscript">o</hi>.1 – “Le-Seon-Suhung.” Fig. represented in the Engraving of Rev <hi rend="superscript">d</hi> D <hi rend="superscript">r</hi> Morrison’s Portrait, as sitting down, employed in Writing Chinese?</p>
+                  <p>N <hi rend="superscript">o</hi>.2. – “Chin-Seon-Sang.” [overwritten] is represented as standing up, Looking over “L’i ” composition</p>
+                  <p>[underneath] Chin-Seen-Shang. Previously born ie Senior, a Term of respect for a Teacher.–</p>
+                  <p>[Box with 2 figs. of Chinese characters and the words “To [ill.del.] Mr. Henry Hebberts 187 Strand “Till called For”, G.H.V.</p>
+                  <p>“Per H. C. S. Camden.”</p>
+                  <p>I have sent <del>you</del> a fair Engraving of the Rev. <hi rend="superscript">d</hi> D. <hi rend="superscript">r </hi>Morrison translating the Bible into the Chinese Language. which the Members of the H.G.’s Establishment in China, had executed by one of the first Engravers in London., from a picture painted by M <hi rend="superscript">r</hi> George Chinnery formerly of Calcutta &amp; now resident at Macao, &amp; who is called “The Sir Tho <hi rend="superscript">s</hi>. Lawrence of the East:” If you think it is worthy of a place in the Reading Room of the Phil: Society at Cambridge, present it to the Managers with my Compt. <hi rend="superscript">s. </hi>if you please: It is directed to be left at M <hi rend="superscript">r</hi> Hebbert’s 187 Strand, until you send to him for it. Having so lately written to you, I have little else to say than I beg to the kindly remembrance of M <hi rend="superscript">rs</hi> Henslow, and</p>
+                  <p>Believe me to remain | sincerely yours | Geo. H. Vachell</p>
+                  <p>P.S. The H.C.S. “Canning” sailed from China on 4 January: via the Cape of Good Hope (staying 10 days) for England. (turn over) I went last week up the River to visit the Fatee Flower Gardens. The show of Chrysanthemums was quite superb, both as regards the number, and variety of the Specimens, as well as the color of the Flowers– The “Luai-Fa” shrubs were coming into Flower, the scents of which somewhat resembles Mignionette – The “Hedysarum scandens” grows to a considerable height– there is a large and small Tree in one Garden, whose fibrous branches climb over (in a spiral form) every Tree in their vicinity– I got several more Pods &amp; Seeds, similar to those I sent you – and I think I remarked that a seed brought from an Island near Madagascar in the Mozambique Channel by Capt Mortlock some years since, first introduced this curious “Hedysarum” into China–</p>
+                  <p>The variety of Oranges in both their green and ripe state, in Pots, as well as the fine “Finger” Citron Fruit upon the Trees, have a very pretty effect at their Season of the Year – no Shelter is used during the Night, and they are placed in rows along The Gardens – The “Pummelows” hanging on the Trees, look well also about six times as large as a fine full-sized orange – As I shall this year spend the months of February and March at Macao. – I hope to find some <hi rend="underline">new</hi> Flowers upon the Hills, and Ravines – and having occupied a considerable part of Two Summers and a Winter in making two Collections for Cambridge – I purpose making a Complete one for myself – bet[tween] the 1 <hi rend="superscript">st</hi> Feb <hi rend="superscript">y</hi> &amp; the 1. <hi rend="superscript">st</hi> of October.– I fear I have no chance of hearing from you, that you ever received the first, sent by the “Caesar” from Madras– As I am anxious to receive any hint upon the subject, or any improvements in the process of Drying and preserving the Plants &amp; Flowers as well as Seeds, you can suggest, I shall be glad to receive the results of your observations and assistance in such matters.</p>
+                  <p>Address: “Per H.C.S. Marq:Camden”</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

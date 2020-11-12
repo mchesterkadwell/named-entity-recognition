@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_273.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-273">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. H. Balfour   5 June 1854</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Library, Royal Botanic Garden, Edinburgh</repository>
+                    <idno>103</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1854-06-05">5 June 1854</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_120.xml">Balfour, J. H.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadlegh Suffolk</placeName>
+                    <date>5 June 1854</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have delayed writing till my lectures were over that I might send you this syllabus corrected so far as I might see errors during my lectures – It was prepared during my last course for those who attend for a pass examination, &amp; you will see I have divested it of several tabular views which were in the former [<hi rend="underline">missing - one or more lines not photocopied</hi>] than our mere pass men could digest in short course - The Demonstrations at the end are rather for the initiation of those who want to work a little during the long vacation – for <del>several</del> some of them belong to flowers that are not out yet- I have received a map of the great Dracaena of Orotava, &amp; have cut off a section which may be subdivided in 2 or 3 slices when thoroughly dry _ Stratton has suggested that [<hi rend="underline">missing - one or more lines not photocopied</hi>] you have it now already – The fibres are concentrically arrange somewhat after the manner of an [<hi rend="underline">one word illeg.]</hi> - &amp; there is a sloughing of the surface which looks like a genuine bark. I found the 2 <hi rend="superscript">d</hi> part of your excellent Class Book waiting for me on the shelf at M <hi rend="superscript">c</hi>Millans Shop, &amp; I believe several of my Class have procured it _ I had a pleasant excursion with 2 doz. of them to Ely last week – but most of the few plants are late, &amp; we did not get many things in flower– I was rather curious to know whether I should be able to stand my lecture &amp; pay to &amp; fro for duty here- but I am happy to be returned much better than when I first went, &amp; hope I have pretty thoroughly recovered from my late unpleasant attack, state to be dyspepsia from neuralgic affection arising from over work –</p>
+                  <p>Yrs very truly | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

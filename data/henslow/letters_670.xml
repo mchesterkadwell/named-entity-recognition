@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_670.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-670">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From W. Brougham   10 November 1838</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 43</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_250.xml">Brougham, W.</persName>
+                <date when="1838-11-10">10 November 1838</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Tuesday.</placeName>
+                    <date>10 November 1838</date>
+                    <salute>My dear Slow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I did not get your letter of the 4 <hi rend="superscript">th</hi> Nov. till my return to Town last week— Hence the delay in answering it— By all means write to Brice (making any use you please of my brother’s name) &amp; let me know so that I may help all I can— Can I do anything with Pepys? (M. <hi rend="superscript">r</hi> of Rolls &amp; Chief Cur. <hi rend="superscript">r</hi> of the G. <hi rend="superscript">t</hi> Seal) Don’t have any scruple if you think I can be of any use— Pepys is under obligations to me &amp; I have no doubt will help if he can— at least if he does not he will be very ungrateful— so set about the matter in your own way &amp; let me know when &amp; how I can assist you—</p>
+                  <p>I have been moving about ever since the 9 of Aug. <hi rend="superscript">t</hi> in Germany &amp; Italy— for the purpose of restoring my wife’s health— w <hi rend="superscript">ch</hi> had suffered much <del>after</del> in consequence of her confinement &amp; I think change of air &amp; travelling has been of great service to her—</p>
+                  <p>Touching the Bahama’s— I certainly never forwarded any papers to you— I hate paying postage too much myself, ever to inflict it voluntarily upon another— So the W.B. is not mine—</p>
+                  <p>Pray send the enclosed to Jesus — &amp; if M <hi rend="superscript">r</hi> Fendal is Rev. <hi rend="superscript">d</hi> make him so upon the letter— It is about my composition in lieu of college &amp; university payt <hi rend="superscript">s</hi>
+                  </p>
+                  <p>Ever y | W.B.</p>
+                  <p>[P.S.] I am sorry to hear the miniature cannot be touched. You can bring it up the first time you come to Town.—</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

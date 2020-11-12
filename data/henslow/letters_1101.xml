@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1101">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Martin 2 August 1854</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Bury St Edmunds Public Record Office</repository>
+                        <collection/>
+                        <idno>FL586/13/1: 25</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1854-08-02">2 August 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_368.xml">Martin, Thomas</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham H. S.</placeName>
+                        <date>2 August 1854</date>
+                        <salute>My dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>I must thank you for the 2 papers – the accounts in which have much
+                            interested me – but positions [opportunities?] are very different in regard
+                            to those we try to aid – but these mutual [hints?] suggest thoughts which
+                            each may turn to his advantage in the common cause – I dare say there are
+                            many who will say my alluding to Dicotyledons is overdoing the thing –
+                            but in drawing up Programmes I have respect for all classes as well the
+                            uninstructed among the educated , as the non-educated. – True for one,
+                            true for another – The terms in which great generalizations are conveyed
+                            ought to become household words – I have separately asked 3 of the 4
+                            little Botanists of my School, whom I took to Cambridge, what they liked
+                            best – &amp; each replied – they could not tell, as every thing was so
+                            interesting – on asking what would you wish to see again, if I said I
+                            could take you see only one of the objects you saw – they each
+                            immediately said the “Botanic Garden”, &amp; in a way that convinced me
+                            this was their preference – acquainted as they are with the grouping of
+                            our wild flowers they readily understood the merits of our classifying
+                            all plants into natural groups, &amp; could appreciate what they saw in
+                            the Garden more than they could of the architecture of the buildings
+                            however striking – I have been interested in hearing what different
+                            parties preferred – the Pork-butcher exceedingly admired the buildings,
+                            but his chief preference was the anatomical museum, &amp; the wax models
+                            of subjects under dissection! Several mistook these for real subjects,
+                            &amp; one asked if one was wax, or a newly killed [letter cut]</p>
+                        <p>[illegible]</p>
+                        <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

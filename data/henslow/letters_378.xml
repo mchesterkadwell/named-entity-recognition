@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_378.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-378">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Wood, Searles Valentine 27 November 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 363</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_194.xml">Wood, Searles Valentine  </persName>
+                <date when="1853-11-27">27 November 1853</date> 
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Egham</placeName>
+                    <date>27 November 1853</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Altho I have given away my Crag shells it is by no means my intention to give up collecting I thought that as I had made public what I knew about them that any one so disposed ought to be permitted the right of seeing whether the story I had told of them were really a true one &amp; they were placed in the National Museum for that purpose</p>
+                  <p>The study of the Crag Formation has constituted one of the greatest pleasures of my life &amp; to sever the intimate connexion we have formed wo <hi rend="superscript">d</hi> be an evil I strongly deprecate. I am sometimes almost half disposed to wish that when they are taking me my last journey [ JSH writes above ‘in a stratum vs new…’] the middle of a Crag Pit so that we might never be separated. Joking apart I sho <hi rend="superscript">d</hi> be happy to assist you in your most laudable endeavours as I am a sincere well wisher to the general increase of knowledge more especially among the lower Classes where it is so much needed it is I believe one of the best means of removing that bad feeling which has so long subsisted between them &amp; those above them most reprehensible in the latter. I have always thought that by improving the lowest those above wo <hi rend="superscript">d</hi> for their own sakes advance. My visits into Suffolk are few &amp; far between I go there about twice a year to pay my respects to a Father now verging upon eighty nine &amp; when there I go &amp; hunt Collectors (instead of the Pits as formerly) to see if I can get any thing new to put into “my Book”. Generally [JSH writes above ‘not self’] speaking Collectors do not give much away &amp; will seldom part with more than their third or fourth rate specimens being reluctant to spoil the beauty &amp; richness of their Collections. The common &amp; characteristic specimens are in my opinion quite sufficient for general information &amp; good enough for local Museums indeed I think there is a great evil in having choice &amp; unique specimens buried in Provincial Establishments. I wished much to have examined in London a specimen in the Cambridge Museum &amp; applied for permission to remove it but was informed it co <hi rend="superscript">d</hi> not be done &amp; I am now about applying to another Provincial Museum for a similar permission perhaps with the same result. All good fossils ought to be in London where anyone [JSH has written above ‘from Edinb?’] can see them altho I have ever found a readiness with private individuals to oblige.</p>
+                  <p>I am now turning my attention to my Cabinet of Lond. Clays without however intending to turn my back upon my Old Friends but I find with a limited number of Cabinets one is obliged to economize for room. Hoping you have got rid of your worst of “isms” &amp; with thanks for your kind wishes</p>
+                  <p>Believe me my Dear Sir | yours very truly | Searles Wood</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

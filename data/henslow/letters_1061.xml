@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1061">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Lester 25 June 1855</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Harvard University, Gray Herbarium</repository>
+                        <collection>Asa Gray Correspondence Files</collection>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1855-06-25">25 June 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_355.xml">Lester</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham Bildeston Suffolk</placeName>
+                        <date>25 June 1855</date>
+                        <salute>My dear Lester,</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I am very sorry to find you are not to be of our cragging party. My Son George will join us &amp; must do the ex-Captain for you, as he wears moustaches! Mr Cobbold, M.P. for Ipswich had invited us to dinner, but writes this morning to say he is obliged to be in town, &amp; must leave us to breakfast with Mrs C. as I had proposed to be early in Ipswich tomorrow, not to lose time. I find however the train does not reach Hadleigh before 7P.M. at this season, &amp; it would be too much to hurry Fisher off over early tomorrow - so we shall not get to Ipswich before 1.15 I shall go to Hadleigh on the chance of his coming by <hi rend="underline">that</hi> train, as I suppose he will - but I have not heard from him. I am delighted to hear that Hitcham is to be considered worthy imitation in Purbeck - &amp; if you want to take a lesson in Macguire Museum you must come here for the 11th. I dare say we can stow you in an attic, if best beds should be pre-occupied - &amp; I believe George's room will be vacant, as he means to return to Cambridge to reside there during the L.V. you might cream up a few Lecturets for a future occasion! I send by this post a few supplementary documents connected with the Hitcham Press. I see Hooker &amp; Arnott have just published a new edition which will probably necessitate some corrections in the numbers of the Genera &amp; then in the List sent. It is unlucky I did not wait a fortnight longer before printing it. Many thanks for yr Purbeck Insects. I feel sure <hi rend="underline">now</hi> that the Cambs species in Fisher's specimens are fragments of Insects (Beetles wings &amp; not vegetable. I am just on to be President of an Ipswich Natural History Club, in imitation of <hi rend="underline">you</hi> so we reciprocate. Have you seen what I have said about Cambridge prospects in Nat. Hist. in the account of Bell's address in the Lit. Gazette for June 17?</p>
+                  <p>Yrs very truly</p>
+                  <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

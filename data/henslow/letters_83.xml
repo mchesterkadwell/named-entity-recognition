@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_83.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-83">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. K. Greville   2 February 1829</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 110</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_50.xml">Greville, R. K.</persName>
+                <date when="1829-02-02">2 February 1829</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Edinr.</placeName>
+                    <date>2 February 1829</date>
+                    <salute>Dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Hooker &amp; I have not yet framed any entire system of Ferns, nor have I individually-- &amp; therefore I cannot assist you from my own resources. I have however just received a work by Kaulfuss entitled "Das wesen der Farrenkräuter &amp;c. in which is an arrangement of the genera which I copy for you— (There are no characters attached)</p>
+                    <table>
+                     <row>
+                        <cell>I  <hi rend="italic">Foliosae</hi>
+                        </cell>                           
+                        <cell>Lycopodiaceae</cell>                         
+                        <cell>Lycopodium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Beruhardia</cell>
+                     </row>
+                        <row>
+                        <cell>II <hi rend="italic">Frondosae</hi>
+                        </cell>
+                     </row> 
+                        <row>
+                        <cell>A.	frons involuens (capsulae inornatae)</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Ophioglossaceae</cell>                     
+                        <cell>Botrychium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>                                                 
+                        <cell>Helminthostachys</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>                                                 
+                        <cell>Ophioglossum</cell>
+                     </row>
+                        <row>
+                        <cell>B.	frons circinata</cell>
+                     </row>
+                        <row>
+                        <cell>1.	Capsulae epiphyllae inornatae</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Marattiaceae</cell>                           
+                        <cell>Marattia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Darnaea</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Angiopteris</cell>
+                     </row>
+                        <row>
+                        <cell>2.	Capsulae epiphyllae ornatae</cell>
+                     </row>
+                        <row>
+                        <cell>a.	Annulo spurio</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Gleicheniaceae</cell>                      
+                        <cell>Gleicheinia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Mertensia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Platyzosma</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Ellobocarpus</cell>
+                     </row>
+                        <row>
+                        <cell>b.	Gibbere reticulate dorsali</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Osmundaceae</cell>                         
+                        <cell>Todea</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Osmunda</cell>
+                     </row>
+                        <row>
+                        <cell>c.	Vertice striato</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Schizaeaceae</cell>                           
+                        <cell>Mohria</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Lygodium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Schizaea</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Aneimia</cell>
+                     </row>
+                        <row>
+                        <cell>d.	Annulo vero centrali</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Polypodiaceae</cell>
+                        <cell/>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>X Nuda</cell>                                
+                        <cell>Polybotrya</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Acrostichum</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Hemionitis</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Gymnogramma</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Meniscium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Gramminitis</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Sellignea</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Xiphopteris</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Ceterach</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Cochlidium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Polypodium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Marginaria</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Taenitis</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>xx. Indusio spurio tectae</cell>    
+                        <cell>Woodsia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Niphobolus</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Pleopeltis</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Nothoclaena</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>xx. Indusio vero tectae</cell>
+                        <cell/>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Onocleoideae</cell>                  
+                        <cell>Onoclea</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Struthiopteris</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Blechnoideae</cell>                  
+                        <cell>Allosorus</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Onychium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Hymenolepis</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Leptochilus</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Lomasia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Blechnum</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Sudleria</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Woodwardia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Doodia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Asplenioideae</cell>                 
+                        <cell>Asplenium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Allantodia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Darea</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Scolopendrium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Diplazium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Dydimochlaena</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Pteroideae</cell>                       
+                        <cell>Vittaria</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Lonchitis</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Monogramma</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Anthophysum</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Adianthoideae</cell>                 
+                        <cell>Adiantum</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Cheilanthes</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Cassebeeria</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Lusiduvaya</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Davallioideae</cell>                     
+                        <cell>Davallia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Peranema</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Saccoloma</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Dicksonia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Balantium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Cibotium</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Lecanopteris</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Aspidioideae</cell>                       
+                        <cell>Aspidium</cell>
+                     </row>
+                        <row>
+                        <cell>e.	Annulo vero excentrico</cell>
+                     </row>
+                        <row>
+                        <cell>Cyatheaceae</cell>                        
+                        <cell>Cyatheoideae</cell>                       
+                        <cell>Alsophila</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Chuasphora</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Hemitelia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Cyathea</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell>Trichomanoideae</cell>               
+                        <cell>Trichomanes</cell>
+                     </row>
+                        <row>
+                        <cell>III. Radicales      Marsiliaceae</cell>
+                        <cell/>                                                                
+                        <cell>Isoetes</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Pilularia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Marsilea</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Salvinia</cell>
+                     </row>
+                        <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Azolla</cell>
+                     </row>                                              
+                        
+                        
+                        
+                        
+                    </table>
+
+                  <p>According to the above arrangement you will perceive that the Author chooses to regard the <hi rend="underline">Lycopodiaceæ </hi>&amp; the <hi rend="underline">Marsiliaceæ</hi> as among the true filices—</p>
+                  <p>I am chin deep among the Algæ, &amp; had more trouble than I can express in <del>res</del> arranging all the known species as far as <hi rend="underline">Ulvaceæ</hi> for I have got no farther with the System. I suppose Agardh would eat me alive if he knew what liberties I have taken with his Orders &amp; his genera— I have nearly finished the descriptions of the british <hi rend="underline">Fucoideæ</hi>.</p>
+                  <p>You may <add>make</add> a few lectures on the Ferns very interesting. In one of the vols. of the Bull des Sciences Nat. is an article on the distribution of Ferns (geographical) but I know not which &amp; my copy is binding. See the Bulletin also Sept. 1828 p.119— for a notice of article <del>of</del> by Nees von Esenbeck Jun <hi rend="superscript">r</hi> — Essai sur l’histoire des progres fait dans la connaissance des Fougeres depuis Brunfels jusqu’a nos jours. Sirk has published in the Linnaea vol.1 p.414 some Observations sur la structure interieure des Fougeres en Arbre. Very likely you are aware of all this already. I have lately received from Dominica a portion of the stems of two tree-ferns, some of which near 30, the other 50 feet high. The smaller one is 6 inches, the larger near a foot thick.</p>
+                  <p>I shall rejoice to see you here, &amp; hope nothing will occur to interfere with your plan. Let me know as soon as you can what time you are likely to be here for I sh <hi rend="superscript">d. </hi>be very sorry to miss you. I have an engagement in the North of England of six weeks to fulfill–which has fixed time. I have nearly made up my mind to deliver a popular course of 14 lectures–to commence in march or april― with our united kind remembrances to M <hi rend="superscript">rs </hi>Henslow― | Believe me | very faithfully yours | R K Greville</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

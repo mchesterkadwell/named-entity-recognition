@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1074">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From William Herbert to J. S. Henslow 5 April 1839</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Cambridge University Library</repository>
+                        <collection/>
+                        <idno>DAR 185: 63</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_365.xml">Herbert, William</persName>
+                    <date when="1839-04-05">5 April 1839</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Spofforth</placeName>
+                        <date>April 5 1839</date>
+                        <salute>Dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I wish it was in my power to give definitive answers to Mr Darwin’s questions. They are all fit points to be investigated, but they require a longer course of experience than the life of one man, especially of one who attends to the subject only incidentally, can furnish.</p>
+                  <p>I can entertain no doubt whatsoever as to the first question, that a long established variety or species must be more likely to reproduce itself uniformly from seed than one of recent origin. You have experience of the reproduction in the first case, and no certainty at all in the 2d. It certainly appears to me that if a seedling is obtained from a mule plant exactly conformable to the hybrid parent you have a much stronger prospect of an established &amp; uniform race than you had before the <hi rend="underline">reproduction</hi> of the hybrid type.</p>
+                  <p>It stands to reason that the pollen of a plant which is naturally disposed to produce varieties must be less likely to produce hybrids of uniform appearance, than that of a plant which is not disposed to sport; but I consider the pollen of a permanent garden variety just as likely to produce an uniform effect as that of any easily convertible natural species. Take for instance the hollyhocks of the garden, without question cultivated varieties of one plant, <hi rend="underline">yet steadily reproducing their respective colors by seed</hi>. I apprehend that the pollen of one variety of hollyhock on another would be neither more nor less decisive than that of one wild species of Calceolaria on another, at least taking the species wh. have similar constitutions &amp; intermingle easily. These answers refer to Qy 1 &amp; 2</p>
+                  <p>Qy 3. I think crossbred vegetables lean more to the type of the father than of the mother; but I think the offspring of the mule disposed to lean to the parent of wh. the constitution is most congenial to the climate &amp; soil in wh. it is grown.</p>
+                  <p>4th. I am not aware that the genera which it is difficult to hybridize are slow to sport. Up to this day, tho’ I am still trying, I have failed in all attempts to cross Crocuses, yet there is a different either species or vary of Crocus in almost every part of S. Europe, &amp; the garden varieties of Crocus vernus &amp; versicolor are very numerous. I think conformity of constitution a great point to facilitate intermixtures; but I cannot conceive why the genus Hippeastrum courts hybridiza-tion, while it is produced with difficulty in the genera closely allied to it, Zephyranthes &amp; Habranthus.</p>
+                  <p>5th I have not observed that it is more easy to hybridize two cultivated plants than two wild ones. The Calceolaria raised from wild seed are willing to intermingle. The fresh imported bulbs quite as willing as those raised from seed obtained in a cultivated state.</p>
+                  <p>6th. I do not think the genera in wh. hybridization is difficult stand isolated. I have made many attempts to cross species of Iris &amp; have not yet obtained a cross; yet there is no genus in which it is more difficult to discriminate the numerous species, &amp; to decide whether the numerous wild local forms are to be accounted as varieties of common species or not; and there is no order of plants in which it is more difficult to determine the limits of the genera which are in an almost hopeless state of confusion.</p>
+                  <p>7th. I think species from remote parts are only thus far more likely to breed together than those from neighbouring localities, that in the latter case there is greater probability that they have been already approximated &amp; have not bred together. I do not think the distance of their natural location can facilitate the disposition to interbreed.</p>
+                  <p>8. I have never heard of any particular instance of the character wh. first appeared in a given plant disappearing in the first produce &amp; reappearing in the grandchild, but I should think it of common occurrence in garden monsters if they are fertile, but in such cases there is generally a probability that the pollen of the monster may have had access to the produce that had lost the feature &amp; reproduces it. I should think a plain seedling from a hose in hose primrose more likely to produce a hose in hose seedling, than a primrose, which had no such ancestry; a blue offspring of a wild white vary of the common squill more likely to reproduce a white one, that one of thorough bred blue pedigree.</p>
+                  <p>9th. I do not think cross breeding of garden varieties inimical to fertility I did not at all mean that fruit trees might not be improved freely by crossing the varieties; but that if you cross two species of fruit trees, you are more likely to get the advantage of a new flower, than of a new fruit. For instance I obtained one fruit of which the seeds vegetated from the mule Passiflora cæruleâ-racemosa, but I have only obtained one, &amp; that was quite deficient in juicy pulp.</p>
+                  <p>10th. I have not attended to ferns or fungi.</p>
+                  <p>The experience of 4 seasons has now shewn that it is certain that if, taking two hybrid Hippeastra wh. have (say) each a 4-flowered stem, 3 flowers on each are set with the dust of the plant itself &amp; one on each with the dust of the other plant, that one on each of them will take the lead &amp; ripen abundant seed, &amp; the other 3 either fail or proceed more tardily &amp; produce an inferior capsule of seed. I am at this moment trying the experiment in a bulb of that genus fresh from the Organ Mountains in Brazil to see whether its own natural pollen or that of a mule will take the lead.</p>
+                  <p>I have answered the questions as well as I am able; but a much longer course of experiments in various genera is necessary to their perfect solution</p>
+                  <p>I remain Dr Sir</p>
+                  <p>Yrs faithfully</p>
+                  <p>W Herbert Spofforth</p>
+                  <p>[Charles Darwin Annotations]</p>
+                  <list rend="ordered">
+                     <item>2.1 I can … 2d. 2.4] [double scored brown crayon over pencil]</item>
+                     <item>3.3 but I consider … natural species. 3.5] [partially underl pencil, square brackets added ink]</item>
+                     <item>4.1 Qy 3… . grown. 4.3] [double scored pencil]</item>
+                     <item>4.3 constitution … congenial] [underl pencil]</item>
+                     <item>5.2 Up to … Crocuses, 5.3] [scored brown crayon]</item>  
+                     <item>5.2 cross Crocuses 5.3] [underl brown crayon]</item>
+                     <item>5.4 &amp; the garden … numerous. 5.5] [underl ink]</item>
+                     <item>5.5 numerous.] ‘only colour???’ [added ink]</item>
+                     <item>5.8 Zephyranthes &amp; Habranthus] underl ink; ‘are there varieties of these??’ [added ink]</item>
+                     <item>6.1 I have not … state. 6.4] [double scored both margins, brown crayon]</item>
+                     <item>7.1 I do not … local forms 7.4] [scored brown crayon]</item>
+                     <item>7.2 Iris] ‘Iris’ [added pencil]</item>
+                     <item>8.1 I think … pulp. 10.6] [crossed pencil]</item>
+                     <item>12.1 The experience … abundant seed, 12.4] [double scored brown crayon]</item>
+                     <item>12.1 it is certain] [enclosed in pencil quotation marks]</item>
+                     <item>12.1 taking … capsule of seed. 12.5] [enclosed in pencil quotation marks]</item>
+                     <item>12.1 two] [underl pencil]; ‘[backwards?] between same parents?’ [added pencil]</item>
+                     <item>12.2 Hippeastra] ‘“any cross or crosses however complicated” [’The‘ del] another individual will not do so well.’ [added ink]</item>
+                     <item>12.5 I am … lead. 12.8] ‘It did act so; account given in letter’ [added ink]</item>
+                     <item>15.2 1839] [double underl brown crayon]</item>
+                     <item>[Top of first page] 2 [brown crayon]</item>
+                     <item>[Verso of last page]: ‘About Crocusses &amp; Heaths not crossing | Progeny of hybrids dissimilar?? Important—</item>
+                     <item>Walker’s Law’ [pencil] ‘1839 | Only thing in this letter, 5 season had tried the Crinum Experiment’ [pencil]</item>
+                  </list>
+                    
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

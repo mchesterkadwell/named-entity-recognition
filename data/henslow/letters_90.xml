@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_90.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-90">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. T. Lowe   22 May 1829</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 116</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_31.xml">Lowe, R. T.</persName>
+                <date when="1829-05-22">22 May 1829</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Maderia</placeName>
+                    <date>22 May 1829</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>My last letter has ‘ere this reached you &amp; anticipated in some sort what I now have to say in reply to y <hi rend="superscript">r</hi>. most welcome one of the 10 <hi rend="superscript">th</hi> of May rec. <hi rend="superscript">d </hi>this Morning. But this must not prevent my instant acknowledgement of it, both to repeat my warmest thanks to yourself, &amp; to state more clearly the grounds on w. <hi rend="superscript">ch </hi>I shall gratefully &amp; thankfully accept this substantial testimony of y. <hi rend="superscript">r</hi> friendly exertions. – This sum of 56£ it appears has been raised by a <hi rend="underline">private</hi> appeal to the good wishes &amp; interest of personal friends: – &amp; though this may make it in some lights ten times more gratifying to me than w <hi rend="superscript">d</hi> its coming from any other source, yet it produces scruples w.ch must &amp; I think you will agree with me <hi rend="underline">ought </hi> to outweigh this very pleasing consideration.</p>
+                  <p>My last letter was written before any knowledge of circumstances, but in consequence of an expression in a letter of Mr. Graham’s to Porter, w <hi rend="superscript">ch</hi> le<del>a</del>d me to suspect the nature of y. <hi rend="superscript">r</hi> kind plans in my behalf to be something in the shape of a <hi rend="underline">private subscription</hi>, instead of <hi rend="underline">a fund raised by the Philos: Soc: to be applied through me for their benefit in scientific pursuits.</hi> With nothing further than a <hi rend="underline">suspicion</hi> of this sort, I did not in that letter think myself authorized to obtrude upon you my private circumstances; I therefore stated though not (I beg you to believe me) seriously, &amp; without better reasons, that I was too proud to receive assistance on any such terms. Y. <hi rend="superscript">r</hi> letter however , (if I do not egregiously misunderstand it) obliges me now to be more explicit.– It is true that my means are very limited; yet such as they are I am enabled by them &amp; my own exertions to meet all immediate &amp; necessary expenditure with comfort &amp; I trust respectability. All I owe in the world is no very large sum, &amp; the whole of that is a balance due for my Cambridge expences. The present transaction assures me that the delay of its settlement has not forfeited for me in that place the esteem of my friends. The continuance of Mr. Shaw’s kindness to w. <hi rend="superscript">ch</hi> I owe first this indulgence, authorises me to hope that this backwardness has not been considered voluntary on my part; &amp; this is what most concerns me. I have a very good prospect that a short time will enable me to clear off even this incumbrance.– These are not the circumstances w. <hi rend="superscript">ch </hi>call for the pecuniary assistance of friends or authorize me to make use of it. It is possible my pride may be the unworthy motive at the bottom, but I must state positively, that I could not <hi rend="underline">conscientiously</hi> in my present circumstances, &amp; therefore most certainly <hi rend="underline">will</hi> not receive such assistance <del>unless [ill.del.] compel me.</del>
+                  </p>
+                  <p>The means I progress, as I have stated, enable me with prudence to allow myself every comfort. But on the other hand, they do <hi rend="underline">not </hi>allow me to incur any extraneous expences on my own account, or on that of my nearest connexions; – much less will they permit or authorize me to incur them on account of others who have no such particular claims. I can live here quietly at home well &amp; completely enough, but I cannot make excursions or undertake projects or form large collections on my <hi rend="underline">own</hi> account much less on that of others. If therefore the members of the Philos: Soc: or a part of them have sufficient confidence in me to think it worth while to allow me to <hi rend="underline">account</hi> to you or any one else <hi rend="underline">verbatim</hi> for the expenditure of 50 or 60£ employed by me in the necessary expences of excursions about the Island &amp;c &amp; all other expences attending the collections w. <hi rend="superscript">ch</hi> I am wishing to deposit with them, I think I can venture to say their sum will be advantageously &amp; most scrupulously so applied to me. I certainly intended for them the little I have hitherto had the means of collecting; but with this liberal assistance, I shall be able to double all I have yet had it in my power to do. The North side of the Island w. <hi rend="superscript">ch </hi>is the most promising &amp; least explored, I have as yet had small means of examining &amp; sh. <hi rend="superscript">d</hi> delight in devoting this Summer to it: &amp; the Desertas have never yet been effectually explored. On the strength of yr. communication I shall do this next month.</p>
+                  <p>I must not go farther than explain to you the grounds – the <hi rend="underline">only</hi> grounds on w. <hi rend="superscript">ch</hi> I can appropriate this sum. It will be for you to undertake the best way of explaining them to the friends who have so liberally come forward. I feel this most perfect reliance in yr. judgment as to the <del>best</del> mode of doing this by making what use you think right of this letter. It is however I feel written too much in the shape of a private confidential communication to a friend, &amp; perhaps too egotistically to be of any further use than to put you in possession of my own feelings. Sh. <hi rend="superscript">d</hi> you think it necessary to show it to any one, M <hi rend="superscript">r</hi>. Graham knows <del>probably</del> enough of circumstances to enter into my motives &amp; to consult with you as to the best mode of acting: for w. <hi rend="superscript">ch </hi>purpose if you think fit you can show him this letter.</p>
+                  <p>Forgive my encroaching so much on yr. patience. If, once again, you can so arrange matters, that this fund may be <hi rend="underline">clearly understood </hi>to be devoted to the benefit of the <hi rend="underline">Philos: Soc:</hi> as well as of <hi rend="underline">myself</hi>, &amp; that I may consider myself consequently as under an obligation to account to them for every item of its expenditure, I shall dismiss my scruples &amp; feel truly obliged for my share in the benefit. I must beg that it may be <del>clearly</del> explicitly understood the sum is contributed mainly to benefit &amp; extend the Collections of the Philos: Soc:–</p>
+                  <p>If matters can be arranged upon these terms, I wish you w. <hi rend="superscript">d</hi> pay into the hands of Mess. <hi rend="superscript">rs</hi> Hopkinson’s Regent Str.. 25£ on <hi rend="underline">Mr Leacock’s acc</hi> 
+                     <hi rend="superscript"> 
+                        <hi rend="underline">t</hi> 
+                     </hi> 
+                     <hi rend="underline">for my use</hi> as soon as possible. This will set me for the present quite at liberty, &amp; I am most anxious to be so as soon as possible not to lose the Summer.</p>
+                  <p>Before concluding I sh’d wish to say something to confess more fully how very sensibly I feel the content of y. <hi rend="superscript">r</hi> kindness in having thus exerted yourself in no very agreeable task in my behalf; &amp; to add that I am only in one degree less grateful for the support you have rec. <hi rend="superscript">d</hi> from other friends. In regard to yrself &amp; those who know me well, I have no fear that anything I may have said sh. <hi rend="superscript">d</hi> be attributed to ingratitude or other unworthy motives; but in regard to <hi rend="underline">others</hi>, I entreat most <hi rend="underline">earnestly </hi>you will act so for me as to guard effectually ag. <hi rend="superscript">st</hi> 
+                     <hi rend="underline">this</hi> imputation.</p>
+                  <p>Believe me ever | Y. <hi rend="superscript">rs</hi> sincerely | R.T. Lowe</p>
+                  <p>[P.S.] Do tell L. Jenyns again I wish very much he w <hi rend="superscript">d</hi> write me some account of the few Insects I sent him. I forget whether there was a list with them or whether they were numbered; but I shall easily make out what his names refer to. My friend &amp; main prop in Entomology– Dr Heineken, has just commenced a correspondence with Latreille. Kind regards to M. <hi rend="superscript">rs</hi> Henslow.</p>
+                  <p>I think you were overcharged for the Postage of y. <hi rend="superscript">r</hi> letters. Mine from Derby or Nott. <hi rend="superscript">m</hi> are only 2/8 Y. <hi rend="superscript">rs</hi> is marked 3/8.–</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

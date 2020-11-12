@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_157.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-157">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. E. Smith   6 April 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 195</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_75.xml">Smith, G. E.</persName>
+                <date when="1831-04-06">6 April 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Sellinge</placeName>
+                    <date>6 April 1831</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have numbered off some plants in the list which you have sent me, but I rather desire to know whether it is your wish to have more specimens of 8. Carex laevigata, 14 Orobanche caryophyll. 15. Ophrys fucifera, which I believe I sent you. May I suggest a small number numeral, running from first to last <del>of</del> in a list of desiderata? It would, I should think, save you especially, &amp; your correspondents much when writing upon individual species.</p>
+                  <p>I have been carefully examining Chrysosplenium, &amp; find no exception to the following character of either species:</p>
+                  <p>1. C. alternifolium. One ancillary flower destitute of a floral leaf. Styles erect.</p>
+                  <p>2. C. oppositifolium. All the flowers with floral leaves. Styles curved outwards.</p>
+                  <p>…………………………….</p>
+                  <p>1. Radical leaves. Kidney shaped. Anthers oblong, in four distinct lobes. Filaments erect.</p>
+                  <p>2. Radical leaves rounded produced at the base. Anthers ovate. 4 Filaments converging.</p>
+                  <p>……………………………..</p>
+                  <p>1. Fruit, with its pedicle, infundibuliform. Segments of the crenate leaves overlapping.</p>
+                  <p>2. Fruit obovate, tetragonous. Segments of the roughly crenate leaves obsolete in the radical leaves.</p>
+                  <p>The characters are placed in the order of their importance or prominence. C. oppositifolium occurs, I much suspect, very rarely with alternate leaves: &amp; thence confusion may have arisen. Both species grow together in profusion here. I have not remarked that in 1. the stem is triangular; in 2. rather compressed. with a channel upon each edge [drawing]; because the character depends upon the position of the leaves: nor again, that the clasping base of the floral leaves in 2. is much broader than in 1: nor lastly that in 1. the calyx, after flowering, spreads widely: <del>as</del> but in 2. is erect, often convergent. – These are not all trivial characters?</p>
+                  <p>I will press specimens of both for you: &amp; do my best to obtain seed of both: but the capsules of 1. are a favourite food with some slug or insect.</p>
+                  <p>D. <hi rend="superscript">r </hi>Hooker tells me that Oenanthe crocata gives out no yellow juice; &amp; that his Oen. apiifolia is the Oen. crocata of English Botany. I have proved the truth of this remark by wounding several young plants.</p>
+                  <p>The variety of creeds upon the subject of specific distinction , of which you complain, is indeed amusing, but very unphilosophical. What are we to think of the principles of this our favourite science when no two botanists appear to agree upon them? Confusion daily accumulates: &amp; the processes of combination &amp; destruction go on with an activity almost uniform, as though specific distinction was a powerful chemical agent which we are at liberty to apply either in decompounding or combining: while the fashion of the day supplies a menstrum for experiment, at one moment a gas, at another a liquid, always alas! too volatile for the test of that heat, to which all our solutions are ultimately submitted, whether it be the fire-heat of criticism, or the burning glass of truth &amp; research.</p>
+                  <p>Now you have, indeed, amusement enough, in my “original observations”. I have nothing more to add at present, except my best thanks for your letter, &amp; the assurance of my good wishes, &amp; devotion,</p>
+                  <p>yours very sincerely | G. E. Smith</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

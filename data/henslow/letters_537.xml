@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_537.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-537">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   21 November 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 197</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1859-11-21">21 November 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swainswick</placeName>
+                    <date>21 November 1859</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>It is a long time since any thing passed between us, -- but I fear I am myself in fault, as if I am not mistaken you were the last to write.— I heard too the other day, in a roundabout way, how full your letter clip was of unanswered letters:— as none of mine was among them, I could hardly expect that these would be passed over to attend to me. The same informant told me how busy you were with engagements abroad &amp; occupations at home. This is nothing new, — &amp; if your correspondents are to wait till your hands are free &amp; your head vacant, they may wait for ever.— I ought, perhaps, to have, written sooner to congratulate you on George’s marriage, but to say the truth, I hardly knew whether it was a matter of congratulations or not.— Louisa, I suppose, who was keeping house for him, now gives place to the new comer, &amp; is returned upon your hands. — This you will be glad of, as you would hardly like to be without some of your children to keep you company.— I was sorry not to see you when you visited Elizabeth in Bath: we were in Gloucestershire at the time, where I left Jane with her family whilst I paid a visit to Charles in Kent, after which we both returned here &amp; never went to the sea this summer. I felt however much better for the little outing I had, &amp; am now as well as I was before my illness.— What think you of Darwin’s book?— Perhaps, however you saw it all in mss. He was good enough to send me a copy, which I am reading with great avidity;— I have not as yet had time to get far, but agree with him in a great deal of what I have mastered. Still I fear he is prepared to go to such lengths that we shall part company, in regard to our views about species, before I reach the last chapter of his work. Is he really <del>prepared</del> inclined to the opinion — that all animals &amp; plants have descended from one prototype, —say— as the reviewer in last Saturday’s Athenaeum says, — that “a cabbage (or anything else I suppose) may have been the parent plant, — a fish the parent animal. If too there has never been any subsequent creation of species since the protozoic ages, how does he get over the fact of man’s existence, without holding him to be a mere modified monkey! In the same Athenaeum above alluded to, I read with interest your letter on the ‘Celts in the flint”; — but I do not quite understand your “younger man”, who first says he is “positive that some (celts) had occurred in the bed where the fossils are met with”, — &amp; afterwards, on being closer questioned by you, says “They (who believed this) must be very simple-folk to think so, &amp;c.—” Is there nor some contradiction here between his two statements?—</p>
+                  <p>Have you heard that Hope, who presented all his Entomological collections &amp; Books to the University of Oxford a few years back, now comes forward with an offer to found and endow a Zoological Professorship there, if they will accept it. The thing is not done yet in a formal way, —but if adopted &amp; carried out, I hope Cambridge will in due time follow the example.— Is anything more stirring on the subject of new museums, &amp;c— My wife is much as usual, &amp; joins in kind love to Louisa &amp; yourself.—</p>
+                  <p>Yours affectly— | L. Jenyns.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

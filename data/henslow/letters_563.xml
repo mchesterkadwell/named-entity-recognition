@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_563.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-563">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   18 July 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 201</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1860-07-18">18 July 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>1 Darlington Place | Bathwick | Bath</placeName>
+                    <date>18 July 1860</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I feel that I have been guilty of great omission in not having sooner written to thank you for your last letter, — in which you expressed so much sympathy with me in respect of my late severe loss.— You were also good enough to ask me to Hitcham, where, however, I could not well arrange to go at present.— I have been intending a letter to you almost every day for the last month,—but have been so much engaged with moving into my new house, where, as you see above, I am now located; I have scarce had time to think of anything else.— The fatigue &amp; labour of transferring all one’s effects even without distance is very great, &amp; in my case was more troublesome than it would be to most persons from the extent of my library.— You know also how naturalists gradually accumulate collections &amp; apparatus, &amp; a multitude of articles more or less connected with their pursuits, which the rest of the world neither possess nor care anything about. (I should be sorry indeed to have to pack up &amp; move even to the next parish all the multifarious contents of your study.) — I am happy to say I have got everything conveyed safely, — and am beginning to settle down in my new abode, which promises to be very comfortable after a time when I shall have been able to set things to rights. — The house has been entirely done up afresh from the top to bottom, — &amp; is both convenient in itself and in its situation.— It is very cheerful &amp; airy, with a splendid panoramic view of Bath from the upper windows.— Neither is it without a garden, — both before &amp; behind, tho’ the former is of course small.— I shall not stop to put everything in its place, — before going away for a change, which, after so much harassing work of late, coming close upon my first trial, — I feel to need very much.— I intend next week, going to Ampney, where I shall probably remain during August.— After that I may probably visit the Georges at Anglesea, who want me to come that way, — unless I accompany some of the Daubenys to the sea. — I cannot conveniently go Eastward this year, but hope nothing will stop me from really getting to Cambridge another year, if all is well, during the time of your lectures.</p>
+                  <p>I am sorry I was not able to meet you &amp; D <hi rend="superscript">r</hi> Hooker at the Botanic Garden at Oxford during the week of the Association, but it was quite out of the question under the circumstances.— I congratulate you on the birth of another grandchild, &amp; hope Amy &amp; her little one are both going on well. Pray give her, as well as Louisa, my love and say that I had both their letters, &amp; was glad to find what I had sent them proved acceptable. — I wish I could hear of Louisa being stronger &amp; in better health, than she was reported to be in a letter from your sister to Elizabeth, when she wrote to announce Amy’s confinement.— I see in the List of publications in the Athenaeum “Henslow &amp; Skepper’s Flora of Suffolk”: —who is your coadjutor in this work, whose name I never heard of?— Has not Babington also been doing something with the Flora of Cambsh?— I hardly know what.—</p>
+                  <p>Believe me, your’s affectionately | L. Jenyns.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

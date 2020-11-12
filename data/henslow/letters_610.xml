@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_610.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-610">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns Sept 25 1842</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 210</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1842-09-25">Sept 25 1842</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swainswick</placeName>
+                    <date>Sept. 25.--</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your postmark of Manchester took me by surprise as I little thought you were off in that direction;— but I direct this to Hitcham, nevertheless, expecting you will be back before this reaches.— I am very much obliged to you for the remarks on my last Ch. which I received this morning,— but they entail another letter, not from any way disputing the opinions given,— but simply with the views of getting further information. I did not look for a committee of 3 critics besides yourself sitting in judgment upon what I sent you to read,— but, perhaps, it is better to know what they think, especially D <hi rend="superscript">r </hi>H. who is a medical man.— I will proceed at once to what I wish to ask, or say in reply.</p>
+                  <p>(1) The expression “by means of a vital organic action” w <hi rend="superscript">h</hi> you might have observed was in inverted commas, is in truth, borrowed from Humboldt, who uses it in reference to the same fact I am speaking of (See Cosmos. 1. 316), but I may nevertheless have mistaken his meaning.— Do you mean, by your correction, that the sentence may run — worded exactly thus?— “Not only is the dampness arising from the latter cause in such places kept up by the shade of the trees cutting off the drying effect of the suns rays &amp; preventing a circulation of air, but fresh moisture is constantly exhaled from the leaves, (by a process which is in relation to the vital action by which they assimilate inorganic materials.)”— Or would the sentence be complete, &amp; better without the words within the brackets,— ending at leaves,— or surfaces of the leaves.?—</p>
+                  <p>(2) You have made a slight correction in pencil— (in the paragraph on the ice in chalkstones in gravel walks,— which really I cannot read — I suppose written in the carriage while going on.— Will you be good enough to make it again,— &amp; for this purpose I copy the sentence to which the correction applied.— “As the cooling process gradually extends upwards to the strata of air resting upon the ground, fresh precipitations of moisture take place, &amp; layer is added to layer, until the superficial crust of ice acquires considerable thickness.”</p>
+                  <p>(3) Why do you put doubtful to the paragraph relating to the decrease of ague in Camb <hi rend="superscript">sh</hi>? I simply speak to the fact, as observed by myself at S.B.— If you <del>do</del> mean doubtful in respect of its being due to the drainage of the fens,— it might be a sufficient correction, perhaps, to allege such fact as probably connected with the locality being drier, &amp; so far more healthy than formerly,-- instead of saying –“As a proof of this in one instance, I may take the case of ague”,— an expression, no doubt, written too hastily.</p>
+                  <p>This is, however, closely connected with the subject of miasma &amp; endemics generally;— &amp; I am greatly obliged to D <hi rend="superscript">r</hi> H. for his remarks, &amp; the information that there are no intermittent fevers in S. temperate latitudes:— But surely he does not mean by this that  such diseases are never traceable to heat &amp; humidity acting upon decayed animal &amp; vegetable matter — but simply that these causes are not in all cases alone sufficient to engender them?— Is there any doubt about some localities having been rendered more healthy in this respect by marshes &amp;c being drained? And if what I have said on this subject is somewhat altered, &amp; so restricted has to offer no opinion about the cause of intermittents generally, may not the paragraphs still stand?— Here too I did not rest, as you may suppose, entirely on my own judgment, — but consulted one or two medical books, before writing what I have stated:— I sometimes think I am over cautious in not committing myself to statements I might wish afterwards to retract,— but I will attend to your advice nevertheless.—</p>
+                  <p>(4) I inserted the Utricularia, having observed it so frequently in the turf pits in Bott. Fen, though certainly not so frequent as the Chara;— but I will erase it at your suggestion.—</p>
+                  <p>(5) Why do you put 2 notes of interrogation to the statement as to Bath having a higher mean temp. than S.B. in the winter season more especially! I do not believe (I certainly have no evidence to induce me to think) that the summers are one bit hotter than in Camb <hi rend="superscript">sh</hi>. I conceive this all a mistake.—</p>
+                  <p>Perhaps in the course of a week from this time you will have leisure to write to me again on these matters, &amp; a very little on each head will leave as a reply.—You said nothing about the title* on w <hi rend="superscript">h</hi> I asked your opinion.—</p>
+                  <p>Yours affly | L. Jenyns.</p>
+                  <p>*I sent you a copy, as proposed, with remarks.</p> 
+                  <p>Date of letter inferred from the date of the Manchester meetimg of the British Association</p>
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

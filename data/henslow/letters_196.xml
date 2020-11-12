@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_196.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-196">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Green   13 December 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 234</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_105.xml">Green, Charles</persName>
+                <date when="1831-12-13">13 December 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Havercroft near Barnsley</placeName>
+                    <date>13 December 1831</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your letter addressed to me at Burgh Castle followed me hither after some little delay. Accept my best thanks for placing my name on the Committee for raising a tablet to poor Ramsay’s memory. No circumstance could have grieved me more, if by being overlooked by the first promoters of their work, I had been deprived of participating in the only tribute, which alone remains for his friends to pay to his memory. The paper which you sent me, of course I have not seen, but I should much like to know some of the particulars of what you propose to do &amp; by whom it is intended to be executed. I have no doubt but that sufficient money will be subscribed to enable us to apply either to Chantry or Westmacot. I was much disappointed in not receiving the catalogue in time to admit of my selecting lots from Ramsay’s books. Thanks however, to your exertions to obviate the delay which unavoidably took place in Town– I yesterday received a letter from Kirby informing that both yourself and Hustler had kindly offered to impart to me something of your purchases. When I come to Camb: I should much like to avail myself of your offer. My intention is to stay here probably a fortnight longer then to return to my charge &amp; afterwards as speedily as may be come down for a few days to Cambridge.</p>
+                  <p>With kind regards to M. <hi rend="superscript">rs</hi> Henslow</p>
+                  <p>Believe me yours ever truly | Charles Green</p>
+                  <p>P.S. If you can spare a few minutes just write me an outline of what the committee propose to execute. You may address me at “R. Day’s Esq, Monk Bretton, Barnsley.”</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

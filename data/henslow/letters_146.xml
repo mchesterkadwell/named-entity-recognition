@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_146.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-146">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. H. Vachell   30 January 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 190</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_27.xml">Vachell, G. H.</persName>
+                <date when="1831-01-30">30 January 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Macao</placeName>
+                    <date>30 January 1831</date>
+                    <salute>Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Per H.C.S. “Marq. Camden”</p>
+                  <p>Since I arrived here a few days ago I have procured some fine seed, which I send for the Cambridge Botanical Garden; In my Herbarium sent to you in the H. C. S. “Canning” are two dried Flowers of the beautiful “Laegerstraemia Regina” (color Lilac) I enclose some of the seed– also – some of the “Bauhinia.” (with white Flowers &amp; Purple Spots) – likewise some of the “Apple-shaped” Brinjall or Egg plant – a Chinese vegetable - and the seed of a curious “Privet” from our Garden at Canton, a very thick &amp; pretty Shrub– I have also seen in M <hi rend="superscript">r</hi> Beale’s Aviary the Pheasant which I have already alluded to in a former letter – M <hi rend="superscript">r</hi> Reeves took Three to England this Season &amp; this is the only one now in this part of China – The above Four Birds were brought to Macao last Summer from “Bucharia” in Tartary, a distance of upwards of 3,000 Miles. Mr B. shewed me the very simple Bamboo Baskets they travelled in - The Top was cone-shaped, and fitted on to the Bottom which was about one Inch deep and 1½ Foot in Diameter – upon which was placed a Bowl for the Food, and a Peg: to the latter a thing was fastened 3 yards long, the other end being firmly attached to the Leg of the Bird (one was placed in each Basket) whenever the party halted, the Cone was taken off and the Bird stretched his legs &amp; wings as far around the space as the String would permit him– The whole concern is very light, and the Birds arrived in beautiful condition with the exception of the Tail Feathers– which were slightly chafed. It is expected some Female Birds are on their Route hither, all those at present <del>here</del> &amp; in the cargo are Male Birds, as well as the ones in the Aviary; they are extremely savage &amp; this one instantly attacks the Chinese who superintends the Birds, if he can get at him– M <hi rend="superscript">r</hi> Beale who is a remarkably fine and active man and looks as healthy as any one who has never left England, came to China in the year 1788 &amp; has never been out of it since! I forget whether I gave you a description of the Aviary attached to his House; which at present contains about 600 Birds from all parts of the world. Its dimensions are as follows–</p>
+                  <p>Width from the House –20½ feet</p>
+                  <p>Extensive Length – 40.</p>
+                  <p>Height from the Pavement – 20 an Immense Dome 10 Feet height is carried up from the roof under which grows a very large Tree – the extreme height is 30 Feet, the whole is enclosed with strong wire work – at one end is a pool of water with rock work, for the noble Mandarine Ducks from the Neighbourhood of Peking, and the other aquatic Fowl – Numerous birds build their Nests on the Tree, and other places set apart for the purpose. One of the most extraordinary facts relating to the Mandarine Fowls is that the Drake chooses a Duck for his Partner: and from that moment he never leaves her – but the whole year round &amp; and as long as he lives he is constant to the Partner of his Choice, never approaching any other Duck; M <hi rend="superscript">r</hi> B. who watches the habits, nidification &amp;c of his birds – has made the <del>same</del> observation for years past– The two windows of his drawing Room looking into the Aviary. A Space is wired off in the Interior for the smaller birds as “Amadavads” and others which might be injured by their more powerful Brethren, and also as an Hospital, for the Sick Inmates of the Establishment– Taking everything into consideration it is probably one of the most extensive and varied Collections in Existence; I take much pleasure in resorting to it, as well as to his Garden– His “Large Bird of Paradise” is now in full Plumage &amp; in all its splendour, it has a very large cage allotted to it– and is so tame as to sieze with avidity, Grasshoppers from the hand of any one who presents them– The enormous Amboyna Pigeons with their large Crests, and the sleek &amp; elegantly formed <del>Humming</del> “Mocking Birds” from America are in full Feather also – In a verandah are the Breeding Cages allotted to the Canary Birds – In the Aviary the English Pheasant, Blackbird, &amp; Lark; are to be seen – whilst numerous rare Tortoises crawl about amongst the rock works. I arrived here on Monday, having been sent for by Express to Canton to visit poor M <hi rend="superscript">r</hi> Baynes, the late President of the Select Committee., who was dangerously ill on the 21 <hi rend="superscript">st</hi> Inst: and particularly wished to see me, leaving Canton at an hour’s notice on Sunday evening I traveled down the outside Passage (By Sea part of the way) in one of the large Chinese Row Boats – and by the aid of 20 Oars and Three large Sails – with fair Wind &amp; Tide, I reached Macao early on the following Morning. It is 3<del>4</del>0 miles from Canton to the River’s mouth and 30 more by Sea to their Place: M <hi rend="superscript">r </hi> B– is now considered out of danger although he improves but very slowly– With my kind remembrances to Harriet,</p>
+                  <p>Believe me to remain |very sincerely yours | George Harvey Vachell</p>
+                  <p>P.S. As each pod of the “L. Regina” contains much seed, be good enough to send 5 or 6 pods for me to the Bottisham Hot House–</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

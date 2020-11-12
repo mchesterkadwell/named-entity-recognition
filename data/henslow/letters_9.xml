@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_9.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-9">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Leonard Jenyns   8 April 1823</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Bath Royal Literary and Scientific Institution</repository>
+                    <collection>Jenyns Collection</collection>
+                    <idno>Letter 1009</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1823-04-08">8 April 1823</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>8 April 1823</date>
+                    <salute>My dear Leonard,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I shall prepare the parcel for Mr. Jermyn this evening and take my chance of seeing him tomorrow. The supplement to Mont. is out therefore I can only send the dictionary itself. I was so very idle on Monday that I could do nothing but draw the little Sphaerium magnified. It had produced abundance of young which I also drew magnified. It can walk like the Planorbes upon the underpart of the surface of the water. I never saw a Bivalve do so before. Calvert and I intend to visit Mr. Brocklebank early on Thursday and then continue our ride to Swaffham as he wishes to call upon Mr. Jermyn. I dare say that I shall find time to call at Bottisham before one in my way back therefore prepare a magnificent suite of all the desiderata. I have written a long, very long, letter to Mr. Lyons, ordered the Birds from Leadbeatter, struck out all the foreign shells, not looked into my divinity etc etc.</p>
+                  <p>Execute the following commissions for me.</p>
+                  <p>Tell Mrs. Jenyns –</p>
+                  <p>That I saw a carriage yesterday, (Monday) turn out of Bridge street into Jesus lane.</p>
+                  <p>That I have examined the 3 Ton lid of the Sarcophagus which is decidedly good and (which she will be delighted to hear) that it contains very large crystals of felspar.</p>
+                  <p>Tell Miss J. that I can learn nothing concerning Mons. Alexandré.</p>
+                  <p>Tell Miss Harriet that Schiller's works are in 12 volumes and that I have sent 3, but that if this is not enough I will forward an additional supply – and also say – that Miss Benger's Queen of Scots is <hi rend="underline">ordered</hi> but has not yet arrived.</p>
+                  <p>Believe me | yours ever sincerely | J.S. Henslow</p>
+                  <p>I have sent a few dupes and yr. container. I have just been looking at the small Sphaerium wh. I got 2 yrs. ago, for the sake of completing my series and to my surprize I find it perfectly distinct from that wh. we got at Swaffham. It is much better and more like the young of corneum [Drawing]</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

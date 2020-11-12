@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_55.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-55">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Wilson   20 October 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 65</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_22.xml">Wilson, William</persName>
+                <date when="1827-10-20">20 October 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        <change when="2020-08-10" type="footnotes" status="released">Footnotes cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>20 October [1827]</date>
+                    <salute>Rev <hi rend="superscript">d</hi> &amp; dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                      
+                  <p>The arrival of another parcel of your rare plants from Kent, lays me under additional obligations, for which I return sincere thanks — they are truly acceptable— I trust you will find something worth your attention in the bundle which I now send you in return— A residence in the Highlands of Scotland for more than two months, tho' much interrupted by wet weather &amp; indisposition, has enabled me to collect &amp; preserve a considerable number of rare plants of that country, some of which cannot fail to be useful for the purpose of forming a part of the various herbaria on which you are now engaged I have also endeavoured to supply the deficiencies of the former collection I sent you, by enclosing good specimens of as many plants growing hereabouts, as I had leisure to dry in the course of the last season, and hope they will not come too late, to be useful— I have much reason to thank you for the introduction to D <hi rend="superscript">r</hi> Hooker, having experienced much gratification &amp; advantage during the short acquaintance. I have had with him— It was in consequence of his invitation to accompany him to Killin in Perthshire, that I was induced to go so far from home last Summer, otherwise I had concluded to spend the season in Westmorland— As I was not in a condition to bear the fatigues of continued exertion, I thought it best to remain stationary in Killin, rather than take any extensive ramble thro' the Highlands — my collection is on this account not so remarkable for its great variety, as for its containing a plentiful supply of each sort, &amp; gathered in good condition— I could have sent more specimens of Juncus castaneus, Arenaria rubella, Woodsia hyperboria, Alchemilla alpina, Gnaphalium supinum, Juncus trifidus, Trientalis europæa, Sibbaldia procumbens, Veronica saxatilis, Tofieldia palustris, Carex capilllaris, C. atrata, Cornus Suecica, and Myosotis alpestris, without at all impoverishing my collection, but as I have not yet distributed any among my friends, I thought it best to retain a sufficient supply, &amp; only send you so much as I thought would be really wanted— Should, therefore, a further supply of any of them be at all desirable, you will only have to mention it, in order that I may retain, all that can conveniently be spared, to be sent you at some future opportunity— I am greatly-delighted with your new plant Althaea hirsuta; and wild specimens, so beautifully dried, are highly welcome— I learn from Sir J E Smith, that Isnardia palustris has been lately found growing wild in Sussex, by M <hi rend="superscript">r</hi> W. Borrer— I was much pleased with your account of the Cowslip &amp; its change, by particular management, to the state of the Oxlip — It had never struck me that Viola hirta &amp; odorata were so nearly related, before you communicated to me your suspicions of the fact — on comparison of the two plants there exists an extraordinary similarity between them, and you are probably in the right— It may confirm your opinion, to be told, that I learned from M <hi rend="superscript">r</hi> Bentham (whom I saw at D <hi rend="superscript">r</hi> Hookers) that the flowers of <hi rend="underline">Viola hirta</hi> in France, has sometimes the fragrance of V. odorata— I have never observed this circumstance in Wales— M <hi rend="superscript">r</hi> Roberts I understand is more closely occupied than ever with his professional engagements but he faithfully promises to spend a few days in a botanical excursion with me if I visit Bangor during the winter, which I intend for the purpose of collecting mosses. The parcel for him will be very acceptable I know; &amp; I will take care that he receives it before long.—</p>
+                  <p>Lemna gibba has been again fertile, &amp; I have preserved a few more specimens, and collected a quantity of seeds for D <hi rend="superscript">r </hi>Hooker— L. minor I observed in flower, for the first time, in June last— I think this species hardly ever <del>ripens</del> produces perfectly mature seeds — I was not able to procure any—</p>
+                  <p>While in the Highlands I was fortunate enough to detect the real fructification of Jungermannia Blasia—it was in a very early stage, but sufficiently obvious, to satisfy me that it was a Jungermannia— All the specimens I found (about two or three at the most), I dissected; and so, cannot send away—</p>
+                  <p>Carex curta is abundant about Killin, &amp; occurs in swampy ground in the vallies, as well as near the summits of the mountains, at an elevation of 3500 feet—</p>
+                  <p>While at D <hi rend="superscript">r</hi> Hookers, I had the pleasure of seeing M <hi rend="superscript">r</hi> Winch of Newcastle from whom I was glad to know, you had received &amp; specimens of Cypripedium calceolus— I hardly expect to find it in Lancashire—</p>
+                  <p>The specimen of Galium (a duplicate of which you have from me, if I mistake not) gathered near Pen MaenMawr in Caernarvonshire, &amp; abundant in various parts of Wales, which I sent to Sir J E Smith, I am informed is "certainly is G. Witheringii, of a remarkably large size—" I still think it nothing more than the rough variety of G. palustre, occurring frequently about Warrington—</p>
+                  <p>I was in hope to be able to send you Gentiana nivalis from Ben Lawers, but I searched in vain for a third specimen— one of the two which I did find, I left with D <hi rend="superscript">r</hi> Hooker, who had never before been able to obtain it, and who, as the Author of the Flora Scotica, might be said to have the strongest claim to possess it— of every other plant which I found in the Highlands I believe I have sent you duplicates, with the exception of some common mosses, &amp;c— with best wishes</p>
+                  <p>I remain | Yours very faithfully | W. Wilson</p> 
+                </div>
+            </div>
+
+        </div>
+
+                
+      </body>
+    </text>
+</TEI>

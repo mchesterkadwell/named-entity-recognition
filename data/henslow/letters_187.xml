@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_187.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-187">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Fred Calvert   19 August 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 226</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_103.xml">Calvert, Fred</persName>
+                <date when="1831-08-19">19 August 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Whatfield</placeName>
+                    <date>19 August 1831</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>The Books which I have in my possession belonging to Ramsay were the following</p>
+                  <p>Tales of my Landlord 1. <hi rend="superscript">st</hi> Series – Vol 4</p>
+                  <p>D. <hi rend="superscript">o</hi>– D. <hi rend="superscript">o</hi>– 2 <hi rend="superscript">nd</hi> D. <hi rend="superscript">o</hi> –Vol <hi rend="superscript">s</hi> 1. 2. 3. 4</p>
+                  <p>D. <hi rend="superscript">o</hi>– D. <hi rend="superscript">o</hi>– 3 <hi rend="superscript">rd</hi> D. <hi rend="superscript">o</hi> –Vol <hi rend="superscript">s</hi> 1. 2. 3. 4</p>
+                  <p>Gibbon’s Decline &amp; Fall etc– Vol. 3</p>
+                  <p>It is very kind of you to offer to get books for me from the University Library, but your help in this respect will be valuable as well as kind to me as my reading lies chiefly in books bearing upon my professional duties, and I am well aware that I should derive much benefit from your reading &amp; knowledge on such subjects. Brougham sent me a letter which he had received from Edw. <hi rend="superscript">d</hi> Ramsay in w. <hi rend="superscript">h</hi> he mentions that Marmaduke had <del>made</del> left a will expressing his intention of dividing his effects between his Brother William &amp; a Sister, with the exception of the Books which were to go to Edward. I am glad the Instrument is found, he once mentioned to me that he had made such a will. There are few who have so much reason to feel the death of Ramsay as myself, few having been so much benefited from having known him. Whether I look upon life in prospect or in retrospect there seems to be a blot upon every part of the picture – for he seems to have borne a part in a great proportion of the rational &amp; intellectual pleasures, which I could look back upon with satisfaction, w <hi rend="superscript">h</hi> since I have known him well, &amp; latterly since I have left Cambridge I have been in the habit of looking forward to his visits here with as much pleasure as a child thinks of its holidays. I hope however that we may reasonably rejoice that his life was more free from the usual cares &amp; anxieties of the world than that of most men &amp; that it does not appear to us how as it regards himself it could have terminated more reasonably.</p>
+                  <p>Believe me | my dear Henslow | yours most sincerely| Fred Calvert</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

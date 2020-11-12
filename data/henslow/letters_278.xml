@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_278.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-278">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Whewell   6 May 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell Add.Ms.a.65: 35-36</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1856-05-06">6 May 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Downing College</placeName>
+                    <date>6 May 1856</date>
+                    <salute>My dear Whewell</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Stratton was with me last night to talk over Garden matters, &amp; among others I mentioned having learnt from more quarters than one that an important rule laid down by the Syndicate was habitually broken, by some of the servants accepting fees– It seems to me that the practice might be effectually stopped &amp; the scandal suppressed, by having 2 or 3 printed boards placed about the garden, with the regulations here enclosed– He does not like to do this without, your sanction, &amp; I have promised to write to you. There used to be a notice in the old garden, &amp; such practice is common in all such gardens, to the effect that no one is allowed to carry off specimens without the consent of the Curator– This might be advantageously added to the rest– I know for certain that persons are prevented visiting the Garden, &amp; especially the houses, so often as they would wish to do, from the keen look out for a gratuity which not directly asked for is sufficiently solicited by look &amp; manner to be very unpleasant to them–</p>
+                  <p>I return home on Saturday – &amp; may fairly say I never before have had so attentive a class–</p>
+                  <p>Ever y <hi rend="superscript">rs</hi> truly | J S Henslow</p> 
+                  <p>
+                     <hi rend="underline">Enclosure: Clipping from a printed sheet, with autograph emendations.</hi> 
+                  </p>
+                  <p>the Garden is open daily (Sundays excepted) to all graduates of the University; to all undergraduates giving their name and college, if required; and to respectably dressed strangers, on condition of giving their name and address if required. Servants with children, children by themselves, and persons accompanied by dogs are excluded. The Plant-houses may be visited from One till Four. No fees are allowed to be received by any of the attendants , &amp; visitors are particularly requested never to offer any.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

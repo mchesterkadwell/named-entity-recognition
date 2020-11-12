@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_210.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-210">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Joseph Henry   2 December 1839</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository/>
+                    <idno>New York Historical Society, Miscellaneous Manuscripts <hi rend="italic">The Papers of Joseph Henry</hi> 4 (1981): 307-10</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_119.xml">Henry, Joseph</persName>
+                <date when="1839-12-02">2 December 1839</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Princeton College of New Jersey</placeName>
+                    <date>2 December 1839</date>
+                    <salute>My dear sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am pleased to learn by your favour of the 31 <hi rend="superscript">st</hi> of Aug. <hi rend="superscript">1</hi> that the articles I sent you were received and that you consider them of some interest. I will forward to you the remaining nos of the Flora as they are published and will request the secretary of the Board of Regents of the Universities of the state of New York to send you regularly the annual reports on meteorology made under their direction. Professor Jaeger informs me that he has received one letter from you written on a large sheet of paper but that it contained no account of the package of plants you mention in your letter to me. He will be much pleased to exchange objects of Natural History with Dr Jermyn and yourself. The exchange can be made through my Friend Petty Vaughan Esq No. 7o Fenchurch Street London. Any article sent to him free of expense and directed to me will come safely to hand. I am not myself in the line of Natural History, but I think I can manage to get some articles for your museum. Rattlesnakes are not easily procured in this part of the United States but through the agency of the students of our Institution who come from a distance some may probably be obtained next summer. They abound in the mountains of Pennsylvania and Virginia. A young friend of mine left college yesterday for his home in Georgia and promised to send me early in the spring a live alligator. He will send it in a vessel to New York and I will then have it shipped on board of one of the London packets, directed to the care of my Friend Mr Vaughan. If we can succeed in getting it safely to your museum I presume it will be considered an object of some interest. I think it probable that I will be able to prevail on some one of the captains of the Packets to take charge of the animal free of expense. You will find the alligator a perfectly harmless animal which will probably live with but little attention in your climate. I was offered one of any size from the length of two feet to that of fourteen or fifteen. I requested one to be sent of the length of about four or five feet.</p>
+                  <p>Send me by mail a copy of any article you may publish in the way of science or otherwise. It will be interesting whatever may be the subject since I am personally acquainted with the author. You need be under no apprehension relative to the cost of postage in this country. A letter from London to Princeton costs about 64 sterling and a printed sheet much less. No account is taken of the size of the sheet. I am rejoiced to hear that the new mail regulations are to take place with you at the beginning of next month and I hope that something of the same kind will be adopted in this country although the rate of postage is now comparatively low. A proposition relative to the subject is to be submitted to Congress at the next session.</p>
+                  <p>I see by the papers that you are still interested in Politics–a professor in one of our American colleges would not dare to take so prominent a part.</p>
+                  <p>I have not as yet seen the report of the proceedings of the British association for the present year. The Society does not appear to have made quite as much noise as usual.</p>
+                  <p>Our country is just at this time in a very unhappy state in reference to the derangement of the currency. The banking system has been carried on to a ruinous extent – an inflation of the currency and over–trading have been the consequence. All the banks south of New York have stopped payment. The public works are all at a stand and consequently thousands of labouring men are out of employment. We have however been blessed this year with a more abundant harvest than has perhaps ever been gathered before in this country.</p>
+                  <p>With much Respect and Esteem | I am Yours Truly | Joseph Henry</p>
+                  <p>P.S. The american Government will probably establish a series of magnetic and meteorologi[cal] observatories on a plan similar to those about being erected in various parts of the British dominions. I am just now appointed one of a committee of the American Phil Society to petition the secretary of war on the subject.</p>
+                  <p>I wrote to you about 18 months since by a friend going to England but probably the letter was never delivered. In all cases I think the regular mail the surest conveyance and who would think of the expense when a letter is received from a distance of more than 3,000 miles. I was delighted with my visit to England and a scrap of paper from there directe[d] to me is an object of interest. JH</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

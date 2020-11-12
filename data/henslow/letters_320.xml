@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_320.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-320">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Edward Charlesworth   11 November 1842</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 85a</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_123.xml">Charlesworth, Edward</persName>
+                <date when="1842-11-11">11 November 1842</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cathedral Coffeehouse | St Pauls</placeName>
+                    <date>11 November 1842</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Since last I saw you my whole time and thoughts here have been occupied in <del>ne</del> the preparations for the approaching struggle at the Geological Society –</p>
+                  <p>I suppose you have had the Council Resolutions, which to my own amazement and that of everybody else were publicly read by Mr Murchison at the Society Meeting of Nov 2nd–</p>
+                    <p>I think the Document altogether is the most irregular and mysterious of its kind that I <del>n</del> ever heard said by so enlightened a body of Men as the Council of the Geological Society– What could induce them to put anything in about <hi rend="underline">motives</hi>? It makes the necessity for the Special Meeting far greater than ever– I know not when it will take place but I suppose in five weeks from this time. The Council have no Candidate to put up against me, and if they succeed in throwing me out to gratify the interested resentment of Buckland and Owen, I am afraid there will be Split in the Society which will be attended with most unfortunate Results– I am right about the Norwich fossil jaws – They are ceroine and not Anoplotherian yet Owen has taken no notice in either the Athaneum or Gazette– Mr Woodward put the Question to him at the Geological the other night and he declined answering, but I find that he has written to correct his blunder in the Proceedings of the Brit. Association Report.</p>
+                  <p>Believe me to be dear Sir | yours truly &amp; sinc | Edw Charlesworth</p>
+                  <p>Two printed enclosures pasted inside letter:</p>
+                  <p> 1<hi rend="superscript">st</hi>letter dated October 17, 1842: Submission to Secretary of Geological Society</p>
+                  <p> 2<hi rend="superscript">nd</hi>letter dated November 7 1842: General letter from Edward Charlesworth </p>
+
+                  <p>85b A further loose enclosure, notice entitled “Just published, No 1 of the London Geological Journal etc…” dated October 10 <hi rend="superscript">th</hi>, 1846</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

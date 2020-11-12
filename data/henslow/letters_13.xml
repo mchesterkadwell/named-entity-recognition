@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_13.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-13">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To N. J. Winch   21 October 1823</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Linnean Society Library</repository>
+                    <collection>Winch Letters</collection>
+                    <idno>W5:068</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1823-10-21">21 October 1823</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_11.xml">Winch, N. J.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        <change when="2020-08-10" type="footnotes" status="released">Footnotes cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>21 October 1823</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">                     
+                  <p>I have sent you a formidable list of desiderata, but I thought it better to give it entire as you may be able to supply me with some plants which, though common in the North I can not procure here in their native state. In fact I should be obliged to you for any N. country plants whether mentioned in my list or not &amp; as many duplicates of such as you can conveniently spare– I should feel obliged if you w <hi rend="superscript">d</hi> furnish me with a list of <del>of</del> such of our S. country plants as you w <hi rend="superscript">d</hi> wish me to procure for you– I have sent a few at a venture &amp; also duplicates of such as I thought might be acceptable to any N. country botanists among y<hi rend="superscript">r.</hi> friends. I have your printed list of desiderata but I fear that I am not likely to diminish it very much– I have however procured a few for you &amp; trust that I shall next year be able to get some more–</p>
+                  <p>May I beg y<hi rend="superscript">r</hi> acceptance of a syllabus of mineralogy w<hi rend="superscript">h.</hi> I published early this year.–</p>
+                  <p>With thanks for the plants you sent me– believe me</p>
+                  <p>Y<hi rend="superscript">rs.</hi> very truly | J. S. Henslow</p>
+                  <list rend="ordered">
+                     <item>Narcissus poeticus</item>
+                     <item>Serapias grandiflora</item>
+                     <item>Aquilegia vulgaris</item>
+                     <item>Arabis turrita</item>
+                     <item>Orchis militaris</item>
+                     <item>Hypochaeris maculata</item>
+                     <item>Glaucium violaceum</item>
+                     <item>Stratiotes aloides</item>
+                     <item>Atropa belladonna</item>
+                     <item>Lathyrus palustris</item>
+                     <item>-------- aphaca</item>
+                     <item>Delphinium consolida</item>
+                     <item>Caucalis infesta</item>
+                     <item>Veronica spicata</item>
+                     <item>Potamogeton pusillum</item>
+                     <item>Lobelia urens</item>
+                     <item>Schoenus mariscus</item>
+                     <item>Chenopodium acutifolium</item>
+                     <item>Lathirus sylvestris</item>
+                     <item>Melampyrum cristatum</item>
+                     <item>Selinum palustre</item>
+                     <item>Neottia spiralis</item>
+                     <item>Thymus Nepeta</item>
+                     <item>------ Acinos</item>
+                     <item>Lathyrus nissolia</item>
+                     <item>Anemone pulsatilla</item>
+                     <item>Thesium linophyllum</item>
+                     <item>Athamanta libanotis</item>
+                     <item>Aceras anthropophora</item>
+                     <item>Teucrium scordium</item>    
+                  </list>
+                  <p>N.B. The duplicates have the same date as those which are named.</p> 
+                  <p>
+                     <hi rend="underline">Endorsements by Winch: </hi>Wrote Jan 14 1823 Plants and Cumb. Fl: sent by M<hi rend="superscript">r</hi> Hodgson.</p>
+                  <p>Answered Dec <hi rend="superscript">r:</hi> 31<hi rend="superscript">st</hi> 1823 | Plants sent by Mr Lork.</p>
+                  <p>
+                     <hi rend="underline">Enclosures</hi>:</p>
+                  <p>Desiderata – If natives of Great Britain– JS Henslow [6 pp - printed list]</p> 
+                </div>
+            </div>
+
+        </div>
+       
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_310.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-310">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Jenyns   14 December 1839</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 185</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+                <date when="1839-12-14">14 December 1839</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swaffham Bulb(eck).</placeName>
+                    <date>14 December 1839</date>
+                    <salute>Dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have not had an opportunity before today of going to Cambridge and arranging Wood’s Entomology for binding; but it is my intention to accompany Hawthorne there, if the weather permit almost as soon as I have written this!</p>
+                  <p>Thank you for the mice, which will be acceptable, with any others that can be procured for comparison with my own. The Shrew with white teeth is simply <del>in</del> a very old individual of S. tetragonurus in which the teeth are worn down by long use to below the coloured portions, an accident which I have observed in former specimens of my own, but wh. gives the dentation quite a different character &amp; might easily mislead at first sight.–</p>
+                  <p>The Dormouse I have buried according to request, having simply extracted the cranium for preservation. – The Rennic, <del>h</del>as you term it, appears to be a very dark specimen of S. folicium &amp; may assist in determining whether that &amp; the S. ciliatus are distinct.</p>
+                  <p>I am glad you do not repent of your leaving Cambridge, but I hear grievous lamentations <del>of</del> at the blank which you have caused there, &amp; I feel very much myself having no house to receive me when I go over. – And my prospects are still worse now than they have been <del>before</del> yet, for my pony (Mr Hawthorne’s) is I fear so lame as to be unfit for further use this winter: I am consequently cut off from all communication with Cambridge, &amp; how to get on with Darwin’s fishes, without frequent access to the Library &amp; Museum, I know not. – My finger is now quite well, tho’ still tender at the bone when pressed; I feel on the whole, however, better for my trip, &amp; do not <del>grudge</del> regret having undertaken it. – I was sorry to hear of the melancholy death of your ornithological neighbour Mr Hoy: was he not the gentleman whose falcons you went to see, and gave me an account of? – I have nothing very particular to say to Harriet, so do not write to her now; but give her my love, &amp; tell her I hope to hear from her on the return of the Hawthornes. –</p>
+                  <p>Have you ever had a piece of wedding cake which was in the care of Lucas of Downing for you &amp; wh. he was consulting me how to have conveyed to you?</p>
+                  <p>Yours Affly | L. Jenyns</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

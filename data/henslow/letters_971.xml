@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-971">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Hooker 20 November 1846</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>Add 4251:641</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S. </persName>
+                <date when="1846-11-20">20 November 1846</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_45.xml">Hooker, William Jackson</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>London</placeName>
+                    <date>20 Nov 1846</date>
+                    <salute>My Dear Sir Wm</salute>
+                </opener>
+                <div type="transcription">
+
+                    <p>I would not bother you with an answer until I had seen Murray in Cambridge &amp; knew a little better what were to be my movements. I can remain in London only one day, fully occupied, &amp; quite unable to accept your kind invitation to Kew. We have always contemplated purchasing all the more common things at the Nursery gardens - only we found so many costly articles in Coniferae, that we thought it best to get what we could by begging in that group. When Murray knows what we shall really be unable to procure, he will avail himself of your offer of letting us have what you may be able to spare from your duplicates. We had a three hour meeting of the Botanic Garden Syndicate yesterday - when all we could do was to propose a Grace for the Senate next Wednesday to allow us 300£ for the work done &amp; 70£ more for the purchase of Trees to plant in the 7 acres which have been very thoroughly trenched &amp; prepared. We are still all abroad with respect to the source from whence the necessary funds are to come for completing the Garden - but every step gained makes it more difficult to recede - &amp; I find an increasing feeling in favour of advance- &amp; heartily trust we are now to receive no check. I have left Darwins two plants &amp; a little parcel of something or other which Miss Hooker left behind her, in custody of Lindley at the Hort. Soc. in Regents St.  where he can send or call for them. As one of the bottles leaks a little I have written which side of the parcel should be kept <hi rend="underline">uppermost.</hi> I sincerely sympathise with you in Miss Hooker's afflicting case. Mrs Steward was dining with us on Tuesday last, &amp; said she had met Lady Hooker at Yarmouth this summer. I hope when a more favourable season returns, that our house will again receive Miss Hooker &amp; any member of your family who can be prevailed upon to visit so secluded a retreat. My girls recollect, with great pleasure, Miss H's short sojourn &amp; only hope it will be much longer another time. Our friend Caple must give up his zoophytic theory for Botrytis. He is busy in starting a Museum at Bury &amp; has written to ask me what Botanical periodicals I would recommend. Kind regards to Lady H. &amp; family &amp; believe me very truly yrs</p>
+                  <p>J. S. Henslow </p> 
+                   
+                        
+                        
+                        
+                            
+                        
+                         
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

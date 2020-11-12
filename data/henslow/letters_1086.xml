@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1086">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Martin 28 January 1850</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Bury St Edmunds Public Record Office</repository>
+                        <collection/>
+                        <idno>FL586/13/1: 33</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1850-01-28">28 January 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_368.xml">Martin, Thomas</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham Hadleigh Suffolk</placeName>
+                        <date>28 January 1850</date>
+                        <salute>My dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>Thanks for the papers which I shall circulate with the Cottage Gardener,
+                            pasted on cover – I have not seen any more of the Morn. Chronicle’s
+                            statements than a few extracts in the Bury Post having reference to
+                            Suffolk – I have learnt to be very suspicious of Reporters’ statements –
+                            They contrive to dress up a few facts, sufficiently lamentable in
+                            themselves, in colors not warranted by a closer examination of details –
+                            I was told by a friend at Stourmouth that the details from that
+                            neighbourhood were very unfair representations of the state of things –
+                            Certainly I could not agree with the apparent approval of a system
+                            adopted by a friend of mine in a neighboring parish ­ who builds model
+                            cottages, – then covenants with the tenants that they shall not keep on
+                            pigs or fowls – out of respect to Farmers’ prejudices – It seems true to
+                            me that Farmers’ prejudices are of all things that men have to contend
+                            with, the most injurious to the welfare of the Labourer – It requires
+                            long residence in a Country village &amp; close acquaintance with the
+                            people to be able to enter into the feelings &amp; prejudices peculiar
+                            to our agricultural districts – &amp; I am sure no hasty visits of a
+                            newspaper reporter can qualify him for making a correct statement – I
+                            had made enquiry after these articles but had not been able to get sight
+                            of them – If they are ever published apart I will get them – As yet we
+                            have had fewer persons in the Workhouse than by this time last year –
+                            the cheapness of provisions more than compensating for any loss of
+                            labour–</p>
+                        <p>Ever yrs truly</p>
+                        <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

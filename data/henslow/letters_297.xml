@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_297.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-297">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Braybrooke   31 January 1832</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 41</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_135.xml">Braybrooke, Lord</persName>
+                 <date when="1832-01-31">31 January 1832</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Has forwarded JSH letter to a Mr Blackie in anticipation of him disproving own theories. Has heard Blackie is about to leave Thomas Coke’s service. Mentions that Cole, in a British Museum MS, has written of <hi rend="italic">Sambucus ebulus</hi> growing on the Bartlow Hills.</p>
+            <p>Gives notes on dimension of two trees planted at his Audley End Estate, a Lebanon cedar and an oak.</p>
+        </abstract>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>A E (Audley End)</placeName>
+                    <date>31 January 1832</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your letter has been forwarded to M <hi rend="superscript">r</hi> Blackie, and I give you due credit for setting a trap for him little doubting that he will put his foot into it, viz furnishing materials to convict his own theories.</p>
+                  <p>I have heard that he is about to leave M <hi rend="superscript">r</hi> Cokes service, but I do not know that it is true.</p>
+                  <p>Mr Gage (?) tells me that Cole in one of his ms vols in the British Museum, mentions the Ebulus or dwarf elder as growing on the Bartlow Hills, &amp; being commonly called Dane’s blood. I never heard however that Cole was a botanist.</p>
+                  <p>On the other page I have copied the dimensions of two of the trees near this house with the dates &amp;c</p>
+                  <p>I hope that you will not suffer from the unwelcome intruder into your eye, &amp; that you will leave the Ladies to themselves rather than risk an inflammation or inconvenience from lionizing</p>
+                  <p>Believe me</p>
+                  <p>D <hi rend="superscript">r </hi>Sir</p>
+                  <p>Y <hi rend="superscript">rs</hi> faithfully</p>
+                  <p>Braybrooke</p>
+                  <p>Dimensions of the self sown oak and the large Cedar in the Mount Garden at Audley End</p>
+                  <p>Sown in Oak <del>Height</del>6 1796 1832 f. i.</p>
+                  <p>at 3 feet from the ground 3 10 6. 2</p>
+                  <p>9 feet 3. 3 5. 6 <del>1832</del>
+                  </p> 
+                  <p>Height 46. 4 56. 4</p>
+                  <p>Cedar</p>
+                  <p>of</p>
+                  <p>Lebanon</p>
+                  <p>Planted 1832</p>
+                  <p>2 f. i.</p>
+                  <p>3 feet from the ground 11 5</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

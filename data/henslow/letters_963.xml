@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-963">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">to Mrs M Stovin 1829</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Science Museum</repository>
+                    <idno>Add MS 1211</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2.xml">Henslow, J. S.</persName>
+                <date notBefore="1829-01-01" notAfter=" 1829-12-31">[1829]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_321.xml">Stovin, M.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>1829</date>
+                    <salute>My Dear Madam</salute>
+                </opener>
+                <div type="transcription">
+                    <p>The Althaea hirsuta was noticed in Kent many years ago &amp; recorded in Symon's catalogue of British plants, &amp; also in Turner &amp; Dillwyn's guide. I found it plentifully in the fields between Cuxton &amp; Cobham in Kent, but think it very probable that it got there from seed originally imported in corn from the continent. I sd. say it had about an equal claim to insertion in our British catalogue with Delphinium, Glaucium, Adonis, &amp; some other annuals found only in cultivated ground.</p>
+                  <p>The Scirpus <hi rend="underline">carinatus</hi> was a mistake for <hi rend="underline">caricinus</hi> the former I do not possess.</p>
+                  <p>Mespilus cotoneaster is figured in the last No. of Flora Londinensis (now concluded).</p>
+                    <p>Believe me</p>
+                    <p>Yr. obedient servt</p>
+                    <p>J. S. Henslow</p>
+
+                   
+                        
+                        
+                        
+                            
+                        
+                         
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

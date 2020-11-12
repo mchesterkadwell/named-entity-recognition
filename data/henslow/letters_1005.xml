@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1005">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To British Library Literary Fund 5 April 1843</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>British Library</repository>
+                    <idno>Lit fund Anniv Dinner Papers 1843 Vol 7 No 3</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1843-04-05">5th April 1843</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_328.xml">British Library Literary Fund</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>JSH writes to decline an offer to accept the office of Steward at the anniversary dinner for the Literary Fund Society. Explains this is due to commitments lecturing at Cambridge and in the region of his Hitcham parish.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh</placeName>
+                    <date>5 April 1843</date>
+                    <salute>Sir</salute>
+                </opener>
+                <div type="transcription">
+                    <p>It wll be entirely out of my power to accept the office of Steward at the Anniv.<hi rend="superscript">y</hi> dinner of the Literary Fund Soc.<hi rend="superscript">y</hi> on May 10 which the officers of the Soc.<hi rend="superscript">y</hi> , have so condescendently proposed to me. My time is almost always so fully occupied that I am unable to take part in proceedings of many Societies in London which it would be the greatest gratification to accept, but especially in the month of May, I shall be obliged to be in Cambridge daily lecturing. I would willingly join the Lit. Fund Soc<hi rend="superscript">y</hi> - &amp; may some day feel myself justified in so doing - But at present I am over-weighted with subscriptions, &amp; am anxious for a while  to concentrate whatever of time &amp; money I have to share, upon certain schemes I have in hand in my own Parish and neighbourhood. Pray express my regrets to the officers of your Society, that I cannot, or rather <hi rend="underline">must not</hi>, accept their proposal, and assure them of the sense I entertain of the condescension is one of respect &amp; gratitude</p>
+                  <p>Yrs very faithfully</p>
+                  <p>J. S. Henslow</p>
+
+                   
+                        
+                        
+                        
+                            
+                     
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1025">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To William Jerdan 11 July 1833</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Uppsala University Library</repository>
+                        <idno>Waller Ms alb-77:187</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1833-07-11">11 July 1833</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_336.xml">Jerdan, William</persName>
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Cambridge</placeName>
+                        <date>11 July 1833</date>
+                        <salute>Dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                  <p>I received your letter of the 6th this morning &amp; beg leave to return my thanks with those of Sedgwick &amp; Whewell for the Nos. of the Lit. Gazette which accompd. it. Whewell has asked me to point out to you an erratum at p.424 Col.1. line 25 where altitude is printed for altitudes. We feel gratified at the kind manner in which the exertions of the resident members of the University have been noticed by you. In copying the Cambridge Chronicle for Sedgwicks remarks on Dr Dalton, the real point has unluckily been altogether omitted, &amp; it may be as well perhaps if you were to give it in a future number of your Gazette. I will send it to you when I can get a copy of it from the press - for we have been very diligently employed in revising the report prepared by our own reporter, &amp; intend appending this to the list of lithographic signatures when these are completed. It has been such hard work for Sedgwick &amp; myself I can assure you (with Whewell's occasional assistance) to reduce the materials before us with something like order. The reporter was not sufficiently up to the task of reporting such rapid speeches as were occasionally delivered &amp; a sad hash he had made of them. But I think the account we shall at length present will be found substantially correct in all the main features. It will occupy about 30 quarto pages with an alphabetical list of the names, the lithography taking up 62 pages more! The expense will be so heavy that we must charge a trifle for the volume* - about 3/6 I think - &amp; allow members only to purchase 3 copies each. Your intended present of the Polar plants will be highly valuable to our Botanical Museum - for I have scarcely any of those that were collected, &amp; little hopes of procuring any. In a public Museum they will be preserved when other private collections shall have perished, as I fear many formed of these highly interesting specimens have done already.</p>
+                  <p>Believe me</p>
+                  <p>Yrs very faithfully</p>
+                  <p>J. S. Henslow</p>
+                  <p>*N.B. We do not think it right to touch the funds of the Socy. to the amount of 300 £ in this matter by distributing the copies gratis - especially as they are likely to be so well employed in assisting the experiments proposed by the sections.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

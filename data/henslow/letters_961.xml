@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-961">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Michael Faraday 13 July 1837</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Science Museum</repository>
+                    <idno>MS 1406</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_178.xml">Faraday, Michael</persName>
+                <date when="1837-06-13">13 July 1837</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>R. Institution</placeName>
+                    <date>13 July 1837</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                    <p>I need not tell you that you, I, &amp; Dr Roget are a committee of the Faculty of Arts for Chemistry Animal &amp; Vegetable Physiology. The feeling on my mind is so vague as to what will <hi rend="underline">ultimately</hi> be required by the Senate as the minimum for the degree of B.A. that I cannot decide in my own mind as to how much or how little we ought to put down in the Chemistry as something which maybe either enlarged contracted or in any other way altered. I have drawn up the enclosed (Dr Roget by also out of him) have sent a copy to you (as to him) to know what you think of it. As a committee we ought to report soon. I shall be out of London from tomorrow until Saturday week</p>
+                        <p>I am dear sir</p> 
+                        <p>Very truly yours</p> 
+                        <p> M. Faraday</p>
+
+                   
+                  
+                        
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_38.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-38">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From N. J. Winch   20 October 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 45</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_11.xml">Winch, N. J.</persName>
+                <date when="1826-10-20">20 October 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Newcastle upon Tyne</placeName>
+                    <date>20 October 1826</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>At the time when your last letter reached me I was much too unwell to answer it, you must therefore not suppose me inattentive to so valuable a correspondent as yourself, for your communications afford me both amusement and instruction.– Owing to the long confinement and [d]isposition of M <hi rend="superscript">rs</hi> W– I have not been a mile from home this summer, of course can contribute but little to your Herbarium, … Rosa Doniana certé you may depend upon. R. gracilis I think I gave before– on the other side is my idea of this many named species &amp; its three varieties. – … All I can say is that any sp <hi rend="superscript">ns</hi> of rare plants, <hi rend="underline">even from a garden</hi>, are acceptable and your botanic garden must contain many curious species, at least it did so when I visited it in 1800 &amp; 1802 Mespilus cotoneaster!! and Chara gracilis I set a high value on, pray who was the fortunate discoverer of the former? Living plants are of little value to me for I have no garden, nor is one worth cultivating in this smoky town, but I should prize any dried sp. from Holland for I have been collecting an Herbarium for about thirty years which for the sake of geographic botany is arranged as follows – British plants – Lapland and the Arctic region Sweden, Norway – Russia &amp; Siberia – Germany, Holland &amp; France – The Alps of Europe – Italy – Hungary &amp; Greece – Spain and Portugal – Asia – Africa – America Nth &amp; South – Australia. M <hi rend="superscript">r</hi> Ja <hi rend="superscript">s </hi>Barkholm of York, a good practical botanist, showed me a specimen named <hi rend="underline">Lysimachia vulgaris</hi> &amp; said to be collected long since on the banks of the river near Darlington by his cousin, but which was certainly <hi rend="underline">Lysimachia punctata.</hi> but a plant not rare in Holland. Is it among your Dutch specimens? When you next favor me with a letter a slight sketch of Martin’s Herbarium would be a great treat to me. I too wash all my plants with spirits of wine containing corrosive sublimate but I am not much plagued with insects here. Should you see Mr Sedgwick have the goodness to remember me to him and believe me to be</p>
+                  <p>My dear Sir | truly yours | N: J: Winch</p>
+                  <p>var: α. fl: rub: <hi rend="superscript">d</hi> Rosa involuta when growing inland</p>
+                  <p>R. Sabini β of Sabine</p>
+                  <p>R. Donania</p>
+                  <p>R. gracilis</p>
+                  <p>β fl. alb: <hi rend="superscript">d </hi> Rosa Sabini α. of Sabine</p>
+                  <p>R. gracilis β from Ennerdale</p>
+                  <p>γ dwarf– Rosa involuta Eng: Bot– when growing on the sea shore</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

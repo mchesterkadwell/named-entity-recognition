@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_778.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-778">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From A. Carrighan   Jan.1.1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:18</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_271.xml">Carrighan, A.</persName>
+                <date when="1826-01-01">1 January 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>St. Johns</placeName>
+                    <date>Jan.1.1826</date>
+                    <salute>Dear H,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>a happy new year</p>
+                  <p>I have a note of four lines from a friend, the Visct, without a single promise &amp; and nearly stating that it is quite impossible for him to be here tomorrow.</p>
+                  <p>This being the case, letters (of which I have got a parcel from our Master) must be sent up to him, and as our election shop, is, to use a Scottish phrase, only open on lawful days, will you come &amp; hold a council at my rooms this evening (about half past seven) with your Chancery i.e. your books &amp; papers, and over a cup of [illeg], we may write letters, and [illeg] concoct a dispatch to the noble Lord to whom I am at any [illeg] my promise to write. If you fall in with Sedgwick, Lockyer, Duckworth , Dawes, Thanes, [illeg],and any of our colleagues who think they can help us, will you invite them for me &amp; I shall get out (torn) ask them myself by &amp; by wind and weather premitting. We shall want to [illeg],and if we are to scribble [illeg] some paper I find I am rather short of it. [illeg] ever yours A.Carrighan.</p>
+                  <p>The Master has one vote , I have two to add to our list, but they are not new to you and two refusals</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

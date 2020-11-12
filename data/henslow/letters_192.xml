@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_192.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-192">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From E. B. Ramsay   23 November 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 231</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_102.xml">Ramsay, E. B.</persName>
+                <date when="1831-11-23">23 November 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>7 Darnaway Street | Edinburgh</placeName>
+                    <date>23 November 1831</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                    <p>If there has been any mistake regarding the catalogues &amp; lists being returned it is of no moment because every thing has been arranged exactly as we wished –It is far better to let the china &amp;c go –the carriage is so troublesome &amp; I am glad that you have kept back the linnen which packs easily &amp; in small compass, &amp; can be put into the box. With regard to the gowns I hope you will not feel hurt if we ask you to take them they may be of use to you, &amp; may be useful to supply a friend from the country. I use nothing but the full sleeved preaching gown – keep any of the shades you like – we have an excellent miniature – but in truth I had rather never see a likeness – I cannot tell you how much how truly we have been gratified to learn what you tell us of the intention of putting up a monumental memorial in the chapel. It is pleasing &amp; soothing to hear of such an intended mark of respect from those whose good opinion is so estimable – I would only make one request – let it be perfectly plain – &amp; of so little expence as to be a mere trifle from each contribution – I do not offer any subscription for two reasons 1 <hi rend="superscript">st</hi> – because it is a memorial from friends &amp; not from relatives – &amp; 2 <hi rend="superscript">nd</hi> – because I have placed a marble slab &amp; inscription over his grave in the parish church of Fortingall – I have directed my brother in London to send you a small side face miniature for the medallion – we reckoned it always very like &amp; the expence of going by coach will be trifling, even if it do not prove useful – and now Henslow one more word regarding your friendly zeal &amp; unremitting attention to the affairs of your late friend – I have not lavished on you acknowledgement because I have been assured you know I feel them – &amp; because I know they would be distasteful to you – I think the highest proof I can give you of the estimation in w. <hi rend="superscript">h</hi> I hold you, is this that I do not feel irksome the unparalled obligations which you have conferred – it is I apprehend the highest testimony I can give to the true friendship you have shewn &amp; the single-mindfulness of your character – you have lost a brother since I wrote last – may all our afflictions be sanctified! I feel that all <hi rend="underline">my</hi> loss has given a color to <hi rend="underline">all</hi> my views –sobered them them not saddened them often does one ill come before me!</p>
+                  <p>I should be obliged by your enclosing William’s letter –I sh. <hi rend="superscript">d</hi> like to see his account of his action – if of course you have read it – He is an excellent creature? he is not yet in England I understand the £15 can be drawn out whenever it is wanted – I think I have nothing else to answer just now – I shall only therefore add my best wishes &amp; regards to yourself &amp; M <hi rend="superscript">.rs</hi> H–</p>
+                  <p>in wh I am joined by M. <hi rend="superscript">rs</hi> Ramsay –</p>
+                  <p>&amp; with great sincerity to sign myself yours| E. B. Ramsay</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

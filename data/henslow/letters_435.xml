@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_435.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-435">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Roach Smith   22 March 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 326</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_152.xml">Smith, Charles Roach</persName>
+                <date when="1856-03-22">22 March 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>London</placeName>
+                    <date>22 March 1856</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I thank you for your ever friendly sympathy.</p>
+                  <p>In relation to our venerable friend I have no doubt you know more than I do. I always fancied the fear of losing money was the greatest cause of the alienation of the other affections.</p>
+                  <p>You are aware (perhaps not) that the consistency of my Museum is preserved; but what is to me of infinitely greater worth, I preserve my own. No one has said more than I have on the impropriety &amp; frivolity of gathering up things without an object, &amp; then dispersing them for profit, or in the necessity of death. I have always openly repudiated this narrow minded &amp; trading spirit so universal &amp; I should stand reproved were I to permit what is entirely scientific to go to feed the capricious taste of selfish collectors, by a public auction. Also, for the same reason, I at once rejected the liberal offer of £3000 made by my friend L. <hi rend="superscript">d</hi> Londerburgh. The collection must now be preserved; but I regret we could not have a place built for it in the City. What a pity it was none of the rich and “fat and greasy Citizens” had friends to tell them how they might have got credit by saving it when it was found!</p>
+                  <p>Dr Gray seemed glad to get the Wasps’ nest.</p>
+                  <p>I am much obliged by the printed paper. It is very soothing to see a clergyman thus mixing in offices of kindness &amp; instruction with his parishioners. It is a noble contrast to the low pride that keeps them generally to their own little circle, floating in a position undefined, unsatisfactory &amp; inconsistent.</p>
+                  <p>Believe me, | my dear Sir, | your’s very truly, | C Roach Smith</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

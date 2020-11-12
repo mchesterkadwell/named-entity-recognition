@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_70.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-70">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. K. Greville   14 April 1828</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 84</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_50.xml">Greville, R. K.</persName>
+                <date when="1828-04-14">14 April 1828</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Sidmouth</placeName>
+                    <date>14 April 1828</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>The time is now drawing near when I must leave the S. W. of England for the colder shores of Scotland– and though I can do so without risk, yet I regret to say any chance of severe weather affects me in such a way as to make me not unconscious about the events of next winter. We leave Sidmouth on the 24 <hi rend="superscript">th</hi> and after spending about one week at Mr Northmores (Cleve Exeter) proceed northwards. My brother in law Sir A. Eden from the state of his new house can only see us at a particular time, and we must consequently regulate our motions to suit the convenience, to a certain extent, of the friends we have promised to visit on our way– Two plans of mine are thus given up, perhaps, for prudence’ sake it is as well they should be; – an excursion to Cornwall and a visit to London (the latter would have taken in Cambridge). In all this however I am disappointed, but it cannot be helped.</p>
+                  <p>The climate of Edinburgh is so trying to persons with at all delicate lungs, in the winter and spring, that we have come to the resolution of leaving it either this autumn or sometime next year, and you may easily conceive how uncomfortable we felt at the present moment in not being able to arrange anything about a matter of such importance to us. If the climate of Liverpool should prove sufficiently mild it strikes me as the best place for my pursuits between Edinburgh and London. It has a Bot. Garden – a Lyceum of literature and science – a sea port for my foreign communications – a population which I sh. <hi rend="superscript">d</hi> think would support an annual course of lectures – and a centrical situation. I shall reconnoitre as I go north.</p>
+                  <p>It is I think since I last wrote to you that I have got a very large parcel of Jamaican ferns– If you have duplicates of your Monte Video collection to spare, I will take care to send you good exchanges– I have also got a parcel of Brazilian specimens from D <hi rend="superscript">r.</hi> Martius but no duplicates. and a parcel of New Holland Algæ, of several of which there are good duplicates &amp; some new species, which I shall figure in my Collectanea Cryptogamica if I ever set it on going. I have got on with my Algae Britannicae pretty well and have taken notice of the whole of Mrs Griffiths’ collection. It is provoking to see some rare species just beginning to grow as I leave the place. I have laid in a great stock of many &amp; shall render the collection I sent you more perfect.</p>
+                  <p>Have you heard anything about the destination of Sir J. E. Smith's collection? He kept the Linnean one separate from his own – where does the former go?</p>
+                  <p>Pray do not forget your intention of asking your brother to look after the <hi rend="underline">ferns</hi> at Monte Video– If he has an opportunity of collecting <hi rend="underline">marine algæ </hi>nothing is easier to preserve them– give them a squeeze with the hand &amp; spread them widely between two boards <hi rend="underline">without a weight</hi> and <hi rend="underline">without paper</hi> –</p>
+                  <p>Of the specimens preserved in this way in New Holland – I have not failed once in restoring them. I sh <hi rend="superscript">d</hi>. think even gelatinous ones might be preserved in the same way, by sprinkling them well over with <hi rend="underline">dry sand </hi>in order to keep the branches from being agglutinated.</p>
+                  <p>Remember us very kindly to Mrs Henslow</p>
+                  <p>&amp; Believe me my dear Sir | very faithfully yours</p>
+                  <p>R K Greville</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

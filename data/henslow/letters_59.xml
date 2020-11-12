@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_59.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-59">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Revd Edward Wilson   7 November 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 70</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_263.xml">Wilson, Edward</persName>
+                <date when="1827-11-07">7 November 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Swinton nr. Rotherham</placeName>
+                    <date>7 November 1827</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I trust you will forgive the liberty a stranger takes in sending you a list of some of the scarcer plants growing in this neighbourhood— It was my intention to have sent it by my friend M <hi rend="superscript">r.</hi> Green, of Lewes— he unfortunately left York <hi rend="superscript">sh.</hi> without my seeing him— It is partly at his suggestion that I write to you.-- In this most delightful of pursuits I have been considerably assisted by <del>a</del> M <hi rend="superscript">r.</hi> Langley, a F.L.S. and an excellent &amp; indefatigable botanist— all the plants mentioned in the other page were gathered by us in their wild state, last summer. We shall have sincere pleasure in sending you any of the specimens you think proper. In the list you will find the Anagallis cærulea— this lovely flower grew among the A. arvensis— there seems to be no difference between the two plants, except in the colour of the petals— Botanists in constituting this a species, seem to deviate from the maxim of Linnæus— 'Nisium ne crede colori.' The Campanula patula accords exactly with the description in Smith's Flora. M <hi rend="superscript"> r.</hi> Atkinson of Leeds however in his paper in the Wernerian Memoirs says it does not grow in Yorksh.— I visited its habitat on the 27 ult, &amp; it was still in flower. I wish much that you sh <hi rend="superscript">d.</hi> see it— that we may know its certainty— The Scheuchzeria palustris I gathered at Lakeby Car, nr Boro' Bridge, while on a visit to a relation; I found it in seed, &amp; it is said that this is only habitat known in Engl <hi rend="superscript">d.</hi>— still M <hi rend="superscript">r.</hi> Atkinson does not mention it.— But I must not trespass longer on your time— So highly interested am I in the study of Botany as well as of Entomology, that to hear from you on those subjects w <hi rend="superscript">d.</hi> give me sincere pleasure: I will only add that if can in any way serve you, you may be assured of the readiness of yours | most truly | Edward Wilson</p>
+                  <p>P.S. I have dried specimens of most of the plants mentioned in the next page— as directed by M <hi rend="superscript"> r.</hi> Green—</p>
+                         
+                    <p>at Swinton &amp; the neighbourhood</p>
+                      <p>  
+                        <list rend="ordered">
+                            
+                       <item>Draba verna Mar 16</item>
+                       <item>Saxifraga tridactyle Ap.23</item>
+                       <item>Tormentilla reptans</item>
+                       <item>Viscum album</item>
+                       <item>Ophioglossum vulgatum</item>
+                       <item>Hottonia palustris</item>
+                       <item>Nuphar lutea</item>
+                       <item>Hydrocharis morsus-ranae July 20</item>
+                       <item>Trifolium officinale</item>
+                       <item>Adoxa moschatellina May 3</item>
+                        <item>Daphne laureola Apr 11</item>
+                        <item>Helleborus viridis Apr 7</item>
+                       </list>
+                            
+                          <list rend="ordered">
+                        <item>at Conisbro' Castle</item>
+                        <item>Arenaria trinervis</item>
+                        <item>serpyllifolia</item>
+                        <item>Circaea lutetiana</item>
+                        <item>Fumaria capreolata</item>
+                        <item>Echium vulgare</item>
+                        <item>Anagallis caerulea</item>
+                        <item>Campanula patula</item>
+                        <item>Orchis morio</item>
+                        <item>Tragopogon pratense</item>
+                        <item>Lamium amplexicaule</item>
+                        <item>Sagittaria sagittifolia</item>
+                        <item>Neottia spiralis</item>
+                        <item>Asperula odorata</item>
+                        <item>Lycopsis arvensis</item>
+                        <item>Sanguisorba officin.</item>
+                        <item>Campanula latifolia</item>
+                        <item>Hypericum pulchrum</item>
+                        <item>Epipactis latifolia</item>
+                        <item>Bryonia dioica</item>
+                        <item>Convolvulus sepium</item>
+                        <item>Montia fontana</item>
+                        <item>Verbascum thapsus</item>
+                        <item>Triglochin palustre</item>
+                        <item>Polygonum amphibium</item>
+                        <item>Saponaria officinalis</item>
+                        <item>Origanum vulgare</item>
+                          </list>
+                          <list rend="ordered">
+                        <item>at Roche Abbey June 21</item>
+                        <item>Scolopendrum vulgare</item>
+                        <item>Poterium sanguisorba</item>
+                        <item>Listera ovata (Ophrys)</item>
+                        <item>Lysimachia nemorum</item>
+                        <item>Paris quadrifol.</item>
+                        <item>Colchicum autumnale in seed</item>
+                        <item>Myosotis palustris</item>
+                        <item>Melica nutans</item>
+                        <item>------ uniflora</item>
+                         <item>Aquilegia vulgaris</item>
+                        <item>Cistus helianthemum</item>
+                        <item>Pinguicula vulgaris only one specimen</item>
+                        <item>Prenanthes muralis</item>
+                        <item>Veronica montana</item>
+                    
+                          </list>
+                          <list rend="ordered">
+                        <item>at Brodsworth July 3 on limestone soil</item>
+                        <item>Ophrys apifera</item>
+                        <item>------ muscifera</item>
+                        <item>Orchis ustulata</item>
+                        <item>------ bifolia</item>
+                        <item>Orchis pyramidalis</item>
+                         <item>----- conopsea</item>
+                        <item>Chlora perfoliata</item>
+                        <item>Campanula glomerata</item>
+                        <item>Bupleurum rotundifol.</item>
+                        <item>Astragalus hypoglottis</item>
+                        <item>Thymus acinos</item>
+                        <item>Ononis arvensis</item>
+                        <item>Anthyllis vulneraria</item>
+                        <item>Hypericum montanum</item>
+                        <item>--------- hirsutum</item>
+                        <item>Reseda lutea</item>
+                        <item>Antirrhinum minus</item>
+                        <item>Centaurea scabiosa</item>
+                        <item>Antirrhinum elatine</item>
+                        <item>Caucalis daucoides</item>
+                          </list>
+                          <list rend="ordered">
+                         <item>at Thornton Bridge nr Boro' Bridge Aug 3</item>
+                         <item>Atropa belladonna</item>
+                         <item>Eupatorium cannabinum</item>
+                         <item>Lythrum salicaria</item>
+                         <item>Cynoglossum offic.</item>
+                         <item>Hyoscyamus niger</item>
+                         <item>Drosera longifolia at Lakely Carr</item>
+                         <item>------- rotundifol.</item>
+                         <item>Vaccinium oxycoccus</item>
+                         <item>Scheuchzeria palustris</item>
+                         <item>Eriophorum vaginatum</item>
+                         <item>Comarum palustre       (Lakely Carr to here)</item>
+                         <item>Verbena officinalis</item>
+                         <item>Gentiana pneumonanthe</item>
+                         <item>Narthecium ossifragum</item>
+                         <item>Anagallis tenella</item>
+                      
+                         <item>at Wharncliffe Aug 31</item> 
+                         <item>Fumaria clavata</item>
+                        </list>
+                        
+                    </p>
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

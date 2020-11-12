@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_86.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-86">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Revd. W. Marsh   20 March 1829</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 106</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_56.xml">Marsh, Revd. W.</persName>
+                <date when="1829-03-20">20 March 1829</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Colchester</placeName>
+                    <date>20 March 1829</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>You have conferred on me a great favor, in forwarding your interesting sermon, &amp; equally interesting preface.</p>
+                  <p>The Bible is the only book to be studied, as to unfulfilled prophecy. And the spirit, in which for one reading it, is the best preparation for a right understanding of it. The great outline, I conceive, is perfectly plain. The filling up must be left to events as they shall arise. The Spirit of God, by the Word, is the teacher of the former. The Providence of God, by the Work, will make known the latter.</p>
+                  <p>The more we receive the Holy Scriptures in their plain, literal, &amp; grammatical sense, the nearer we come to the truths they contain. When we come to parts which are figurative, we have only to ascertain the meaning of the figure, &amp; we have then the literal meaning of the passage. <del>And</del> It is quite a mistake to suppose that every figurative passage must necessarily have a spiritual application. In this way the Jews have been improperly overlooked. I therefore perfectly agree with you in considering Rev. 20. 4, 5, 6, 12 as referring to literal resurrections.</p>
+                  <p>As to our Blessed Lord’s return at the period of the Millenium, I have never found any one yet who has set aside the argument founded on 2 Thess. <hi rend="superscript">s</hi> 2.8. The coming there is much the same as in 1 Thess. <hi rend="superscript">s </hi>2. <del>2</del>. 19 – 3c13. 4c15. 5c23 &amp; 2 Thess. <hi rend="superscript">s</hi> 2.1. It has been conjectured, that a forged letter led the Thessalonians to expect the immediate coming of the Lord, &amp; not the first Epistle. I think the latter might naturally have made that impression. But, whichever, it was, the Apostle in 2. Thess. <hi rend="superscript">s </hi>2.1-8 shews a certain event was to take place first, &amp; then the Lord would come. He evidently synchronizes the Coming with the final destruction of the Man of Sin– This Man of Sin, in whatever final form he appear, whether Papal or Infidel, must be Daniel’s fourth or Roman Empire. May the Inhabitants of that Empire be awakened by the thought. May the Church of Christ arise &amp; trim her lamps.</p>
+                  <p>I observe you differ from some of my inferences. I assure you I pay such deference to your study of those parts of scripture that I shall be quite obliged by any part. On such subjects every Christian ought more readily &amp; thankfully give up anything he has advanced, as soon as he perceives that it is not tenable. May the daily reading of the words of God both comfort &amp; purify your heart &amp; mine.</p>
+                  <p>I am |d <hi rend="superscript">r</hi> Sir |Y <hi rend="superscript">rs</hi> faithfully|W. Marsh</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1003">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Joseph Hooker 10 May 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>Add 9537.2.18</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1860-05-10">10th May 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_122.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>7 Downing Terrace Cambridge</placeName>
+                    <date>10 May 1860</date>
+                    <salute>My dear Joseph</salute>
+                </opener>
+                <div type="transcription">
+                    <p>I don't know whether you care to hear Phillips, who delivers the Rede Lecture in the Senate House next Tuesday at 2 PM. It is understood that he means to attack the Darwinian hypothesis of natural selection. Sedgwick's address last Monday was temperate enough for his usual mode of attack but strong enough to cast a <hi rend="underline">slur</hi> upon all who substitute hypotheses for strict induction, &amp; as he expressed himself in regard to some of C.Ds suggestions as <hi rend="underline">revolting</hi> to his own sense of wrong &amp; right &amp; as Dr Clark who followed him, spoke so unnecessarily severely against Darwin's views; I got up, as Sedgwick has alluded to me, &amp; stuck up for Darwin as well as I could, refusing to allow that he was guided by any but truthful motives, &amp; declaring that he himself believed he was exhalting &amp; not debasing our views of a Creator, in attributing to him a power of imposing laws on the Organic World by which to do his work, as effectualy as his laws imposed upon the inorganic had done it in the mineral kingdom. I believe I succeeded in diminishing if not entirely removing the chances of Darwin's being prejudged by many who take their cue in such cases according to views of those they suppose may know something of the matter. Yesterday at my lectures I alluded to the subject, &amp; showed how frequently naturalists were at fault in regarding as <hi rend="underline">species</hi> forms which had (in some cases) been shown to be varieties, &amp; how legitimately Darwin had deduced his <hi rend="underline">inferences</hi> from positive experiment. Indeed I had, on Monday, replied to a sneer (I don't mean from Sedgwick) at his pigeon results, by declaring that the case <hi rend="underline">necessitated </hi> an appeal to such <hi rend="underline">domestic</hi> experiments &amp; this was the legitimate &amp; best way of proceeding for the detection of those laws which we are endeavouring to discover. I do not disguise my own opinion that  Darwin has pressed his hypotheses too far - but at the same time I assert my belief that his Book is (as Owen described it to me) the "Book of the Day". I suspect the passages I marked in the Edinburgh Review for the illumination of Sedgwick have produced an impression upon him to a certain extent. When I had had my say, Sedgwick got up to explain, in a very few words, his good opinion of Darwin, but that he wished it to be understood that his chief attacks were directed aginst Powell's late Essay, from which he quoted passages as "from an Oxford Divine" that would astound Cambridge men as no doubt they do. He showed how greedily, (if I may so speak) Powell has accepted all Darwin had suggested, &amp; applied these suggestions (as if the whole were already proved) to his own views. I think I have given you a fair , tho' very hasty, view of what happened &amp; as I have just had a letter form Darwin, &amp; really have not a minute to spare for a reply this morning perhaps you will send this to him, as he may like to know, to some extent, what happened. As he also wishes to know of all criticisms, pro &amp; con, he will find an <hi rend="underline">adverse</hi> view in the last No (just received) of the Dublin Magazine of Natural History. Of course he knows of the reply to Owen in a late Saturday Magazine &amp; also the articles in the Spectator. </p>
+                  <p>Let me know as soon as you conveniently can whether my <hi rend="underline">ideas</hi> of the Palace Lectures met yours. Every lecturer must, of course, be guided to a considerable extent by his own. But there may lie something or other which he has neglected, or is not aware of, that would induce him to modify his plans - I have only a fortnight more here, &amp; have to <hi rend="underline">select</hi> such materials as I think maybe useful from the Museum here &amp; pack them up so I have not much time to spare. A few words will be enough to set me <hi rend="underline">thinking</hi> &amp; if these Lectures are to come off I should wish to make them as instructive or <hi rend="underline">suggestive</hi> (as well as <hi rend="underline">agreeable</hi> ) as 4 lectures may admit, &amp; my opportunities allow. I must now have 100 auditors here the room is so full; &amp; above 50 seem likely to try for a Pass this year. We have had 3 meetings within the week to arrange our new schemes for Triposes - &amp; so far all is working well. Grace Hawthorn is here for +/- 24 hours. Leonard has been for 2 or 3 nights. Love to F etc. </p>
+                  <p>Ever affecly</p>
+                  <p>J. S. Henslow</p>
+
+                   
+                        
+                        
+                        
+                            
+                        
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

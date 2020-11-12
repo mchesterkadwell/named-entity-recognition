@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_602.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-602">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From George Johnston August 11 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 213</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_136.xml">Johnston, George</persName>
+                <date when="1853-08-11">August 11 1853</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Berwick on Tweed</placeName>
+                    <date>August 11 <hi rend="superscript">th</hi>—</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Some few months ago an application was made to the Prime Minister that he might be pleased to recommend your humble servant to the Queen as a proper person to receive one of the Pensions granted to scientific men out of a sum set aside for the purpose. The application was unsuccessful; &amp; I have been advised by some friends to renew the application under the favour of the British Association. It appears that this Society has been urging on the Government the propriety of giving these pensions only to Candidates recommended by Societies; &amp; I am well aware of the strength any claims I have would receive, could I get them noticed &amp; mentioned by such an influential body as the British Association is. And my sole object in writing to you is to solicit your influence at the approaching meeting at Hull, if any opportunity occurs to you of doing so without impropriety.</p>
+                  <p>I am not going to state my claims— there would be some difficulty in making out a good brief— nor would it have ever occurred to me to have made such an application until some friends assured me that it might be done without impertinence or presumption. I cannot plead any scientific discoveries, but I have done what little I could, in not very favourable circumstances, to diffuse a taste for natural history, &amp; encourage a study of it as a moral agent. And I cannot but believe that my efforts in this way have been influential, because otherwise I would be giving the lie to many who have written to me expressive of their thanks, &amp;c.; &amp; I would be blind to the increased extent of attention to those tribes of animals on which I have written. It is, therefore, more for what I have done to diffuse the knowledge of others, &amp; to interest those who had hitherto been ignorant, that I rest the claim I urge.</p>
+                  <p>Permit me to add that I am not in circumstances that would render the Pension a matter of little consequence. Some few years ago, having placed my family in positions which rendered them apparently independent of me in a great measure, I was curtailing my professional duties with a view of becoming a consulting physician only; &amp; this would have left some leisure on my hands for the better study of some classes of animals I had in view. In the midst of this plan I was suddenly &amp; unexpectedly deprived of my whole capital by the fraudulent conduct of my solicitor in whom I had placed the most unlimited confidence. I lost by him within a few pounds of £5000. A few months after a brother whom I had assisted became bankrupt, &amp; by him I lost £1200 with several years interest. My brother soon afterwards died, &amp; I undertook to educate one boy, &amp; I provided for another. And two years after the husband of my eldest daughter died, &amp; left his affairs in such a state that, in the mean time, she has returned to her father’s house, &amp; to preserve her husband’s name &amp; character intact, I have come under some pecuniary liabilities, which I must meet out of my professional income. These may be repaid ultimately.</p>
+                  <p>I have mentioned those particulars, because it seemed only necessary, that you should know them, however painful, provided I solicited your interests in this matter. I have just to add that I return my income at about £500 per annum.</p>
+                  <p>If my friends secure me this said Pension I do not intend to be idle, but I would certainly restrict my business to that of the physician, whose duty, in such a place as this, is light &amp; must leave much time unoccupied on his hands. This I would devote to my favourite studies, &amp; I would like to complete a history of our native Annelides, of our Acanides, &amp; of our sessile-eyed Crustacea. I would like too to study with care the history of our Salmonides. Such are the subjects I had reserved for a life I had contemplated to have ended in comparative retirement.</p>
+                  <p>In the hope you will excuse this long detail, &amp; in the trust that I may secure your interest with the naturalists of the British Association,</p>
+                  <p>Date of letter inferred from the date of the Hull meetimg of the British Association</p>
+                  <p>Believe me, Dear Sir, | yours very respectfully | George Johnston</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

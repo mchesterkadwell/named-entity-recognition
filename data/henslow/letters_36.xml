@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_36.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-36">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To N. J. Winch   25 September 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Linnean Society Library</repository>
+                    <collection>Winch Letters</collection>
+                    <idno>W5.261</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1826-09-25">25 September 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_11.xml">Winch, N. J.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        <change when="2020-08-10" type="footnotes" status="released">Footnotes cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>25 September 1826</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have been so much occupied this summer with reading on Botany, that I have not been very active in the field – &amp; consequently on looking over my acquisitions &amp; separating the duplicates I find scarcely any thing worth sending you– I have put bye for you Milium lendigerum, Vinca major &amp; Sonchus palustris from Kent– &amp; Menyanthes Nymphæoides from Cambridgeshire – but I wish you would favour me with something of a list to direct me in my choice as I might perhaps be able to send you some specimens of our Southern plants which you would like tho' they may not be among your desiderata which I have got – Malaxis Loeslii I have sought for in vain this year – I fear the season was too dry – I found it last year sparingly in a habitat not mentioned by Relhan – Indeed all his habitats for it are destroyed – I doubt not it will turn up again – It grows close to my Brother in Law’s house – he is a Botanist &amp; searched for it as well as myself this year–</p>
+                  <p>The only Eriophorum I ever found is angustifolium– I should feel very much obliged to you for any exotic species (you mention some from Lapland) &amp; shall be happy to dry any you may want from our Garden– I am making as general a collection of all plants as I possibly can &amp; any thing, even the most common, from different countries or counties are acceptable– I found Althæa hirsuta (one specimen) last year in Kent, but was prevented from searching for it this summer by bad weather – I can send you a seedling I raised from my own specimen if you wish it– I shall have some few duplicates of common plants from Holland which I can also send when I have collated them if you want them – I write now as the Oct <hi rend="superscript">r. </hi>term is so near at hand &amp; you may perhaps have an opportunity of letting me hear from you &amp; sending me a few plants by some friend coming to Cambridge, by whom I could also return you some– If however you know no one, I shall still be happy to receive a packet, however small, by the Coach.– You seem to doubt the genuiness of Lonicera caprifolium, which however I believe to be truly indigenous in this county – which is more than I can say for some of Relhan's plants– By the bye I hope you got a specimen of Mespilus cotoneaster &amp; also Chara gracilis (which I have not been able to get in flower) which I sent you in a letter in the summer– I invariably poison all my plants before I put them into my herbarium – &amp; I find it of immense advantage to rub over succulent plants with the solution before they are dried– It prevents their becoming moldy &amp; seems to kill them sooner– I am poisoning &amp; sticking down all Martyn’s plants also –</p>
+                  <p>Believe me | most truly y <hi rend="superscript">rs.</hi> | J. S. Henslow</p>
+                  <p>
+                     <hi rend="underline">Endorsement by Winch</hi>:</p>
+                  <p>Answered Oct <hi rend="superscript">r:</hi> 26 <hi rend="superscript">th</hi> 1829</p> 
+                </div>
+            </div>
+
+        </div>
+     
+      </body>
+    </text>
+</TEI>

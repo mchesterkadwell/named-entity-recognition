@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_185.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-185">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From E. B. Ramsay   16 August 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 224</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_102.xml">Ramsay, E. B.</persName>
+                <date when="1831-08-16">Aug 16 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Darnaway Street</placeName>
+                    <date>16 August 1831</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your letter w. <hi rend="superscript">h</hi> I have just received has given me unexpressible pleasure. I cannot tell you how it has soothed my feelings &amp; what comfort I have derived from it. It is most precious to me the affectionate &amp; pious remembrance you have of my beloved brother – accept the offering of a grateful heart for this &amp; for all your kind &amp; judicious arrangements – often have I prayed that God may bless you &amp; believe me to share some of your friendship &amp; regard will be a most valued &amp; esteemed possession – Two keys were attached to his watch w. <hi rend="superscript">h</hi> will help you to procure all the rest. I shall be able I hope to send them in this letter – With regard to his clothes I think they sh. <hi rend="superscript">d</hi> all be disposed of where you are. Do precisely as you feel <del>disposed</del> inclined. I would not have any of them sent away from Cambridge – but all disposed of on the spot.– His gown might be left back till we decide further – Please do give my best regards to Mr Dawes &amp; tell him how much I feel his delicate attention respecting the horse (from feeling how fond he was of it!) I sh <hi rend="superscript">d</hi> be happy indeed were he to suit Mr D – if not it sh. <hi rend="superscript">d</hi> be sold at once as surely it w’ be desirable to have it off our hands. As I cannot by any arrangement be able to retain it myself– It is quite correct (?) to Mr Calvert to pay that money into the bankers hand it would be the best arrangement for commanding funds to answer all demands, w <hi rend="superscript">h</hi> must on the whole be considerable and I think with Mr Dawes’ assistance we shall soon have things in order. Will you be so kind as settle properly &amp; liberally with him. I had better write to Dr French. It can only be taken as a comf– <hi rend="superscript">t</hi> &amp; if necessary (?) can do no harm – Indeed my feelings dictate that I ought to do so – I am writing in a hurry to save post &amp; am</p>
+                  <p>yours most truly &amp; affectionately | E B Ramsay</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

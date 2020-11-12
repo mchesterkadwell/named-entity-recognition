@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_842.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-842">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From L. Sulivan 3 February 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:82</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_290.xml">Sulivan, L.</persName>
+                <date when="1826-02-03">3 February 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>3rd February 1826 </date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have to return you my best thanks for <hi rend="underline">three</hi> letters and their enclosures which having travelled after Lord Palmerston have this moment reached my hands all <hi rend="underline">together</hi>, and which I shall dispose of as quickly as possible.</p>
+                  <p>The trouble taken on these lists is I assure you well (Illeg), for in a case like ours the complete elucidation of every individual vote is of much importance and may turn the election. Your information as I receive it puts me daily in the way of fresh channels of application or clears away the rubbish of names not on the boards as not having votes. I rejoice at your statement of Trinity inaccuracy because the same imperfection will have in a degree attached to the lists made use of by the other candidates. Unfortunately however they or at least Copley have a number of active men of all standings whose personal knowledge of men &amp; their addresses supplies much that was wanting.</p>
+                  <p>I am sorry C.J.Ellis is linked with Thomas Flower. Ellis who I had hoped was new to your lists and who since I last wrote has been a most active and useful member of our committee.</p>
+                  <p>Let me particularly caution you against inferring that a man who votes for Copley is not worth persuing, unless you have clearly ascertained the second vote. I observe that in your statement to Lord P. of today you have down <hi rend="underline">Perrott</hi> of Trin as adverse but I had his promise for Lord P. yesterday thru' a friend at Edinburgh</p>
+                  <p>I remain Dear Sir</p>
+                  <p>Yours very faithfully</p>
+                  <p>Law Sulivan</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

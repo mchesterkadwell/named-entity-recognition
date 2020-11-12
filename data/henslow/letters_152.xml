@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_152.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-152">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Christy Jr   26 February 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 183</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_81.xml">Christy Jr, William</persName>
+                <date when="1831-02-26">26 February 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Clapham Road</placeName>
+                    <date>26 February 1831</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am ashamed that I have never before acknowledged the receipt of the very valuable packet of specimens you were so kind as to send me. Having now got my plants up from Cheshire I shall lose no time in making up a parcel for you. By some mistake the packet containing my Irish plants is not with the rest. Of these the only really rare ones are Arbutus unedo, Stachys ambigua &amp; Trichomanes brevisetum. The first &amp; last I gathered with Wilson so you have perhaps already received them from him but the other I think he did not find. I shall therefore if they do not arrive in time for this parcel enclose them in another before the season is over as there are some of your desiderata of which I have no duplicates by me but which I can easily procure in the ensuing Spring &amp; Summer.</p>
+                  <p>In sending you parcels I shall not conform myself strictly to your desiderata but send you duplicates of rare or local plants which if you already possess you can give to the best Botanists of the Class or dispose of in exchanges or in any other way you think fit.</p>
+                  <p>I received a very long &amp; interesting letter from Wilson a few days ago full of valuable remarks on various plants. I also had a very precious parcel of specimens from the Rev <hi rend="superscript">d</hi> G E Smith containing among others Cyperus longus &amp; Orobanche caryophyllacea. Is he a correspondent of yours? I think he could send you a good many rare plants.</p>
+                  <p>If you are not already acquainted with my friend Mr Arnott of Edinburgh I strongly advise you to open a correspondence with him.</p>
+                  <p>He has botanized extensively with M <hi rend="superscript">r</hi> Bentham in the South of France &amp; Pyrenees &amp; wants to send you a very valuable collection of the plants of that part of Europe as well as some rare British ones.</p>
+                  <p>I know he is in want of some of the rare Cambridge Plants &amp; when I was in Edinburgh he talked of writing to you &amp; offering to exchange Exotic Plants for these.</p>
+                  <p>Perhaps he has already done so. His address is G A Walker Arnott Esq., Advocate, 7 S <hi rend="superscript">t</hi> John Street Edinburgh.</p>
+                  <p>Excuse the freedom of my remarks – I am only anxious to shew you every opportunity of benefiting your Herbarium. By the bye would any seeds from Barbadoes be useful to your Botanic Garden? I have just received some but unfortunately without their scientific names.</p>
+                  <p>Some of the local names are odd enough as “Old Maids” – “Pigeons dung” &amp;c &amp;c &amp;c Perhaps you will let me know.</p>
+                  <p>There is one marked “plant from which Noyau is made” – it is evidently the seed of a species of Ipomea or Convolvulus &amp; besides abounding in prussic acid contains a great deal of saccharine matter. I enclose a few if you like to grow it.</p>
+                  <p>Believe me | yours very truly | W Christy Jr</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

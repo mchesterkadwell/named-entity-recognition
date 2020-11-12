@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1105">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Martin 12 Oct 1855</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Bury St Edmunds Public Record Office</repository>
+                        <collection/>
+                        <idno>FL586/13/1: 37</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1855-10-12">12 Oct 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_368.xml">Martin, Thomas</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>tomorrow at Hitcham, Bildeston, Suffolk to stay at
+                            Cambridge</placeName>
+                        <date>12 Oct 1855</date>
+                        <salute>My dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>Leaving Hitcham for the Liverpool meeting of the British Association on
+                            the day after our little Village fête – &amp; having back work to attend
+                            to on my return, together with the fulfillment of an engagement to
+                            assist with specimens &amp; voice at another Village Show a few miles
+                            off, during the past week – &amp; now having come here to deposit my 2nd
+                            son in his quarters at Christs Coll, I have been somewhat tardy in
+                            acknowledging the receipt of pretty border to a Ticket of Merit you were
+                            so good as to send me – I have unluckily ordered (before I got it)
+                            something of the sort as I should have asked you whether I could not
+                            purchase some of these – I think the pasteboard rather too thin – (the
+                            specimen was crumpled &amp; spoilt for use) &amp; I rather fear the
+                            colours wd fade in our smoky cottages– I mean to distribute more than
+                            one annually for “superior allotment culture” – I have a neat plate
+                            (wood cut) of a baptismal service with a certificate of baptism
+                            appended, which finds its way into the cottages, &amp; some have several
+                            on their walls– also a plate for our Playing match society – of which one
+                            man has 5 on his walls – but the apathy of the farmers has allowed this
+                            encouraging practice to fail for the last 2 years – tho’ I think it
+                            likely it may revive with a little fresh blood lately imported – I think
+                            you have seen these 2 plates – The proposed additions to them will, I
+                            believe, be approved by the Labourers – it is no use asking for the
+                            approbation of the Farmers who are mostly wonderfully apathetic (not to
+                            say envious) about anything done to encourage their Labourers – but all
+                            this you know well enough – Thanks for the Report which I will read as
+                            soon as I get home &amp; see if I can’t gather a hint or two from
+                            it</p>
+                        <p>Believe me</p>
+                        <p>very truly yours</p>
+                        <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

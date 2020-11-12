@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_681.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-681">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Buckland   9 January 1833</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 54</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_256.xml">Buckland, William</persName>
+                <date when="1833-01-09">9 January 1833</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Ch. Ch.</placeName>
+                    <date>9 January 1833</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Many thanks for your parcel recd last evening including the Sketch w. <hi rend="superscript">h</hi> I have placed in the Artists Hands &amp; shall hope to have in the Printers Press by Friday or Saturday as He is waiting for it—</p>
+                  <p>Your Zamia Cone throws much light on my Drawing of a Cone from the Portland Bed— &amp; is much nearer to the fossil than any of the fir Cones— I now understand fully your reasoning upon this subject.</p>
+                  <p>M <hi rend="superscript">rs</hi> Buckland desires who to return her best Thanks for M <hi rend="superscript">r</hi> Jenyns monograph on the Cryllas &amp; Pisidium &amp; your Election Papers of evil omen to all Pluralists—</p>
+                  <p>I think your notices on the temperature of springs near Weymouth—shd be recorded in a note, as they may be of use— When you take the temperature of Water from a Pump do you first pump off as much as may have filled the Pipe &amp; been affected by the air surrounding it?</p>
+                  <p>With respect to the wood encircled with the Cylinder of flint do you think it certain that the said cylinder bearing marks of no organic structure may not possibly be of the same nature, (simply mineral) with the Concretions of flint &amp; chert that we find of the same cylindrical form around alcyonic Bodies in the Chalk or Green Sand formations assuming the form of the inclosed organic Body to a distance of some 2 3 or 4 inches beyond its actual surface? On your Theory as you apply it to the Case of yr stumps in the Dirt Bed it seems to me we ought to have the Heart of those Trees also incased with cylinders of Chert bearing no organic Structure or but little of it— but I am not aware of any Case in w <hi rend="superscript">h</hi> such a Crust or Case of Chert has been found around <del>in</del> the Dirt Bed Trees, &amp; unless you have one example that has occurred to you— I w <hi rend="superscript">d</hi> hardly venture to print what you state on this subject in your former letter— Pray inform me immediately if you have any Case such as this— &amp; it will be in time for the Press— if you have found no such Crust, we must I think not rest content to believe in the Decay of all but the Heart of the Trees before they were buried under the Burr—</p>
+                  <p>I will return your Chalbury Hill Specimen &amp; Zamia Cone in a Box which I hope to send to Professor Miller the End of this Week or Beginning of the Next</p>
+                  <p>M <hi rend="superscript">rs</hi> B is much better &amp; unites in kind regards to M <hi rend="superscript">rs</hi> Henslow</p>
+                  <p>With kind regards | Very Truly | W <hi rend="superscript">m</hi> Buckland</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

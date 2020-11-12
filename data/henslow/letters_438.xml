@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_438.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-438">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Horner   13 April 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 182</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_131.xml">Horner, Leonard</persName>
+                <date when="1856-04-13">13 April 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Manchester</placeName>
+                    <date>13 April 1856</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your letter of the 21 <hi rend="superscript">st</hi> of March followed me here &amp; I have been so much occupied that day after day I have had self reproaches for allowing it to remain so long unacknowledged. I thank you for remembering to let me see the continued progress &amp; success of your unremitting &amp; invaluable labour for the welfare of your flock. I wish I knew anyone in this region whom I could rouse to an imitation of what you have done &amp; are doing. The town clergy must work in other directions, &amp; I scarcely know one of those in the rural districts. I think the Bishop of Manchester would be very likely to know some who would take to such a course of welldoing, &amp; I think that he would give every encouragement to it. I wish I could be the means of bringing you &amp; him together, that you might tell him what you do &amp; how you do it. He tells me he is not likely to be much in London this season, as he has the Bishopric of Durham also on his hands at present; but if I find him in Town I will let you know.</p>
+                  <p>The rejection of Lord J. Russell’s education resolutions is what I expected. I wonder how any one takes the trouble to bring the subject forward in parliament, for let a man propose what he may, he is sure to be defeated by the one party or another. When things have got so bad that the country will be in a fright, something will be done, not sooner.</p>
+                  <p>I expect to be again in town in the course of a Month, but before that to spend the first week of May at Mildenhall. M <hi rend="superscript">rs</hi> Horner &amp; our daughter Joanna are here and write in best regards to yourself and M <hi rend="superscript">rs</hi> Henslow. The Hookers we got a good account of yesterday, as there was a large party of Lyells at Kew last week— Much praise of Willy—</p>
+                  <p>Your’s faithfully | Leonard Horner</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

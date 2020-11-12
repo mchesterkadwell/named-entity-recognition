@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1104">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Martin 27 August 1855</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Bury St Edmunds Public Record Office</repository>
+                        <collection/>
+                        <idno>FL586/13/1: 32</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1855-08-27">27 August 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_368.xml">Martin, Thomas</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham Hadleigh Suffolk</placeName>
+                        <date>27 August 1855</date>
+                        <salute>Dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>I am very much obliged by your kind attention. The enclosed will need the
+                            following explanations – The 3 sermons were finished under the idea that
+                            they might direct attention a little more specially than on ordinary
+                            occasions – &amp; perhaps reach some who never come to church. You must
+                            not view them as laboured productions – the parish papers refer to my
+                            method of carrying on such schemes rather by printed information than by
+                            personal importunities, which I very greatly object to – to say nothing
+                            of the loss of time incurred by running from house to house &amp;
+                            feeling like “a busy-body”. The scraps from the Bury Post are a series
+                            of letters in which I am still engaged (wanting No.1. of which I have no
+                            copy &amp; which referred to our Farmers having had 17 ploughmen in the
+                            field this year &amp; 20 of us dining together afterwards; a practice I
+                            recommended to every village in Suffolk) – Those letters I intended for
+                            purposes of agitation – to provoke a little preliminary enquiry into
+                            matters referred to, before we come together next month to form a
+                            Labourers Friend Socty. of which notice was given in the papers that it
+                            was Sir Henry Bunbury’s intention to call us together – I am afraid that
+                            the books named in my lending library list, are not all such as I wish
+                            they were – but they were such as I happened to have – I have not sent
+                            samples of tickets for Clubs on as you can easily understand what they
+                            must be – Pray excuse this hurried note</p>
+                        <p>Yrs very truly</p>
+                        <p>J. S. Henslow</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

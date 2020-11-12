@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1011">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Joseph Mechi 27 September 1844</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>American Philosophical Society Library</repository>
+                    <idno>Mss.B.H382</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_333.xml">Mechi, John Joseph</persName>
+                <date when="1844-09-27">27 September 1844</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>4 Leadenhall Sq London</placeName>
+                    <date>Sep 27 1844</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                  <p>Your Exertions in the cause of agriculture &amp; Philanthropy are deserving of praise &amp; reflect great credit on your character. I thank you for your esteemed favor &amp; its contents. It is my intention to devote some portion of my land to allotments, altho, as most of our Labourers live on the farm or premises, they have various advantages not normally given</p>
+                  <p>In a paper I have prepared for the Chronicle there is a perfect coincidence in our sentiments as to the <hi rend="underline">demoralizing</hi> Effect of refusing <hi rend="underline">money</hi> Employment to Labour, and still <hi rend="underline">not allowing</hi> that Labour to <hi rend="underline">Employ itself</hi> on small allotments</p>
+                  <p>Such conduct is a procession to poverty, vice &amp; crime</p>
+                  <p>I am one of those who believes all the Land in this Country can be easily made <hi rend="underline">garden ground</hi> - by perfect drainage, <hi rend="doubleUnderline">deep</hi> cultivation &amp; absence of weeds - at all events I shall try to illustrate it on my Tiptree Farm &amp; if it can be done <hi rend="underline">there</hi> profitably, it can be done <hi rend="underline">anywhere</hi>
+                  </p>
+                  <p>Mr <hi rend="underline">Lawyer</hi> Cunnington considered our Crops a disgrace to the Heath, but as the first field as threshed (after potatoes) produced 5 qrs 1 Bushel pr acre of fine wheat, the Lawyers assertion has lost much of its prestige, altogether our Farm shews in this short time a wonderful Improvement. It has several acres of <hi rend="underline">rape</hi> much higher than ones knee - &amp; some fair swedes &amp; <hi rend="underline">very</hi> fine white carrots (9 acres)</p>
+                  <p>When I add to my publication with a report of the Farm's appearance I will have the honor to transmit you a copy</p>
+                  <p>I apprehend you find amongst many farmers a <hi rend="underline">dis</hi>inclination to appreciate agricultural Improvement this raises the question "Is the present system of wet lands fences hinder weeds &amp; shallow ploughing the <hi rend="underline">un</hi>improvable a correct one?"</p>
+                  <p>I say decidedly not</p>
+                  <p>I shall always feel honoured by your correspondence &amp; remain</p>
+                  <p>My dear Sir | Very respectfully yours | JJ Mechi</p>
+
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

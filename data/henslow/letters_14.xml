@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_14.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-14">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From N. J. Winch   31 December 1823</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 16</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_11.xml">Winch, N. J.</persName>
+                <date when="1823-12-31">31 December 1823</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Newcastle upon Tyne</placeName>
+                    <date>31 December 1823</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I take the opportunity of M <hi rend="superscript">r</hi> Lork coming to Cambridge to reply to your letter of 21 <hi rend="superscript">st</hi> Oct <hi rend="superscript">br</hi>. and thank you for the very valuable present of plants every one were better than those of the same kind in my Herbarium and Narcissus poeticus, Glaucium violaceum and Lobelia urens new to me at least as British, for exotics I keep distinct from native species.— I wish your list of desiderata had reached me last spring, observing it to contain several plants indigenous in this part of the kingdom, but it will be useful during the course of next summer. However a few of those mentioned you will find in the packet and all such as are within my reach shall be procured when I meet with them— Those plants sent which are not enumerated in your catalogue will serve to exchange with other Botanists. I wish the specimens had been more numerous and rare—I feel much obliged for your interesting Syllabus of Mineralogy— your predecessor the late D <hi rend="superscript">r</hi> Clarke in a note in the last vol. of his valuable travels objects to the division that had acted upon the coal, at the Coley Hill basaltic dyke because the coke contains calcarious spar, to me it appears that this spar has been introduced into the interstices of the coke after it had become a cinder, by the process of infiltration. The different kinds of Elm will be common with you, have the goodness to preserve sp <hi rend="superscript">ns </hi>in flower and leaf— Also Anthemis Cotula which is scarce in the North, and Lathyrus hirsutus if native with you— Exotics Cryptogamic plants and in fact, any of your well dried specimens will be acceptable to me. Concluding that you are acquainted with the Rev <hi rend="superscript">d</hi> M <hi rend="superscript">r.</hi> Holmes and M <hi rend="superscript">r</hi> Sedgwick may I request you will have the goodness to remember me to them and in hopes of seeing you here next summer</p>
+                  <p>Believe me to be | My dear Sir | truly yours | Nat: Jn <hi rend="superscript">s</hi>: Winch</p>
+                  <p>P.S. I suppose you did not find Cucubalus baccifer in Anglesea?</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

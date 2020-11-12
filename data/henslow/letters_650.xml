@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_650.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-650">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Belper   6 September 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 23</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_244.xml">Belper, Lord</persName> 
+                <date when="1856-09-06">6 September 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Makes arrangements for a visit to see potential archaeological sites in Derby area discussed by Belper in previous letter: potential Roman remains on the banks of the River Derwent opposite Little Chester; a barrow in Tugford that looks to be unopened. Asks JSH to come early as barrow at Tugford is on a property up for auction.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Kingston | Kegworth | Derby</placeName>
+                    <date>6 September 1856</date>
+                    <salute>My dear Mr Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have just heard from M <hi rend="superscript">r</hi> Bristow, &amp; I find that Tuesday the 23 <hi rend="superscript">rd</hi> will suit him for coming to us. I hope therefore that you will come as early as convenient in that week, on Monday the 22 <hi rend="superscript">d</hi>, if you can. Our Station is Kegworth, on the Midland Railway, not more than a mile from the house, &amp; I will send to meet you, if you will let me know by what Train we may expect you.</p>
+                  <p>You will perhaps be so good as to let me have previously any instructions which you may wish to give us to the preparations you mentioned. In haste.</p>
+                  <p>Yours very faithfully | Belper</p>
+                  <p>[P.S.] I find that the Bristows property at Tugford is to be put up to auction on the 3 <hi rend="superscript">d</hi> of October.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

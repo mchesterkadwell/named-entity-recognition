@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_180.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-180">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Fred Calvert   10 August 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 220</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_103.xml">Calvert, Fred</persName>
+                <date when="1831-08-10">10 August 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Whatfield</placeName>
+                    <date>10 August 1831</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I owe you many thanks for your kind letter. By accident I had previously heard through Brougham of the sad event of poor Ramsay’s death, and although from a note I had from Ramsay before he went to Scotland, &amp; from his letter forwarded to you at S. <hi rend="superscript">t</hi> Albans (which I have now in my possession) I had become in some degree alarmed about him. I did not look for so sudden a dismemberment of my affections as I, with<del>in del.</del> yourself &amp; not a few others, must now feel in the loss of so excellent a friend. How often have I thought &amp; spoken of him with pride as a man without a fault! It is a better feeling I hope than pride which now communicates to us, whom he has left, the inexpressible comfort of looking back upon that part of his character, which consisted in such rare qualities of moral worth, as he possessed.</p>
+                  <p>Among his papers you will find somewhere a note of hand which I gave him for £1200, a sum which I borrowed of him; – on the back of the note I dare say you will find a memorandum of £100 repaid, so that my debt is now £1100 which I am prepared to pay into Fisher’s Bank. I am rather desirous of doing so as soon as you will give me authority <del>to do so</del>. The note you will have the goodness to send to me when you have received the amount for his representatives. In November I shall owe to them in addition £33 for Int. <hi rend="superscript">t</hi> at 3 per cent, and also £2 for a life-interest in a freehold I have in Westmorland, which yearly payment gave him a vote for that county. This £35 I would rather pay in Nov. <hi rend="superscript">r</hi> than at this time, unless it be wished to have his affairs settled at an earlier period. The life Int. <hi rend="superscript">t</hi> he purchased of me for £18 (if I remember rightly) just before I left College. I think it would be better for me to purchase this, in doing so I must consult Brougham who knows more of the transaction than I do. M. <hi rend="superscript">rs</hi> Calvert has a number of volumes of the Waverley Novels &amp; I have two Vol. <hi rend="superscript">s</hi> of Gibbon’s Rome which I propose sending to you towards the end of the quarter with some Books which I have from the University Library unless you would like me to send them sooner. It may be as well to observe that Ramsay would never allow me to pay him more than 3 per cent upon his loan to me that being the per-centage which he said he should have received from the Bank of Scotland.</p>
+                  <p>I am truly concerned to hear from you the anticipations of sorrow which you draw from your Brother’s state of health. These are all warnings, too plain to be mistaken of the reality of our state here, that we are but strangers &amp; pilgrims. May be we enabled to profit by them! By Ramsay’s note to you I learned that M. <hi rend="superscript">rs</hi> Henslow has got a son. I hope he will live to be a blessing to you both.</p>
+                  <p>Believe me | yours most sincerely | Fred Calvert</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

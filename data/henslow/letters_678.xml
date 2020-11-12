@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_678.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-678">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From F. J. Bunbury   16 July 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 51</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_255.xml">Bunbury, F. J.</persName>
+                <date when="1853-07-16">16 July 1853</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Mildenhall | Suffolk</placeName>
+                    <date>16 July 1853</date>
+                    <salute>Dear Mr Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am afraid you will think me a very troublesome person, but as I  know you approve of the exertions we are making here in the cause of Education, I feel more confidence in applying to you.— It is, if you will do us the favour to examine our schools, at a public examination we think of giving.</p>
+                  <p>It seems that some persons have been dissatisfied, at not being formally invited to the Examinations the Dean of Hereford gave us in the first week in June, but the Dean particularly requested the examination should be private, as he had thus more opportunity of doing business, &amp; giving as he desired, a thorough examination to the schools &amp; Pupil Teachers—</p>
+                  <p>This opinion has made some of the little people I hear very spiteful, and to do away with this impression of neglect, our schoolmaster thinks it would be wise to have a public examination of our school, to which we  could invite the neighbouring inhabitants of the town; but it is all important to have some official examiner besides the master. Now your name and reputation would do us a great deal of good, and you would be able to show what our school is, and we should consider it a very great favour, if you would grant our request— September is the month that would suit us best, for an examination, but any time you could fix on, except during the harvest months, would suit us.</p>
+                  <p>I heard today from the Dean of Hereford, who is as unusual [illeg] active about schools.— M <hi rend="superscript">r</hi> Bunbury wrote to D <hi rend="superscript">r</hi> Hooker, about ten days ago, &amp; I wrote to M <hi rend="superscript">rs</hi> Hooker 3 days ago, &amp; as we have received no answer I fear we do not know their right direction— We directed the letter to the Royal Botanic Gardens. Kew.</p>
+                  <p>With our united kind regards</p>
+                  <p>believe me | yours very sincerely| F J Bunbury</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

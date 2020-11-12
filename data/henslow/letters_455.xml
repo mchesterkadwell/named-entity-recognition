@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_455.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-455">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Spence   11 September 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 305</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_165.xml">Spence, William</persName>
+                <date when="1856-09-11">11 September 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>London</placeName>
+                    <date>11 September 1856</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Alas! Poor Yarrell!</p>
+                  <p>Very many thanks for the Hitcham Programme which I have read as I always do with real gratification, feeling what a large amount of happiness your meetings diffuse &amp; what extensive good they do. I shall be very glad to see the Report you are so good as to promise me. I don’t think Bull (?) went at all too far in calling yours a model parish, for in having bad subjects your are only neighbour like but where shall we find such attention paid to the temporal &amp; mental progress, as well as the spiritual, of the people as with you? Further I reflect how many repelling obstacles you must meet with, I cannot enough express the admiration I have always felt at your unvaried perserverance in effecting so much good.</p>
+                  <p>I have been so much occupied of late having my son and daughter &amp; twin grandchildren a visit, &amp; having had to correct the proofs in all haste (one day of 4 sheets) of a third thousand of our cheap edition that I have not yet been able to read the Athenaeum reports of the Cheltenham meeting, but I hunted out the reference to your report as to typical arrangements for Museums &amp; was glad to see there is every prospect of your excellent ideas being carried out.</p>
+                  <p>I am glad you have made some Entomological Comments. My cheap edition experiment has amswered completely, for while the sale of the 6th Ed <hi rend="superscript">n</hi> edition had dwindled down to 20 a year, that of the 7 <hi rend="superscript">th</hi> has averaged 20 a day (2000 in 3 months) &amp; a work considered by Longmans as defunct has sprung up into a renewed vitality greater than it ever had; </p>
+
+                  <p>I am | my dear Sir | yours most truly | W. Spence</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

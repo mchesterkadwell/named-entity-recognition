@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_238.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-238">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Leonard Jenyns   25 January 1847</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Bath Royal Literary and Scientific Institution</repository>
+                    <collection>Jenyns Collection</collection>
+                    <idno>Letter 3133</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1847-01-25">25 January 1847</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>H.H.S.</placeName>
+                    <date>25 January 1847</date>
+                    <salute>My dear Leonard,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Yr note got tucked out of the way. and I forgot to reply to it. Poor Ste [?] was indeed carried off very suddenly – but it was a great comfort to me to have attended to him in his last moments. I certainly should Judge for myself (in your place) as the amount of remuneration to be asked for the amount of trouble incurred by the Naturalists Almanack, Your labours are complimented in the Gardener's Chronicle. I am not fond of birth and deaths being intermixed with the <hi rend="underline">useful</hi> notices to the days of the week – but I suppose it is required. The only inconvenience of making this <hi rend="underline">supplemental </hi>to other almanacks is the necessity of having two. If the matter of this were incorporated with Gutch's [?] pocket book it would improve both – as it is yours does very nicely for the table. but wd make an inconvenient addendum to what is already in the pocket. A more complete affair than Gutch's would be the <hi rend="underline">right</hi> thing. I do not see anything particular to alter in yours. I want something of an Index. I go to town and St. Albans on Tuesday (tomorrow) but return on Friday or Saturday. Harriet is better (with relapses) since her pull down by the mild attack of Influenza and Mumps.</p>
+                  <p>Kind regards to your wife – | Ever yrs affy | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

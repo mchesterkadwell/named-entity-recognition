@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_483.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-483">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Horner   12 September 1857</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 172</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_131.xml">Horner, Leonard</persName>
+                <date when="1857-09-12">12 September 1857</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Rivermede |Hampton Wick |Middlesex</placeName>
+                    <date>12 September 1857</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I returned from the Continent two days ago, where I have been with M <hi rend="superscript">rs</hi> Horner and my daughters Susan &amp; Leonora since the 12 <hi rend="superscript">th</hi> July, and found your very interesting letter of the 25 <hi rend="superscript">th</hi> July with the account of the Norwich Expedition. I thank you very much for giving me this pleasure, &amp; congratulate you on its eminent success. I hope soon to have a talk with you about it, &amp; to learn more particulars, for we intend to be at Mildenhall on the 18 <hi rend="superscript">th</hi> and to assist at your lecture.</p>
+                  <p>The Lyells &amp; my daughter Joanna came back on Saturday from a two months of hunting up the Eocene in Belgium, &amp; he has <del>come up with</del> obtained some valuable results as to the age of different parts of the Belgian tertiaries, respecting which the geologists of that country appear to have been both ignorant &amp; in error. Think of Dumont the state geologist, not only knowing nothing of paleontology, but even holding it to be of little account in the determination of formations. He is a mineralogical geologist, &amp; showed Lyell some thousands of trays of sands &amp; clays!</p>
+                  <p>Lyell &amp; I are entirely in the dark whether any thing has come of our application to Lord Seymour in favour of Hooker, and so few people are in town, that I do not know how I shall learn—His father is probably absent— I hope that he is better— If you have any good news to give us on this subject pray let us have it.</p>
+                  <p>With our united kind regards to M <hi rend="superscript">rs</hi> Henslow &amp; all your family circle,</p>
+                  <p>I am my Dear Sir | faithfully yours | Leonard Horner</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

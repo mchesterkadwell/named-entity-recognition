@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_300.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-300">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From W. J. Harcourt   29 July 1833</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 164</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_138.xml">Harcourt, W. J.</persName>
+                <date when="1833-07-29">29 July 1833</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Wheldrake – York | Tuesday</placeName>
+                    <date>29 July 1833</date>
+                    <salute>Dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I return the proof sheet of the Preface according to Whewell’s desire to you. I think the statements in the first page and a half would be clearer &amp; more correct if you should think proper to adopt the alterations which I have suggested. I should be glad to have the half sheet containing Whewell’s letter returned when you have done with it.</p>
+                  <p>I am in some anxiety about your publication of the unrevised speeches. I hope you have in fact revised them all with care. Where you cannot give the speakers an opportunity of revising themselves, it is necessary at least to be extremely cautious, both for the sake of the feelings of the individuals &amp; the credit of the Association, that you print nothing in any one’s name which is either absurd or in bad taste. A Newspaper Editor of speeches either leaves out the nonsense of a speech or contrives to turn into sense, and you must exercise a still more rigorous excision and a choicer transmutation. I dare say you have done this, but the allusion in the Preface to the responsibility of the Reporter leaves a doubt with me whether you are taking your own share of responsibility which is not a small one in giving publicity to three extemporaneous speeches. I know by experience the difficulty &amp; delicacy of the task you have undertaken and feel that I should myself be annoyed (though my sensibility on such matters is a good deal blunted) at reading a foolish speech of my own in print whether faithfully reported or not. When I have had to do what you are doing my method has been to pick out the most valuable parts of a speech &amp; not to scruple to dress up the phraseology of them a little better than the Reporter &amp; I have generally found the speaker well satisfied with this treatment.</p>
+                  <p>Y. <hi rend="superscript">rs</hi> sincerely| W <hi rend="superscript">m </hi>J <hi rend="superscript">s</hi> Harcourt</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

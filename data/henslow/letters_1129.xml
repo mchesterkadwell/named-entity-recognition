@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1129">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From William Jardine 24 January 1837</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>American Philosophical Society</repository>
+                        <collection>The Scientists Collection I</collection>
+                        <idno>509.L56</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_199.xml">Jardine, William</persName>
+                    <date when="1837-01-24">24 January 1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Jardine House</placeName>
+                        <date>24 Jany 1837</date>
+                        <salute>My Dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>I have yours of the 9th enclosing a paper and plate of Cacteae for which you have our best thanks. I fear that it is I who have to apologise not you for silence &amp; inattention, you may recollect that I have not answered your former letter &amp; on looking over the accounts of its <hi rend="underline">Mag</hi> last week I saw that your report of Bristol was [illegible] for, these things will however be corrected. Your paper reached me in Edinh. &amp; thinking it of consequence I put it into number V. So that you will see it immediately, copies of the plate will be forwarded.</p>
+                        <p>Darwin seems to have brought a most interesting &amp; important collection, and we should be happy if we can do justice to some of your Botanical notes. Could Mr Darwin himself not give us some account of the General Nat. Hist. of the Galapagos. There will be abundance of material &amp; I would suppose he has kept notes - a letter from Mr Gould this morning mentions the value of the Zoological departments which he has brought home with him.</p>
+                        <p>When in Edinh. last week the accounts &amp; prospects of the Magazine were gone into and the result has been that we start a <hi rend="underline">second</hi> <hi rend="underline">volume</hi> with No. VII &amp; hope by nearly the conclusion of it to be able to say that it can be carried on with some prospect of success. This is first to tell you now that we shall require the assistance of all our Friends to support it, and that how when we have decided on going into a second volume that we shall look most anxiously for help from you and anyone with whom you have influence. We should also like to have any suggestions from you with regard to the plan and general carrying on which may occur to you. I have not yet got the last number of your Transactions and would like much to have an extra copy of Lowe's fishes, anything sent to the care of <hi rend="underline">Highly</hi> Booksellers London will find me without much delay. Is Lowe still in Madeira for I heard lately that he had returned? I would write to him for some communications if you can give me his address &amp;c.</p>
+                        <p>Have you seen Hooker's Botanical Miscellany. The plates in it would be a good style if you wish to illustrate any more of Mr Darwin's novelties, a flower and portion of the leaves are coloured wholly coloured plates are <hi rend="underline">heavy</hi> and the style I allude to [illegible - page cut] have a half. Your last drawing however will compare well, it is bold &amp; will be characteristic as much perhaps as anything less than a finished plate, &amp; I must say that I like a figure of this kind better than anything which is not highly finished.</p>
+                        <p>A gentleman is with me at this moment who is anxious to have specimens of some of your Cambridgeshire plants &amp; Southern insects. Above you have a few plants and insects of which he has duplicates &amp; would be pleased to exchange, have you anyone who would be so inclined. His <hi rend="underline">Hobby</hi> is Entomology &amp; I believe most of the Scotch insects which are sought after by Southern collectors could be sent during the present summer. Forgive this trouble I know many would be glad of the offer, &amp; such a one may occur some day when you least expect it. With my best wishes that you may have leisure to follow your <hi rend="underline">own</hi> studies</p>
+                        <p>Believe me</p>
+                        <p>Sincerely yours</p>
+                        <p>W. M. Jardine</p>
+                        <list rend="ordered">
+                            <item>Gentiana verna</item>
+                            <item>Bartsia alpina</item>
+                            <item>Potentilla fruticosa</item>
+                            <item>Equisetum variegatum</item>
+                            <item>Eriocaulon septangulare</item>
+                            <item>Pyrola uniflora</item>
+                            <item>Saxifraga cernua</item>
+                            <item>Scheureria palustris</item>
+                            <item>Corallorhiza innata</item>
+                            <item>Nuphaea pumilum</item>
+                            <item>Myosotis alpestris</item>
+                            <item>Phleum alpinum</item>
+                            <item>Alopecurus alpinus</item>
+                            <item>Leiocheton arctica</item>
+                            <item>Janes basalis</item>
+                            <item>Carabus clathiatus</item>
+                            <item>Helobeia nivalis</item>
+                            <item>Patiobres alpinus</item>
+                            <item>Rhynchites cyaneopennis</item>
+                            <item>Sphaenastes foveolatus</item>
+                            <item>Chrysonula marginata</item>
+                            <item>Melasoma aenea</item>
+                            <item>Syntomium nigroaeneum</item>
+                            <item>Cecidota crenata</item>
+                            <item>Skiopus aethiopicus</item>
+                        </list>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

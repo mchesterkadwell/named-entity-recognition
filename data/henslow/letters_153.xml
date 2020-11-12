@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_153.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-153">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Ward   21 March 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 193</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_91.xml">Ward, James</persName>
+                <date when="1831-03-21">21 March 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Richmond</placeName>
+                    <date>21 March 1831</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>As a naturalist I take the liberty of writing to you begging you will excuse my freedom in this respect I propose to you an exchange in Dried specimens of British plants hoping that some of our Richmond Plants will be acceptable to you, I sent you last autumn by Mast. <hi rend="superscript">r </hi>Hutton Macmichael a small specimen of Melampyrum montanum of Johnstons Flora of Berwick I think it is a distinct species but it was a bad specimen I having given away the best I had by me before he was in Richmond, but I can procure abundance of it this year if it will be acceptable to you – I insert below a list of my desiderata, also some of our rarer Richmond plants which I can procure, should this proposal meet your approbation I shall be glad to hear from you soon as the spring is fast advancing.</p>
+                  <p>I am Dear Sir yours &amp;c– | James Ward Druggist Richmond York <hi rend="superscript">s</hi>.</p>
+                    
+                    
+               
+                        
+                        <list rend="ordered">
+                        
+                            <item>Salicornia radicans</item>
+                            <item>Salicornia radicans</item>
+                            <item>Veronica spicata</item>
+                            <item>_______ fruticulosa</item>
+                            <item>Pinguicula grandiflora</item>
+                            <item>________ lusitanica</item>
+                            <item>Utricularia minor</item>
+                            <item>Salvia pratensis (crossed through in pencil)</item>
+                            <item>Lemna gibba</item>
+                            <item>Valeriana pyrenaica</item>
+                            <item>Fedia dentata</item>
+                            <item>Crocus nudiflorus</item>
+                            <item>Trichonema bulbocodium</item>
+                            <item>Cyperus fuscus, et longus</item>
+                            <item>Eleocharis acicularis (crossed through in pencil)</item>
+                            <item>Eriophorum gracile</item>
+                            <item>Phleum Boehmeri</item>
+                            <item>Lagurus ovatus</item>
+                            <item>Milium lendigenus</item>
+                            <item>Calamagrostis stricta</item>
+                            <item>Agrostis spica venti</item>
+                            <item>Hierochloe borealis</item>
+                            <item>Panicum crus galli</item>
+                            <item>Poa laxa</item>
+                            <item>___ bulbosa</item>
+                            <item>Brizor minor</item>
+                            <item>Cynosurus echinatus</item>
+                            <item>Bromus erectus</item>
+                            <item>Knappia agrostoidea</item>
+                            <item>Cynodon dactylon</item>
+                            <item>Digitaria sanguinalis</item>
+                            <item>Holosteum umbellatum</item>
+                            <item>Galium erectum</item>
+                            <item>______ pusillum</item>
+                            <item>Rubia peregrina</item>
+                            <item>Exacum filiforme</item>
+                            <item>Centunculus minimus</item>
+                            <item>Cornus suecica</item>
+                            <item>Potamogeton gramineus</item>
+                            <item>Moenchia erecta</item>
+                            <item>Tillaea muscosa    (crossed through in pencil)</item>
+                            <item>Radiola millegrana     (crossed through in pencil)</item>
+                            <item>Lithospermum purpuro-caeruleum</item>
+                            <item>Symphytum tuberosum</item>
+                            <item>Myosotis alpestris</item>
+                            <item>Asperugo procumbens</item>
+                            <item>Cynoglossum sylvaticum</item>
+                            <item>Primula scotica</item>
+                            <item>Erythraea littoralis</item>
+                            <item>Lobelia urens</item>
+                            <item>Phyteuma spicata</item>
+                            <item>Lonicera caprifolium</item>
+                            <item>Viola lactea, et  flavicornis</item>
+                            <item>Swertia perennis</item>
+                            <item>Gentiana pneumonanthe</item>
+                            <item>Cuscuta europaea, et epithymum</item>
+                            <item>Seseli libanotis (crossed through with pencil)</item>
+                            <item>Bupleurum odontites</item>
+                            <item>Sison amomum</item>
+                            <item>Pimpinella dioica</item>
+                            <item>Cicuta virosa</item>
+                            <item>Chenopodium olidum</item>
+                            <item>___________  botryodes</item>
+                            <item>___________ ficifolium</item>
+                            <item>Herniaria glabra, et hirsuta</item>
+                            <item>Tamarix gallica</item>
+                            <item>Statice reticulata  (crossed through in pencil)</item>
+                            <item>Sibbaldia procumbens</item>
+                            <item>Frankenia pulverulenta</item>
+                            <item>Narcissus pseudo narcissus (crossed through in pencil)</item>
+                            <item>Ornithogalum nutans</item>
+                            <item>Tulipa sylvestris</item>
+                            <item>Scilla verna</item>
+                            <item>Acorus calamus</item>
+                            <item>Luzula spicata, et Fosteri</item>
+                            <item>Oxyria reniformis</item>
+                            <item>Alisma damasonium</item>
+                            <item>Trientalis europaea</item>
+                            <item>Menziesia caerulea</item>
+                            <item>Vaccinium uliginosum</item>
+                            <item>Monotropa hypopitys</item>
+                            <item>Pyrola uniflora et secunda</item>
+                            <item>Amaranthus blitum</item>
+                            <item>Salix Russelliana</item>
+                            <item>Arbutus uva-ursi</item>
+                            <item>Scleranthus annuus et perennis (crossed through in pencil)</item>
+                            <item>Dianthus caesius</item>
+                            <item>Silene otites, et anglica</item>
+                            <item>Arenaria ciliata</item>
+                            <item>_______ tenuifolia</item>
+                            <item>Cotyledon umbilicus, et lutea</item>
+                            <item>Sedum anglicum, et glaucum      (anglicum  crossed through in pencil)</item>
+                            <item>Oxalis corniculata</item>
+                            <item>Spergula subulata      (crossed through in pencil)</item>
+                            <item>Lythrum hyssopifolium    (crossed through in pencil)</item>
+                            <item>Mespilus germanica</item>
+                            <item>Pyrus communis, et domestica</item>
+                            <item>Rubus arcticus</item>
+                            <item>Potentilla opaca, et argentea</item>
+                            <item>Tormentilla reptans</item>
+                            <item>Tilia parvifolia</item>
+                            <item>Paeonia corallina</item>
+                            <item>Anemone pulsatilla, et ranunculoides    (pulsatilla crossed through in pencil)</item>
+                            <item>Ranunculus gramineus, et parviflorus</item>
+                            <item>Thymus nepeta</item>
+                            <item>Ajuga chamaepitys</item>
+                            <item>Melittis mellisophyllum</item>
+                            <item>Melampyrum cristatum</item>
+                            <item>Antirrhinum elatine et spuria</item>
+                            <item>Sibthorpia europaea</item>
+                            <item>Linnaea borealis</item>
+                            <item>Vella annua</item>
+                            <item>Coronopus didyma</item>
+                            <item>Cochlearia danica, et groenlandica</item>
+                            <item>Dentaria bulbifera</item>
+                            <item>Arabis turritis et petraea</item>
+                            <item>Sisymbrium irio</item>
+                            <item>Lavatera arborea</item>
+                            <item>Althaea hirsuta</item>
+                            <item>Orobus sylvaticus</item>
+                            <item>Trifolium suffocatum, subterraneum</item>
+                            <item>Hypericum androsaemum</item>
+                            <item>Lactuca scariola</item>
+                            <item>Sonchus palustris</item>
+                            <item>Crepis biennis et foetida</item>
+                            <item>Gnaphalium luteo album</item>
+                            <item>Senecio squalidus, et paludosus</item>
+                            <item>Orchis fusca, militaris, et hircine</item>
+                            <item>Aceras anthropophora</item>
+                            <item>Herminium monorchis</item>
+                            <item>Ophrys arenifera, et fucifera</item>
+                            <item>Neottia spiralis    (crossed through in pencil)</item>
+                            <item>Epipactis rubra, et grandiflora</item>
+                            <item>Malaxis loeselii</item>
+                            <item>Aristolochia clematitis</item>
+                            <item>Xanthium strumarium</item>
+                        
+                        </list>
+                        
+                        
+                        
+                        <p> I should be much obliged for any of the above with duplicates of any of them you can conveniently spare, or any other rare plants you may have to spare.</p> 
+                        
+                        <p>Plants growing in the neighbourhood of Richmond</p>
+                        
+                        <list rend="ordered">
+                        
+                            <item>Anagallis tenella</item>
+                            <item>Arabis hirsuta</item>
+                            <item>Antirrhinum cymbalaria</item>
+                            <item>_________  majus</item>
+                            <item>Arundo calamagrostis</item>
+                            <item>Avena pubescens</item>
+                            <item>Allium vineale</item>
+                            <item>_____ oleraceum?</item>
+                            <item>Alisma ranunculoides</item>
+                            <item>Aquilegia vulgaris</item>
+                            <item>Asplenium ruta muraria, trichomanes</item>
+                            <item>Berberis vulgaris</item>
+                            <item>Bidens cernua var radiata</item>
+                            <item>_____ tripartita</item>
+                            <item>Campanula glomerata</item>
+                            <item>Cardamine amara</item>
+                            <item>Carduus heterophyllus</item>
+                            <item>Cerastium arvense</item>
+                            <item>Chironia centaurium</item>
+                            <item>Chrysosplenium oppositifol: et alternifol:</item>
+                            <item>Colchicum autumnale</item>
+                            <item>Comarum palustre</item>
+                            <item>Cochlearia officinalis</item>
+                            <item>Centaurea scabiosa</item>
+                            <item>Carex pulicaris, curta, pallescens</item>
+                            <item>_____ pendula, binervis</item>
+                            <item>_____ vesicaria, ampullacea</item>
+                            <item>_____ hirta, fulva, vulpina</item>
+                            <item> Covallaria majalis et multiflora</item>
+                            <item>Clematis vitalba</item>
+                            <item>Daphne laureola et mezereum</item>
+                            <item>Dipsacus pilosus</item>
+                            <item>Drosera rotundifolia</item>
+                            <item>Digitalis purpurea</item>
+                            <item>Epilobium angustifolium</item>
+                            <item>Eriophorum pubescens</item>
+                            <item>_________  polystachion</item>
+                            <item>Erigeron acer</item>
+                            <item>Euphorbia exigua</item>
+                            <item>Galium boreale</item>
+                            <item>Genista anglca et tinctoria</item>
+                            <item>Gentiana amarella et campestrisv</item>
+                            <item>Geranium phaeum, lucidum</item>
+                            <item>________ columbinum</item>
+                            <item>________ sylvaticum var:</item>
+                            <item>Geum rivale et </item>
+                            <item>Gnaphalium dioicum, rectum</item>
+                            <item>Hypericum humifusum</item>
+                            <item>Inula dysenterica</item>
+                            <item>Juncus obtusiflorus</item>                        
+                            <item>Lathgraea squamaria</item>
+                            <item>Littorella lacustris</item>
+                            <item>Lamium incisum</item>
+                            <item>Malva moschata</item>
+                            <item>Melica nutans, et uniflora</item>
+                            <item>Myrrhis odorata</item>
+                            <item>Nepeta cataria</item>
+                            <item>Polygonum hydropiper, minus</item>
+                            <item>Potamogeton pusillum</item>
+                            <item>___________ lanceolatus Hooker</item>
+                            <item>Prunus padus et cerasus</item>
+                            <item>Pyrus aria</item>
+                            <item>Ophioglossum vulgatum</item>
+                            <item>Listera nidus avis</item>
+                            <item>_____ cordata et ovata</item>
+                            <item>Orchis ustulata,  bifolia</item>
+                            <item>_____ conopsea, latifolia</item>
+                            <item>Ornithogalum luteum</item>
+                            <item>Osmunda lunaria</item>
+                            <item>Polypodium dryopteris</item>
+                            <item>_________ phegopteris</item>
+                            <item>Paris quadrifolia</item>
+                            <item>Parnassia palustris</item>
+                            <item>Pinguicula vulgaris</item>
+                            <item>Pyrola minor</item>
+                            <item>Ribes rubrum, petraeum, et grossularia</item>
+                            <item>Rhamnus catharticus</item>
+                            <item>Rubus idaeus, suberectus, carpinifolius</item>
+                            <item>_____ rhamnifolius, leucostachys</item>
+                            <item>_____ saxatrilis</item>
+                            <item>Salvia verbenaca</item>
+                            <item>Sambucus ebulus</item>
+                            <item>Saxifraga tridactylites, granulate</item>
+                            <item>Epipactis palustris, latifolia</item>
+                            <item>Scirpus sylvaticus, fluitans</item>
+                            <item>Senecio tenuifolia</item>
+                            <item>Silene maritima</item>
+                            <item>Sium angustifolium, nodiflorum</item>
+                            <item>Spiraea salicifolia</item>
+                            <item>Saponaria officinalis</item>
+                            <item>Sison inundatum</item>
+                            <item>Stellaria nemorum</item>
+                            <item>Tilia grandiflora</item>
+                            <item>Taxus baccata</item>
+                            <item>Trollius europaeus</item>
+                            <item>Triodia decumbens</item>
+                            <item>Turritis glabra</item>
+                            <item>Tussilago vel Petasites hybrida</item>
+                            <item>Veronica Montana</item>
+                            <item>________ scutellata et anagallis</item>
+                            <item>Vinca minor</item>
+                            <item>Vicia sylvatica</item>
+                            <item>Viola lutea, hirta, palustris</item>
+                            <item>_____ odorata flor. Alba</item>
+                            <item>Teucrium scordium</item>
+                            <item>Lycopodium selaginoides</item>
+                            <item>Lysimachia punctata Hooker I can give you a single specimen of.</item>
+                        
+                        </list>
+                    
+                       <p> I shall be very happy to get you any of the above specimens should you approve of the proposal.   Obs. We might send a parcel of plants By my friends Messrs Fither who are frequently going too &amp; fro Cambridge.</p>
+                        
+                        
+                    
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

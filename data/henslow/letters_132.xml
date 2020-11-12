@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_132.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-132">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From H. T. Ellacombe   20 September 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 159a</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_63.xml">Ellacombe, H. T.</persName>
+                <date when="1830-09-20">20 September 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Bitton</placeName>
+                    <date>20 September 1830</date>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am taking the liberty again requesting the favor of a few additions to my garden. I wish you wd let me know what I am to send to you. I believe you have one of my old Catalogues?– In the Summer I discovered near this &amp; far away from any house Rosa alba – most of the blossoms were single – but in a few cases the petals were doubled– I shall watch next year, &amp; forward it to Sowerby for his app.x. You have probably heard of a Plesiosaurus lately discovered in this parish– it seems different from any yet found – it comes near to the Daubuchidinen(?) My enquirer got hold of it: but it is in good hands– for he had worked very hard at it, in removing all the profusion of stone &amp;c &amp;c–</p>
+                  <p>Pray have you no Catalogue of y <hi rend="superscript">r</hi> Garden? If you have, will you have the kindness to send me a copy– and believe me dear Sir</p>
+                  <p>yours very truly &amp; obliged | H.T.Ellacombe</p>
+                  <p>P.S. I’ll thank you to direct to me at the “Coach Office, Bolt in Tun, Fleet Street” without saying anything about <hi rend="underline">Bitton</hi>. It will surely reach me.
+    
+   </p> 
+                  <list rend="ordered">
+                     <item>Veronica maritima</item>
+                     <item>-------- urticaefolia</item>
+                     <item>-------- crispa</item>
+                     <item>-------- montana</item>
+                     <item>-------- bellidioides</item>
+                     <item>Gentiana macrophylla</item>
+                     <item>-------- Pneumonanthe</item>
+                     <item>Iris tenuifolia</item>
+                     <item>---- halophila 275 BM</item>
+                     <item>---- virginica BM</item>
+                     <item>Neupha (?) minima</item>
+                     <item>Saxifraga Nelsoniana</item>
+                     <item>--------- bulbifera</item>
+                     <item>--------- elongella  EB. 2277</item>
+                     <item>Aconitum japonicum not uncinatum</item>
+                     <item>Potentilla fragarioides</item>
+                     <item>---------- norwegica</item>
+                     <item>Echinops Ritro</item>
+                     <item>Fumaria cava 233 BM</item>
+                     <item>Scilla peruviana alba</item>
+                     <item>------ lusitanica BM 1999</item>
+                     <item>------  Lilio-Hyacinthus</item>
+                     <item>Ornithogalum comosum</item>
+                     <item>Muscari moschatum B flavum   BM</item>
+                     <item>Lilium croceum</item>
+                     <item>Narcissus major.   BM</item>
+                     <item>--------- obvallaris</item>
+                     <item>--------- Gt Rose double Daffodil</item>
+                     <item>Viola pinnata</item>
+                     <item>----- ovata   Nut.</item>
+                     <item>----- cenisia</item>
+                     <item>----- mirabilis</item>
+                     <item>Geranium sibiricum</item>
+                     <item>-------- cinereum</item>
+                     <item>-------- fuscum</item>
+                     <item>Monarda fistulosa true</item>
+                     <item>Paeonia edulis uniflora</item>
+                     <item>Rosa gracilis</item>
+                     <item>---- carolina</item>
+                     <item>---- Lyellii</item>
+                     <item>---- laxa</item> 
+                     <item>----  blanda non nitida</item>
+                     <item>Orchis fusca</item>
+                     <item>Viola papilionacea</item>
+                     <item>Arum dracunticum</item>
+                     <item>Gentiana saponaria</item>
+                  </list>
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

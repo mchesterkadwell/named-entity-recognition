@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1132">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Robert Brown 10 August 1840</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>American Philosophical Society</repository>
+                        <collection>The Scientists Collection I</collection>
+                        <idno>509.L56</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_44.xml">Brown, Robert</persName>
+                    <date when="1840-08-10">10 August 1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>17 Dean St. Soho</placeName>
+                        <date>10 Augt 1840</date>
+                        <salute>My Dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>I have unfortunately mislaid your Letter received 8 or 10 days ago &amp; in my present hurry &amp; confusion being on the point of leaving London for Southsea I can only reply to what I think I remember of its contents. What I can most distinctly recall relates to Mr Bauer respecting whose circumstances you must have misunderstood me, he has never been in affluence but neither has he been in straitened circumstances. He is now 83 or 4 years of age, extremely weak, subject to spasmodic asthma &amp; quite incapable of continued attention &amp; far less employing his pencil on those subjects which he has already so beautifully illustrated.</p>
+                        <p>A Volume of his Drawings on the structure and diseases of wheat is in the Botanical Department of the British Museum &amp; of course may be consulted either by yourself or Mr Pusey during my absence. You will find Mr Bennett whom I have apprised of the probability of your calling for that purpose. Mr Bauer has published in the Penny Magazine on Smut &amp; Dustbrand &amp; these papers also it might be worth Mr Pusey's while to consult.</p>
+                        <p>Excuse this very hasty letter</p>
+                        <p>&amp; believe me</p>
+                        <p>My Dear Sir</p>
+                        <p>very truly Yours</p>
+                        <p>Robt Brown</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

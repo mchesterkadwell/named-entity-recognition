@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_178.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-178">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lauderdale Ramsay   1 August 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 218</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_101.xml">Ramsay, Lauderdale</persName>
+                <date when="1831-08-01">1 August 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Duneaves</placeName>
+                    <date>1 August 1831</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>As I know the affection you had for my dear brother, I consider it due to you, to inform you myself of the sad event that has taken place. I think he would be pleased that I did so– He came here as you know in bad health, but we all thought that care w. <hi rend="superscript">d</hi> quite restore him. When he wrote to you last he was very weak and scarcely able to hold the pen. He was taking mercury, so we thought nothing of it. He lost the yellow color he had but certainly looked very ill. He became very heavy &amp; drowsy last Wednesday, &amp; did not always speak coherently, that we thought was weakness, and as he had constant visits from a D. <hi rend="superscript">r </hi>we were not alarmed, on Saturday he slept the whole day, but seemed very comfortable but in the night he became quite delirious, we got his D. <hi rend="superscript">rs</hi> immediately, he was bled &amp; his head blistered, but something gave way in his head, and alas! I cannot write it – he was not quite himself but he knew me, &amp; said “ I am quite well, quite well– ” The last words he uttered were to the D. <hi rend="superscript">r</hi> who was holding his hand. “ I am quite placid, &amp; feel no pain, but my heart flutters.” He breathed very hard &amp; quick, but I am sure he did not suffer<del>s</del>–</p>
+                  <p>All who ever knew him loved him but what he was to me his sister I cannot tell – he was my all – it is a punishment to me for loving anything here so well– I adored him– I cannot believe he is gone– I w. <hi rend="superscript">d</hi> not murmure it is God’s will &amp; I try to say Thy will be done– but I fear I cannot yet– He is I trust in Heaven, “ I shall go to him but he cannot return to me.” He was always my mother’s favourite, she is very deep affliction. I hope you will forgive my writing to you as to an old friend, but I have heard of you so often from him, that I feel as if I knew you, &amp; I am sure you sympathise in our affliction. A letter from you arrived at the moment he breathed his last. You will I hope take care of his things at Cambridge &amp; do what s. <hi rend="superscript">d</hi> be done – his desk &amp; papers looked after – but you know better than I do – We leave this next week it would be too painful to remain here where we anticipated so much pleasure with him– Should there be any thing that you wished to write about – you will be so kind as write to his brother Re.d E.B. Ramsay Dasnaway S. <hi rend="superscript">t </hi> Edinburgh– I have now performed this painful duty</p>
+                  <p>&amp; remain yours sincerely | L. Ramsay</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

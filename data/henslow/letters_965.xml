@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-965">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. K. Greville 23 January 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Private collection Henry Noltie, Edinburgh</repository>
+                    <idno/>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_50.xml">Greville, R. K.</persName>
+                <date when="1827-01-23">23 Jan 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Edinburgh</placeName>
+                    <date>Jany. 23. 1827.</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription"> 
+                  <p> I had the pleasure of receiving your letter when particularly engaged, and therefore could not say in reply, till today, that I have prepared a parcel of Cryptogamous plants for your acceptance. I well know the value of doing things of this kind speedily and were it not that I am obliged at this time to calculate my very moments you would receive a larger collection.  As it is, I have gone through my duplicates of British Mosses - which is the most perfect part of my <hi rend="underline">trading collection.</hi> Of course some specimens are indifferent - but where I have only bad ones I have given you <hi rend="underline">them</hi>  rather that none. You will find most of our rarest species. I shall send the parcel by an early opportunity to your Brother's care in London. <hi rend="underline">My</hi> parcels I generally receive through Baldwin Cradock &amp; Joy, Pater Noster Row. Before quitting the mosses I must mention that many of the specimens require cleaning &amp; washing &amp; pressure before placing in the Herbarium - as they have been generally preserved in walking tours - in the rough.</p>
+                  <p>I am extremely glad that my letter contained any matter in the least serviceable to you - &amp; in the same spirit I shall reply to you questions regarding Drawing &amp; Demonstrations, and in the former, being an old hand, I <hi rend="underline">may</hi> save you time &amp; trouble. I rarely if ever use Indian Ink. The outline of my drawing (say the capsule of a moss) I make <hi rend="underline">very</hi> strong, by the common very soft black lead pencils. I then proceed to shade with the same using the point broad and working very rapidly - mostly in the hatching manner //////. Now for the coloring - this must be done with a full brush and plenty of color. Anything almost does to shade with- but as a general rule use sepia along with the ground color - &amp; if great depth is wanted add indigo. A sine qua non is prepared gall - a little of which dissolved in water and used pretty freely, makes the colors float as if the paper was damped. When you get into the way of it, you'll be able to put nearly the whole light &amp; shade in one wash. Have your colors in separate saucers - and two or three glasses of water - so that in a large leaf passing from brown at the point, through yellow in the middle to green at the base, you may be able to graduate the shades without interruption.  In a <hi rend="underline">broad</hi> wash, always keep a wave of color as it were, following the brush. I shall fill up the next page with illustrations on a small scale which will illustrate in part what I have said.</p>
+                  <p>By Demonstration, I meant placing in the hand of every student a specimen similar to the one in the hand of the lecturer - sometimes only a small protion of a plant is requisite for the object in view - but what I chiefly alluded to, was the demonstration of a <hi rend="underline">complete</hi> specimen - 3-5 of which would occupy half an hour. It is in fact reading a full description of the plant, - so leisurely as to enable students to examine every part and follow the description. I cannot help thinking if you try this method you will regard it as the most efficient part of the course. </p>
+                  <p>I doubt if you will hardly compress your course into 12 lectures. Humboldt is the chief authority of the Geography of Plants - but you will find a few interesting papers in Jameson's Phil. Journ. from Schouw's Danish work - and a curious distribution of plants by the same author, translated in Brester's Journ. of Science no 7 &amp; 8. An interesting Essay on the distribution of Marine Algae by Lamouroux is in the Annales des Science Nat. for Jany. 1826. (you will find the essence of it inserted by me in the Edin. Journ. of Medical Science No 5). By the way, there is an <hi rend="underline">excellent</hi> historical sketch of the history of Bot. Geography in the prospectus of the new work on that subject now in progress by Humboldt. It is inserted in the Bulletin des Sciences Naturel for 1826 - but I cannot say which number, as my copy is binding.</p>
+                  <p>Impressions of leaves have a very good effect - but are too small for a lecturer to use in the classroom. The leaf of <hi rend="underline">Hydrocotyle vulgaris </hi> for instance should not be less 12 inches in diameter - and then serves 3 purposes to show an orbicular leaf, a peltate leaf, and a crenate margin. </p> 
+                  <p>These figures are very carelessly done but they will shew the mode of execution - the moss capsule wants a little more shade, but I leave it as it is to shew the effect of <hi rend="underline">one</hi> operation - (the calyptra was touched twice). NB wash from light to dark <hi rend="underline">generally</hi> - at least on broad surfaces. </p>
+                  <p>Next month the 1st no. of the Icones Filicum will be out, by Hooker &amp; myself -I hope you will be pleased with it. The plates for the 2nd are engraved. Pray use your interest to procure suscribers for its encouragement (Hooker &amp; I derive no profit by it) as it costs Trettel &amp; Wurtz some money to get it up.</p>
+                  <p>I have not found leisure to mention this time the plants I wish from Cambridgeshire.</p> 
+                  <p>I am My Dear Sir</p>
+                  <p>Yrs. very truly R. K. Greville</p>
+
+                   
+                        
+                        
+                        
+                            
+                        
+                        
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>

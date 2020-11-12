@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_504.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-504">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Evans   24 April 1858</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 141</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_210.xml">Evans, John</persName>
+                <date when="1858-04-24">24 April 1858</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Nash Mills | Hemel Hempsted</placeName>
+                    <date>24 April 1858</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I had intended some time ago to write &amp; thank you for some papers that you kindly sent me about your allotment gardens, and moreover to assure you of my sincere condolences with you under your great bereavement, when it pleased God to visit me in a like manner on the first day of this year to remove my dear wife after but a few days illness, leaving me with five motherless children, the youngest but a fortnight old— You may imagine what a bitter trial it has been and still is to me, but I have still much to be thankful for, &amp; have the comfort of seeing all the children well &amp; thriving under the care of my mother who has managed to pass most of her time with me lately—But I will not trouble you farther about myself but must express my hopes that you are in some measure reconciled to a loss which from its nature is irreparable. I am much obliged for your kindness in sending me your Botanical Illustrations &amp; only wish that I was more capable of appreciating them, but I am afraid that most of your School children surpass me in Botanical knowledge. I am always intending to study Botany a little more at all events sufficiently not to be nonplussed by my own children, the oldest of whom is remarkably fond of flowers, but it comes to nothing— Perhaps you could recommend me some book that is adapted for children whether grown up or otherwise— Your illustrations will do something, and your Diagrams also—but what one wants is a book in which you can readily find out the name &amp; habits of any wild flower one meets with— Good oral instruction is probably the best thing, but it is scarce in these parts—</p>
+                  <p>Believe me | my dear Sir | yours very sincly | John Evans</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

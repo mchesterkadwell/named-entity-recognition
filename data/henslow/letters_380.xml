@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_380.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-380">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Searles Valentine Wood   6 December 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 362 &amp; 362 (ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_194.xml"> Wood, Searles Valentine</persName>
+                <date when="1853-12-06">6 December 1853</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Egham |Surrey</placeName>
+                    <date>6 December 1853</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>It is not my desire or intention to say one word in depreciation of the object you have most at heart on the contrary wo <hi rend="superscript">d</hi> do all I co <hi rend="superscript">d</hi> to promote it my objection was simply against putting the light under a bushel when those at a distance co <hi rend="superscript">d</hi> not see it[.] Foreigners coming over are seldom able to make the Tour of England to visit all the District Museums &amp; it is not often that the Committees of Management have enough of the Esprit de Corps to make known the Treasures they possess[.] I only spoke of the obstacle that presents itself when I wanted to light my candle. If you can increase the number of labourers there is plenty of work for them the field is very extensive but I fear they will not work con amore unless for their own Cabinets in which there is a vested Interest which even a curator with all his zeal does not possess. My impression is that general information will be more approved of than the dry details of local sciences unless you happen to enlist an ardent Pioneer who wants to go ahead. I sho <hi rend="superscript">d</hi> be pleased to talk with you upon those subjects and, &amp; much obliged by your kind invitation but my Visits into Suffolk are unfortunately on the other side of Ipswich[.] I am sorry but not surprised to hear the account you give of yourself as I have myself suffered for the last fifteen years all sorts of ailments such as rheumatic pains, spasms violent back ache &amp;c &amp;c all arising from functional derangements or want of tone in the alimentary organs[.] The backache I have had so bad as scarcely to be able to turn in bed &amp; these are brought on by any little extra exertion[.] I mention this not to frighten but to encourage that after so long a struggle with the enemy I am still able thank God to move about &amp; enjoy the intervals of peace tho not exactly able now to wield a pickaxe as formerly[.] I can handle the goosequill &amp; as there is a time for everything if we cannot do exactly what we wish we must do what we can. As your doctor appears to hit upon the cause of your complaint &amp; sincerely hope he will be able to restore you to comparative health &amp; that I shall soon hear of your being better. One of my correspondents the other day was recommending to me the Hydropathic system as he had so recently submitted to its requirements &amp; who stated himself to be perfectly restored &amp; now enjoying excellent health altho’ he had suffered constipation for twenty one days. This certainly does appear to be an argument in favour of the Temperance movement as my informant is on the wrong side of fifty. My father has a great aversion to water taken inwardly but prefers a glass of wine but I suppose we cannot make the bed of Procrustes out of the pump. I told my friend that I went with him as far as the use of the shower bath but that wo d not always keep away the backache.</p>
+                  <p>If anything sho. <hi rend="superscript">d</hi> bring you into this neighbourhood I can only say I sho.d be most happy to see you &amp; Believe me</p>
+                  <p>Yours very truly</p>
+                  <p>Searles Wood</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

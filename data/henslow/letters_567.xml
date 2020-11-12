@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_567.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-567">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Evans   26 August 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 152</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_210.xml">Evans, John</persName>
+                <date when="1860-08-26">26 August 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Aldborough</placeName>
+                    <date>26 August 1860</date>
+                    <salute>Dear Prof <hi rend="superscript">r</hi> Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I send you a line in the hopes that it may reach you before you start tomorrow to say that M. de Peithes is in Edinburgh at the present time— He came over about Friday and Prestwich saw him. I think he stays over here a fortnight or three weeks— M <hi rend="superscript">r </hi>Prestwich desires his kind regards and agrees with me that you cannot do better than apply to M. Marcotte— he is also of the same opinion as I was about taking Amiens first— There is a place called Mantort &amp; on the road from thence to Moysenville are some pits where flint imp. <hi rend="superscript">ts</hi> have been found[.] This about two miles from Abbeville and on the other side of the valley of the Somme and well worth particular attention[.] It is the last pit going up the Hill— We go to Hoxne tomorrow and I shall go from there on to Cromer &amp; find my way back along the coast[.] We shall probably be here till the 25. <hi rend="superscript">th</hi> of Sep. <hi rend="superscript">t</hi> so that possibly some Sat <hi rend="superscript">y</hi> or Monday if you could come over we might meet here after your return— Believe me</p>
+                  <p>yours very sincerely | John Evans</p>
+                  <p>I hope you will have a pleasure trip the weather is improving</p>
+                  <p>We went to see a curious Pleistocene deposit at Stutton near Mannington yesterday with Cyresia Consobroca in abundance</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_110.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-110">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Baxter   1 February 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Oxford University Herbarium</repository>
+                    <idno/>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1830-02-01">1 February 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_55.xml">Baxter, William</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>JSH writes semi-critically regarding Baxter’s failure to respond to a previous letter requesting ‘3 more complete sets’ and asking about payment.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>1 February 1830</date>
+                    <salute>Dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Did not charity forbid it, I might begin to entertain evil surmises against our Postmaster – for I wrote to you in Oct <hi rend="superscript">r</hi>. Last, &amp; as I post paid the letter I can only hope that no blame rests with him in not having forwarded it– Perhaps your many employments have prevented you from complying with my wishes, for I feel confident that you are too thoroughly imbued with a sense of the beneficial effects arising from our common pursuit not to forward, as much as you can, the views of those who are just entering upon it– If therefore you can possibly spare the time to prepare what I requested of you, you will have the satisfaction of knowing that it will not be mis-spent. How much we ought to thank God, during our pilgrimage on earth, for allowing us, as he does, to reap the solid enjoyments which the contemplation of his good creation affords us. Compare these pure delights with the trumpery pleasures of the carnal mind, &amp; we shall be at no loss to comprehend the nature of “that light which lighteth every man that cometh into the world”. How silly &amp; how sinful should we (who have tasted these benefits), become, if ever we were to suffer the gross pleasures of the world, or the diseased fancies of melancholy men to wrest them from us. To all such we have the ready answer which S <hi rend="superscript">t</hi> Paul teaches us to apply “no man ever yet hated his own flesh, but loveth it &amp; cherisheth it as Christ the church” We then who have found if it good for our flesh to admire the Creator of all things thro’ his wonderous works, should not neglect our calling, our happy callings, of speaking of those works to others– I don’t say this under the idea that you are willfully neglecting my request, but to stir you up by way of remembrance that next to [<hi rend="underline">hole in page</hi>] daily prayers, you have a more [<hi rend="underline">hole in page</hi>] means of entering [<hi rend="underline">hole in page</hi>] the rest, which all true believers enjoy, than by seeking diligently to transfer some portion of that happiness which you profess yourself with the hearts &amp; minds of others. I shan’t pay this letter lest (as such Accidents will sometimes occur) it should be the means of stopping its progress – but I heartily hope no one is to blame for the miscarriage of the last – &amp; you will therefore oblige me by letting me know immediately whether you ever received it– If you did not I will write to the General post office – but if you did, pray don’t let my long sermon interfere with you necessary duties, to hurry you in the preparation of the collections – By the Bye, if you did not receive my last – you won’t know that I requested to know how I <hi rend="superscript">ed</hi> pay you for my own &amp; to request you w <hi rend="superscript">d</hi> prepare 3 more complete sets</p>
+                  <p>Y <hi rend="superscript">r</hi>. Truly | J. S. Henslow</p>
+                  <p>Mr Baxter | Botanic Garden | Oxford</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

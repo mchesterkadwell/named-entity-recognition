@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/tei_math.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEST-LETT">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title"></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority></authority>
+            <publisher></publisher>
+            <pubPlace></pubPlace>
+            <idno type="lognum">0</idno>
+            <date when="2020">2020</date>
+        </publicationStmt>
+        <seriesStmt>
+        </seriesStmt>
+
+        <sourceDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+    </profileDesc>
+    <revisionDesc>
+    </revisionDesc>
+    </teiHeader>
+    <facsimile>
+    </facsimile>
+    <text>
+    <body><div type="letter">
+            <div type="text">
+                <opener>
+                </opener>
+                <div type="transcription">
+<p>We start with a letter Charles Lyell sent to Darwin in 1865 where he discusses the latest revision of his book Elements of Geology and relates to Darwin his discussions with various aquaintances about Darwin's own book On the Origin of Species.</p>
+<p>This letter has been transcribed and annotated in TEI-XML by editors from the DCP team in Cambridge.</p>
+                </div>
+            </div>
+            <div type="annotations">
+            </div>
+
+        </div><div type="footnotes">
+        </div></body>
+    </text>
+</TEI>

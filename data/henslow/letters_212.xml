@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_212.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-212">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. H. Balfour   14 November 1840</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Library, Royal Botanic Garden, Edinburgh</repository>
+                    <idno>99</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1840-11-14">14 November 1840</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_120.xml">Balfour, J. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Offers thoughts on a specimen, stating they are conjectural and without seeing it he cannot be clearer.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Suffolk</placeName>
+                    <date>14 November 1840</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have only just got your letter of the 4 <hi rend="superscript">th</hi> – having been absent from home –</p>
+                  <p>Without seeing the specimen I hardly dare venture a remark – but it appears to me to be quite different from anything I ever saw - I cannot understand on what ground it is considered to be allied to Pothos, or Peperomia or Typha – but I presume it is supposed to be a spadix of some plant – But why so? In short I dare not offer a conjecture which would seem to be set at nought by fig. -2- but which from fig. 1. above I might have</p>
+                  <p>[<hi rend="underline">line not photocopied</hi> ....................................................................................]</p>
+                  <p>that the specimen is part of a stem and not of a spadix – Can you fancy that the lower portion is only the central part of the stem perhaps a cavity filled up whilst the upper portions form 3 points with the outer parts entire. But pray don’t quote these obscure conjectures-</p>
+                  <p>Y <hi rend="superscript">rs</hi> very truly | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

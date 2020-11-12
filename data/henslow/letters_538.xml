@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_538.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-538">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Evans   28 November 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 143 &amp; 143 (ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_210.xml">Evans, John</persName>
+                <date when="1859-11-28">28 November 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Nash Mills | Hemel Hempsted</placeName>
+                    <date>28 November 1859</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am glad that you have been over to Hoxne to look at the brick-pit there but could have wished that before writing to the Athenaeum, you had also heard the result of my visit there in company with M <hi rend="superscript">r</hi> Prestwich, M <hi rend="superscript">r</hi> Gunn &amp; others – You may depend upon it that the version given you by the Workmen as to the position in which these implements have been found is entirely incorrect— M <hi rend="superscript">r</hi> Frere who first gave an account of their discovery in 1797. had no object in view that c. <hi rend="superscript">d</hi> possibly lead to a misstatement of the parts of the discovery which he had apparently investigated upon the spot— and his account of the bed in which they were <add>principally</add> found viz in the beds of gravel beneath coincides most nearly with the testimony M <hi rend="superscript">r</hi> Prestwich gathered from the oldest workmen on the spot— He also states that the “extraordinary bones” were found in the sand above the flint weapons— I am afraid you cannot have seen this account which you will find at p:204 of the 11. <hi rend="superscript">th</hi> Vol. of the Archaeologia. There is nothing strange in some being found on &amp; near the surface, though I did not hear of any having been thus discovered— M <hi rend="superscript">r</hi> Frere states that numbers were thrown away &amp; taken to mend the roads &amp; the inclination of the beds of drift, which you would probably have perceived is in an opposite direction to the slope of the hill, must bring them to the surface as you descend towards the stream— There is one thing that very much surprises me, that the workmen should have assured you that these flint weapons were never found at a depth of more than 1 or 2 feet from the surface, when they must have known if they did not mention it that I myself found one only a month before in the gravel thrown out from a depth of 8 feet in a trench we had sunk in undisturbed soil near the edge of the pit— I saw one in situ at Amiens 17 feet below the surface &amp; M <hi rend="superscript">r</hi> Howse exhumed one on the same spot at a depth of 20 feet— I am glad that at all events there is no question on your mind of their being of human workmanship. The notion of these shapes being produced by chemical action as suggested by D <hi rend="superscript">r</hi> Ogden or by fortuitous collisions as M <hi rend="superscript">r</hi> Wright would have it, is simply absurd— Some of those found in Kent’s Hole, of which I have seen lithographs but cannot trace where the originals have got to, are exactly the same in form as some of the Abbeville specimens &amp; one of those I have seen from Hoxne—</p>
+                  <p>I have no doubt that in a few years time there will be ample evidence collected to prove the coexistence of man with the latest of the extinct animals to the satisfaction of the most skeptical &amp; the result may possibly be that we shall have to consider the latest geological changes of more recent occurrence than has hitherto been supposed. I understand that some flint implements analogous to those from Amiens and Hoxne have been found in the deepest excavations made at Babylon— but I have not yet seen them— have not written in reply to your letter, to the Athenaeum as I was rather tempted to do, but I should not be surprised if M <hi rend="superscript">r</hi> Prestwich were to take up the gauntlet you have thrown down, in which case pray see cause to reconsider your opinions— Have you met with anything of numismatic interest lately? I have seen but very little— Excuse this lengthy letter &amp; believe me</p>
+                  <p>Yours very truly <hi rend="underline">|</hi> John Evans</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

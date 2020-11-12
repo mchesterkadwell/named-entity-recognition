@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_299.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-299">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Buckland   16 December 1832</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 53</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_256.xml">Buckland, William</persName>
+                <date when="1832-12-16">16 December 1832</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Oxford</placeName>
+                    <date>16 December 1832</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am much obliged by your kind letter of this morning &amp; exceeding vexed that it will be quite impossible for me to accept of your kind proposal for Tuesday as that day is our Audit &amp; I must be on duty in the Chapter House from 10 A.M. to 7 P.M. there remain therefore but 2 methods by which we may contrive a meeting – the first if you can come over to Oxford,<del>&amp; sleep)</del> by 8 9 or 10 or 11 Tuesday evening &amp; sleep at my house &amp; go to Abingdon Wed <hi rend="superscript">ay </hi> morning. The other if you can come to Oxford from Abingdon Wednesday &amp; dine with me &amp; if you must be in Cambridge Thursday go home by a night coach to London Wednesday night – it is provoking that the Cambridge coach goes hence Wednesday.</p>
+                  <p>I shd be much interested to talk over Weymouth with you at this time because the paper on this district is now passing through the press &amp; I have corrected the proofs of 31 sheets &amp; expect another Tuesday – The whole I expect will be about 40 pages 4 <hi rend="superscript">o</hi>. It stands first in the next Vol of the Geol Proc <hi rend="superscript">gs</hi> w <hi rend="superscript">ch</hi> should be ready 2 months hence.</p>
+                  <p>If we do not meet this week I will send to you the proofs that you may at once see what De la Beche &amp; I have said – and if there be any thing you wd like to have inserted in the form of notes-or of an Appendix-if you will put it into the shape of a letter to me I will try to add it in the places to which your observations may relate.</p>
+                  <p>At the moment I am nearly sure that not more than the first 8 pages are printed off - &amp; these are chiefly the introductory &amp; general statements.</p>
+                  <p>Mrs Buckland … in best Regards &amp; in hope of seeing you Tuesday or Wednesday</p>
+                  <p>With you always</p>
+                  <p>Yours sincerely</p>
+                  <p>W.Buckland</p>
+                  <p>[addressed to Cholsey, Wallingford]</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

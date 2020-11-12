@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_872.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-872">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. C. Dale 20 February 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:112</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_300.xml">Dale, J. C.</persName>
+                <date when="1826-02-20">20 February 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>G. Wootton</placeName>
+                    <date>Feby 20th 1826</date>
+                    <salute>Dr Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>As you request me to inform you of my intentions (which I wd rather have kept secret) respecting the Cambridge Election &amp; particularly whether <hi rend="underline">adverse</hi> or favourable to Lord Palmerston I beg to say that had Ld. P. voted differently upon the particular question you allude to I shd. have been happy to have given him my support (shd. my presence in Cambridge not be dispensed with) But as it is I cannot think of voting for a supporter of the Catholiks <hi rend="underline">especially</hi> as a <hi rend="underline">University</hi> Member. As I before informed my friend Mr. Lukin who called on me by Lord Ps desire. I cannot answer for any other person's intentions except Wynch who means to give Bankes a <hi rend="underline">plumper</hi>. Mr. Bankes called lately on me &amp; as one of my own County &amp; his opinions I shd. be glad to support if I am obliged to attend the Cambridge Election. But though we happen to differ on Election Business I trust that on subjects of Nat. Hist. we shall <hi rend="underline">coincide </hi> better. I received a letter from Mr. Miller of Bristol lately who says Mr. Bulmer has left Dublin &amp; has been with his family at Bristol &amp; left him last Saturday (prior to Dec. fourteen. 1825) for Falmouth &amp; goes again from thence to Madeira &amp; Lisbon to be back in 3 Months or at least in the Month of May. During his last residence in Madeira he collected much and brought nearly 50 packages of specimens to England some of which are now at the Institution to be opened when he returns among these are a great many fish &amp;c in spirits. Mr. Miller has now collectors in almost all parts of the world &amp; hopes during the present year to get a great many things. He is now commencing the rearrangement of his Insects &amp; hopes to attend to it next summer. He has this moment seen a fine Papilio from Whale Island Capt Parry &amp; hopes to send me one soon.</p>
+                  <p>If you have seen Mr. Kirleys paper in Capt. Parrys Voyage you will find that he mentions that <hi rend="underline">only 6 species</hi> of insects were found in Melville Island vs - 1 Bombyx Sabini (alias Geom. trepidaria ?), 2 Bombus Araticus, 3 Ctenophora Parrii, 4 Chironomus Borealis? 5 a Spider &amp; 6 a larva of a Laria</p>
+                  <p>When Curtis &amp; I were at Edinburgh College Museum we saw a box of insects presented by Mr. Fisher from Arctic Regions in which were 3 Papilios allied somewhat to Melitaea selene or Dia, several Bombyx allied to Dispar α fasaelina (one of each Curtis &amp; I obtained i.e. Dispar ? α fasaelina ?) several Tipulae, Muscae &amp;c but very badly preserved. I am glad you &amp; I agree very well on Curtis's work &amp; I hope he will find encouragement sufficient to continue it. But it will be a worth of time before finished. Denny I hear will soon publish his monograph on Scydmaesiidae &amp;c I paid my subscription 2 or 3 years ago. When will Stephens's &amp; Haworth's come out???</p>
+                  <p>If I go to Cambridge I most likely shall pay Whittlesea, Gamlingay &amp;c a visit- but I have so many expeditions chalked out that I do (illeg) not know which to visit first - viz- Bala Lake &amp; Mountains North Wales - Devonshire- Sussex- Manchester &amp; Cumberland &amp;c if I gain any information respecting rarities of which I have left directions in my way from the North - I took Hydrometra with wings at Rydal water - &amp; many insects in Scotland which I hope you will see some account of by Curtis before many months - But I may reckon Geom Lepidaria, Populata, Caesiata <hi rend="underline">Blandina male &amp; Ligea female</hi>) Typhon &amp; Artaxerxes &amp; many others. &amp; I have some plants at your service but not dried in good order - In a former letter dated Nov. 28. 1820. you said "I have not been in Kent this summer since June &amp; so the Conocephali have had a respite this season - but I will not <hi rend="underline">forget</hi> you when I next fall in with them" I suppose <hi rend="underline">you</hi> will understand <hi rend="underline">this hint</hi> I hear also it has been found near Bristol but cannot obtain any more than the bad one I had from Bulmer. By the bye what do think of Bingleii? I have not heard of its reappearance &amp; I am not likely to meet with again as I have let my farm in Hants to Lord Malmesbury.</p>
+                  <p>Altho the larvae of Atropos has been abundant all over the Kingdom I have only had one good male &amp; a crippled male &amp; female, other larvae died before my return. Every place I visited &amp; every person I heard from mentioned the abundance of them at Glasgow College Museum &amp; do. Edinburgh do. Keswick do. Kendal do. Manchester do. Worcester do. Bristol &amp;c &amp;c &amp;c. At Keswick Museum I saw Antiopa Sph.convolvuli Atropos &amp;c &amp; I thought Mnemon wasted but it proved only Hyperanthus. I have the promise of Geom. conversaria &amp;c &amp;c from Devonshire. I do not know what is the matter with Stephens &amp; the London collectors they all are so silent.</p>
+                  <p>Now I must conclude</p>
+                  <p>Yours truly &amp; entomologically</p>
+                  <p>J.C. Dale</p>
+                  <p>A <hi rend="underline">new</hi> Argynnis taken at Ipswich</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

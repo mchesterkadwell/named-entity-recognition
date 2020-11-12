@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_184.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-184">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Whewell   14 August 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell Add.Ms.a.206: 63</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1831-08-14">14 August 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>14 August 1831</date>
+                    <salute>My dear Whewell,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I grieve to say that your informant's account of poor Ramsay was but too true– It was on the morning after you left Cambridge that I received a black seal from the town where he was &amp; on opening the letter found all my fears realized– It contained an account from his Sister of his last movements in this world written the day after his death–</p>
+                  <p>He had been gradually getting weaker, but neither his Family nor his medical attendants anticipated a fatal termination to his distemper till within 24 hrs of his dissolution– when he became delirious– He however recovered his composure before he died &amp; expired without pain– He had been taking mercury for his hair was affected &amp; had considered his great debility to be owing to this medicine.</p>
+                  <p>We have thus a gap formed in our Cambridge circle which can not easily be restored. One great and happy consolation it is to us all to remember the excellence &amp; worth of his character–which was as faultless as usually falls to the lot of the best among us–even the very best.</p>
+                  <p>I knew more of his private sentiments than most men &amp; I would not wish to possess more sincere faith &amp; hope than that which sustained him– &amp; when I die, I pray that my end may be like his– I have had the melancholy task of arranging his affairs or rather am still employed in this office. His Brothers Edd. &amp; Wm &amp; his Sister are left in possession of his effects, but neither of them can conveniently come down. You are not likely to know any thing of his affairs– if you sd. or should know by chance of any books belonging to him which he may have lent pray inform me–</p>
+                  <p>I left Harriet &amp; the Children at Bottisham yesterday–</p>
+                  <p>Believe me ever most sincerely | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

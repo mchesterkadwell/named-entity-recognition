@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1057">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From William Vernon Harcourt 8 August 1833</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Oxford, Bodleian Library</repository>
+                        <idno>MS.Eng.d.3873 ff.162-6</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1833-08-08">8 August 1833</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_353.xml">Harcourt, William Vernon</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Cambridge</placeName>
+                        <date>8 August 1833</date>
+                        <salute/>
+                    </opener>
+                    <div type="transcription">
+                        <p>I will write to Mr Yates and consult with him about the meeting of the Council. Whewell is away and does not return for a few weeks. My own opinion is most decidedly against employing Mr Murray any more. My chief object in writing to you at present is to confer about the report we are preparing. I do not consider its present shape as that in which it ought to appear, as we have not carefully revised it so as to correct grammatical errors and misprints; but I confess that I see nothing to find fault with in the general character of it. The reporter's account was most defective and it has cost us no small pains to reduce it to its present shape. You will observe that I am not the only person who have worked at it: Sedgwick, Whewell, Lodge, Peacock, Brown, have corrected parts, and the three former especially have looked over the whole. Peacock has a copy now. I have sent others to Mr Taylor, Mr Yates, Dr Daubeny, Mr Phillips, and Lodge and before it goes to the press I am anxious for the opinion of all. I really think that you take too high a view of what is required in such a publication. No one expects any thing of dignity in such a statement: all that is called for is a simple memorial of what took place, and as nearly as possible, of how it took place. To alter the speeches into prepared orations would take away the whole charm which they possess as exhibiting the unpremeditated sentiments of the speakers. I and several others considered the account we are preparing would be highly gratifying to those who have seen no accurate report of the proceedings, and nothing but the very erroneous statements which have appeared in the papers and elsewhere. Still, so far as I am concerned, I have no care for the publication and will correct and alter to suit the taste of others as may be thought best. With three friends to assist me last night, we directed above 800 of the circulars, and I have given the rest to a clerk to finish for us. You will, I trust, excuse me if I have delivered my own view freely, but having lived long enough to know that it is impossible that we should all think alike upon any subject whatever, I always consider it best to state plainly my own opinions and then abide by what the majority wish, without any care for the consequences. I verily believe that we shall gratify very nearly the whole of the Association by appending this report to the signatures, and that they will be the better pleased to find the speeches given as nearly as possible in the language in which they were delivered. I don't think we can suppress it after the Syndics have so liberally offered to print it for us. It cannot be considered an act (or a very deliberate one) of the Association, but of a few only; for it forms no part of our regular proceedings. I therefore do think that you view the matter with too severe a judgment; but in saying so pray don't suppose that I am in the least annoyed, and that I am unwilling to stop the publication, and burn the letters if it should seem most advisable to do so. I am willing to suggest and to act for the members of the Association to the best of my power, but have no desire to support any fancies of my own that may be unpleasant to them. Quere. If we find a Council cannot conveniently be called, might not a circular be sent to the members requesting their opinion as to Murray's publication. I see that I am the only member of Council in Cambridge, but I am quite ignorant of the London members and I think a circular would be a ready and efficient mode. Will you, if you consent, prepare one, and I will get it lithographed if you choose a printer.</p>
+                  <p>Quere. Would you recommend my sending the report of any of the speeches to their authors?</p>
+                  <p>I see you mention rough Mss as sent you by Whewell, but as you have not got the proof sheets, you may perhaps find that we have already done something towards altering them into a fitter shape for publication.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_619.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-619">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Adam Sedgwick  February 27 [1840-1860]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 292</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_160.xml">Sedgwick, Adam</persName>
+                <date notBefore="1840-01-01" notAfter="1860-12-31">1850</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Cambridge</placeName>
+                    <date>Feb.23</date>
+                    <salute>My dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I suppose my Assistant has posted to you one of my Circulars; for I did I directed them to all the Professors of the U, &amp; should hardly have forgotten you.</p>
+                  <p>My Professorial days are nearly/many numbered; &amp; I want to end them (like an Italian fiddler) with a grand Manner, &amp; if the Senate does not help me, I shall end in a scrape.</p>
+                  <p>I secured M <hi rend="superscript">r</hi> Gray’s collection with a every money possible: e?? to by coming down with 250£ meo periculo. I believe I could sell the collection in London to great profit; but that I should be ashamed to do; &amp; that I cannot do without breaking word with M <hi rend="superscript">r</hi> J??: for his prices are fixed on the condition that the collection should go to the Cam: Museum.</p>
+                  <p>I have added a short notice to the <add>printed</add> letter, which will appear in the Cam. Papers of this week; &amp; if I can “think on” (as we say in Dent) I will send you <del>a copy</del> one of them. If the small but very beautiful collection of ?? Shells (given by M. <hi rend="superscript">r</hi> Brocke) be put under glass, as it ought to be; in that case the complete arrangement of the Woodwardia series would cost about 500£[.] I did not think of the first item when I printed the circular: &amp; if the U. have a c? fit the ? shells may be put off to another day — Kind regards to M. <hi rend="superscript">rs</hi> Henslow &amp; to all whom I know in your house; &amp; a kiss to my dear Goddaughter— Pray tell me how you are going on. I broke down again ?? ??. From the 4 <hi rend="superscript">th</hi> of Dec. to the 31 <hi rend="superscript">st</hi> I was a close/house Prisoner— being tormented by a vile cough &amp; clogged by a discharge from the bronchial tubes. I went for 10 days in January to Norwich. I first went to try my legs; &amp; they bore the two hours in the train better than I hoped for; but I caught a fresh cold which again put me in limbo. I was very anxious to got Dent to see a poor old dying Sister. About the middle of January I did start for Dent, halting in the way to avoid night air— I arrived alas! too late. Poor ?? was gone before I reached the old Parsonage This has been to me a great sorrow. I returned to Cambridge just before the Poll closed so I gave my vote for D?, &amp; found myself a small minority. This fact was quite ??. It was what often happened in my younger days, &amp; it has put me in what I almost think a state of nature. I am still ailing so I do not go into Hall, my legs are so tender</p>
+                  <p>P.S. Various sums (from 1£ to £10) have been subscribed &amp; the total amounts to more than 100£. I have put my sum down for 20£, but ??, of course, so ??; as I am interested now ?? than one. Hawkins has presented us with a fine collection of Saurians</p>
+                  <p>from the Lias; asking only 100£ for the cost of mounting in frames. This sum our Master (i.e. of Trinity) has generously undertaken to pay. Whewell has also sent his sum to the ?? subscription for 10£[.] This is generous — is it not? For he has thus committed himself for 110£ annually to the Geological Museum.</p>
+                  <p>But how much have the other Heads sent? As yet, not one farthing. This does disappoint me: for they had the lithograph circular four or five weeks before any one else. It was sent to them by my Assistant while I was away in the N. of England—</p>
+                  <p>P.S.S. Hawkins had been in correspondence with the Governments of Russia, Prussia &amp; the United States on the subject of his collection for which he asked, I believe, nearly 2000£— a sum certainly far above their market value. Failing in all these quarters he finally offered it as a gift to us— The fiend Gout also bothers me again. Ever since 1830, the Spring has been to me a season of low spirits, &amp; vile temper: &amp; these distempers lord it over me quite into summer. I must stop.</p>
+                  <p>Yours affectionately | ASedgwick</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

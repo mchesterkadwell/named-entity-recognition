@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1046">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Rowland Hill 9 March 1850</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>British Library</repository>
+                        <idno>31978: 282</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1850-03-09">9 March 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_204.xml">Hill, Rowland</persName>
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham Hadleigh Suffolk</placeName>
+                        <date>9 March</date>
+                        <salute>
+                     <hi rend="underline">Private</hi>
+                  </salute>
+                        <salute>My dear Sir,</salute>
+                    </opener>
+                    <div type="transcription">
+
+                  <p>If I bore you say so - but you have rather encouraged me to talk of Post Office arrangements in connection with Sunday - &amp; I send you the enclosed rough sketch of an answer I am sending to my friend &amp; neighbour who has just got up a petitition against you - &amp; is very actively engaged in support of some of our religious societies - We entirely disagree on some questions, though (I trust) we are equally convinced in our own minds. Now it seems to me that all who are taking the same view of Christian's calling with myself are as much entitled to freedom of opinion as those who are taking a different view. These questions (as matters of conscience) should be left open - &amp; the truth is more likely to prevail, than we if we are all to square our consciences by other men's measures. If I am wrong, I have no doubt I shall be brought to see the truth. But whilst I cannot perceive my error I shall take the liberty, (I could not refuse to others), of standing or falling to my own muster. Whatever the Legislature may determine upon respecting the observations of the Lords Day, I shall cheerfully submit to - however I may esteem it an infringement on our Christian privileges to have such straightness imposed upon us as may be satisfactory to the most Puritanical</p>
+                  <p>Very truly Yrs</p>
+                  <p>J. S. Henslow</p>                    
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_279.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-279">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Leonard Jenyns   25 July 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Bath Royal Literary and Scientific Institution</repository>
+                    <collection>Jenyns Collection</collection>
+                    <idno>Letter 3027</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1856-07-25">25 July 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Kew</placeName>
+                    <date>25 July 1856</date>
+                    <salute>My dear Leonard,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have been so busy since I received yr letter I could not reply till I got from home. I am fully intending to go to Cheltenham, but my stay must be limited as I have a London Univy. Examination to attend to during the same week – i.e. Examination on Aug 6 for 10-12: meet Examiners on Aug. 13 – do that must leave on Tuesday the 12th. I shall probably go down on Aug. 7. I am glad to hear what you are going to do about Species. Hooker has just put in my hands some lucubrations (a proof sheet) of his on the same subject.</p>
+                  <p>I have a most remarkable example of Sport in a 3d Species of Aegilops transformed to a triticoidal form, and (as I believe) tending very materially to confirm former observations that races of Wheat are modified form of Species (races?) of Aegilops. I brought Louisa to town and she is going to Northamptonshire (to Downey) this afternoon. I carry Harriet back with me tomorrow. I am at the moment writing in the Examination Room of the L.U. but will carry my letter to Kew before I post it. I have accidentally left yours there and there maybe something further to say in reply. If you see the Gardeners Chronicle you will have observed a series of Articles I am writing on "Practical lessons on Botany for all classes". The first was on Saturday July 5th or rather the Preliminary which led to the 1st on July 12th.</p>
+                  <p>Kind regards to Mrs. L.J. and | Ever affly yrs | J.S. Henslow</p>
+                  <p>PS. Harriet has nothing to add, and I have brought yr. letter all the way back before posting it! No one has <hi rend="underline">refuted</hi> Herbert's Expry. [?]</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

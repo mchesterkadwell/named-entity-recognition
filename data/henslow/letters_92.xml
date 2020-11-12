@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_92.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-92">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Revd James Dalton   28 July 1829</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 118</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_61.xml">Dalton, Revd James</persName>
+                <date when="1829-07-28">28 July 1829</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Croft near Darlington</placeName>
+                    <date>28 July 1829</date>
+                    <salute>Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>encouraged by our mutual Friend Macfarlen, I venture to introduce myself to you under the character of a mendicant. My brief history is this― I gave my collection of British Plants to the Philosoph. Society of York, my native City, &amp; have commenced a new one. The pages accompanying this, will discover to you the nakedness of the Land, &amp; the impossibility, at my age, of gathering <hi rend="underline">myself</hi>, as formerly the products of distant Counties. I shall be proud to make the best return in my power, for any duplicates you may be able to spare. The Duplicates of my mosses <hi rend="underline">alone </hi>were retained; as I am tolerably conversant in that beautiful &amp; intricate family, it is possible I may be able to serve you. Need I add that I will have much pleasure in doing so?</p>
+                  <p>I, formerly, corresponded with Relhan, who <hi rend="underline">kindly sold </hi>me specimens gathered <hi rend="underline">from the Botanic Garden in Cambridge</hi>. Those, of course, were discarded, so soon as I could replace them with specimens from their native station. Poor Relhan was an excellent Botanist. I wish I c <hi rend="superscript">d.</hi>― say more for him. The Eriophorum polystachion, as I was told by the late M <hi rend="superscript">r.</hi> Home, grows upon Hinton Moor, along with Er: pubescens. For twenty years I had mistaken the latter for the former, which has not yet come under my observation. I made a vain application to Home for specimens; But he, poor fellow, was as dry as a Concio ad Clerum, &amp; I am still in doubt with respect to the species.</p>
+                  <p>Should business or pleasure bring you so far North as Croft, it will give me sincere pleasure to receive you at the old Rectory, where you will meet a cordial welcome &amp; no form.</p>
+                  <p>Feeling confident that you will pardon the liberty now taken by (in <hi rend="underline">every</hi> respect) an <hi rend="underline">old </hi>F. L. S. I am, Sir, yours very truly | James Dalton.</p>
+                  <p>
+                     <hi rend="underline">Written on 2 pp. list of Henslow's desiderata. Pencil marks added by James Dalton In margin opposite long string of Saxifraga spp., JSH wrote: </hi>'I suspect that this genus will contract very materially under the pruning of my Friend Hooker.'</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

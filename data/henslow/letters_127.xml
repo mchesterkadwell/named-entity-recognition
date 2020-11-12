@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_127.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-127">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. B. Greenough   19 July 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 152</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_80.xml">Greenough, G. B.</persName>
+                <date when="1830-07-19">19 July 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Regents park</placeName>
+                    <date>19 July 1830</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your kind letter arrived when I was out of town which will explain my apparent inattention in not sending an earlier answer. The same circumstance has also prevented my replying to a note of Sedgwick’s before he sett[sic] off for the North, which I regret the more because I do not know where my letter should be directed.</p>
+                  <p>I am engaged in correcting those errors in the Geological Map of England which can be corrected by a change in their coloring. What is engraved right or wrong must stand– for the alterations already done have in some places worn the copper almost through, and if I had now sufficient materials to rectify all the geographical faults, it would be less trouble &amp; expence to form an entirely new map than to reform the old one – Dr Buckland imaginid [sic] you had already ascertained many things in the neighbourhood of Cambridge which it seems you are only now investigating. I have no expectation that I shall complete the task I proposed before November and shall feel much obliged to you for any improvements you may suggest to me in the interim in regard to any portion of England. I have no map of Cambridgeshire on a large scale &amp; if I had, should in all probability find it very difficult to reconcile the position of the objects delineated with that which they occupy on my map – for my map was constructed at a period when that county was perhaps less known than any other–</p>
+                  <p>It is quite indifferent to me in what manner your amendments are marked (whether by pencil or in colors) provided they are distinct &amp; one color will answer the purpose as well as another, if the meaning of such is denoted on the margin: upon this point therefore you have only to consult your own convenience.</p>
+                  <p>With many thanks for your kindness I remain</p>
+                  <p>My dear sir | yours very sincerely | G.B. Greenough</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

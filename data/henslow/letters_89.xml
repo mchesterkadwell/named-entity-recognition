@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_89.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-89">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Jackson Hooker   17 May 1829</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 115</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_45.xml">Hooker, William Jackson</persName>
+                <date when="1829-05-17">17 May 1829</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Glasgow</placeName>
+                    <date>17 May 1829</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Thank you for you nice &amp; useful Catalogue of British Plants &amp; for your letter of the 10 <hi rend="superscript">th</hi> of May. I am gratified too with the prospect of your coming to Scotland &amp; of my thus being able to make your personal acquaintance. I wished to have done so two months ago when I spent some time in England. I hoped to have gone by Oxford &amp; have returned by Cambridge. The former I accomplished. The latter I could not:- for as usual, I found myself much hurried immediately previous to coming away from London. … Graham who spent a few days with me last week told me of the plan you had in view for visiting Scotland. My excursions to the Highlands with the Students will be the latter end of June. It depends upon the <hi rend="underline">Sacrament </hi>of the Parish in which the Lectures are given, which I think is necessarily a vacation from the duties of the Class. This year I shall start on the 23 <hi rend="superscript">d</hi> (tuesday.) We go down the Clyde to Dumbarton to breakfast:― Take the public conveyance to Balloch at the lower end of Loch Lomond &amp; get the steamer to take us to the head of the Lake by 2 in the afternoon. Then, we are only 26 miles from Killin, where there is accommodation for our party, &amp; that distance we have usually walked: but I think I shall order some sort of vehicles to meet us &amp; convey us the last ten or 12 of these miles. Killin as you know is at the head of Loch Tay &amp; at the foot of some of the best of the Breadalbane Mountains. We ascend the nearest on wednesday.— take Ben Lawers perhaps on the thursday. Some other one in the vicinity on the friday &amp; return on the Saturday. I expect our friend Wilson of Warrington will be here unless, poor fellow, he should have a fit of the Blue d—ls. He is an extraordinary man both in disposition &amp; mental powers: &amp; I really think the very acutest British Botanist we now have. But so tormented by hypochondriasis that he makes himself miserable for weeks together. M <hi rend="superscript">r.</hi> Christy too is coming from London &amp; they <del>too</del> probably will stop a few days longer than I can do, tied as I am to my Class. So that, if you choose it, you can devote more time to the Breadalbane M <hi rend="superscript">ts–</hi> &amp; you cannot do it under better auspices than those of M <hi rend="superscript">r.</hi> Wilson. Douglas too I expect will be here &amp; M <hi rend="superscript">r.</hi> Arnott of Edinburgh.</p>
+                  <p>I hope you will continue to be here at the time. Brown has promised to come in the Autumn: but he has often promised to do before; &amp; not performed his promise. We never can be sure of him.</p>
+                  <p>I will write at once to Drummond that he may prepare a set in 2 vol <hi rend="superscript">s.</hi> 4 <hi rend="superscript">to</hi> of his Maps of N. America. The price is 3 g <hi rend="superscript">s.</hi>—260 or 270 kinds:— &amp; most beautiful! He has more orders than he can immediately supply &amp; this book will soon be a great rarity.</p>
+                  <p>Plate 25 of Bot. Miscellany was omitted by mistake &amp; will be given extra with Part II. This is one of several blunders committed by being in Scotland while the book was got up in London. N <hi rend="superscript"> r.</hi> 2 &amp; all the rest will be published here. The Engravings for N <hi rend="superscript">o.</hi> 2 are all ready &amp; the first sheet is already printed. In speaking of our friend Lowe, "<hi rend="underline">Cryptogamma</hi>" aut to have been <hi rend="underline">Gymnogamma. </hi>
+                  </p>
+                  <p>I wish I could offer you a bed when you come to Glasgow, but I fear my small house will be full. You will find the Royal Hotel I think the most comfortable here, or the George Hotel (Hutton's)</p>
+                  <p>Yours ever my dear Sir, most truly &amp; faithfully | W. J. Hooker</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

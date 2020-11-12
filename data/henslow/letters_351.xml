@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_351.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-351">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Leonard Horner   29 August 1850</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177 169</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_131.xml">Horner, Leonard</persName>
+                <date when="1850-08-29">29 August 1850</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>River Mead Hampton Wick Middlesex</placeName>
+                    <date>29 August 1850</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I would have replied to your letter of the 19 <hi rend="superscript">th</hi> sooner, had I not been waiting from day to day to send you a proof of the Notice we have prepared, to announce to the good people of Mildenhall the opening of the new school. I now inclose one, &amp; Bunbury &amp; my daughter will be thankful for any suggestions of its improvement that may occur to you. You will see that we have introduced a sentence to make your approbation &amp; that of the dean of Hereford generally known. After full consideration, we thought it advisable not to state at greater length the favourable testimonies we received from yourself and M <hi rend="superscript">r</hi> Dawes. If you have any objection to your name being mentioned in the way you find it, pray say so at once &amp; it will be withdrawn.</p>
+                  <p>We have thought it advisable to give a half day for the special religious instruction, on any day of the week, instead of fixing on Saturday, for these reasons: those disposed to make objections might with some justice say – “You make no concession, for Saturday is a holiday at most schools; besides, the children would be more unwilling to come on that day, because it is usually a holiday, and it is of all days in the week the most inconvenient to a Clergyman, who has his Sunday duties to prepare”-</p>
+                  <p>I thank you for your information about Mr Zinoke – I hope to have an opportunity of becoming personally acquainted with him.</p>
+                  <p>I never heard you, My Dear Sir, utter a single word on religious subjects that was in the most remote degree inconsistent with the most perfect toleration. I heard with respect your expression of confidence in the opinions you have formed, altho’ I have been led to different conclusions on some points. Would to God that all the clergy in your Church were like you! It would tend greatly to the peace of our country &amp; to the diffusion of religious feelings.</p>
+                  <p>I have not heard of Sir. W. Hooker for several days, and am thinking of calling there today-</p>
+                  <p>I have had a letter from Lady Lyell this morning from Cassel. They have been making a most interesting tour by Cologne, Minden, Hanover, the Hartz, Berlin, Leipzig, Weimar &amp; Gotha- Lyell has met with a great many capital geologists, &amp; has done some satisfactory work. They expect to be at home on Saturday.</p>
+                  <p>With our united kind regards to Mrs Henslow &amp; your daughters I am</p>
+                  <p>Most truly yours</p>
+                  <p>Leonard Horner</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

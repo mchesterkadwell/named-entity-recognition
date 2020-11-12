@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_165.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-165">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From C. Wallich   14 April 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 202</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_69.xml">Wallich, C.</persName>
+                <date when="1831-04-14">14 April 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>61 Frith Str |Soho</placeName>
+                    <date>14 April 1831</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I thank you a thousand times for your most kind favor of the 3 <hi rend="superscript">rd</hi> March which reached me yesterday and for the interesting List of the Botanical Museum at Cambridge.</p>
+                  <p>It is with heartfelt satisfaction I inform you that I have got another years leave to remain here, to commence from the 1 <hi rend="superscript">st</hi> inst; the orders have passed not only the Court of Directors but the Board of Control, and the official letter to me from the India House to that effect is safely in my custody &amp; regularly endorsed. This I mention by way of shewing that nothing can happen to drive me away within the said period. But that I have been this fortunate in obtaining the object of my most anxious wishes – whom have I to thank – next to my generous &amp; magnificent masters – but You, my highly esteemed Sir, You &amp; those other dear friends &amp; patrons who, by urging the Directors of the Company to take a favourable view of my case, have done me such eminent service? I declare to you that, had it not been for the strong, &amp; I had almost said irresistible arguments made use of by my friends in their communications to Lord Ashley – each of which were placed before the Court of Directors, I should have despaired of success, and with very good reason.–</p>
+                  <p>Again &amp; again accept my heartfelt thanks. I will repay the interest of my debt to you when I return to India – till then – and ever after, reckon on my warm gratitude.</p>
+                  <p>I write this in excessive haste and full of trouble &amp; cares; for I have more to do now than ever I had before. You will receive the continuation of my Catalogue to sheet 134 – in the course of next week. Shall you be in town soon? Never come here without gratifying me with a call</p>
+                  <p>Believe me, my dear Sir, with the greatest regard |Yours most truly &amp; obliged |C. Wallich</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

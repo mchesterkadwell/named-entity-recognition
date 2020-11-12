@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_549.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-549">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Evans   10 February 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 147 &amp; 147(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_210.xml">Evans, John</persName>
+                <date when="1860-02-10">10 February 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Nash Mills | Hemel Hempsted</placeName>
+                    <date>10 February 1860</date>
+                    <salute>Dear Prof. <hi rend="superscript">r</hi> Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I called in the Museum of Pract <hi rend="superscript">l</hi> Geology the other day &amp; brought away the box you so kindly left there for me and now write to thank you for the contents—</p>
+                  <p>You will be sorry to hear that I found the poor Saxon urn in a state of collapse— I have however succeeded in restoring it though hardly in so perfect a manner as you had originally done— The model of the urn with the inscription is exceedingly good— I have not however arrived as yet at the meaning of the inscription— In fact I have hardly as yet had time to examine it, as last night all my spare time was devoted to the rebuilding of the Saxon urn &amp; the night before I had to give a Mech’s Institute Lecture. The stone axe from the Sandwich Islands is very peculiar in the shape of its cutting-edge, but I have one from the Orkneys as nearly as may be of the same shape— A day or two ago I met with a splendid Saxon relic— a circular plate about 3. <hi rend="superscript">in</hi> diam. <hi rend="superscript">r</hi> similar to a fibula but apparently intended for attaching to leather— It is of copper strongly gilt ornamented with five bosses of mother of pearl each set with a garnet and with the field all betwisted and beplaited as the Saxons knew how to twist and plait—</p>
+                  <p>[ink sketch of plate]</p>
+                  <p>This will give you some idea of it—It is in perfect preservation &amp; was I believe found in Cambridgeshire. I am going down to the land of Saxon Antiquities tomorrow to spend a day or two at Audley End with Lo. Braybrook and Albert Way— I have never seen his collections—and expect to be much pleased— I had a letter from McGunn the other day who had been at Hoxne and found one of the flint implements in the bank close to the road at a depth of 9 or 10f <hi rend="superscript">t</hi>. I daresay you have heard of or from him—</p>
+                  <p>M. <hi rend="superscript">rs</hi> Evans desires to be kindly remembered as also does Miss Stewart who is getting up the natural system very diligently—</p>
+                  <p>Believe me | yours very sincerely | John Evans.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

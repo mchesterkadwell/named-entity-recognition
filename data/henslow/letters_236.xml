@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_236.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-236">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Whewell   25 April 1846</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell Add.Ms.a.206: 67</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1846-04-25">25 April 1846</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>H. H. S.</placeName>
+                    <date>25 April 1846</date>
+                    <salute>My dear Whewell,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I shall be happy to dine with you on Monday– &amp; write to say so, (though perhaps I may see you before my letter arrives) as I am not sure of letting you know this after my arrival on Monday– I shall be able to give you a more favourable ac <hi rend="superscript">c</hi> of M <hi rend="superscript">rs</hi> H.– &amp; I am sure nothing would delight her more than meeting you &amp; M <hi rend="superscript">rs</hi> W. by the seaside– It is the very thing she most requires– &amp; we had fully determined to go somewhere if she s <hi rend="superscript">d.</hi> be moveable– We are burnt out at Felixstow, the whole row of houses having been destroyed by fire– where we used to lodge, &amp; the only houses she cared about– I dare say I shall be blamed for my Pamphlet– but really it seems to me a perfect farce in these days that those who are to teach Natural History in a University should not be required to make the subject the main business of their lives instead of the mere occupation of their leizure moments– However the machinery we possess was adequate to the wants of a century ago it is no more capable of supplying the demand now, than the Spinning Wheels of any Village <del>are</del> of competing with the Spinning Jennies of Manchester– I have continued to train one our Village Sempstresses to glue down plants, &amp; employ her for 5 hours daily – in which time she manages to prepare on the average more than 100 specimens– &amp; does her work admirably– I hope to give her many weeks constant employ in the course of the year– She has already glued between 2000 &amp; 3000 – I wish I had thought of doing this somewhat earlier–</p>
+                  <p>Kind regards to Mr <hi rend="superscript">s</hi> W. | Ever most truly y <hi rend="superscript">rs </hi> | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

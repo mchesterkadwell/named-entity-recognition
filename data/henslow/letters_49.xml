@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_49.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-49">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. K. Greville   30 April 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 55</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_50.xml">Greville, R. K.</persName>
+                <date when="1827-04-30">30 April 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Rothsay Bute</placeName>
+                    <date>30 April 1827</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your letter of the 17 <hi rend="superscript">th</hi> followed me to this place along with a part of my family which travelled a few days after myself. I again thank you very heartily for your kind offers &amp; kind wishes– I do hope I may visit Cambridge some day or other and that not in sickness. We find the weather very mild &amp; Beautiful but had a very rough voyage &amp; for two days a perfect hurricane of wind &amp; snow, which I find has been equally violent on the east coast. The Spring on the whole is backward– The flowers expanded are Prunus speciosa–Viola canina– Potentilla Fragaria – Adoxa moschatellina &amp;c &amp;c Our house is within half a stone’s throw from the sea &amp; even in bad weather I can get something to examine from the coast, in a few minutes. The <hi rend="underline">Algae</hi> are luxuriant &amp; I shall secure a good stock of duplicates: though I have not examined much of the coast yet, I have found some very good species – and among other objects the curious <hi rend="underline">Ulva defracta</hi> Alagonidium defractum of Agardh. It is <hi rend="underline">certainly </hi>an unusual substance. The best mosses I have found are <hi rend="underline">Orthotrichum Drummondi, pulchellum</hi>, and <hi rend="underline">Bartramia arcuata.</hi>
+                  </p>
+                  <p>I think I may say I have determined to undertake a British Flora illustrated in the way I mentioned. I still wish to adopt the natural system –but I am afraid it will affect the sale for it is a work that must be fulfilled in parts– &amp; the Linnean clavis generum could not be given except at the termination. Now I fear this will render the work unpopular during its <hi rend="underline">progress</hi>, &amp; if a purchaser waits till it be completed, it will then seem expensive. In short I scarcely know what to do about it for I need not hesitate to confess that without any ill feeling I intend to supercede if possible both Smith &amp; Withering. I might be at the cost of publishing a temporary synopsis of the genera upon the Linnean plan in small type &amp; in a separate form, to be given along with the 1 <hi rend="superscript">st</hi> part – &amp; this would serve till the work was finished.</p>
+                  <p>In your Cambridgeshire Flora – you will have none of these difficulties. I like your plan much – only, in bringing into your table the exotic Nat. Orders, I fear you will have some trouble to find these all out scattered as they are in all manner of transactions, some good – some doubtful – some bad. I suspect you will find it, your interest to keep to british ones only. In regard to the placing of generic characters – each order will of course commence with the character of the genera contained in it. But the Linnean arrangement of the genera – seems to come with advantage at the commencement (printed last) with a distinct paging, &amp; a reference to the page where the genus is found in the body of the work. By this plan it is kept distinct from the indices. The dichotomous tables are highly useful, but only in large genera, where the characters of the species are obscure or resting on minute details.</p>
+                  <p>I shall be very glad to have your remarks, &amp; the use of such <hi rend="underline">vars.</hi> do from y. <hi rend="superscript">r</hi> herbarium as you may think interesting. – They will be in time before the end of the year. – In the mean time, I shall make general preparations–</p>
+                  <p>Before I left town I gave into a gentleman’s care a parcel of <hi rend="underline">Algae </hi>for you – tolerably extensive – but he will not be able to have it in London for a month. I wrote in it to thank you for your parcel – &amp; spoke also of my projected work.</p>
+                  <p>I am | My dear Sir very truly yours– | R K Greville</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

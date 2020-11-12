@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_427.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-427">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Colchester   26 January 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 98(i) and(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_179.xml">Colchester, William</persName>
+                <date when="1856-01-26">26 January 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Forest Hill | Sydenham</placeName>
+                    <date>26 January 1856</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your letter reached me here this morning on my way to Cheltenham[.] I am taking my eldest boy to school there so this note must be short but on my return I will write you again – The Red crag is of very uncertain thickness as you are aware –according to my observation it attains its greatest thickness about Alderton-Bawdsey &amp; Sutton where its average thickness is from 20 to 30 feet I should say while if you take the average thickness of the whole formation I should say ten feet would be a fair average—It is however difficult accurately to average so irregular a formation deposited evidently in the same way the shoals of sand are now deposited off the mouths of the Rivers &amp; bays of the East Coast—It extends in patches from Walton in the Naze in Essex to Aldeburg in Suffolk along the coast—just fringing the coast in patches &amp; extending from five to fifteen miles inland—Ipswich appears about its extreme limit inland[.] The current is not always in the same direction but as far as I have been able to judge is in general from the South East as I find that where the London Clay tilts up to the North West there the Coprolite lodges in greatest patches—I have no doubt that in particular spots the debris of the red crag has been carried inland much further than I have stated as at Stowmarket in boring some Crag was gone through in which a nodule of Coprolitic phosphate was found and on Rushmere heath in sinking a well I found at the bottom of the sand a deposit of Crag about three feet thick— I shall have the pleasure of seeing you at Ipswich on the 19 <hi rend="superscript">th</hi> prox <hi rend="superscript">o. </hi>at your lecture at Ipswich &amp; before then will send you my opinion of quantity raised annually which I think is somewhere about 10,000 to 12,000 Tons a year including Cambridge diggings. I am aware of the deposit D. <hi rend="superscript">r </hi>Fitton talks about but the nodules contain so much carbonate of Lime that it is not available for decomposing at least not while Cambridge and Suffolk Coprolite is to be had in such abundance[.] This is the case with the whole Coprolite deposit of the South East line of junction of the Gault &amp; Green sand— It is at this particular line of junction these nodules almost invariable occur—In the Isle of Wight there are millions of Tons but there as the Carbonate is 40 per Cent &amp; Phosphate only 25 to 40 per Cent it is quite useless for mercantile purposes at present—I suppose some way ought be hit upon to get rid of the Carbonate without decomposing it with Sulphuric Acid if not it can never be of any use for agricultural purposes -- -- You are aware that a large seam of Apatite has been found in Norway-- M. <hi rend="superscript">r</hi> Laws has just received about 2.000 Tons it yields 90 per cent phosphate &amp; is found in much the same state as that at Estramadara. My boy is just in to say the train is in sight so I leave this to be posted &amp; in haste</p>
+                  <p>remain | Yours very truly | W. Colchester</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

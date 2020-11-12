@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_633.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-633">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Scott Bowerbank   28 December 1851</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 6 &amp; 6(ii)</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_242.xml">Bowerbank, James Scott</persName>
+                <date when="1851-12-28">28 December 1851</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Discusses the methods for adulteration of alcoholic drinks, including porter, ales and spirits. States that adulteration is far less harmful than the public imagine.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>3 Highbury Grove</placeName>
+                    <date>28 December 1851</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Your notes have rather amused me as they shew by how easy a transition the sins of one casuistry got packed on the back of another. I have often smiled at the absurdity of the reports respecting the adulteration of Beer &amp; spirits &amp; you may rest assured that though adulterations they are much less injurious than the public imagine. I can assure you old Ginger Beer drinkers have a much more critical taste that you can imagine &amp; if a man were once to acquire a character for adulteration it would be his ruin. Ignorant men have often attempted adulterations with Oil of Vitriol Potass &amp;c but they have soon found out that they lost more than they gained by the use of such materials. Some peculiar Beers such as Scotch Ales &amp; Burton ales there is little doubt have narcotics in them but these are never drunk by the lower classes.</p>
+                  <p>The customary adulteration of Porter is Molasses and Water a small beer with a very minute portion of sulphate of iron to give a heading to it but this is most frequently omitted as old toppers at once taste the iron and a little burnt sugar as colouring to restore the lost colour.</p>
+                  <p>Ales are heated in a similar away substituting raw sugar for molasses. Even these are by no means general Narcotics, are not used by publicans as it is their interest that their customers should drink on but not get tipsey.</p>
+                  <p>The usual law publicans adulteration of Gin is water loaf sugar &amp; infusion in spirit of Lesser Cardamom, or other peppers, usually Bird-pepper to give pickler strength or warmth in the mouth without alteration of the flavor. Even from a Rectifier I will venture to say is never adulterated nor is Whiskey or Raw Spirit ever sophisticated. The only Ingredients used in its prescription being American Pot. Charcoal and under peculiar circumstances, a small portion of Chloride of Lime. These ingredients are put into the Still &amp; do not rise with the purified spirit.</p>
+                  <p>Formerly small portions of Sulphuric or Nitric Acid were used along with the Alkalies &amp; with what effect you may imagine[.] Of late years the Acids have been universally discarded[.]</p>
+                  <p>Now I believe I have made a “clean breast of it” and you will know almost as much as oneself have of its rascallities of course always excepting especial rogues &amp; fools. &amp; so you see a “Certain person” may not always be so black as he is painted.</p>
+                  <p>I remain | My Dear Sir | most truly yours | J. S. Bowerbank</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

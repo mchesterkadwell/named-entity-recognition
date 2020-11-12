@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_941.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-941">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Palmerston   8 June 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:181</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_265.xml">Palmerston, Lord</persName>
+                <date when="1826-06-08">8 June 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>         
+      </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Stan St.</placeName>
+                    <date>8 June 1826</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I send you two letters announcing particular days of arrival; Mr Wainwright did not mention the day on which he means to go, we will take charge of his conveyance, &amp; all he wants at Cambridge are rooms for himself &amp; Mr Heathcote.</p>
+                  <p>With respect to what you suggest as to the Atty Genl the matter is important but full of difficulty; I confess that in the peculiar position in which I stand I think I ought not without any full consideration to do anything which might be construed into a coalition with any other candidate. My support is composed of the most difficult and contradictory elements &amp; much of it is given to me because I am alone &amp; unconnected and we should take care that we should not lose by coalition as much as we gained by it. The most zealous &amp; active supporters I have next to my friends at St Johns, are the ultra Whigs. These people are all plumpers, and have respectively &amp; distinctly announced that under no circumstances will they vote for Copley whom they consider as an appostate from his Political Faith; anything like a coalition with Copley would at once damp the zeal of all these persons, and here we should lose. But on the other hand what should we gain. Copley is either stronger than Bankes &amp; therefore secure, or weaker that Bankes &amp; therefore afraid; if he is the latter, exchanges with Bankes will do him no good except for the purpose of throwing me out because they leave his strength as compared with Bankes the same; but exchanges with me would in that case lift him positively as compared with Bankes; If he stronger than Bankes &amp; therefore secure then a junction with Bankes would have no other object than to throw me out. But connected as both the Atty Genl &amp; I am with the Government &amp; standing as we do in the respective positions, I, of member long in possession, he of candidate disturbing the University I am convinced that Copley can have no wish to bring in Bankes in preference to me, and on the contrary I am certain that he must have every possible motive (his own safety provided for) to assist as far as maybe in his power and that consequently if his choice lay between changing a given number of votes with Bankes &amp; throwing me out, or changing an equal number with me &amp; bringing me in he <hi rend="underline">must</hi> prefer the latter alternative.</p>
+                  <p>The course which I have adopted from the first &amp; upon principle &amp; system has been to have no private communication or understanding whatever with any one of the candidates; I have thought it best to persue a straightforward &amp; direct course being convinced that in the long run that it always the best policy. I have not even used any endeavours with Goulburn to prevent his retiring being certain from my knowledge of his character &amp; feelings that he would go to the Poll, &amp; thinking it much better that his doing so should be the result of his own will &amp; not of any solicitation from me. Upon the same grounds I should be very unwilling to open any private communication with Copley upon the subject of our election. I confess that I feel much less alarm than some of my friends as to the danger from manoeuvres &amp; I think this is much magnified. We have by far the greatest number of diposable plumpers few of Bankes's plumpers would vote for me, but three or four we may obtain by exchange &amp; it would be wise to do so; Many of Copleys plumpers would not give second votes to Bankes, &amp; these we shall certainly have by individual exchanges</p>
+                  <p>My view is this that any plumper of ours who can get in exchange for his second vote the second vote of a real and bone fide plumper of another candidate, who will certainly attend, would do us a service, by <hi rend="underline">himself</hi> making such an exchange, either now or at the Poll as he may have an opportunity, and that it does not much signify which of the candidates such exchanges are made with, provided they are not the act of the Committee &amp; therefore subject to be construed into coalition; This is my opinion but I state it of course subject to the consideration of yourself &amp; my other friends at Cambridge. What I have said in the former part of this letter however I wish to be confined to yourself &amp; our Master.</p>
+                  <p>My dear Sir</p>
+                  <p>Yrs sincerely</p>
+                  <p>Palmerston</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

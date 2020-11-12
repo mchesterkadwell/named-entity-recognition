@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_237.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-237">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Whewell   28 August 1846</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell O.15.48: 37</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1846-08-28">28 August 1846</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh Suffolk</placeName>
+                    <date>28 August 1846</date>
+                    <salute>My dear Whewell,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>You must have been surprized at my long silence, but the enclosed envelope will explain to you that your letter of the 9 <hi rend="superscript">th</hi> has only reached me today– There being so many Hitchams, Bildestons or Bilstons, &amp; Hadleighs, any letters (without Suffolk appended) directed to me, perform a grand tour before they arrive– I had two last week from Bury (only 13 miles off) which had traveled to Hertfordshire– I am delighted to hear that M <hi rend="superscript">rs</hi> Whewell has profited by her seaside sojourn – &amp; you will be equally pleased (I doubt not) to find that our stay at Aldboro' had so far improved the health of M <hi rend="superscript">rs</hi> Henslow that, she went through to Brighton in one day, without any great fatigue– I left her there 3 weeks ago, &amp; we continue to hear good accounts from her– She is with El. Jenyns – &amp; Mary J. is also staying there– I expect she will remain about 3 weeks longer– I should very much have enjoyed a trip to Lowestoffe, but we are expecting very soon a visit from Miss Hooker, &amp; M <hi rend="superscript">r</hi> Coleman (the American Agriculturist) &amp; I fear this will keep me engaged till quite the end of Sep <hi rend="superscript">tr. </hi> The Girls have been very busy <hi rend="underline">clothing </hi> 
+                     <hi rend="underline">speckies</hi> last week for our little annual fête which came off without accident, beyond a few failures, &amp; the conflagration (from windy gusts) &amp; consequent non-ascent of a Balloon– The company not being aware that a Balloon was to ascend, mistook the conflagration for part of the fireworks, &amp; thought it produced a very pretty effect in lighting up the scene! You may rest assured that I shall be very ready to attend to your wishes about your History &amp; will think the matter over as to how I can assist you with suggestions– There has been a good deal done in some parts of Cryptogamic botany of late years by Berkely &amp; others. reducing whole genera of fungi to merely <hi rend="underline">conditional</hi> forms of development of particular species– &amp; also the general conditions of the ovule necessary to its fertilization has had light thrown upon it– I fear (indeed I know) that I am not so well qualified as I ought to be to speak authoratively on these matters – but I dare say with a little enquiry on some points of those who are more enlightened, I may be able to help. When I came to reside at Hitcham, I had fancied that I should have more opportunity than ever to devote my time to Botany – but I well remember a remark of Willis – "you will get entangled in other interests, &amp; become less able to pay attention to your Professorship" – &amp; so it has proved– It is now above 3 years &amp; a half since I have been absent from Hitcham on a Sunday – &amp; what with double duty to provide for – ordinary parish duty – justice business – &amp; now &amp; then the necessity of acting as <hi rend="underline">Chaperon</hi> to my daughters (M <hi rend="superscript">rs</hi> H. being ill) my time is pretty fully occupied– The girls kept me at a dance will 3 o'Cl. A. M. only 3 nights ago–</p>
+                  <p>Kind regards to M <hi rend="superscript">rs</hi> W. | Ever y <hi rend="superscript">rs</hi> truly | J S Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

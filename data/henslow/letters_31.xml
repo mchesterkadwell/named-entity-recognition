@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_31.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-31">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Whewell   9 June 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Trinity College Cambridge</repository>
+                    <idno>Whewell Add.Ms.a.206: 79a</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_23.xml">Whewell, William</persName>
+                <date when="1826-06-09">9 June 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Commercial Inn Camborne Cornwall</placeName>
+                    <date>9 June 1826</date>
+                    <salute>My dear Henslow,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I received your notification and should be exceedingly rejoiced to be able to come and add my voice to yours at the election, but in the circumstances in which I am placed I am in great hopes that the Committee will excuse my visiting Cambridge at present and that Lord Palmerston will be kind enough to believe the extreme mortification with which I deny myself the pleasure of giving him my vote.</p>
+                  <p>I hope his numbers will be such as to make the addition of my unit a matter of no consequence except to myself – and though I would not allow such a hope to stand in the way of my doing all I could in any common case, I think as matters are I may let it serve for a consolation– The fact is that it will depend entirely upon my staying here uninterruptedly where we are able to finish our experiment here or not. It has turned out to be attended with much difficulty &amp; unavoidable delay and will require every day that we can command from this time till July. After having come so far and gone through so much of the really hard labour which it demands, it will not I think be expected that I should ensure its failure by leaving off in the middle of it. So I shall trust to all of you believing, who are concerned about the election, that nothing short of such a necessity would keep me away at such a time.</p>
+                  <p>We are going on here pretty well but without being able yet to see what sort of result we shall arrive at, after swinging our two pendulums one above and one below ground we have changed their places &amp; are proceeding do the same over again. To day's observations if they are precise enough will decide something. I have the under-ground work to day and are just going to descend. For the next 12 hours or thereabouts I shall have 1200 feet of granite &amp; slay slate between me and the light of day, sitting in one cavern in the rock and looking through two telescopes in a wooden partition, into another cavern. When I have done this for some hours I shall have to climb up to the surface on which you live by about 60 vertical ladders. This must go on for some weeks before we can be certain of the quantities which we have to determine– You must conceive also that in all our ascents &amp; descents we have to carry 3 box &amp; 4 pocket chronometers and you will have some idea of our employments.</p>
+                  <p>I must set about my day's work immediately and have no time to add more. I wish most heartily success, and should be very glad to hear any account of the election or any other matters respecting Cambridge–</p>
+                  <p>Pray give my best remembrances to M <hi rend="superscript">rs</hi> Henslow and Miss Fanny–</p>
+                  <p>Remind Sedgwick of his promise to come here &amp; remember me to all friends | Ever truly yours | W Whewell</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

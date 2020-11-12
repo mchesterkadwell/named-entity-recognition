@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_46.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-46">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Jackson Hooker   14 April 1827</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 54</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_45.xml">Hooker, William Jackson</persName>
+                <date when="1827-04-14">14 April 1827</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Glasgow</placeName>
+                    <date>14 April 1827</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I am afraid I shall seem worse in your esteem &amp; now negligent of your wishes than I really am: – for, almost two months ago I made up for you a small packet of plants &amp; sent them to Edinburgh to be taken up by Mr Lucas of Yarmouth, a gentleman known to you &amp; who had been lately visiting his sister – here the Provost’s Lady. That parcel was somehow or other not taken up at Edinburgh &amp; has just been sent back to Glasgow &amp; was forwarded yesterday by a young friend Dr Scouler of London, where it will reach you by a Cambridge coach.</p>
+                  <p>I have sent you the regulations of our Garden &amp; a plan, but our Houses are now more numerous. I wish you could come to Scotland &amp; take lists from a perusal interminum of our Garden. I do not know that as to lecturing on Botany, I could give you any hints, as they should be much at your service. In such a Science, which requires to be recommended, I always find that a History of the Science gratifies the Students. This I intersperse with some account of the lives of the most eminent of Botanists &amp; anecdotes. Linnaeus alone affords a delightful subject for one whole introductory lecture. The introductory discourses being over I bring the students as rapidly as I can to the examination of specimens. I soon teach them the names of the essential parts of a flower so that we make out the genera &amp; species together by the Flora Scotica. I keep them at this for almost ½ an hour each day &amp; the other (the first half hour they can very well bear to be devoted to the terminology &amp; physiology of Botany.) For them I have purchased a little book of Botanical Illustrations: a set of lithographic plates; without which I feel that I could not get on at all. One copy suffices for every two or three Pupils &amp; they turn over the pages &amp; refer to the figures which I define to them &amp; often show also in their leisure etc themselves. These of course I supply them with in the Class: – but the book is also to be bought. It was published by Constable at 18.s each: but now in consequence of the failure of that house the Managers of the business have offered the whole 400 remaining copies at 6s each– Drawings of course are excellent: – but the labour of making them is prodigious &amp; few but those possessed of such a talent for Drawing &amp; such industry as Greville possesses could undertake the labour: – &amp; then these being only one of each subject they cannot be brought near the view of the student. I make 3–4 excursions into the country one for several days. These excite the interest of the Student exceedingly. Thus employed the 3 months passed rapidly away. Of course I do not admit to this Academical course Ladies:– but once, last year, I gave a particular Course at which there was a most respectable attendance, – for Glasgow: &amp; which did not in the least injure any other courses though partly carried on at the same time. Here I could have done nothing but for the Illustrations. Nothing could exceed the interest shown by that Class: – in short they come for the pleasure of the thing; the College Class because they must. My lectures are always at the Garden &amp; I labor to have no lack of specimens. – I enlarge too on the uses of Plants after their description whether medicinal or otherwise. – I wish you would ask your Welsh correspondent to send me Woodsia ilvensis &amp; hyperborea &amp; Anthericum serotinum &amp; I will endeavour to make him a similar return.</p>
+                  <p>Do you wish for Garden plants, living or dried? An excellent fellow, Bowie, who was long employed by the King, gave out at his own cost, with the view of selling his collection, £2.10 <hi rend="superscript">s</hi> a hundred for well dried specimens &amp; living plants in production. I have mentioned him in Brewster’s last Journal (only read 2000 miles for 200.) It goes off in two days &amp; his address is Kew Green, if you wish to employ him. Mespilus coton. will soon be figured in Fl. Lond.</p>
+                  <p>Yours ever most faithfully | W.J.Hooker</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

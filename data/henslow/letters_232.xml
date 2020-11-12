@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_232.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-232">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   15 November 1845</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 9537/2/8</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1845-11-15">15 November 1845</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_122.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2018-08-21" type="letter" status="released">File published</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Hitcham Hadleigh Suff.</placeName>
+                    <date>15 November 1845</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I shall be passing through London on my way back from St Albans on Saturday next, &amp; if you can send the Galapagos treasures to my address at 44 Queen Square Bloomsbury by Friday, I can pick them up – I would thank you to return those which belong to the Horticultural Soc <hi rend="superscript">y</hi> to Dr Lindley – I am right glad that you have completed the task – Neither my opportunities or knowledge would ever have allowed of my getting through it in a creditable manner, &amp; it could not have fallen into better hands– I am bound (on receiving the specimens) to glue them down immediately for our University Herbarium – but whenever a duplicate can be spared it shall be set aside for you. I have been so very busy the past week that I have not yet written to congratulate Arnott on his appointment to the Chair you have declined, but shall do so soon– The 2 appointments at Edinburgh being in different hands renders it liable to have a mess made of that post– If the Government had appointed you at once to the Garden, they would perhaps have done more wisely than leaving it to the Town Council to make their choice first – but having done so I conceive they have virtually waved their own right – At Cambridge the Government appoint to the Professorship – The trustees of the Bot. Garden to Walker’s Lectureship (no salary!) &amp; use of Garden – but no power over it– These are absurd arrangements, &amp; I heartily wish that all such matters were upon more just &amp; uniform principles– I am very sorry that you did not succeed at Edinburgh, but have learnt by experience to understand that disappointments are often our best Schoolmaster, &amp; that in the end we may find something in store, here or hereafter, which more than compensates for the transient annoyance they occasion– I heartily hope that something or other will turn up to your advantage, &amp; place you in a position where Science is able to reap the full benefit of your activity, zeal &amp; talents– With kindest regards to Sir W. &amp; Lady Hooker.</p>
+                  <p>Believe me | Ever truly Y <hi rend="superscript">rs</hi> | J. S. Henslow</p>
+                  <p>P. S. Pray thank Sir W. very much for his last kind letter– &amp; say I duly appreciate his friendship–</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

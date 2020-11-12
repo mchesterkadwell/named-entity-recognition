@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_786.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-786">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. H. Stapleton   13th January 1826</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8339:26</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_277.xml">Stapleton, J. H.</persName>
+                <date when="1826-01-13"> 13 January 1826</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <date>13<hi rend="superscript">th</hi> January 1826</date>
+                    <salute>My Dear Henslow</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>It is long now since I have had any communication with you, and I confess, that I have a illeg wondered that you have not honoured me with a few lines occasionally, considered that during your abode in the Isle of Mann, we used to see a good deal of each other.</p>
+                  <p>I now feel inclined to rout <hi rend="underline">you out</hi> having occasion to apply to you on an occasion of some importance. It is to ask you to give your vote for Lord Palmerston in the coming election at Cambridge if you have any vote to spare, and also if you can assist his lordship with your support in any way, I shall be very much obliged to you so to do, as he is a person I highly respect and esteem. I pray you inform me what is your exact situation at Cambridge at present, for I am not quite certain as to that circumstance. I hear that Derby is a missionary and at present at Calcutta, is that the case? And where is Inge? You I have been told are married. Is that so who is the fair lady who attracted you tell me I beseech you the whole circumstance relative to that count. Is Vick in being and as amiable as ever. My Illeg is I hope status quo, but I have been journeying about on account of my health, having been very ill since I had the pleasure of seeing you - and never well in the Isle of Mann so that I fear I shall be obliged to leave it - and am looking about for some house in this neighbourhood, because it is the only situation that seems to agree with my health. My complaints are dispeptic, but is now chiefly confined to the chest, throat and windpipe. I am obliged to be very careful about my diet and seem to get on tolerably well although I adhere strictly to that system at least when not in the Isle of Mann. I fancy that the sea air there does not agree with me. If you can send me a few seeds from the Botanical Garden at Cambridge, I pray you do, as they will afford me great amusement. The collection I have is very good considering but the Glasgow people are not very liberal about these sort of things, they do not like to give these without the expectation of some return which bye the bye, is much the way with all the illeg. There is a M<hi rend="superscript">rs</hi> Robert Murray in the Isle of Mann who has been left with a very large family of children, all unprovided for but they have all been given a very good education by their uncles and aunts. Two of them now want situations and if you could get one of them into a book [shop] or into the Library at Cambridge, you would do a great service to the family and indeed it would be a most charitable act. If you can think of anything pray mention it in your letter to me.</p>
+                  <p>I am your very sincere friend</p>
+                  <p>J. H. Stapleton</p>
+                  <p>I wish many happy returns of the season</p>
+                  <p>Netherton House near Worcester and then enclose your letter to my brother Lord Le Dispencer Mereworth Castle Tunbridge Kent.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_651.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-651">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Lord Belper   14 September 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 24</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_244.xml">Belper, Lord</persName>
+                <date when="1856-09-14">14 September 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Makes arrangements for a visit to see potential archaeological sites in Derby area discussed by Belper in previous letter: potential Roman remains on the banks of the River Derwent opposite Little Chester; a barrow in Tugford that looks to be unopened. Asks JSH to come early as barrow at Tugford is on a property up for auction and says preparations are being made for his arrival.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Kingston | Kegworth | Derby</placeName>
+                    <date>14 September 1856</date>
+                    <salute>My dear Sir,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I think it best to let you know that I have heard this morning from M <hi rend="superscript">r</hi> Bristow &amp; that I find that he could not come on the 29 <hi rend="superscript">th</hi>, as he has an engagement during that week. He also says that, as the property at Tugford is to be sold by auction on the 3 <hi rend="superscript">d</hi> of October, that week would of course be too late for the investigation of the Barrow. You will perhaps recollect that in your first letter you told me that you could come either in the week beginning in the 22d or in that beginning on the 29 <hi rend="superscript">th</hi>, &amp; that you asked me to say which <add>of the two</add> would suit me. I replied that either would suit me, but that I had written to M <hi rend="superscript">r</hi> Bristow to inquire as to his convenience. Having heard from him that the former week would suit him, I wrote to you to that effect; but I believe that my letter must have crossed yours on the road, in which you propose setting off “on Monday fortnight”, which would be the 29 <hi rend="superscript">th</hi>. I hope, knowing this, you will be able to come in the former week, as it seems that the investigation of the Barrow cannot be longer delayed. M <hi rend="superscript">r</hi> Bristow tells me that he intends to go now to Tugford in the course of this week to make the preparations which you suggest. I was much interested &amp; amused by your “Programme”.</p>
+                  <p>Believe me | yours very truly | Belper</p>
+                  <p>[P.S.] I believe I omitted to tell you that a coin &amp; some fragments of glass were found with the <del>Roman</del> Roman pottery &amp; also some fragments of base ornaments</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

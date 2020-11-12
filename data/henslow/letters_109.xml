@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_109.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-109">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. H. Vachell   26 January 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 185</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_27.xml">Vachell, G. H.</persName>
+                <date when="1830-01-26">26 January 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Macao</placeName>
+                    <date>26 January 1830</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Per H. C. S. “Bridgewater”</p>
+                  <p>I have much pleasure in forwarding to England in The Bridgewater a case containing various articles for the Museum of the Phil: Soc: a List of which I subjoin. I had determined to send it in another Vessel: but as Capt Manderson has promised me he will deposit it in a safe place, and as his ship will probably arrive in England 3 Months before the other I thought it better to send it away at once. In a letter I have just written to Leonard Jenyns upon the subject, &amp; which you will in all probability see; I have described more particularly the different Items. I have consigned it to my Agent in London Mr. H. Hebbert 187 Strand, with directions to apprize you of its arrival in Town. He will give you information respecting “clearing” it at The E. I. Company’s Baggage Warehouse, in the event of your being able to obtain a Treasury Order for that purpose: I am happy to say I have hitherto enjoyed excellent health, and have every reason to be pleased with my situation in China.</p>
+                  <p>We are enjoying lovely weather, although rather warm (for the season of the year.) Owing to the Stoppage of the Trade with the Chinese, by the E.I.C’s. Representatives in their Country, we have been spending our Autumn &amp; shall probably the whole of the Winter by the Sea Side, instead of at Canton, as is generally the case. None of the Company’s Ships have delivered their Cargoes from England or India in the Port of Canton: nor is any Vessel sailing under the British flag at present permitted by the “Select Committee” to enter the Port. The Ship that will convey this to England, is the only one of the Company’s Fleet [(] 22 ships) that is likely to proceed on its homeward bound Passage for some Months: Two are going up to the Yellow Sea, 2 remain to Blockade the “Bocca Tigris” – whilst Report fixes the destination of the remainder for a time at Manilla. I hope Mrs Henslow and your little family are all quite well, and it will afford me great pleasure to hear from yourself that such is the case; a Letter sent to our English Correspondent, Mr Horatio Hardy at the Jerusalem Coffee House London; is sure of being forwarded to me by the first Ship that leaves for this Country–</p>
+                  <p>With my very kind regards to your Circle,</p>
+                  <p>Believe me to remain | Yours very truly | George Harvey Vachell</p>
+                  <p>
+                     <hi rend="underline">Jan.</hi> 
+                     <hi rend="superscript"> 
+                        <hi rend="underline">y</hi> 
+                     </hi> 
+                     <hi rend="underline"> 27. </hi>I sent the Case to the Bridgewater yesterday &amp; got a Receipt for its having been received on board – which I have enclosed to Mr Hebbert 187 Strand, whom I have requested to write to you, when he ascertains its arrival in London.– I have also had it placed <del>on</del> in the Ship’s “<hi rend="underline">Manifest</hi>”.– G.H.V.–</p>
+                  <p>Inventory of Articles in a Case – addressed to Prof. <hi rend="superscript">r </hi>Henslow, Cambridge. Sent to England in the H.C.S. “Bridgewater” consigned to Mr Henry Hebbert – 187 Strand. London. by G.H.V.</p>
+                  <p>
+                     <hi rend="underline">Case marked – “Specimens of Natural History”</hi>
+                  </p>
+                  <p>13 Packages of Dried Flowers, Grasses, Sea-weed &amp;c &amp;c</p>
+                  <p>1 small box containing a Skull (of a Chinese murderer) beheaded at Canton 1829) – and 6 Edible “Birds Nests” in their rough[page torn]</p>
+                  <p>1 Paper of Jungle Grass (Macao.)</p>
+                  <p>7 Paintings of Lizards (taken from Life) upon Rice Paper</p>
+                  <p>Specimen of Cloth manufactured by the natives of [page torn] from the “Abaca” or Musa Textilis” (Plantain). [torn]</p>
+                  <p>2 Boxes of insects caught by G.H.V. at Macao, &amp; adjacent [page torn]</p>
+                  <p>10 Skins of Birds from d. <hi rend="superscript">o</hi> -- d. <hi rend="superscript">o</hi>
+                  </p>
+                  <p>1 D. <hi rend="superscript">o</hi> of Bat -- d. <hi rend="superscript">o</hi> – d. <hi rend="superscript">o</hi>
+                  </p>
+                  <p>1 D. <hi rend="superscript">o</hi> of a “Performing Shrew–</p>
+                  <p>4 Jars of Flower Seeds (For: The Cam: Mus: Phi: Soc:)</p>
+                  <p>(1 D. <hi rend="superscript">o</hi>. d. <hi rend="superscript">o</hi>.for Bottisham.)</p>
+                  <p>(1 Paper d. <hi rend="superscript">o</hi>. for D. <hi rend="superscript">o</hi>.)</p>
+                  <p>1 Jar of Tin Ore, from Lingin B. <hi rend="superscript">n</hi>(?) Malay Peninsula</p>
+                  <p>50 Geological Spec. <hi rend="superscript">s</hi> from Macao.</p>
+                  <p>2 Shells.</p>
+                  <p>1 Piece of Rice Paper Pith.</p>
+                  <p>8 “Chinchew Lichees” (Fruit.)</p>
+                  <p>
+                     <hi rend="underline">Memorandum.</hi>
+                  </p>
+                  <p>I am told that by presenting the Inventory at the Treasury, this Case may be obtained (without being opened) by a <hi rend="underline">Treasury Order</hi>: I have therefore been very precise in the details – that the Proper Authorities may be satisfied that the Package contains solely Spec. <hi rend="superscript">ns</hi> of Nat: Hist. <hi rend="superscript">y</hi> G.H.V.–</p>
+                  <p>Mr S. W. Henslow</p>
+                  <p>Harper (?) St</p>
+                  <p>No 8 Queen Sq</p>
+                  <p>This letter to be sent to Cambridge with the box &amp; <del>the exp</del> and account of the expences to be sent to M <hi rend="superscript">r </hi>H as above</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

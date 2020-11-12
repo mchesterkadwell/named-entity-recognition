@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_552.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-552">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Henry Christy   8 March 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8177: 90</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_225.xml">Christy, Henry</persName>
+                <date when="1860-03-08">8 March 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>103 Victoria St Westminster | SW</placeName>
+                    <date>8 March 1860</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>Thanks for your letter of yesterday &amp; doubly so as it holds out the prospect that you will pay me a visit. You ask my plans &amp; I will just say what they are.</p>
+                    <p>I am unfortunately under engagement for <hi rend="underline"> next</hi> week in the Country up to <del>Wednesday</del> Tuesday 13 <hi rend="superscript">th</hi> on which day I return to London &amp; shall be here till Thursday the 26 <hi rend="superscript">th</hi>. when I shall be away for a fortnight.</p>
+                    <p>My plan has been to leave London [London] on Saturday but if you will be able to come now I will make it <hi rend="underline">Monday</hi> in the hope that you may be able to come up tomorrow or Saturday. You are sure to find us here unless I get your letter on Saty morning that you cannot come in which case I shall leave on Saturday.</p>
+                    <p>I ought long since to have thanked your for your kind &amp; prompt reply to my letter from Paris which was in good season as I was detained by my party business much beyond the time I had expected.</p>
+                    <p>With the aid of your accurate description I had no difficulty in finding the place &amp; ?? that you were well remembered at the Cottage &amp; in the Pits especially so by the fille de Chambre at the Hotel di Rhin who was warm in your praise &amp; protested she gave me the same chamber looking into the garden which you occupied. She knew you were a learned man by your books and your history of Picardy, but you were higher in her estimation when I told her you had been received by the Queen of England to give instruction to her children in science, whereupon she was lost in admiration of your affability.</p>
+                    <p>My stay at the Pits was short, but I got some 15 celts chiefly very rude ones but comprising several types. They are undoubtedly of the very rudest kind but I greatly suspect some of them have not been finished, &amp; I it not unlikely from the unnatural quantity found in that one spot that the sudden rush which has moved the flints into the Pits has swept over the manufactory of the hatchet maker &amp; carried off his wares made &amp; unmade. Such spots beyond question have been found in Scandinavia and from what I saw in the Obsidian Pits in Mexico where the Aztecs made their celts I know the immense proportion of commenced &amp; unfinished or spoilt ones that occur in such places.</p>
+                   <p>There is no reason to conclude the San Acheul ones are weapons or that they are in the <hi rend="underline">order</hi> of battle.</p>
+                   <p>Viewed as industrial droppings their number is wholly inconsistent with the sparse population which attends so rude a civilisation &amp; consequent difficulty in having the means to live which these rudest of all man's works indicate.</p>
+                    <p>I was also intimate in my examination of the  ?? at the ?? pits on what evidence does their <hi rend="underline">Romanism</hi> rest. There must be much about them which is puzzling but I must leave details of them as well as of my visit to M. B de Perthes till we meet.</p>
+                    <p>Always my Dear sir</p>
+                  <p>Yours very truly | H. Christy</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

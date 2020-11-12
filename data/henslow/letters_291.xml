@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_291.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-291">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Leonard Jenyns   26 January 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Bath Royal Literary and Scientific Institution</repository>
+                    <collection>Jenyns Collection</collection>
+                    <idno>Letter 3029</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                <date when="1860-01-26">26 January 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5.xml">Jenyns, Leonard</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Kew</placeName>
+                    <date>26 January 1860</date>
+                    <salute>My dear Leonard,</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I have been an unconscionably long time in replying to your letter, but one thing and another has prevented me doing so till now. I am unexpectedly summoned at this unbotanical season to examine in Botany tomorrow.</p>
+                  <p>I suppose I must give them red snow. I met Broome at the Linnean last week and he has perhaps told you I asked him to let you know I had not quite finished Darwin but would write when I had. My views correspond with yours. The Book is a marvellous assemblage of facts and observations – and no doubt contains much legitimate inference, but it pushes <hi rend="underline">hypothesis </hi>(for it is not real <hi rend="underline">theory) </hi>too far. It reminds me of the age in Astronomy when much was explained by Epicycles, and for every fresh difficulty a fresh epicycle was invented. I have placed a D opposite to unexplained convictions without demonstrations, and I fancy when summed up these will amount to rather more than the usual allowance which goes to the adage "Exceptions prove the rule". The fact I believe to be, that Darwin attempts more than is granted to Man, just as people used to try to account for the origin of Evil – a question past our finding out. However his book is a wonderful book and will do good. This Celt question is another curious difficulty. I have now no doubt of their being found in undisturbed Drift – but I am inclined to believe the geological phenomena do not require such immense lapses of time as some would have us believe. I hope to visit the French localities in Spring.</p>
+                  <p>Fanny bids me add her kind regards to mine to your wife and self. | Ever affectionately yrs | J.S. Henslow</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

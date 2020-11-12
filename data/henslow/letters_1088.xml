@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-1088">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Martin 24 February 1850</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Henslow Correspondence Project</authority>
+                <publisher>Henslow Correspondence Project</publisher>
+                <pubPlace>Cambridge</pubPlace>
+                <availability status="restricted">
+                    <p>Available under license only</p>
+                </availability>
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence>This image may be used in accord with fair use and fair dealing
+                        provisions, including teaching and research. If you wish to reproduce it
+                        within publications or on the public web, please make a reproduction
+                        request.</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Bury St Edmunds Public Record Office</repository>
+                        <collection/>
+                        <idno>FL586/13/1: 35</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title copyOf="#main_title"/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+                    <date when="1850-02-24">24 February 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_368.xml">Martin, Thomas</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw
+                Jones</name>
+         </change>
+            <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael
+                    Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <div type="text">
+                    <opener>
+                        <placeName>Hitcham, Hadleigh, Suffolk</placeName>
+                        <date>24 February 1850</date>
+                        <salute>My dear Sir</salute>
+                    </opener>
+                    <div type="transcription">
+                        <p>I am much obliged to you for the paper you sent me – It will afford me
+                            some useful hints for extending my own plan of laying before the Parish
+                            our Club acs/- which I have been in the habit of doing for some years
+                            past every Easter – I forgot whether I ever sent you a copy before,
+                            &amp; so enclose the last for 1846, as I have not yet made out the ac/-
+                            for 1847 – I like the idea of publishing the Collections for Queen’s
+                            letters &amp; Sacrament fund – and to my own I can add the receipts of
+                            our Benefit Club, Medical Club, &amp; the money expended from our Town
+                            Land Charity. We are probably a very different style of parish
+                            from Oxley – mostly small farmers &amp; not one resident gentleman – a
+                            pretty general objection prevails to much schooling, &amp; a universal
+                            one to allotments – I am very fond of carrying on business by Tickets,
+                            &amp; send you three, which I think you have not seen before, which will
+                            explain themselves – This sort of interchange of plans may often be
+                            mutually instructive – I must look at the B.hp of Norwich’s Book named
+                            by you – I have engaged to give an opening address to the Ipswich Museum
+                            on the 6th &amp; have also a lecture in hand from our Hadleigh Farmers’
+                            Club on the Geographic distribution of Alimentary Plants, which are
+                            engaging all my spare time just now to get them ready –</p>
+                        <p>Believe me</p>
+                        <p>very truly &amp; faithfully yours</p>
+                        <p>J. S. Henslow</p>
+                        <p>P. S. one of the farmers yesterday sent a male Reed Bunting to know what
+                            it was – It was in winter plumage – &amp; another today brought me a
+                            large mass of Quartzvein attached to sandstone. – The registration of
+                            such events wd. certainly tell in illustration of the matters unusual in
+                            particular districts–</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

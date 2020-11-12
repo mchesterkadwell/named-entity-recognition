@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--OLD FILENAME:letters_106.xml-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-106">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Jackson Hooker   8 January 1830</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+
+        </publicationStmt>
+
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>Cambridge University Library</repository>
+                    <idno>MS Add. 8176: 132</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_45.xml">Hooker, William Jackson</persName>
+                <date when="1830-01-08">8 January 1830</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>Glasgow</placeName>
+                    <date>8 January 1830</date>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                     
+                  <p>I thank you much for your letter which I last received, your notes on Plants, your specimens,— &amp; above all for your kind attentions to my young friends Monteith &amp; Gordon. You have been a means of rendering their residence in Cambridge a very happy one.</p>
+                  <p>I am quite ashamed to send you as I do now, a miserably small packet of Mosses &amp; Jung <hi rend="superscript">ae</hi>. It is not that I have not many more that are entirely at your service, but such is the state of my duplicate herbarium &amp; such my incessant employment with my publications that I really have not the time to look them out, &amp; I feel myself indebted to you &amp; many other friends in very many specimens of plants. Hopefully I have a prospect ere very long of not being so barren a correspondent as I have hitherto been. Otto of Berlin was here lately &amp; I have adopted his advice of engaging a young man from Germany, who is to have the entire charge of the arrangement of my Herbarium; &amp; costly as this is to me, it is absolutely necessary to be done.</p>
+                  <p>It is my Cryptogamic collection that is in especially disorder; &amp; as soon as ever my young German arrives he will be engaged in putting it into a better state where you may rely on it I shall select for you many others of your desiderata, if I do not have the pleasure of seeing you here &amp; selecting them for yourself.</p>
+                  <p>I have made a good use of many of your specimens &amp; have copied many of your habitats; tho' in this latter particular the small size of my book does not allow me to be so exact as I could otherwise have wished.</p>
+                  <p>I do not see any striking differences between your Geran. pyrenaicum from the South &amp; that of the north. But perhaps in a living state they may be more apparent.</p>
+                  <p>Your Chara from Bottisham, <hi rend="underline">without</hi> fruit, I judge to be C. gracilis, a little slenderer than usual.</p>
+                  <p>Your Lotus decumbens is truly so of Smith, &amp; the Lotus tenuis of Waldsh. &amp; Vit as you will see in Suppl. to Engl. Bot.: t. 2615:— but I doubt if it be anything but a var of L. corniculatus.</p>
+                  <p>Your large Potamogeton from Bottisham fen I consider true P. natans, longer indeed than usual &amp; quite distinct from fluitans of Smith &amp; Fl. Lond. N. Ser.: now called <hi rend="underline">rupescens</hi>.</p>
+                  <p>The Pot. "<hi rend="underline">natans var</hi>" you send me from Wilson is my P. lanceolatus &amp; of Brit. Fl.– I have drawn up my character from his specimens.</p>
+                  <p>Your very hairy var. of Lotus corniculatus, is L. cornicul. γ of De Cand. Prodr. &amp; perhaps L. major β. Sm. in Engl. Fl. It is as good a right to be a species as L. tenuis &amp; L. major; &amp; no better.</p>
+                  <p>Your little Gymnostomum I should certainly call conicum. It quite agrees with my specimens &amp; my figure.</p>
+                  <p>Wilson of Warrington will make an admirable Botanist. He has been spending the Autumn &amp; winter in Ireland &amp; has found many good Cryptogamic plants. Amongst others he has refound the <hi rend="underline">most</hi> rare Daltonia splachnoides. At present I have only received a morsel from him which I share with you. I expect more soon.</p>
+                  <p>Your's ever, my dear Sir | most truly &amp; faithfully | W. J. Hooker</p>
+                  <p>P. S. Miss Haldane is now here &amp; desires me to say how grateful she is to you &amp; M <hi rend="superscript">rs.</hi> Henslow for your kind attention to her &amp; her German friend D <hi rend="superscript">r.</hi> Horn at Cambridge.</p> 
+                </div>
+            </div>
+
+        </div>
+        
+      </body>
+    </text>
+</TEI>

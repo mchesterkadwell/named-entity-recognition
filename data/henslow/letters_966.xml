@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HENSLOW-966">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John J Audubon April 28 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Henslow Correspondence Project</authority>
+            <publisher>Henslow Correspondence Project</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability status="restricted">
+                <p>Available under license only</p>
+            </availability>
+            <availability xml:id="displayImageRights" status="restricted">
+                <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+                <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please make a reproduction request.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">This metadata is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository>British Library</repository>
+                    <idno>Cup.510 1943</idno>
+                </msIdentifier>
+                <msContents>
+                    <msItem>
+                        <title copyOf="#main_title"/>
+                    </msItem>
+                </msContents>
+            </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_76.xml">Audubon, J. J.</persName>
+                <date when="1831-04-28">April 28 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends JSH copy of his <hi rend="italic">Ornithological Biographies</hi> and asks about sending copies to Cambridge for sale. Comments on the binding of <hi rend="italic">The Birds of America</hi>. Mentions forthcoming trip to America.</p>
+        </abstract>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-06-06">Converted to XML by <name xml:id="hjones">Huw Jones</name>
+         </change>
+        <change when="2016-05-17">Converted to TEI P5 by <name xml:id="mjhawkins">Michael Hawkins</name>
+         </change>
+        <change when="2020-08-10" type="letter" status="released">Transcription cleared for online release</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="letter">
+            <div type="text">
+                <opener>
+                    <placeName>77 Oxford Sreet London</placeName>
+                    <date>April 28 1831</date>
+                    <salute>My Dear Sir</salute>
+                </opener>
+                <div type="transcription">
+                    <p>I arrived here last evening and take pleasure in forwarding you a copy of my "Ornithological Biography" which I hope you will accept as a small token of my regard and esteem with many many thanks for all your kind attentions to me. When you have read a portion of the book I should be glad to know from  you if you think it would be well to send some copies to Cambridge for sale and as I know no Bookseller there to have the goodness to recommend me to an <hi rend="italic">honest one</hi>. </p> 
+                  <p>I leave this for Paris this day week and will be absent for about 1 month therefore should you have leisure pray answer to my query ere I depart.</p> 
+                  <p>It is my intention to go to America on the 1st day of August and therefore I again offer you my services in any manner which you may think fit to order - my absence will be about 12 months and I go purposely to give a last ransacking of the woods with a hope to find something new.</p> 
+                  <p>My Subscribers are now having my first volume of the "Birds of America" bound. I should be glad to hear that this will also be the case at Cambridge. The 20th Number compleates it with the Title-page which you have received. No 21 is the commencement of the 2 <hi rend="italic">d</hi> Volume which will finish the <hi rend="italic">Land Birds.</hi>
+                  </p> 
+                  <p>Please present my best regards to your Lady and Mr Jennings (sic) and believe me</p>
+                  <p>Very sincerely yours &amp; much obliged </p>
+                  <p>John J. Audubon</p>
+                    
+                    
+                  <p>From: Three Letters of John James Audubon to John Stephens Henslow. Printed in 1943 for members of the Roxburghe Club of San Francisco by the Grabhorn Press</p>
+                   
+                        
+                                   
+  
+                </div>
+            </div>
+        </div>
+      </body>
+    </text>
+</TEI>
