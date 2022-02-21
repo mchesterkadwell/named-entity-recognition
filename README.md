@@ -1,10 +1,14 @@
 # Introduction to Named Entity Recognition with Python
 
+[![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-378/)
+[![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mchesterkadwell/named-entity-recognition/main)
+[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fmchesterkadwell%2Fnamed-entity-recognition)
+
 ## Introduction
 
 This repository contains Jupyter notebooks used for teaching *'Text-mining with Python: Named Entity Recognition (NER)'*, 
-a course in the [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/) (CDH) Cultural Heritage Data School 2020. 
-This event was the first CDH Data School to be delivered completely online following the coronavirus pandemic.
+a course in the annual [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/) (CDH) Cultural Heritage Data School.
 
 The notebooks are designed to be worked on as self-paced materials in a 'flipped classroom' approach. They 
 are also written as stand-alone notebooks for anyone to follow and use as they wish.
@@ -13,6 +17,8 @@ The aim is to teach basic NER techniques to a wide audience, and the material su
 * Have some background in Python **or**
 * Just want to learn about the concepts without programming. 
  
+Please note that the notebooks are designed to be run as a teaching aid, not as a serious text analysis tool. 
+
 ### Contents
 
 Using the example of some nineteenth-century letters of science, these notebooks introduce how to:
@@ -53,40 +59,56 @@ The HCP letters were written during the period of British imperialism, therefore
 content we now find offensive, for example, `letters_138.xml` contains a racist description. These notebooks do not 
 contain or discuss any of this material, but please be aware you may come across it if you browse through the letters 
 independently.
- 
-## Code Details
-
-The notebooks should run on any of the following versions of Python:
-
-[![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-368/)
-[![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-378/)
-[![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
-
-They are designed to be run as a teaching aid, not as a serious text analysis tool.
 
 ## Quick Start: Launch Notebooks Online
 
+### For a Quick Look: Run on Binder
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mchesterkadwell/named-entity-recognition/main)
 
-The easiest way to run the Jupyter notebooks in this repository is to click on the "launch binder" button above. This 
-will open in the same tab. To open in a **new tab**, right-click the button and choose 'Open in a new tab' or similar, 
-depending on your browser. Binder will launch a virtual environment in your browser where you can open and run the 
-notebooks without installing anything. 
+If you just want to play quickly with the notebooks and see what they show, click on the "launch binder" button. 
+Binder will launch a virtual environment in your browser where you can open and run the notebooks without installing 
+anything. 
 
-Please note:
+Limitations of Binder:
 
 * Some cells in the notebooks may use more memory than Binder allows, causing the notebook's kernel to crash. After it 
 has restarted, try modifying the code to process fewer documents.
 * Binder may shut down after about 10 minutes of inactivity e.g. if you don't keep the window open. You can simply 
 open a new Binder to start again.
-* Binder will not save any changes you make to the notebooks. To save changes you need to download the notebooks and 
-run them on your own computer.
+* Binder will not save any changes you make to the notebooks.
+
+### Run in the Cloud without any Installation: Run on Deepnote
+
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fmchesterkadwell%2Fnamed-entity-recognition)
+
+To run and keep a copy of the notebooks for yourself, click on the "Launch in Deepnote" button. Deepnote will create 
+a project based on this repository automatically and run in the cloud, so you don't have to install anything on your 
+local computer.
+
+Limitations of Deepnote:
+
+* Deepnote requires you to sign up for an account.
+* Deepnote has a (generous) limit on the number of free hours you can use each month.
+* On the free tier, the notebooks will likely run slower than on your own computer. 
 
 ## Local Installation
 
 Please note these instructions are suitable if you already have Python installed in some way. If you have never 
 installed Python yourself on your computer before, I recommend this guide: 
 [Python 3 Installation & Setup Guide](https://realpython.com/installing-python/).
+
+### Important!
+
+The notebooks should run on any of the following versions of Python:
+
+[![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-378/)
+[![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
+
+The notebooks have _not_ yet been updated to run on Python 3.9 and above. If you try to run them on 
+Python 3.9 or above, you will get errors when you install the dependencies.
+
+### Download or Clone the Files
 
 Click the green "Code" button to the top-right of this page. 
 
@@ -217,7 +239,7 @@ Environments list.
 ![](assets/create.png)
 
 Type a name e.g. 'data-school-ner', make sure that 'Python' is _checked_ 
-and under the dropdown pick '3.7'. Make sure that 'R' is left _unchecked_. 
+and under the dropdown pick '3.7' or '3.8'. Make sure that 'R' is left _unchecked_. 
 
 Then click the ‘Create’ button. 
 
