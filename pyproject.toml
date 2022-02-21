@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "named-entity-recognition"
+version = "0.1.0"
+description = "Named Entity Recognition for CDH Cultural Heritage Data School 2022"
+authors = ["Mary Chester-Kadwell <mec31@cam.ac.uk>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+beautifulsoup4 = "^4.10.0"
+doccano-transformer = "^1.0.2"
+matplotlib = "^3.5.1"
+nbconvert = "^6.4.2"
+wptools = "^0.4.17"
+en-core-web-sm = {url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz#egg=en_core_web_sm"}
+spacy = "2.2.4"
+pymorphy2 = "^0.9.1"
+SPARQLWrapper = "^1.8.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
