@@ -1,4 +1,4 @@
 #This Dockerfile is intended only for use in Deepnote
 FROM deepnote/python:3.7
 
-RUN apt update && apt install -y libcurl4-openssl-dev libssl-dev python3-dev
+RUN apt update && apt install -y libcurl4-openssl-dev libssl-dev

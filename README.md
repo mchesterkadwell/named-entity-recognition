@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-378/)
 [![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mchesterkadwell/named-entity-recognition/main)
-[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fmchesterkadwell%2Fnamed-entity-recognition)
 
 ## Introduction
 
@@ -85,6 +84,20 @@ open a new Binder to start again.
 To run and keep a copy of the notebooks for yourself, click on the "Launch in Deepnote" button. Deepnote will create 
 a project based on this repository automatically and run in the cloud, so you don't have to install anything on your 
 local computer.
+
+After the project has started, go to the buttons on the left-hand side and click on the **Environment** button (1) to open
+the Environment tab. In the Environment tab, click (2) **new Docker image**.
+
+![](assets/deepnote-environment.png)
+
+A dialog will pop up: type in `camdl/deepnote:python3.7` and then click **Add environment and apply**.
+
+![](assets/deepnote-add-docker-environment.png)
+
+After a minute or two, Deepnote will start the new machine and run the install steps. Then the notebooks are ready to 
+use. Click on the Folder icon to open the list of notebooks.
+
+![](assets/deepnote-notebooks-and-files.png)
 
 Limitations of Deepnote:
 
