@@ -6,17 +6,17 @@ authors = ["Mary Chester-Kadwell <mec31@cam.ac.uk>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8,<3.11"
 jupyter = "^1.0.0"
-beautifulsoup4 = "^4.10.0"
+beautifulsoup4 = "^4.11.1"
 doccano-transformer = "^1.0.2"
-matplotlib = "^3.5.1"
-nbconvert = "^6.4.2"
+matplotlib = "^3.5.2"
+nbconvert = "^6.5.0"
 wptools = "^0.4.17"
-en-core-web-sm = {url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz#egg=en_core_web_sm"}
-spacy = "2.2.4"
+en-core-web-sm = {url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.3.0/en_core_web_sm-3.3.0.tar.gz#egg=en_core_web_sm"}
+spacy = "3.3.0"
 pymorphy2 = "^0.9.1"
-SPARQLWrapper = "^1.8.5"
+SPARQLWrapper = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
 
